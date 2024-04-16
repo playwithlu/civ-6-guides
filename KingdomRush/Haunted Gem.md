@@ -1,0 +1,4 @@
+# Haunted Gem
+
+Haunted Gems appear in the Elite Levels of the Cursed Bargain Mini-[Campaign](Campaign).
+They are similar in appearance to the [Blazing%20Gem](Blazing Gem) tower, and operate in a similar manner. They require a short charge period during which the gems on the floor around it will glow in a circle, before the main gem is lit up. An activated gem will target up to three enemies at once within its range and a total of 420 magic damage to them, before cutting out. It can be used to kill [Ghost](Ghosts), which could be hard to deal with early on with just your towers. Cooldown is 15 seconds. 

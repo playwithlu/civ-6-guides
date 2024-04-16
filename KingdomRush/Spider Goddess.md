@@ -1,0 +1,16 @@
+# Spider Goddess
+
+The Spider Goddess is the final boss in the main Campaign of , encountered in Stage 15, [Shrine%20of%20Elynie](Shrine of Elynie).
+## Overview
+
+"An abomination... That's what happens when you play with elven artifacts."
+The Spider Goddess is a horrific amalgamation of [Malicia](Malicia) and [Mactans](Mactans), created when both of them jump at the Tear of Elynie, causing it to become tainted and fusing them into one single being.
+Like Malicia in [The%20Unseelie%20Court](The Unseelie Court), the Spider Goddess has the ability to momentarily disable a set of towers and spells, as well as fire magic from her scepter. When about 25% of her HP is whittled away, she will destroy a closest tower (except the [Renegade%20Post](Renegade Post)), and then jump into a different path and resume attacking, repeating the process. Upon landing on a new path, she temporarily creates web around her, trapping all of the player's soldiers for a few seconds and spawns a group of [Spiderbrood](Spiderbrood)s, similar to [Mactans](Mactans)' ability. In addition, throughout the battle, spiders and Twilight Elves of all kinds will spawn from every path. Upon the Spider Goddess's defeat, they will instantly die.
+Strategy.
+Her medium magic resistance poses a great hindrance to your mage towers; even [High%20Elven%20Mage](High Elven Mage)s will hardly make a dent in her HP. [Arcane%20Archers](Arcane Archers) are a must in this final battle, as they can reduce her resistance to the point where she will have none. Place them towards the upper left region so that they have a fair chance to whittle all of her magic resistance away before she changes paths.
+The Spider Goddess's minions should not pose a threat at the earlier phases of this fight, considering the fifteen waves that one has already survived. The final phase, however, when the Spider Goddess is down to 25% HP, could easily and surprisingly overwhelm you. Hordes of [Spiderbrood](Spiderbrood)s and [Son%20of%20Mactans](Sons of Mactans) will rush all over the map, particularly towards the eastern exit, which is always where the Spider Goddess will go for with each change of path after losing her first quarter hp. It is best to save your [Thunderbolt](Thunderbolt) and [Hero%20Spell](Hero Spell) for that time, as it will help you quickly eliminate the spider hordes and focus all efforts towards defeating the Spider Goddess.
+Due to the Spider Goddess's [True%20Damage](True Damage) attack, most heroes cannot tank against her for long. However, her tendency to jump around the map as parts of her health is lost makes it difficult for them to keep her busy for long.
+In respective order, the Spider Goddess will start at the top left and go for the left exit, and with each quarter health gone, starts in the middle and go for the right exit, the right, and finally halfway-ish on the middle path again and will stay on that path until she is killed or passes the end. So, it is best to always have Arcane Archers in the top left and heavy firepower in the middle.
+Furthermore, despite it being ultimately random which tower she destroys, it will always be among the few closest to her and never the Renegade Outpost.
+Related [Achievements](Achievements).
+ WE ARE THE CHAMPIONS Defeat the Spider Goddess!

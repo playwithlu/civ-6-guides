@@ -1,0 +1,10 @@
+# Gnoll Warleader
+
+Gnoll Warleaders are large-sized Gnolls, slightly bigger than a [Gnoll%20Gnawer](Gnoll Gnawer), carrying two massive weapons that look similar to the [Hobgoblin%20Chief](Hobgoblin Chief's) swords with which they whirlwind attack. They serve as minibosses in the [Valor%27s%20Rest](Valor's Rest) [Endless%20Challenge](endless) stage in .
+## Overview
+
+"These formidable warriors are seen decimating armies single-handedly!"
+A single Gnoll Warleader spawns every 10 waves in Valor's Rest. They are functionally similar to giant enemies, being big, slow, tough and possessing an area attack, but their stats are much higher, on par with bosses. In addition, they share all immunities with bosses, and take away 20 lives if leaked. They perform [Barbarian%20Mead%20Hall%23Whirlwind%20Attack](Whirlwind) attacks in every hit dealing damage in an area around him like Barbarians &amp; [Spear%20Maiden%20Hut](Spear Maiden).
+By wave 60, the Gnoll Warleader's stats will have surpassed those of the [Spider%20Goddess](Spider Goddess), making it the strongest enemy in the game from that point on.
+Strategy.
+Use strong melee heroes, like [Bravebark](Bravebark), [Xin](Xin), [Prince%20Denas](Prince Denas), [Reg%27son](Reg'son), [Eridan](Eridan), [Bruce](Bruce), and [Lynn](Lynn) to slow them down while towers dish the damage. Do not use Defenders to block them, instead, use the soldiers to slow down following Gnolls. Thunderbolt or a strong hero spell could injure it. When using Prince Denas, he could stall the Base Warleader for a while. Celebrity could hold back the enemies behind it while the towers focus on the Warleader. Kingsguard is best to be used on enemies that managed to leak through. Reg'son's Vindicator spell at max could seriously wound a Gnoll Warleader, saving a lot of stress.

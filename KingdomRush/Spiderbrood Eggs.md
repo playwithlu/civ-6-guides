@@ -1,0 +1,3 @@
+# Spiderbrood Eggs
+
+Spiderbrood Eggs appear in [Mactans%27%20Retreat](Mactans' Retreat) and [Shrine%20of%20Elynie](Shrine of Elynie). They spawn [Spiderbrood](Spiderbrood) at different times in certain waves and, like most enemy-spawning terrain features, will spawn faster if the waves are called before they are timed to start. In [Shrine%20of%20Elynie](Shrine of Elynie), the eggs are created when [Mactans](Mactans) descends on the field and covers the path in webbing. More [Spiderbrood](Spiderbrood) are spawned depending on how much time [Mactans](Mactans) is given to perform her task, and she will always spawn some even when tapped immediately.

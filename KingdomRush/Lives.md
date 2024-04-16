@@ -1,0 +1,3 @@
+# Lives
+
+Lives or a Life (singular), is the main factor used by the game to determine how well the player has beaten the level. Located in the top corner of the screen next to the [Gold](Gold) counter, the player starts a standard [Campaign](Campaign) level with 20 lives. [Iron%20Challenge](Iron Challenge) and [Heroic%20Challenge](Heroic Challenge) modes give the layer only 1 single life, whilst the [Endless%20Challenge](Endless Challenge) gives the player 10 lives.

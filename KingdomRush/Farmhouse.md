@@ -1,0 +1,5 @@
+# Farmhouse
+
+The Farmhouse is a piece of scenery which appears in [Otil%20Farmlands](Otil Farmlands). It spawns [Farmer](Farmer)s on particular waves.
+Description.
+The main Farmhouse appears along with three smaller outhouses in Otil. They connect to the main path, but units cannot be placed on the pathways between the buildings and the route. The Farmhouses spawn [Farmer](Farmer)s, their arrival signaled by the crowing of a cockerel in the largest barn. The Farmers that spawn are randomized between four different skins ("Old Man, Hood, Bucket and Beard") the only difference between them being the "Old Man" has less attack than the others. There is a fifth Farmer ("Brute"), which is more of a brutish enemy, with higher stats than the others. This farmer is not randomized, and one will always spawn during particular waves.

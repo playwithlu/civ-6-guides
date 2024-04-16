@@ -1,0 +1,11 @@
+# Paragon
+
+The three Paragons collectively serve as the final bosses and heroic secondary antagonists of the main [campaign](campaign) of . Unlike typical bosses, the Paragon is not a single enemy, but three enemies that emerge from [Denas%27s%20Castle](Denas's Castle) successively to battle the [Archdemon](Archdemon) sent by [Vez%27nan](Vez'nan). They are one of only two enemies in the series to have both [Armor%20and%20Magic%20resistance](armor and magic resistance), the other being [Son%20of%20Sarelgaz](Sons of Sarelgaz).
+Description.
+Formerly weak soldiers given a super-strength potion by King Denas. Their armor resists most types of damage and their massive hammers can knock back the largest of targets.
+## Overview
+
+After the last enemy has fallen in the final wave, Vez'nan will summon an 'old friend', an [Archdemon](Archdemon) that moves slowly towards the castle. A progress bar will appear at the top of the screen showing how close the demon is to the castle. [King%20Denas](King Denas) will counter with his own surprise. A [Paladin](tiny knight) emerges from the castle, and drinks a potion, transforming himself into the Paragon, a mighty knight big enough to take on the Archdemon.
+The Paragons may have the second-lowest HP of all bosses in the series (tied with [Myconid](Myconid) and beaten only by the [The%20Winter%20Queen](Winter Queen)) and move much more slowly, however they sport "both "Armor and Magic Resistance like the [Son%20of%20Sarelgaz](Sons of Sarelgaz). 
+The Archdemon and the Paragon will slowly march towards each other, while enemies spawn continuously from all points. Towers and Heroes will target the Paragon, but will only do light damage. When the Paragon and the Archdemon meet, they will engage in melee combat. At this point, the Paragon will use a special attack that not only deals 1000 physical damage but knocks the Archdemon back and stuns it for 0.8 second (cooldown: 10 seconds). When the Paragon is channelling this attack, it can be interrupted by the Archdemon's slam, putting it on cooldown. 
+Paragon's basic attacks deal area damage (damage area: 120).

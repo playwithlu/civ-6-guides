@@ -1,0 +1,28 @@
+# Lord Blackburn
+
+Lord Blackburn is the of the Curse of Castle Blackburn mini-[campaign](campaign) in the Steam, iOS, and Android versions of [Kingdom%20Rush](Kingdom Rush). He is the second most heavily armored boss in the series (after one of the [Ancient%20Ghost](Ancient Ghosts), who has physical damage immunity).
+Lore.
+BE CAREFUL OF WHAT YOU WISH FOR..
+There was nothing special about that particular day. It was a sunny afternoon, just like many others before it and also like many others that would come after that one.
+Yet, despite how ordinary that day seemed to be, that was the day when everything changed.
+[Lord%20Blackburn](Lord Blackburn) gazed out of the window and looked at his statue. He was certainly not prone to pride and that statue had been a tribute his beloved citizens have built for him. He was respected and loved, and he loved them back and felt responsible for their well being and happiness.
+With a heavy sigh, he moved to his meeting chamber and started the daily meeting with the villagers. The evil forces were getting stronger, but that was not fresh news.
+For as long as he could remember, he had fought evil. There was a time when he was certain he could banish it from the realm and he had made every possible effort to see that happening. But he was an older man now, worn and sullen from years of conflict. He was getting tired since no matter how bravely he fought or how many men he lost, evil would rise again with a new face. He knew now, in his heart, his beloved citizens would never be free from it.
+This knowledge was the cause he was barely eating and sleep became a luxury tainted by nightmares. Someday, he would die, leaving his lands and his people unguarded. Who would stand strong against the darkness? Who would ensure peace and happiness for the citizens? If he died, his duty and promise to them would remain unfulfilled forever. The great Lord Blackburn, in all his strength, would die a failure. He couldn’t allow that to happen.  
+On that day, word of a terrible attack on the southern border reached his ears. The crops had been ravaged, and hundreds of villagers had been slain. The sight of it was haunting. The houses burned, and the soil ran red with the blood of innocents. He had failed to protect them. No more, he decided. It was at that precise moment that he took a decision that would change not only his fate and also the ones that trusted him the most.
+Since the beginning of time, a coven of white witches had lived on what was now lord Blackburn's lands. They had always lived peacefully providing help and medical aid to the villagers. The covenant was directed by two twin sisters, who had sworn an oath to serve and protect the Lord and his family.
+They were not surprised when Lord Blackburn requested them to come to the castle to meet with him, as this had happened more and more often due to the continuous increase of the attacks.
+What caught them by surprise was his unusual request. Lord Blackburn had gone through the ancient library and found references on a scroll of rotten parchment about a special kind of magic that he thought could shield his lands and inhabitants from the impending doom the evil forces represented and wanted the coven to perform those rituals.
+The witches tried to explain to him that that kind of magic always came with a steep price and that he was asking them to meddle with forces beyond his control, but their warning fell into deaf ears. There was nothing he would not sacrifice to ensure the safety of his people, and he gave them the order to proceed.
+This desperate act would have dire consequences. The ritual’s magic spread unchecked across his domain. It was true it ensured the protection against the evils that had been restlessly attacking, but it did so by lending the lands so uninhabitable that nothing, not even the demons of [Pandaemonium](Pandemonium) itself, could live there.
+As for the villagers, they were drained of all life, reduced to mindless vessels, void of suffering, pain… and happiness.
+The White Witches were twisted into wicked creatures who thrived on the power of black magic. Strengthened by the energy of the ritual and their new abilities, any who dared step foot in Blackburn’s territory would meet a grim fate.
+But it was Lord Blackburn himself whose fall was most tragic. His own choice corrupted his soul and caused his body to fade into mist. Banished from death and bound to his sworn duty, he was given a new form to carry out his eternal charge in a shell of cold steel. He was now tireless, undying, and would stand to protect his domain. Forever.
+To this day, the White Witches turned [Black%20Hag](Black Hags) fly the skies north of Valardul, terrorizing anyone that crosses their path to fulfill the oath made to their Lord.
+## Overview
+
+"Once a great noble knight, his yearn for the power to battle evil corrupted him and his lands."
+In addition to having more armor than any other boss in the franchise, Lord Blackburn has a range of powerful skills to breach your defenses. Most notably, he can disable nearby towers and units for 4 seconds and stun heroes for 2 seconds by slamming his axe on the ground. He can also hack through multiple troops at once by swinging his axe, although this attack is rather weak compared to those of other bosses. His tower disabling ability is the most powerful in the series; it affects any tower in about 3-holder-long radius from him, covering up to 8 towers.
+On Steam and Android, [Skeleton%20Knight](Skeleton Knights) rise from soldiers or [Sorcerer%20Mage](Earth Elementals) that are killed near the boss. 
+Related [Achievements](Achievements).
+ GAME OF CROWNS Defeat Lord Blackburn and preserve peace between realms!
