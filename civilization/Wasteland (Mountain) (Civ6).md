@@ -1,0 +1,2 @@
+# Wasteland (Mountain) (Civ6)
+

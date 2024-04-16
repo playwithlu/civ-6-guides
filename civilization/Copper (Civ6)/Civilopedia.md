@@ -1,0 +1,3 @@
+# Copper (Civ6)/Civilopedia
+
+Ductile with a high heat and electrical conductivity, copper has been used by men for thousands of years, since at least 8000 BC (giving name to the so-called Copper Age). But mostly it was used in alloys, such as bronze, brass, and cupronickel, all of which are a lot more durable and stronger, and hence good for things like armor and swords. Copper itself has some useful properties, not the least the fact humans need trace amounts in their diet to avoid some unpleasant debilitating conditions.

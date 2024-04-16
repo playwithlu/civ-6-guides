@@ -1,0 +1,3 @@
+# Reggae Rock (Civ6)/Civilopedia
+
+It is necessary to differentiate Reggae Rock from Surf Rock because the former possesses a highly complex syncopated underlying rhythm, while addressing many of the same themes, with the possible exception of pointlessly driving cars. There are other references within reggae which praise the relationship between human beings and plant life, suggesting a mutually positive relationship between the two, and the palliative properties of vegetation.

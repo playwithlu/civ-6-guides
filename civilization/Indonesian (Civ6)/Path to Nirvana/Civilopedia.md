@@ -1,0 +1,5 @@
+# Indonesian (Civ6)/Path to Nirvana/Civilopedia
+
+Raden Wijaya, the first king of the Majapahit, would fuse Buddhism and Hinduism into the state religion at the tail-end of the Thirteenth Century, with gods coexisting side-by-side—with Buddhism being subordinate to Hinduism.
+Still, the Buddhist and Hindu adherents had their own strictly-defined communities, and Majapahit law forbade evangelism and conversion. Meanwhile, in the far-flung mountains and villages, practitioners of ancient, indigenous faiths were allowed to conduct their rituals without interruption (without being seen as threats to the state religion). In this way, the king avoided any pesky conflicts with local rulers who might have been anxious about their new leaders looking to replace their gods.
+This dualism allowed a smooth transition from the Buddhist Singasari reign while also allowing the Majapahit to use their own Hindu rituals to consecrate the king's rule.

@@ -1,0 +1,3 @@
+# Colonial Taxes (Civ6)/Civilopedia
+
+Mercantilism held that great powers needed colonies to serve as a “cash cow” to maintain a healthy home economy; what better way to squeeze cash out than through taxes on all and sundry, taxes that their citizens at home often didn’t have to pay. Whereas most of the colonial powers – Portugal, Spain, France (to a small extent) and others – levied taxes overseas, it was the British who faced the wrath of their ungrateful colonists over the practice. The Sugar Act, the Stamp Act, the Townshend Revenue Act, and finally the Tea Act contributed to the subsequent revolution … so perhaps colonial taxes weren’t the best policy after all.

@@ -1,0 +1,4 @@
+# Progenitor Ruin (CivBE)
+
+Progenitor Ruins appear to function similarly to the ruins in Civ V. They even use the same graphic as the Civ V version (presumably a placeholder) in some of the early screenshots. Exploring these ruins may unlock quests, and are one possible key to the [Victory%20%28CivBE%29](Contact victory) condition. You can use an Explorer unit to build an [Expedition%20%28CivBE%29](Expedition) on top of the Ruins, in a similar manner to Archaeology in Civilization V. This expedition site is similar to the [Progenitor%20Device%20%28CivBE%29](Progenitor Device) expedition site.
+Progenitor ruins are the remains of structures left behind by a nigh-mythical alien race. Once an expedition is completed on a tile containing this, the player will receive either an [Affinities%20%28CivBE%29](Affinity level) increase or progress towards an advanced technology.

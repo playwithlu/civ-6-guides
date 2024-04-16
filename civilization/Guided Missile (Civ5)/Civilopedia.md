@@ -1,0 +1,3 @@
+# Guided Missile (Civ5)/Civilopedia
+
+There are a number of advanced guided missile tracking technologies available to the modern missile designer. Some missiles are automatic, homing in on their targets using radar or heat-seeking technology. Some missiles can "see" a laser which "illuminates" the enemy. Others are directed by a human hand, connected to the missile by radio or even wire. Naturally, as weapons have gotten "smarter" they've also gotten more expensive, with a single guided missile potentially costing tens of thousands of dollars, or even more. An army that uses such weapons with careless abandon may find itself short of funds for other important things - food, for example.

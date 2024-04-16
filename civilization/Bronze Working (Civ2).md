@@ -1,0 +1,6 @@
+# Bronze Working (Civ2)
+
+ Bronze Working in "[Civilization%20II](Civilization II)" allows the building of the [phalanx%20%28Civ2%29](Phalanx) unit, the cheapest unit to have a [defensive%20strength](defensive strength) of 2.
+It is a prerequisite of [Iron%20Working%20%28Civ2%29](Iron Working) and [currency%20%28Civ2%29](Currency).
+Civilopedia entry.
+Evidence of the use of bronze, an alloy of copper and tin, dates back to Thailand in 4500 BC. Several hundred years later, bronze working was discovered in the Middle East. Artifacts from this period show that bronze was initially used for decorative purposed only. This is because tin was not readily available. It wasn't until approximately 2000 BC, when tin was regularly imported from neighboring regions, that bronze replaced copper in the construction of larger items. Bronze was harder and less brittle than copper, and it held a sharper edge. Tools, weapons, and armor made from bronze were also cheaper to produce and more durable. The period of time when bronze was the metal of choice for such items was known as the Bronze Age. The Bronze Age lasted until iron working became prevalent in approximately 1200 BC.

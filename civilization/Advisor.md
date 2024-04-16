@@ -1,0 +1,3 @@
+# Advisor
+
+An advisor is an in-game entity that provides players with advice and strategy suggestions to aid their performance in a "[Civilization%20%28series%29](Civilization)" game. Most games feature multiple advisors that focus on specific sectors of the [Civilizations](civilization) and supply relevant information to help in its management. They are typically listed either in a menu or as icons on the main game screen.

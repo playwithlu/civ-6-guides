@@ -1,0 +1,4 @@
+# Nuclear weapons (Civ4)
+
+Nuclear weapons, or nukes for short, are the most horrific weapons in the game. There are two types of nukes: [ICBM%20%28Civ4%29](ICBMs) (inter-continental ballistic missiles) and [Tactical%20Nuke%20%28Civ4%29](Tactical Nukes), the latter of which were introduced in "".
+Using a nuke will destroy or damage [List%20of%20units%20in%20Civ4](units) in the tile the nuke hits and in the eight adjacent [Tile%20%28Civ4%29](tiles). As a result of detonating a nuclear weapon there will also be radioactive [Fallout%20%28Civ4%29](fallout) in the targeted area. The [AI](AI) players will also get a negative attitude modifier against you if you use nukes.

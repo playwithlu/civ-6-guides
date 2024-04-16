@@ -1,0 +1,11 @@
+# International Games (Civ5)
+
+Introduction.
+The International Games is an [International%20Project%20%28Civ5%29](International Project) in "[Brave%20New%20World](Brave New World)", and as such may only be initiated by the respective [Resolutions%20%28Civ5%29](Resolution) in the [World%20Congress%20%28Civ5%29](World Congress). It consists in organizing and conducting a worldwide sporting event, similar to the Olympic Games in real life. In order for this Project to be possible, at least one nation needs to discover the [Radio%20%28Civ5%29](Radio) technology first. Once initiated, every nation can contribute to organizing the Games by using their production facilities and contributing PPs in each city they choose.
+Game Info.
+International Project. Contributors receive rewards as follows:
+The minimum requirement for each reward assumes the game is being played in standard settings (Standard map with 8 civilizations and Standard game speed).
+Strategy.
+The International Games is the second Project which becomes available through the World Congress, and it is of great importance to nations striving towards a [Cultural%20victory%20%28Civ5%29](cultural victory). A double output will go a long way towards imposing one's cultural influence over the other nations; also, the additional  Happiness and City-State Influence is very nice.
+If you're NOT going for this type of victory, and don't manage to block it from passing, you still might want to attempt to win the First Place (Gold) reward, simply to frustrate your opponents' intentions. Not only may the social policy also be of use to you, but the tourism can prevent you from suffering an increase in dissidents from ideological differences.
+You can get the current world completion status by holding your mouse over the current build of a city working on the International Games. It is updated as each civilization has its turn, which can give you an idea of who is contributing and how much. That includes you; by looking at the percentage before your next turn starts and after, you can see how much of the total percentage you are contributing to the completion.

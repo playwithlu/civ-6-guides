@@ -1,0 +1,3 @@
+# Queen's Bibliotheque (Civ6)/Civilopedia
+
+"Bibliotheque" is the French word for a library, and as French was the vernacular language of culture from the Middle Ages through the Industrial Revolution, it is used here to reflect that history. The “Queen” in this case is in honor of Kristina of Sweden, who was a lavish patron of the arts and literature. Eleanor of Aquitaine was another notable patron of arts, especially the burgeoning troubadour tradition. Many other queens effectively used the soft power of her cultural patronage as tools of statecraft, sometimes gaining more than the king could on the battlefield.

@@ -1,0 +1,3 @@
+# Bjarni Herjolfsson (Civ6)/Civilopedia
+
+Some believe that it was Bjarni Herjolfsson who should get the fame for “discovering” North America, not Leif Erikson. A merchant captain born in Iceland, and a dutiful son, each summer Herjolfsson would sail from Norway to visit his father. Finding that his father had sailed off with Erik the Red for Greenland, Bjarni set out to find him, but instead – blown off course – found an uninhabited coast covered with trees and hills. Although his crew wanted to explore, the captain refused and instead sailed to Greenland. This in 986 AD. In Greenland, his tales of a rich land to the west caught the ear of Leif, who decided to retrace Bjarni’s journey.

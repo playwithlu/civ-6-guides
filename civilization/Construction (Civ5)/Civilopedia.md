@@ -1,0 +1,4 @@
+# Construction (Civ5)/Civilopedia
+
+Construction represents the advancement of the study of masonry, primarily by adding iron and other metals to the builder's toolbox. Although remarkably durable, stone and brick are also quite heavy and inflexible. It's impossible to construct very tall structures out of these materials - unless the structure in question is solid stone or brick and is pyramid-shaped - otherwise they will collapse under their own weight or in the face of a strong wind.
+Metal structures, on the other hand, or masonry reinforced with metal - can be quite tall and beautiful, and structurally sound. Using metal one can create soaring bridges, deep tunnels, great skyscrapers and elevated roadways. Without construction none of the world's great cities could exist, nor could its most beautiful architecture.

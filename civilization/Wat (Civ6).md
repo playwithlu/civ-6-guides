@@ -1,0 +1,5 @@
+# Wat (Civ6)
+
+The Wat is an advanced [Religion%20%28Civ6%29](religious) [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the and requires a (or one of its replacements). It may also be purchased with .
+Strategy.
+The Wat allows the Holy Site to boost your [Civilizations%20%28Civ6%29](civilization's) scientific research - something quite strange for a worship building. It may prove very useful in all situations, though, especially if you don't have any other particular strategy regarding worship buildings, and if you're not pursuing a [Victory%20%28Civ6%29%23Religion](Religious Victory). [Arabian%20%28Civ6%29](Arabia) will want to take this building if they can, because they are strong both religiously and scientifically. You may also want to take it for some extra output if you plan to focus on maximizing other yields.

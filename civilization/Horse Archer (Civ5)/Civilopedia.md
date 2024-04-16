@@ -1,0 +1,3 @@
+# Horse Archer (Civ5)/Civilopedia
+
+The fearsome cavalry of the Huns, renowned for both their skill in archery, and their mastery of horsemanship, were the scourge of Europe during the Hunnic conquests of the 4th and 5th centuries AD. Utilizing powerful composite bows, the mounted archers of the Huns honed their skills while hunting on the Central Asian Steppe, and they had no trouble carrying over these skills into warfare. It is widely believed that the Huns' use of mounted archers greatly influenced the future military considerations of both European and Asian kingdoms, as a greater emphasis on cavalry units arose following their incursions.

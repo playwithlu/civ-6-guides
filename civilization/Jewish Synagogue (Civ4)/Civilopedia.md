@@ -1,0 +1,5 @@
+# Jewish Synagogue (Civ4)/Civilopedia
+
+In "Civilization IV", a cathedral is defined as an especially large and ornate religious building where the faithful worship. Only the most prosperous cities can afford to create cathedrals, as they require huge amounts of raw material and years of dedicated labor by skilled craftsmen. For example, the Notre Dame Cathedral in Paris, France, took over two centuries to complete.
+Traditionally, the term "synagogue" is used to describe all Jewish houses of worship. For purposes of game clarity, "Civilization IV" uses the term to describe only the larger and more imposing structures; smaller religious structures are called "Jewish temples."
+A Jewish synagogue is a place both of worship and of study. Worship and prayer take place in the main room. The prayer may be led by a "rabbi" (teacher), but it is not necessary, and many synagogues do not have a rabbi in attendance. Many of the most beautiful synagogues in the world are found in Eastern Europe. Unfortunately, many of the local worshipers were killed during the Holocaust, and most survivors fled to Israel, leaving these holy buildings sadly unattended.

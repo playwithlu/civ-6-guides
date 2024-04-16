@@ -1,0 +1,5 @@
+# Robotics (Civ2)
+
+ Robotics is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The creation of machines to assist in, and increase the efficiency of, the manufacturing process gave birth to the factory system of production and started the Industrial Revolution. The invention of digital computers in the late 1940's, and their refinement over the next several decades, took factory automation one step further. Computer-controlled machines, called robots, were designed to perform repetitive or dangerous tasks more quickly than humans. Experimental robots capable of simple manipulation of objects were in operation by the late 1960's. The first robots used on an assembly line were commissioned by General Motors in the 1970's. Constant improvements in the computer field have allowed the production of incredibly versatile robots, capable of performing a wide variety of tasks under virtually any environmental condition. Robots today are widely used in manufacturing, scientific research, and space exploration.

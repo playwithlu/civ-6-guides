@@ -1,0 +1,3 @@
+# Airship (Civ4)/Civilopedia
+
+A large balloon of lighter-than-air gas, usually hydrogen, held within a rigid frame, the Airship became the first controllable method of manned flight. Seeing the military applications of the Airship's long flight distance and impressive speeds (the finest Airships could sustain 40 mph), Germany, France and the United States each adopted the flying machines into regular use from the turn of the century until the 1930s. During World War I, the first Airship bombing runs struck London. But a number of high-profile catastrophes, such as the crash of the US Navy's Macon or Germany's Hindenburg, along with the development of aircraft, returned the Airship to the hangar for good.

@@ -1,0 +1,3 @@
+# National Epic (Civ5)/Civilopedia
+
+A national epic is a poem or story which describes the origin of a nation, its character, or a significant event in its existence. The "Epic of Sundiata" is a Malinese national epic. "The Song of Hiawatha" is a United States national epic. The "Kalevala" is an epic of Finland. In a more modern form, "War and Peace" might be considered a Russian national epic, and "Roots: The Saga of an American Family" another American epic.

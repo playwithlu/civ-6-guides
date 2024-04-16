@@ -1,0 +1,3 @@
+# Hakkapeliitta (Civ5)/Civilopedia
+
+The snowy North is their fatherland; there, their heart crackles on the stormy beach. The Hakkapeliitta were a division of Finnish light cavalrymen employed by King Gustavus Adolphus of Sweden during the Thirty Years' War. They were highly trained, and excelled at raiding, spying, lightning-quick attacks, and most especially, charging. Attacking at full gallop, the Hakkapeliitta would fire pistol shots as they approached the enemy lines, drawing their sword once the horse made contact. The small, sturdy, and powerful horses ridden in the Hakkapeliitta were some of the founding members the modern Finnhorse breed, the national horse of Finland.

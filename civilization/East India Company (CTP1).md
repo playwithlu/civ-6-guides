@@ -1,0 +1,7 @@
+# East India Company (CTP1)
+
+The East India Company is a wonder in "". It provides +1 ship movement, +20 gold for all overseas foreign trade routes, and allows all ships to cross deep water, and becomes obsolete with [Mass%20Production%20%28CTP1%29](Mass Production).
+Gameplay.
+The East India Company increases the wealth of a Civilization by dominating transcontinental commerce. With the blessing of its mother country, this uses a mixture of force and reward to grant the owning Civilization 5 per foreign crossing over water, giving all ships one additional movement point and allowing all boats to move in s.
+Great Library entry.
+With the advent of Ocean Faring the first worldwide communications began. Leading this new exchange were the East India Companies, monopolies formed under the flags of many of the European nations. Perhaps the most famous, the Dutch East India Company, opened trading in 1602 with a monopoly grant from the Cape of Good Hope east to the Straight of Magellan. In the 18th century power passed to the British East India Company. In 1784, with the British India Act, the company gained governmental powers over the Indian subcontinent, foreshadowing the coming age of multinational corporate power.

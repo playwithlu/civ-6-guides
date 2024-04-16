@@ -1,0 +1,6 @@
+# Great Scientist (CivRev)
+
+A Great Scientist is a [Great%20Person%20%28CivRev%29](Great Person) in "[Civilization%20Revolution](Civilization Revolution)" associated with [Science%20%28CivRev%29](science). Once a Great Scientist appears, they can either be settled in a [City%20%28CivRev%29](city) (where they will increase science production by 50%) or used to immediately finish any [List%20of%20technologies%20in%20CivRev](tech) that is currently being researched. Like all other Great People, a Great Scientist acts as a [Non-combat%20unit%20%28CivRev%29](non-combat unit) with a movement speed of two squares per turn. Only one Great Scientist may be settled in a city. Moreover, settled Great Scientists can be kidnapped by enemy [Spy%20%28CivRev%29](Spies).
+Researching a Great Scientist's prerequisite tech will greatly increase the chance of that person appearing.
+List of Great Scientists in Civilization Revolution.
+The following historical persons appear as Great Scientists in "Civilization Revolution" (their prerequisite techs are listed beside them):

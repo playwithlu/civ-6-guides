@@ -1,0 +1,4 @@
+# Town Hall (C-evo)
+
+In the free game "[C-evo](C-evo)", a Town Hall is required in each [City%20%28C-evo%29](city) where you want to earn any [trade%20%28C-evo%29](trade) points, unless there is a [Palace%20%28C-evo%29](Palace) or a [Courthouse%20%28C-evo%29](Courthouse). 
+The subsequent building of a Palace or a Courthouse will automatically remove and sell the Town Hall (for full value in gold equivalent to the material you put into the building). If later in the game you are enjoying a corruption-free government, beware of trying to economize by selling the Courthouse: the process does not rebuild the Town Hall.

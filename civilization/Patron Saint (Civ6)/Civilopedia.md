@@ -1,0 +1,3 @@
+# Patron Saint (Civ6)/Civilopedia
+
+Many religions praise holy individuals and link their lives with places and practices. The saint then can serve as the intermediary for people of that place or profession. There are a staggering number and breadth of patron saints, such as Guan Yu (who is claimed by both gangsters and police in Hong Kong), Saint Denis, patron saint of Paris (depicted carrying his own severed head), or Saint Gertrude of Nivelles, patron saint of cats.

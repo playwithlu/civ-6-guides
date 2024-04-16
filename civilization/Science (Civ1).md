@@ -1,0 +1,4 @@
+# Science (Civ1)
+
+The Science research contributed by a [city%20%28Civ1%29](city) is indicated by the light bulb symbols in the resource window of the city display. The science from a city is added to previous research and, if enough research has been done, a new [List%20of%20advances%20in%20Civ1](civilization advance) is achieved. The amount of science a city produces is mainly determined by the science rate of your civilization, the percentage of each city's trade that arrives as new knowledge. You can modify this rate by adjusting your science rate from the Game menu.
+You can also increase science by building [Library%20%28Civ1%29](Library) and [University%20%28Civ1%29](University) improvements, certain [List%20of%20wonders%20in%20Civ1](Wonders), and by turning some of your citizens into [Specialists%20%28Civ1%29](Scientists).

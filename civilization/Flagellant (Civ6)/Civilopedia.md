@@ -1,0 +1,3 @@
+# Flagellant (Civ6)/Civilopedia
+
+In the religiously-charged world of the late Middle Ages, the plague was thought to be a divine punishment for the sins of humanity. Some groups of people undertook acts of extreme public penitence on behalf of a sinful humanity, processing across the land and whipping—or “flagellating”—themselves, from which practice derives the name. At first, these exhibitions had the (at least tacit) consent of the church authorities, but as the practice became extreme, the ecclesiastical authorities condemned it. This did not end the practice of flagellation, nor the processions of the flagellants.

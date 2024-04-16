@@ -1,0 +1,7 @@
+# SDI Defense (Civ1)
+
+The SDI Defense is the only protection from the [Nuclear%20%28Civ1%29](Nuclear Missile). With a 70% hit rate, you are sure to be protected. The SDI works as a satellite in low orbit, tracking missiles from space. Any unknown object or a potential Nuclear missile can be taken down with a massive laser shot, disabling the Nuke completely.
+Although being the only weapon against the Nuke, the SDI is not totally effective. For example, if there are 4 Nukes incoming, the SDI can protect you 100%. However, if there are 10 or more Nukes incoming, then at least one of them is going to hit you.
+The SDI is actually a building and must be constructed within one of your [City%20%28Civ1%29](cities); each city requires one SDI Defense in order to be protected.
+Civilopedia entry.
+The history of warfare has been a struggle between offense and defense, with sometimes one side having the upper hand, and sometimes the other. The development of nuclear weapons seemed to demonstrate that for the very first time, an offensive weapon existed for which there was no effective defense. SDI (Strategic Defense Initiative), however, could be the answer. Using either orbital laser weapons, or thousands of missile-launched "Brilliant Pebbles," which are intended to collide with nuclear-tipped missiles in mid-air, SDI Defense offers the real possibility of negating the threat posed by nuclear missiles.

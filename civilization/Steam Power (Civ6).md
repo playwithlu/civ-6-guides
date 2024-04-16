@@ -1,0 +1,8 @@
+# Steam Power (Civ6)
+
+Steam Power is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [Technologies%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by building 2 [Shipyard%20%28Civ6%29](Shipyards).
+Strategy.
+The power of the steam is the basis of modern industry...or at least of its development stage, although a surprising number of machines use steam even today. The only difference is the fuel which provides the heat.
+But at the heart of the Industrial Age, steam was like the wheel was to the ancients: a miracle worker, which enabled myriad new possibilities. Thanks to the recently revealed , a high-yield burning agent which is both abundant and inexpensive, steam engines soon permeate all technology, heralding the beginning of a new age.
+Although steam and coal will have many uses in the future, their first benefit for you is the development of the first ship in the game which doesn't depend on wind power: the [Ironclad%20%28Civ6%29](Ironclad). The fact that this ship is able to ignore lack of wind quickly revolutionizes the entirety of sea travel. New, even faster transports are devised, and the era of modern sea vessel is at hand.
+In "", Steam Power also unlocks three new pieces of infrastructure that facilitate transportation over land and water: [Railroad%20%28Civ6%29](Railroads), the [Canal%20%28Civ6%29](Canal), and the [Panama%20Canal%20%28Civ6%29](Panama Canal).

@@ -1,0 +1,3 @@
+# Citrus (Civ5)/Civilopedia
+
+Citrus fruits - particularly Oranges, Limes, and Grapefruit - have been a common part of the human diet since ancient times. First cultivated in the regions surrounding Southeast Asia, the various flowering plants of the Citrus genus have since flourished in countries throughout the world. Scurvy, a Vitamin C deficiency rampant among sailors, began to become a serious problem in the 15th century. It continued to plague ships throughout the Age of Discovery, until the introduction of lime juice and sauerkraut treatments in the 18th century. Although most sailors believed it was the acid in citrus that prevented the disease, it was actually the Vitamin C, but the end result was a healthy crew in either case.

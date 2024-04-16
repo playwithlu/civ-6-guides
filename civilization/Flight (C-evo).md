@@ -1,0 +1,4 @@
+# Flight (C-evo)
+
+[Flight](Flight) in the free-to-download game [C-evo](C-evo) becomes available (as with most other Civ-type games) in mid-game, a little while after you or cooperative friends have researched [Chemistry%20%28C-evo%29](Chemistry), [Explosives%20%28C-evo%29](Explosives), [Physics%20%28C-evo%29](Physics), and [Refining%20%28C-evo%29](Refining). You may have become able to build a [glider%20%28C-evo%29](glider) earlier by building [Leonardo%27s%20Workshop%20%28C-evo%29](Leonardo's Workshop). Unless really keen to do long-range scouting or blocking of enemy units, by adding only [fuel%20%28C-evo%29](fuel) [module%20%28C-evo%29](module)s, you may be wise to delay air unit development until you research [Advanced%20Flight%20%28C-evo%29](Advanced Flight).
+The [Standard%20AI](Standard AI) in version 1.2.0 is unable to create air units, which gives human players an advantage, because air units are the only units that can destroy air units.

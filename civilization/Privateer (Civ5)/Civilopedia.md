@@ -1,0 +1,3 @@
+# Privateer (Civ5)/Civilopedia
+
+With letters of marque in hand, privateer captains were given free reign over the seas during times of war, attacking foreign trade vessels at will. Predominantly sailing from the 16th to 19th centuries, privateers were utilized by all of the major colonial powers, particularly Britain and Spain. As the privateer captains and crew were not typically paid by the government who authorized their mission, they were given a share of the spoils captured from the opposing fleets, sometimes creating a murky distinction between privateers and their unauthorized pirate counterparts.

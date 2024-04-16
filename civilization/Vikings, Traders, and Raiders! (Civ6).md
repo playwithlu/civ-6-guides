@@ -1,0 +1,13 @@
+# Vikings, Traders, and Raiders! (Civ6)
+
+&lt;choose&gt;
+&lt;/choose&gt;
+Vikings, Traders, and Raiders! is a [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)" that was released with the [Vikings%20Scenario%20Pack%20%28Civ6%29](Vikings Scenario Pack).
+Intro.
+What is the worth of a Viking lord? At your command are seafaring warriors who would follow you across the oceans of the known world. Your longships cast shadows in the hearts of those who would keep their wealth within sight of the coast. But pillage for its own sake is simple banditry. You, my lord, are neither simple nor a bandit. Teach them the hard truth of the wealth they flaunt—if they can't protect it, then it was never theirs to keep.
+Gameplay.
+In this scenario, you control one of three [Viking](Viking) lords attempting to build a rich and powerful empire that extends across [Europe](Europe). It is predominantly a military scenario, though economics, exploration, and [Religion%20%28Civ6%29](religion) also factor in. You are locked into an alliance with the other two Viking lords and war with everyone else. [City%20%28Civ6%29](Cities) cannot be razed, [Trader%20%28Civ6%29](Traders) and [Great%20Admiral%20%28Civ6%29](Great Admirals) cannot be transferred between cities, and [Encampment%20%28Civ6%29](Encampments) and [Holy%20Site%20%28Civ6%29](Holy Sites) generate and (respectively) in addition to their normal effects.
+All of the Viking lords start off worshiping a [Pantheon%20%28Civ6%29](pantheon), and all of the [City-state%20%28Civ6%29](city-states) except [Al-Qayrawan%20%28Civ6%29](Al-Qayrawan) have the [Monastery%20%28Civ6%29](Monastery) as their unique [Tile%20improvement%20%28Civ6%29](tile improvement). [Combat%20%28Civ6%29%23Pillaging](Pillaging) Holy Sites and certain improvements yields , which increases the pressure on your cities to adopt [Catholicism%20%28Civ6%29](Catholicism). Once you do, you can start producing [Missionary%20%28Civ6%29](Missionaries) to spread your religion.
+All of the playable civilizations in this scenario have the [Berserker%20%28Civ6%29](Berserker) and the [Viking%20Longship%20%28Civ6%29](Viking Longship) as [Unique%20unit%20%28Civ6%29](unique units). In addition to their abilities from the base game, the Berserker earns points and the Viking Longship earns points from kills.
+[Victory%20Points](Victory Points) (VP) are awarded as follows in this scenario:
+At the end of 60 turns, the Viking lords are awarded bonus VP at the rate of 1 for every 10 in their treasury and 1 for every 5 they possess. The one with the highest VP total wins.

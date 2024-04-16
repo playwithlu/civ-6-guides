@@ -1,0 +1,3 @@
+# Survey (Civ6)/Civilopedia
+
+Even prehistoric tribes had “scouts,” those hardy individuals who went out looking for better caves, hunting grounds, and sources of water. Once folk settled down and began clumping together in villages and towns, fleet-footed and eagle-eyed individuals willing to hike over the hills and trudge through trackless forests remained of vital importance, for a civilization that doesn’t know what’s going on around it is blind to both opportunities and dangers. As they surveyed the surroundings and brought back tales of fabulous wonders, scouts not only expanded possibilities, but humanity’s imagination as well.

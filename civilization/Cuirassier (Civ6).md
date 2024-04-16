@@ -1,0 +1,5 @@
+# Cuirassier (Civ6)
+
+The Cuirassier is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [List%20of%20units%20in%20Civ6/By%20class%23Heavy%20cavalry](heavy cavalry unit) in "". It upgrades from the [Knight%20%28Civ6%29](Knight) (or its replacements) or the [Varu%20%28Civ6%29](Varu) and requires 20 to train.
+Strategy.
+Compared to the [Cavalry%20%28Civ6%29](Cavalry) that also becomes available in the Industrial Era, the Cuirassier has the same and maintenance costs, 2 more Combat Strength, and 1 less . What sets it apart from the Cavalry are its [Resource%20%28Civ6%29](resource) requirements and s: as a heavy cavalry unit, it's geared more towards domination than harassment. Researching [Ballistics%20%28Civ6%29](Ballistics) (which also unlocks the [Field%20Cannon%20%28Civ6%29](Field Cannon)) before [Military%20Science%20%28Civ6%29](Military Science) may therefore be a viable strategy for players who are more interested in capturing their enemies' [City%20%28Civ6%29](cities) than impeding their progress.

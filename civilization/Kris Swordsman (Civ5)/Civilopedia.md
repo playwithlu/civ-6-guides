@@ -1,0 +1,3 @@
+# Kris Swordsman (Civ5)/Civilopedia
+
+The kris is a long-bladed, asymmetrical dagger or sword with a distinctive wavy blade common to Indonesia and Malaya. Both weapon and mystical object, kris were believed by the Indonesian tribes to have an essence imbued with magical power, with some blades bringing good luck and others bad. So prized was the kris in Indonesia that heirloom blades were handed down through successive generations. In battle, a kris swordsman might carry as many as three: his own, one from his father-in-law, and one family heirloom. The forging of kris blades was restricted to a select few, and these skilled metalworkers made the blades in layers of different iron ores and meteorite nickel folded many times, a process that could take years to complete.

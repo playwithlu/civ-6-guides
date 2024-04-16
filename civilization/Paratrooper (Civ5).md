@@ -1,0 +1,9 @@
+# Paratrooper (Civ5)
+
+Game Info.
+Special front-line unit of the [Atomic%20Era%20%28Civ5%29](Atomic Era).
+Strategy.
+The Paratrooper is specially developed to breach enemy lines. This specialized infantry unit acts coupled with transport airplanes that allow him to use a Paradrop maneuver to instantly move up to 9 tiles into enemy [Territory%20%28Civ5%29](territory), as long as he starts in friendly territory. He can then use his remaining to take up a suitable attack position. (He may not, however, attack on the same turn that he is paradropped.) This allows the Paratrooper to literally jump over enemy positions and destroy [Road%20%28Civ5%29](road) networks, pillage vital [List%20of%20improvements%20in%20Civ5](improvements) so the enemy gets a [Resources%20%28Civ5%29](resource) penalty and so forth, wreaking havoc behind the enemy's lines. The Paratrooper is at great risk when on such missions, so make sure the target is worth it!
+Alternatively, Paratroopers may be used to attack vulnerable parts of the enemy line from behind, just as your main army attacks in the front. They are almost as powerful as [Infantry%20%28Civ5%29](Infantry), so they are very effective against enemy artillery, for example.
+The Paratrooper's Paradrop ability also makes him a great candidate for the Medic I and Medic II [Promotions%20%28Civ5%29](promotions), allowing him to get to the center of your wounded troops in a single turn.
+In "", [XCOM%20Squad%20%28Civ5%29](XCOM Squads) that are upgraded from Paratroopers keep both the "No Movement Cost to Pillage" ability and their 9-[hex](hex) paradrop range, creating units with a 49-hex paradrop range (the 40-hex range of the XCOM Squad plus the 9-hex range of the Paratrooper) that can pillage tiles without expending .

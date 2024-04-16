@@ -1,0 +1,4 @@
+# Ninjutsu (Civ3)/Civilopedia
+
+Ninjutsu: The Ninja, also called "The Shadow Warrior", literally meaning "the man who hides himself", is certainly one of the most fearsome characters of the Sengoku period. The Ninja, an extremely dangerous warrior, fought using all possible methods and weapons to carry out his mortal mission, in contrast to the Samurai who fought according to strict rules. 
+The Ninjas were involved in all kinds of wars, most of the time acting as spies, killers or terrorists. Nobody could take shelter from the Ninja, who were known not only for their skill in fighting and physical prowess but also for their cunning and savvy.

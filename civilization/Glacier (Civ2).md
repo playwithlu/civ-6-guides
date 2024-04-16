@@ -1,0 +1,5 @@
+# Glacier (Civ2)
+
+Glaciers are a type in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+Glaciers are large masses of ice and snow found in mountain regions, and near the north and south poles of the planet, where the rate at which snow and ice melt is less than the rate of snowfall. There are several varieties of glaciers: alpine and piedmont glaciers, which are formed in the valleys of high mountain regions; and ice cap and continental glaciers that may cover large portions of a continent. All glaciers are similar in composition, consisting of upper layers of softer snow and ice crystals, and lower layers of highly compressed, solid ice. Although some glaciers are stationary, some may move anywhere from a few feet to more than 100 feet each day, carving and reshaping the land as they go. Glacial regions are inhospitable, containing little animal life, no plant life, and virtually no resources of any kind.

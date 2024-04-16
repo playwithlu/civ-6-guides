@@ -1,0 +1,3 @@
+# Indulgence Vendor (Civ6)/Civilopedia
+
+An indulgence, according to the Catholic Church, was a way to reduce punishment for ones sins … for a price. Originally, the penance might be a pilgrimage, or doing charitable works. But by the early Renaissance, indulgences were sold for money. Quaestores – professional “pardoners” – practiced the unrestricted sale of indulgences, and one of Gutenberg’s earliest commissions as a printer was wholesale production of indulgences for the German cardinal Nicolaus Cusanus. So bad were the abuses that the practice became a centerpiece for the Protestant Reformation that tore the Church apart.

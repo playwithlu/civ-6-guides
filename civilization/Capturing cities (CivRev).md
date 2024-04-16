@@ -1,0 +1,3 @@
+# Capturing cities (CivRev)
+
+Capturing cities is the process of taking over [City%20%28CivRev%29](cities) that belong to other [List%20of%20civilizations%20in%20CivRev](civilizations) and adding them to your empire. To capture a city, you have to defeat the [List%20of%20units%20in%20CivRev](units) put in the city until there are no more defenders left. When all defenders are gone, you can capture the city by walking into the city.

@@ -1,0 +1,6 @@
+# Protectionism (Civ5)
+
+Protectionism is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Commerce%20%28Civ5%29](Commerce) tree and requires [Mercantilism%20%28Civ5%29](Mercantilism). In "[Brave%20New%20World](Brave New World)" it requires also [Entrepreneurship%20%28Civ5%29](Entrepreneurship).
+To achieve a good position in trading sometimes it is necessary to restrict it. In fact, many developed trading societies have found that introducing policies that limit the influx of foreign goods, after their own society has already developed a healthy economy, works to everyone's benefit. Local producers are protected from such effects as dumping strategies and cheap foreign labor, while local populace learns to value the worth of the limited amount of foreign goods available. 
+Strategy.
+This is one of the most powerful -boosting Policies in the game, outside of Ideological Tenets. Each [Luxury%20resource%20%28Civ5%29](luxury resource) now produces a +6 , up from +4. Needless to say, the more access you have to Luxuries, the greater the effect of this Policy. Use the resulting Happiness to achieve more Golden Ages, or in any other way that high affords.

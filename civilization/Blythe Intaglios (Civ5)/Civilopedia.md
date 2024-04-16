@@ -1,0 +1,3 @@
+# Blythe Intaglios (Civ5)/Civilopedia
+
+Dating to at least 1000 BC, the Blythe Intaglios are a group of several dozen gigantic figures in the Colorado Desert east of the Big Maria Mountains. Created by scraping away the surface layers to reveal lighter rock, the intaglios were not recognized as such until the 1930s, with the largest figure some 171 feet long; it is believed that these were made for ceremonial reasons by the Quechan and Mojave tribes.

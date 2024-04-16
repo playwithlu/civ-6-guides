@@ -1,0 +1,4 @@
+# Cathedral (Civ4)
+
+The Cathedral is a second-level [Religion%20%28Civ4%29](religious) [List%20of%20buildings%20in%20Civ4](building). Each religion has its own variant on the Christian Cathedral; these variations are slightly more than cosmetic, as each variation can be completed faster depending on access to certain [Resource%20%28Civ4%29](resources). Your [List%20of%20civilizations%20in%20Civ4](civilization) must have a prerequisite number of [Temple%20%28Civ4%29](Temples) of that religion in order to build a Cathedral. This number varies with [Map%20%28Civ4%29](map) size:
+Below is a table of the variations of Cathedrals, along with the resource which allows the Cathedral to be built with +100% :

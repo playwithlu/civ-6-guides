@@ -1,0 +1,3 @@
+# Mechanized Infantry (Civ5)/Civilopedia
+
+As the speed of battle has risen, with the advent of armored vehicles, artillery and of course air power, modern infantry too has had to get faster and more maneuverable. Most modern infantry units are now "mechanized," moving about the battlefield on armored personnel carriers. These vehicles are usually equipped with one or more heavy machine guns and grenade launchers. They are not tough enough to stand up to modern armor, but they do provide protection from bullets and shrapnel and other battlefield menaces to those inside. Depending upon the situation the soldiers can fight from inside the vehicle or dismount and proceed on foot, in the traditional manner of infantry soldiers since the dawn of warfare.

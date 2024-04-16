@@ -1,0 +1,4 @@
+# Dynamite (Civ5)/Civilopedia
+
+Dynamite is an explosive material invented by Swedish chemist and engineer Alfred Nobel in 1867. Dynamite is created by soaking an absorbent material like diatomaceous earth (interestingly, the same material used in many pool filters) in nitroglycerin. Nitroglycerin is an extremely powerful but terrifyingly unstable explosive; dynamite is less powerful but a lot more stable.
+Dynamite is primarily used in mining and construction. Historically, it has been used in military applications, but the explosive component nitroglycerin remains too unstable for the rather volatile conditions found in a battlefield, so generally militaries prefer a modified product called "military dynamite" which contains no nitroglycerin but instead uses other chemicals including TNT to create a product which is 60% less powerful but much less apt to explode when it's not supposed to.

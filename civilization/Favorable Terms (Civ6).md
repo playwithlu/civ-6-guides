@@ -1,0 +1,2 @@
+# Favorable Terms (Civ6)
+

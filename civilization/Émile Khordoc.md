@@ -1,0 +1,3 @@
+# Émile Khordoc
+
+Émile Khordoc is a voice actor who speaks Classical Latin and Ancient Greek. He provided the voice of [Augustus%20Caesar%20%28Civ5%29](Augustus Caesar) in "[Civilization%20V](Civilization V)". He also provided the voices of the [Roman%20%28Civ4%29](Roman) units in "[Civilization%20IV](Civilization IV)" and the [Greek%20%28Civ4%29](Greek) units in "", though he was not credited for these roles.

@@ -1,0 +1,3 @@
+# Ranger (promotion) (Civ6)/Civilopedia
+
+Despite Tolkien's fancies, real rangers do not talk to the birds and beasts ... but they can slip silently through the woods with ease and are deadly marksmen. While a number of elite units in various civilizations had these abilities in the past, the first units to be named such were the colonial ranger units formed by Benjamin Church and by Robert Rogers during the French &amp; Indian War. In 1775 the Continental Congress authorized the formation of eight ranger companies to bedevil the Redcoats during the American rebellion; most European nations soon followed suit.

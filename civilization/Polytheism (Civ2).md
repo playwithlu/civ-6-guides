@@ -1,0 +1,5 @@
+# Polytheism (Civ2)
+
+ Polytheism is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+Polytheism is the belief that the world and the enviornment us rule or controlled by a number of different gods or divinities. Many ancient religions were polytheistic, notably those of the Egyptians, the Greeks, the Norse, and the Romans. Often, polytheistic religions have different gods for each force of nature and earthly phenomenon; for instance: a sun god, a moon god, a god of thunder, a god of the forests, and so forth. The reason for such diversity in divine beings probably stems from ancient civilizations attempting to find explanations for natural events they could not understand. Although some isolated examples still exist today, most polytheistic religions have either died out or evolved into monotheism.

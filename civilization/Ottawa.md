@@ -1,0 +1,3 @@
+# Ottawa
+
+Ottawa is the [Canadian](Canadian) [capital](capital) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and elsewhere and a [New%20English](New English) [city](city) in the "[Colonization%20%28game%29](Colonization)" games. In real life, it is the capital city of present-day Canada, located in the eastern portion of the province of Ontario.

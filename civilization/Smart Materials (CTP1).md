@@ -1,0 +1,7 @@
+# Smart Materials (CTP1)
+
+Smart Materials is an [Advance%20%28CTP1%29](advance) in "".
+Summary.
+From Smart Materials, Civilizations at last gain cheap and effective access to space, Smart Materials not only reduce the weight of launch vehicles, but also report cracks and damage before the materials fail. As a result, the Space Fighter allows armchair generals to extend their airpower to any point on the globe, and the Star Ladder supports an elevator to space, made safe from storms and earthquakes by its "muscles" of steel. Finally, ultra thin domes protect Hydroponic Farms, leading to even greater yields in food.
+Great Library entry.
+Smart Materials are materials that are able to dynamically respond to stimuli, hence their description as "intelligent." They first appeared in the 19th century in the form of the piezo-electric crystal that generated electrical fields when exposed to heat or to stress. This work only exploded in importance in the 21st century. Controlled by a microprocessor, Smart Materials acted as muscles - contracting against unusual stresses - and surpassed the strength of their predecessors many times over. These materials were indispensable in man's ascent and colonization of the oceans and space.

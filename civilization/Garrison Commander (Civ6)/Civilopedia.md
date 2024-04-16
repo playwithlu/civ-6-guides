@@ -1,0 +1,3 @@
+# Garrison Commander (Civ6)/Civilopedia
+
+A garrison is a standing force of soldiers assigned to a fortification. The garrison commander leads these troops and is responsible for maintaining the fortifications as well. In times of peace, this may be a very boring assignment. But in times of war, the garrison commander may have a much-enlarged force and handle the military operations of the nearby territory.

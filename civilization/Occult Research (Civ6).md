@@ -1,0 +1,5 @@
+# Occult Research (Civ6)
+
+Occult Research is a unique [Projects%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)". It is exclusive to the [Hermetic%20Order%20%28Civ6%29](Hermetic Order) secret society in the [Secret%20Societies%20%28Civ6%29](Secret Societies) [Game%20mode%20%28Civ6%29](game mode), introduced in the [Ethiopia%20Pack%20%28Civ6%29](Ethiopia Pack). It becomes available after building a [Campus%20%28Civ6%29](Campus) [District%20%28Civ6%29](district). 
+While active, Occult Research converts 15% of the city's output to . When completed, it provides 500 per within the city (regardless of [Speed%20%28Civ6%29](game speed)) and also yields , and points each equal to approximately 16.7% of the invested in it (on Standard speed).
+Due to the significant amount of points this project generates, its cost is almost 4 times more expensive than regular [List%20of%20projects%20in%20Civ6](District Projects).

@@ -1,0 +1,3 @@
+# African Forest Elephant (Civ5)/Civilopedia
+
+Used frequently by the forces of Carthage under legendary general Hannibal during his campaigns against the Romans, the elephant was a valuable beast of burden, as well as a dangerous weapon. Utilized throughout the Punic Wars, with varying amounts of success, the Carthaginian war elephants were trained to charge the enemy lines carrying soldiers mounted in towering gondolas on their backs. Despite their intimidating size, the elephants were susceptible to the advances of mobile infantry, and the care and maintenance requirements of such a large animal often led to their deaths on the arduous marches of the Carthaginian army.

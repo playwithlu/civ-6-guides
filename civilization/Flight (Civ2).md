@@ -1,0 +1,5 @@
+# Flight (Civ2)
+
+ Flight is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The idea of flight has tantalized humans since the dawn of time. Studies regarding the possibility of producing a flying machine date back to the 13th century. In the 16th century, Leonardo da Vinci proposed a number of inventions that eventually came to pass, including the propeller and the parachute. Throughout the 19th century, various engineers experimented successfully with gliders, and experiments with compressed air and steam engines attempted to produce self-powered flight with limited success. The key to success in powered flight was the invention of the internal combustion engine. Just after the turn of the 20th century, Orville and Wilbur Wright made the first four controlled, sustained human flights at Kitty Hawk, N.C. The technology of flight advanced rapidly from this landmark event, and within a relatively few years, aircraft were circling the globe, safely delivering passengers and mail at record speeds.

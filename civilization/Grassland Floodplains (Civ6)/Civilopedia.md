@@ -1,0 +1,3 @@
+# Grassland Floodplains (Civ6)/Civilopedia
+
+Floodplains are the land surrounding a river which are affected most by flooding, usually seasonal flooding, but this may also apply to wider lowland affected by exceptional flooding events. The inundation of this land deposits sediment from upstream, which refreshes the soil quality and makes the floodplains especially suitable for agriculture. Many of the first urban civilizations emerged from river valleys with floodplains, such as Mesopotamia, Egypt, and the Indus.

@@ -1,0 +1,4 @@
+# Confucian Academy (Civ4)/Civilopedia
+
+In "Civilization IV", a cathedral is defined as an especially large and ornate religious building where the faithful worship. Only the most prosperous cities can afford to create cathedrals, as they require huge amounts of raw material and years of dedicated labor by skilled craftsmen. For example, the Notre Dame Cathedral in Paris, France, took over two centuries to complete.
+Many of the early Confucian religious buildings were destroyed during the Qin Dynasty. When the Emperor Wu (187-56 BC) adopted Confucianism as the state religion of China, he placed many Confucian scholars in positions of power; eventually, knowledge of Confucianism became a prerequisite for anyone hoping to gain employment in the Imperial government. Private and public Confucian Academies sprung up across China, where families sent their sons to study for the civil service examinations.

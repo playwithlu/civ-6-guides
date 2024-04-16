@@ -1,0 +1,3 @@
+# Catapult (Civ5)/Civilopedia
+
+The exact date of the invention of the catapult is uncertain, but [Greek%20%28Civ5%29](Greek) armies were known to have employed them as far back as the third century BC. Catapults use energy stored in twisted rope or bent wood to hurl missiles a great distance. They are quite inaccurate, but can be deadly against big or slow targets - forts, for instance (which are fairly large and don't move at all). Generally catapults were transported in pieces, then assembled at the field of battle. Occasionally they were constructed on the spot by engineers. The last catapults to see battle appeared in World War I, used by the French to hurl grenades at the enemy trenches.

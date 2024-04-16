@@ -1,0 +1,3 @@
+# Exchequer (Civ3)/Civilopedia
+
+The word "exchequer" comes from the Latin word for "chessboard", since official Exchequer documents adding up medieval governments' revenues and debts was checkered in a similar pattern. The first Exchequer was created by Henry I in England, and served to organize and administer the royal treasury. It also had its own high court, which dealt exclusively with high-level financial disputes.

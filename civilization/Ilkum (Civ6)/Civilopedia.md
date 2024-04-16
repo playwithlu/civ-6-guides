@@ -1,0 +1,3 @@
+# Ilkum (Civ6)/Civilopedia
+
+Conscription was first instituted during the reign of Hammurabi (around 1750 BC). Under this ilkum system, the Babylonian Empire could call upon anyone to serve in the army during time of war; during the plentiful times of peace, his subjects were instead required to provide unpaid labor for other activities deemed important - building projects, harvesting crops, producing trade goods, and anything else the "good of the state" might require. (In return, the conscripts gained the right to hold land.) Over the following centuries, various other empires instituted similar systems, eventually evolving into the feudal system so popular with the peasants of medieval Europe.

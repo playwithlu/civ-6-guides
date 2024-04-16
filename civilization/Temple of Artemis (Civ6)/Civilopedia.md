@@ -1,0 +1,5 @@
+# Temple of Artemis (Civ6)/Civilopedia
+
+Little remains of this once esteemed holy site. Dedicated to Artemis, the Greek Goddess of the Hunt, the temple suffered multiple devastations and underwent numerous rebuildings. It suffered damage from floods, raids, and arson caused by a man named Herostratus (who just wanted everyone to remember his name).
+In its best days, the temple was made of marble, gilded with gold and silver, and is said to have been longer than a football field. Philo of Byzantium, a Greek engineer and writer, declared that the splendor of temple put other contemporary wonders “in the shade.”
+A final destruction at the dawn of the 5th Century, led by a Christian mob inspired by “gold-tongued” Saint John Chrysostom, ultimately spelled the end for the Temple of Artemis. In a way, the temple still lives on in present-day Turkey—its stone pillaged and incorporated into other buildings.

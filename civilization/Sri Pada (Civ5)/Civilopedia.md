@@ -1,0 +1,3 @@
+# Sri Pada (Civ5)/Civilopedia
+
+Towering above Sri Lanka, Sri Pada is a large mountain peak with an unusually conical shape that is held sacred by a number of religions for the "footprint" found at its peak. The footprint, a large depression found in a rock formation on the mountain's summit, has been attributed to Buddha, Shiva, and the biblical figure Adam, leading to the mountain's reverence among followers of Buddhism, Hinduism, and Islam. Each year, thousands of pilgrims trek for hours up the mountain to pay their respects at the holy site.

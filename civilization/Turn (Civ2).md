@@ -1,0 +1,21 @@
+# Turn (Civ2)
+
+A game of "[Civilization%20II](Civilization II)" progresses by turns, representing variable intervals of time within the setting (usually decades, narrowing to individual years in late play). Each conducts a set of actions during a turn, with their effects resolved either during the turn itself, or at the start of the next turn.
+If no has been claimed after a [%23Calendar](certain number) of turns, the civilization's leader "retires" and its standing score is entered into the [Hall%20of%20Fame](Hall of Fame). The player can continue the game beyond this point, but no further score changes will be submitted.
+Order of operations.
+A turn updates in two main stages: "globally" at the start of the calendar change, and then in discrete cycles for each civilization in active play. Global turn operations include calculating , processing , and publishing [Histories](Histories).
+Each civilization's turn consists of two phases. The first, or "update" phase, resolves automated economic mechanics, namely, , and ; progress; and repair. The second, or "orders" phase, is the interactive stage in which the player may move units; conduct ; and reconfigure any ongoing actions. Depending on the player's , the turn can end automatically once all active units have received orders, or wait for manual confirmation (the key).
+Certain game behaviour occurs in regular four-turn intervals, known as "[Oedo%20year](Oedo year)s", including uprisings and resolution of . [Glossary%20of%20Civilization%20terms%23Meta](Meta play) typically involves synchronizing research and revolutions to Oedo years.
+Order of action.
+Civilizations act in a fixed order, based on their color:
+While not officially implemented in the retail game, simultaneous movement can be enabled for , whereby human players conduct their actions concurrently, rather than sequentially. It is enabled via manual adjustment of codice_1, normally located in the codice_2 directory, prior to hosting the game.
+Calendar.
+A standard game of "Civilization II" begins in [4000%20BC](4000 BC) and nominally ends at [2020%20AD](2020 AD). The exact number of turns, and the progression of the in-game calendar, varies based on the game's and size; Chieftain provides the maximum turns (570) and Deity the minimum (420). Technically, retirement is triggered by the calendar date, rather than total elapsed turns; see the [%23Spaceship%20exploit](spaceship exploit) below.
+The following table details how map area determines total play time:
+Note that when with a custom map, total turns are calculated from the last dimensions submitted to "Start a New Game" or "Customize World", not the size of the map itself. To ensure accurate calculation, the player must first designate a map size through one of these options, then return to the main menu and choose "Start on Premade World".
+s may employ a calendar that subdivides by months; see the [%23Modding](Modding) section for details.
+Spaceship exploit.
+A standard game's mandatory retirement year triggers on the "calendar" date, "not" the number of elapsed turns. When a is launched, calendar progression changes to one year per turn, regardless of the stage of the game. Even if all active spaceships are destroyed, the calendar is not reset. This offers a potential whereby a civilization intentionally allows its spaceship to be destroyed: the game will continue to progress at a rate of 1 year per turn, granting bonus turns relative to its launch date.
+Modding.
+The game calendar can be configured through in the . "Turn Year Increment" determines how the calendar scales to turn progression: 0 uses the default dynamic scaling; a positive value adds this number of years per turn; a negative value activates a monthly calendar. "Starting Year" is the exact date of the initial turn. "Maximum Turns" is the total playable turns before the final score is tallied.
+Calendar labels are found in the codice_3 section of . B.C./A.D. are defined at Lines 2 and 3, respectively; months at Lines 421–432.

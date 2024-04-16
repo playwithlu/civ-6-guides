@@ -1,0 +1,5 @@
+# Panama Canal (Civ6)/Civilopedia
+
+On August 15, 1914, just after the start of World War I, the Panama Canal officially opened. This direct water passage through Panama to link the Atlantic and Pacific oceans was first dreamed of in the 1500s, but it took several failed attempts and hundreds of years to see the project to fruition. Stretching for 50 miles across the Panama isthmus, the project was completed under supervision of the United States and remained under their control until 1999, when control passed to Panama.
+The canal itself is made up of man-made lakes separated by a system of locks. Using chambers in the locks locks, ships can be raised or lowered to match the water level at the next lake before continuing their journey through the canal.
+Today, about 14,000 ships cross through the Panama Canal each year, and each one pays a toll based on its type, size, and cargo.

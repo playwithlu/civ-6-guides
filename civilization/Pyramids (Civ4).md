@@ -1,0 +1,5 @@
+# Pyramids (Civ4)
+
+Strategy.
+The Pyramids enable you to access all [List%20of%20civics%20in%20Civ4%23Government%20Civics](Government Civics) (greatly increasing your early management options). They also increase their [City%20%28Civ4%29](city's) chances of generating a [Great%20Engineer%20%28Civ4%29](Great Engineer).
+Having [Police%20State%20%28Civ4%29](Police State) and [Representation%20%28Civ4%29](Representation) unlocked is very useful in the early game, making war rush tactics and the building up of your first six cities (respectively) a lot easier. Pyramids is essential when running a [Specialists%20%28Civ4%29](specialist) economy because it enables a transition to Representation (with its powerful bonus of +3 beakers per specialist) very early. Also, [Universal%20Suffrage%20%28Civ4%29](Universal Suffrage) could be efficient for richer states as an alternative to [Slavery%20%28Civ4%29](Slavery) without angering and killing your people.

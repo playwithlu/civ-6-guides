@@ -1,0 +1,4 @@
+# Taj Mahal (Civ6)/Civilopedia
+
+Mughal Emperor Shah Jahān had many wives, but Mumtāz Mahal (his third wife) was by far his favorite. After Mahal died in childbirth in 1631, Jahān immortalized his beloved with the grandest mausoleum he could imagine. The Taj Mahal’s construction required 20,000 laborers working for two decades. No mere tomb, the structure also housed a mosque and even a guesthouse—presumably for guests who preferred not to rest in a tomb.
+Jahān would not have long to appreciate the labors of 20,000 laborers. A violent succession struggle amongst his sons saw him placed under house arrest shortly after the Taj Mahal’s completion. Until his death in 1666, Jahān need only look out the window to observe his creation: the four tall minarets, the giant domed building seeming to fill the sky—all built with brick-in-lime mortar, red sandstone, and marble. The temple to Jahān’s love for Mahal still stands in India.

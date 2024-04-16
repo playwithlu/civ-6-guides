@@ -1,0 +1,5 @@
+# Chief Powhatan (Civ4Col)
+
+Civilopedia entry.
+Lived: c.1545-1618
+The "werowance" or chief of the Algonquin people, Powhatan was the leader of the native groups first encountered by the English during the foundation of Virginia. Powhatan held sway over roughly nine thousand natives, making him one of the most powerful leaders the English had yet encountered and it was through his personal dealings with John Smith that the nascent English colony survived. Yet as the colonists encroached further on Algonquin soil, Powhatan began to manipulate the situation to ensure his people's continued supremacy. First, he called for his people to stop trading with the English. Then, when the starving colonist sent out parties to gather food, those colonists seemingly disappeared. As relations grew worse, the colonists kidnapped Powhatan's daughter, Pocahontas, to use as a hostage. War appeared imminent. But when Pocahontas decided to marry John Rofle, a prominent colonist, an uneasy truce emerged, and Powhatan was forced to give his consent, and halted all attacks on the Europeans.

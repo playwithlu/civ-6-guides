@@ -1,0 +1,8 @@
+# Cathedral (Col)
+
+A cathedral is the largest [Religion%20%28Col%29](religious) [List%20of%20buildings%20in%20Colonization%20%281994%29](facility) that can be constructed in your [Colony%20%28Col%29](colonies). They represent the large churches that house a [Catholicism](Catholic) or Anglican bishop or a Reformed classis, as well as the accompanying bureaucracy and organization.
+Strategy.
+Cathedrals dramatically increase [Crosses%20%28Col%29](cross) production, speeding immigration from [Europe%20%28Col%29](Europe) prior to [Independence%20%28Col%29](independence). Like [Church%20%28Col%29](churches), cathedrals allow your colony to produce [Missionaries%20%28Col%29](missionaries). (Note that they do not produce expert missionaries. Those must be educated at a [University%20%28Col%29](university) or by [Father%20Jean%20de%20Brebeuf%20%28Col%29](Jean de Brebeuf) after he has joined your [Continental%20Congress%20%28Col%29](Continental Congress)).
+Once your revolution against your colonists' homeland begins, the clerics at the cathedral no longer have a productive ingame function. One common strategy is to remove the education of any [Firebrand%20Preachers%20%28Col%29](firebrand preachers) and arm them with [muskets%20%28Col%29](muskets). Doing so just prior to declaring independence provides a greater chance of them [Continental%20Army%20%28Col%29](upgrading).
+Bugs.
+A [Bugs%20%28Col%29](bug) existed in the original DOS edition of "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)" that required a colony population of 16 for cathedral construction, rather than 8. This was fixed by an early patch.

@@ -1,0 +1,6 @@
+# The Planetary Transit System (SMAC)
+
+Strategy.
+Useful for multiple victory conditions, The Planetary Transit System is an early Secret Project that will be useful throughout the game. Having all your bases start at a base population of 3 will allow faster resource acquisition while allowing for quicker build times on units and buildings.
+After getting [Centauri%20Ecology%20%28SMAC%29](Centaur Ecology), you should beeline for [Industrial%20Automation%20%28SMAC%29](Industrial Automation) in order to get the Planetary Transit System. Consider using any [Alien%20artifact%20%28SMAC%29](alien artifacts) you have to hasten production.
+Population increases your ability to harvest resources from Planet, so this secret project is an important key towards success. Depending on your faction, you can start building this at very low population --- Zakharov on a dedicated beeline can get the required tech before getting a third base --- and you should start it as soon as it becomes available even at 2 bases, because it just greatly multiplies your ability to get more resources. Early AI will usually be reluctant to attack you, so it's a good time to build early. Have nearby bases contribute Supply Crawlers as much as they can, and remember that the Hurry cost of Supply Crawlers will be much cheaper than the Hurry cost of the Secret Project itself.

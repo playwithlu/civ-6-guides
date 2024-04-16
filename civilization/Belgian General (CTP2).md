@@ -1,0 +1,3 @@
+# Belgian General (CTP2)
+
+The Belgian General is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)" that is unique to the [Belgian%20%28CTP2%29](Belgian) [List%20of%20civilizations%20in%20CTP2](civilization). It is modeled after the [Fascist%20%28CTP2%29](Fascist), but its color is orange instead of the greyish color of the Fascist. The sprite for this unit was created by [Activision](Activision) as part of their [World%20War%20II%20era%20%28CTP2%29](World War II) [List%20of%20scenarios%20in%20CTP2](scenario), which can be downloaded from the [Apolyton%20Civilization%20Site](Apolyton Civilization Site).

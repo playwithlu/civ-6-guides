@@ -1,0 +1,5 @@
+# Stone (Civ6)
+
+ Stone is a [Resource%20%28Civ6%29%23Bonus](bonus resource) in "[Civilization%20VI](Civilization VI)". It may be found on [Grassland%20%28Civ6%29](Grassland) [Tile%20%28Civ6%29](tiles).
+Strategy.
+ Stone is one of the most widely available resources, though it is found only on Grassland [Terrain%20%28Civ6%29](terrain) (flat and [Grassland%20%28Hills%29%20%28Civ6%29](hilly)). It can be priceless in the early game, not only because of the bonus it provides, but also because it allows construction of the [Stonehenge%20%28Civ6%29](Stonehenge) [Wonder%20%28Civ6%29](wonder)! In the middle game its improvement, the [Quarry%20%28Civ6%29](Quarry), provides some additional for the city. And if you don't need this, and have better boosters, you can always Harvest the Stone to free the tile for redevelopment.

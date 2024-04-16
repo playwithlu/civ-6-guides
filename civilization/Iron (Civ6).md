@@ -1,0 +1,6 @@
+# Iron (Civ6)
+
+ Iron is a [Resource%20%28Civ6%29%23Strategic](Strategic Resource) of the [Ancient%20Era%20%28Civ6%29](Ancient Era) in "[Civilization%20VI](Civilization VI)". It is revealed by [Bronze%20Working%20%28Civ6%29](Bronze Working).
+ Iron is found in a variety of [Terrain%20%28Civ6%29](terrain), but always on [Hills%20%28Civ6%29](Hills).
+Strategy.
+ Iron is usually one of the first resources to be revealed in any given game. Likewise, it is a fairly common, fairly valuable early-game metal that is used to create strong, heavy military [Unit%20%28Civ6%29](units) during the [Classical%20Era%20%28Civ6%29](Classical) and [Medieval%20Era%20%28Civ6%29](Medieval Eras). It is relatively unique in that it grants a boost; very few resources save and are capable of doing this until . Early discovery of Iron can therefore help [Civilizations%20%28Civ6%29](civilizations) with their research efforts as they attempt to gain an early [Technology%20%28Civ6%29](technology) lead, either by working the [Tile%20%28Civ6%29](tile) or using the Iron to build [Swordsman%20%28Civ6%29](Swordsmen) and capturing [City%20%28Civ6%29](cities) to produce more .

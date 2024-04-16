@@ -1,0 +1,3 @@
+# Granary (Civ5)/Civilopedia
+
+A granary is a building constructed to store grain for human or herd animal consumption (or both). The earliest granaries yet discovered were found in a pre-pottery Neolithic settlement in the Jordan Valley of the Middle East, and date back to approximately 9500 BC. These first granaries measured about 10-foot by 10-foot square. They featured raised floors which allowed air to circulate more freely and provided some protection for the grain from mice and other menaces.

@@ -1,0 +1,4 @@
+# Istanbul
+
+Istanbul, also known by its historical names of Constantinople, Byzantium, Byzantion, or Byzanthium, is the [Byzantine](Byzantine) and [Ottoman](Ottoman) [capital](capital) and a [Greek](Greek), [Roman](Roman), and [Turkish](Turkish) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. In real life, it is the largest city in and economic, cultural, and historic hub of present-day Turkey, lies in both [Europe](Europe) and [Asia](Asia) because of its position on the Bosporus Strait, and is home to the [Hagia%20Sophia](Hagia Sophia).
+In [scenario](scenario)s, it may appear as a [Macedonian](Macedonian) city in [Rise%20of%20Rome](Rise of Rome) and a [Western%20Roman](Western Roman) city in [Fall%20of%20Rome](Fall of Rome).

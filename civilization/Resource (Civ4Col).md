@@ -1,0 +1,2 @@
+# Resource (Civ4Col)
+

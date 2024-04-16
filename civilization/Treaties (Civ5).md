@@ -1,0 +1,2 @@
+# Treaties (Civ5)
+

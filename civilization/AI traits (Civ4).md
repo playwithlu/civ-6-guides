@@ -1,0 +1,2 @@
+# AI traits (Civ4)
+

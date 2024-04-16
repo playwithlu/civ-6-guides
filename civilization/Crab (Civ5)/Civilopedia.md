@@ -1,0 +1,3 @@
+# Crab (Civ5)/Civilopedia
+
+Dwelling at the bottom of the sea, the claw-bearing crustaceans known as Crabs are omnivores that will most often consume whatever comes their way. With over 800 species of crabs known to exist throughout the world, they are a staple food in some areas and one of the largest sea commodities in the present day. Among the most popular varieties, the blue crab, for which the Chesapeake Bay of Maryland is famous for producing, is consumed at a rate of over one hundred million pounds per year.

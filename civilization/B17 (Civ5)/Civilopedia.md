@@ -1,0 +1,5 @@
+# B17 (Civ5)/Civilopedia
+
+The Boeing B-17 "Flying Fortress" was a heavy bomber aircraft used by the United States Army Air Corps during World War II. Equipped with four engines, numerous gun emplacements and a superior "flight ceiling," the B-17 was the favorite bomber of the US Air Corps, despite its inferior range and bombload to the B24 Liberator, primarily because of its ability to sustain heavy damage and still bring its crew back home alive.
+Initially used in risky daylight raids against targets in [German%20%28Civ5%29](Germany), the B-17 sustained crippling casualties from the Luftwaffe fighters. As the war progressed and the Allies designed fighters capable of escorting the bombers into enemy territory, the B-17's raids became more successful, doing crippling damage to German industry and cities.
+Over 12,000 B-17s were constructed during World War II and approximately a third of them were lost in combat.

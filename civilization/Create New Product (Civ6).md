@@ -1,0 +1,4 @@
+# Create New Product (Civ6)
+
+Create New Product is a [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)." It is exclusive to the [Monopolies%20and%20Corporations%20%28Civ6%29](Monopolies and Corporations) [Game%20mode%20%28Civ6%29](game mode), introduced in the [Vietnam%20%26amp%3B%20Kublai%20Khan%20Pack%20%28Civ6%29](Vietnam &amp; Kublai Khan Pack). It becomes available in any [City%20%28Civ6%29](city) with a [Resource%20%28Civ6%29%23Luxury](luxury resource) [Corporation%20%28Civ6%29](Corporation), and when completed produces a [Great%20Work%20%28Civ6%29%23Products](Product) which can be placed in a [Stock%20Exchange%20%28Civ6%29](Stock Exchange) or [Seaport%20%28Civ6%29](Seaport).
+There are many types of Create New Product project, corresponding to all luxury resources in the game. You can only run Create New Product projects for a given luxury resource in a city with a Corporation corresponding to that particular luxury.

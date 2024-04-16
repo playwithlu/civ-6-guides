@@ -1,0 +1,5 @@
+# Rock Band (Civ6)/Civilopedia
+
+The form of the rock band came into its present state over the course of the latter half of the Twentieth Century. A rock band consists of a small number of vocalists and musicians (most commonly four, but sometimes numbering more), usually playing electric guitar, drums, electric bass, and sometimes additional instruments such as keyboards, acoustic guitars, tambourine, and cowbell. The cacophony of their “music” is increased by liberal use of amplification devices, a notable contrast from more elegant small ensembles, like the chamber orchestra.
+A touring rock band may be accompanied by specialists in construction, electronics, logistics, merchandising, and—should the audience not be impressed by the atonal jangling of the “musicians”—pyrotechnics. The relationship between the roadie caste and the musicians is a complex one whose nuance exceeds the scope of the Civilopedia.
+All rock music is too loud.

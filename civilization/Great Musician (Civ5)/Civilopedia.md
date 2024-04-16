@@ -1,0 +1,3 @@
+# Great Musician (Civ5)/Civilopedia
+
+It has been said that "music is the soul of a people." If that is indeed the case, then "Great Musicians" are the guardians of that soul. Whatever the form, whatever the instruments, no other art speaks to our emotions like music. From the time that men first beat out a rhythm on logs, to the modern electronic orchestra, great composers and performers have expressed the collective sorrows and joys of each civilization.

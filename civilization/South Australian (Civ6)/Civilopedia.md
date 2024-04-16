@@ -1,0 +1,5 @@
+# South Australian (Civ6)/Civilopedia
+
+The central southern region of Australia is comprised of temperate coastal land, less temperate bush, and the unforgiving Outback. Despite a colonial reputation for consuming crows in the absence of other food, this is a myth—hungry South Australian colonists stuck to parrots and cockatoos, which were much tastier.
+South Australia was the only colony created by an act of Britain’s Parliament. Deliberately designed as a free colony that forbade penal labor, it welcomed poor immigrants who wished to start anew, insisted on a principles of religious freedom, and guaranteed land rights for Aboriginals. From its 1836 inception in Adelaide, the colony largely stuck to its principles.
+Outback stations reared sheep throughout South Australia. Although there was never a true gold rush in the colony, its extensive fields of wheat would come to support much of Australia by the end of the 19th Century.

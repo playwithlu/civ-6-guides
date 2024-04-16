@@ -1,0 +1,3 @@
+# Bowman (Civ4)/Civilopedia
+
+The Bowman was a cornerstone of the Babylonian military. The Babylonians, similar to their Sumerian predecessors, fielded highly trained and well-equipped bowmen. These archers were instrumental in siege warfare; they cleared enemy walls of troops, and sowed terror into the populace by launching volleys of fire arrows into the cities. Once a city had been captured, these bowmen became the key to defending their newly acquired prize.

@@ -1,0 +1,3 @@
+# Workers' Faculties (Civ5)/Civilopedia
+
+The working class, according to Marxist theory, was to be the ruling class in Russia from its transition from socialism to full communism. As such, workers were to enjoy equal access to all the amenities of modern life, from housing to recreational facilities, in a communal society. The most visible of the Workers' Facilities were the communal apartment complexes, where two to seven migrant families from rural areas to the rapidly industrializing cities would occupy an apartment, with each family having a bedroom but all else - kitchen, living room, bathroom, telephone and television - shared among the residents.

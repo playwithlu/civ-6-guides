@@ -1,0 +1,4 @@
+# CivNet
+
+Sid Meier's CivNet (called CivNet for short) was released in 1995 and was a remake of [Sid%20Meier%27s%20Civilization](the original "Civilization") with added [multiplayer](multiplayer), an in-game world editor, custom [leaders](leaders) and [civilizations](civilizations), simultaneous [turn](turn)s, improved graphics and sound, and support for Windows 95/3.1. [Gameplay](Gameplay) was almost identical to the original game. There were several methods of multiplayer, including LAN, primitive Internet play, hotseat, modem, and direct serial link.
+There were 14 civilization options, being [Aztec](Aztec), [Babylonian](Babylonian), [English](English), [Russian](Russian), [Zulu](Zulu), [French](French), [German](German), [Roman](Roman), [Greek](Greek), [American](American), [Indian](Indian), [Chinese](Chinese), [Mongol](Mongol)ian and [Egyptian](Egyptian).

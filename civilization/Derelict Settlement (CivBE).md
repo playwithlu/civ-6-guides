@@ -1,0 +1,3 @@
+# Derelict Settlement (CivBE)
+
+A Derelict Settlement can be investigated by [Explorer%20%28CivBE%29](Explorers). It will be created when an [Outpost%20%28CivBE%29](Outpost) or [Station%20%28CivBE%29](Station) is destroyed, or a [Cities%20%28CivBE%29](City) is razed. However, a player can also find during their explorations such ruins that date from before they landed on the planet. In other words they are the remnants of previous failed attempts by humans to live on the planet. 

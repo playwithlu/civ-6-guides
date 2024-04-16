@@ -1,0 +1,2 @@
+# Competitions (Civ6)
+

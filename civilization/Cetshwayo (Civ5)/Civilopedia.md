@@ -1,0 +1,3 @@
+# Cetshwayo (Civ5)/Civilopedia
+
+Son of the Zulu chieftain Mpande, Cetshwayo (ruled 1856-1879) defied British demands for reparations for Zulu border raids, leading the Anglo-Zulu War. Despite decisively defeating the initial British invasion at the Battle of Isandlwana, British and colonial troops eventually surrounded and destroyed the royal kraal at Ulundi and shortly after captured Cetshwayo, who was exiled to London until 1883, when he returned to Africa to die is relative obscurity.

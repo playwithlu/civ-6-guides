@@ -1,0 +1,3 @@
+# Monarchy (Civ5)/Civilopedia
+
+Monarchy is a form of government where power is vested in an individual. Often, but not always, power passes to the monarch's heir upon the current ruler's death. (There are some elected monarchies, but not many.) Monarchy is similar to despotism, but with one important difference: the monarch rules within the state's laws, while a despot is above all law. It is of course quite possible for a monarch to be a despot - but it is also possible for a monarch to be part of a political process which allows the people a good deal of freedom. Great Britain would be an example of the latter.

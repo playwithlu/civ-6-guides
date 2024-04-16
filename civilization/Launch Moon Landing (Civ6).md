@@ -1,0 +1,4 @@
+# Launch Moon Landing (Civ6)
+
+Launch Moon Landing is a [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)" and the second step toward winning a [Victory%20%28Civ6%29%23Science](Science Victory). It becomes available after researching [Satellites%20%28Civ6%29](Satellites) and completing the [Launch%20Earth%20Satellite%20%28Civ6%29](Launch Earth Satellite) project, and requires a [Spaceport%20%28Civ6%29](Spaceport) [District%20%28Civ6%29](district).
+The second step towards a [Victory%20%28Civ6%29%23Science](Scientific Victory), this project sends a manned spaceflight to the Moon! This major scientific achievement provides the player with an important boost to national pride, in the form a one-time bonus equal to ten times the amount of being produced per turn.

@@ -1,0 +1,5 @@
+# Military-Industrial Complex (Civ6)
+
+Military-Industrial Complex is a [Golden%20Age%20%28Civ6%29](Golden Age) [Policy%20card%20%28Civ6%29](Policy Card) from the [Dramatic%20Ages%20%28Civ6%29](Dramatic Ages) [Game%20mode%20%28Civ6%29](game mode) in "[Civilization%20VI](Civilization VI)". It is available from the [Information%20Era%20%28Civ6%29](Information Era) to the [Future%20Era%20%28Civ6%29](Future Era) and uses a Wildcard slot.
+Strategy.
+Military-Industrial Complex is one of the best choices for a smaller [Civilizations%20%28Civ6%29](civilization), or one that lacks late-game [Resource%20%28Civ6%29%23Strategic](strategic resources). It is also a great choice for civs that use [List%20of%20units%20in%20Civ6/By%20class%23Ranged](ranged units) (or have a [Unique%20unit%20%28Civ6%29](unique) ranged unit) or just like quality over quantity when it comes to their military. Squeezing out a few extra [Unit%20%28Civ6%29](units) that need or while enhancing the quality of said units can easily give someone a winning edge in wartime.

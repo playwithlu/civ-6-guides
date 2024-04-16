@@ -1,0 +1,3 @@
+# Goa
+
+Goa is an [Indian](Indian) and [Portuguese](Portuguese) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games, and also appears as a [city-state](city-state). In real life, it is a state within the Konkan region, geographically separated from the Deccan highlands by the Western Ghats on the southwestern coast in present-day India.

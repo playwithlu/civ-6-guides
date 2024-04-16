@@ -1,0 +1,3 @@
+# Writers' Guild (Civ5)/Civilopedia
+
+Although never as influential as contemporary artists' guilds, guild organizations for writers were created with the advent of the printing press in the Renaissance. Both formal and informal organizations seeking to insure that authors were fairly compensated by printers and booksellers sprang up in a number of European cities. In Shakespeare's London and elsewhere, playwrights banded together to protect their profits from plagiarism and unlicensed performances. Although more trade unions than guilds, today the tradition is carried on by hundreds of organizations around the world, such as the Scriptwriters Guild of Israel, Writers Guild of Great Britain, and the American Authors Guild.

@@ -1,0 +1,11 @@
+# Superconductor (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+High Temperature Superconductors are a major Advance, enabling a wide range of new technological devices that take advantage of superconductors, but do not need to meet the expensive and cumbersome coolant requirements of regular superconductors.
+The represents the zenith of scientific achievement. It becomes the center of breakthrough research and increases throughout the host empire.
+Magnetic Levitation Trains, or , are transit systems that whiz along the surface of the earth at speeds well in excess of any other form of land transportation. As a , they are the fastest way to get around, dramatically reducing the movement costs associated with any terrain they are built on.
+Great Library entry.
+Since the discovery of superconducting materials, scientists have searched for superconductors that could operate at normal, naturally occurring temperatures. Many early superconductors were sensitive to such things as oxygen content and humidity and, perhaps most limiting, require extremely low temperatures to operate. Their lack of resistance made superconductors ideal for electromagnets that generated large magnetic fields with no energy loss. They were used primarily in medical diagnosis, materials science and particle accelerators.
+In the mid-21st century, scientists developed highly synthesized ceramic compounds that could maintain superconductivity at room temperature. Coupled with their tolerance for all but the most severe atmospheric conditions, these new high temperature superconductors had a much greater range of applications than previous superconductors did. High temperature superconductors revolutionized Magnetic Levitation Train (Maglev) technology and enabled engineers to develop high-speed maglevs capable of speeds in excess of 300 mph.
+Scientific research also benefited from high temperature superconductors. The Field Dynamics Laboratory employed high temperature superconductors in diagnostic machines and monitoring instruments, enabling scientists to measure the results of experiments with unprecedented sensitivity.

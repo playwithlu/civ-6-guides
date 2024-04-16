@@ -1,0 +1,3 @@
+# Triplane (Civ5)/Civilopedia
+
+Deriving its name from the unique three-tiered wing system utilized in its design, the triplane was used with varying degrees of success during World War I. The most famous triplane of the war, the Fokker Dr.I, was used extensively by the German air force, gaining particular notoriety as the legendary Red Baron's craft of choice. Although engineers developed many variations on the triplane design, advancements in the traditional biplane rendered the triplane obsolete within a decade of its introduction.

@@ -1,0 +1,3 @@
+# Vertical Integration (Civ6)/Civilopedia
+
+In business, vertical integration is the process of controlling the production and distribution of a product at many points in its supply chain. The classic example is an automobile company owning steel mills to provide the steel used to build its automobiles. This practice has the advantage of providing a reliable source of material to produce a product. But taken to an extreme, vertical integration creates monopolies.

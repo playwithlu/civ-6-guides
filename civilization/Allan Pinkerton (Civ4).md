@@ -1,0 +1,2 @@
+# Allan Pinkerton (Civ4)
+

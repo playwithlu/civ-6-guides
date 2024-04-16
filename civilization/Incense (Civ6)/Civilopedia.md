@@ -1,0 +1,3 @@
+# Incense (Civ6)/Civilopedia
+
+Incense, believed to have both medicinal and mystic qualities, is any material – usually some part of a plant – that gives off an aromatic smoke when burned. Incense is known to have been used extensively in both ancient Egypt and ancient India by 3300 BC. Besides its use in religious ceremonies, incense has been used in homes to cover the rich scent of crowded humanity, while the cloying fragrance helped mute the odor of decomposition in mummies for Egyptians.

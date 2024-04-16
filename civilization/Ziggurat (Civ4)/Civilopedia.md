@@ -1,0 +1,3 @@
+# Ziggurat (Civ4)/Civilopedia
+
+The Ziggurats were religious centers dedicated to the gods of ancient Sumeria. Each was comprised of a temple built upon of a series of tiered, earthen platforms, raising the building atop and dwarfing the surrounding structures. Every city's Ziggurat was dedicated to one specific god. These individual dedications sprung from the Sumerian belief that each temple was not a place of worship, but the actual home of the god. Belief held that the gods originated from the distant mountains, and it is thought that the ziggurats were raised in order to make the new dwellings of the gods a little more like home.

@@ -1,0 +1,7 @@
+# RIft Seas (C-evo)
+
+RIft Seas is one of the biggest pre-made maps that can be downloaded with the free game [C-evo](C-evo).
+At size 761% it has a wide variety of terrain, mostly in unbroken expanses of prairie but with several mountain chains and substantial areas that are almost entirely hills or forest/jungle or swamp. Threaded through the pririe areas are narrow waterways joining a few lakes, with hardly any deep water and with largely fertile ground along the shorelines. The waterways run generally north-west to south-east or north to south and have crossing points for land units at intervals. Standard rivers go in all directions, mostly through fertile ground.
+The map creator added many extra bonus tiles so that in some places a city may be able to exploit three or four wheat tiles as well as three or more grassland/plains.
+The 20 start points are mostly in the equatorial belt and each has an area either north or south where it can manage uncontested expansion for a while. One design flaw sees one of the start points starving its nation to death by 3800BC and another one is almost surrounded by mountains and loses population initially though with energetic irrigation it can soon benefit from an adjacent coastal strip with well mixed terrain.
+Rare minerals are much more abundant than on a random map and are wastefully bunched here and there.

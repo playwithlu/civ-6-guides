@@ -1,0 +1,2 @@
+# Democracy (technology) (Civ1)
+

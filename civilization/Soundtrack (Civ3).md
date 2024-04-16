@@ -1,0 +1,4 @@
+# Soundtrack (Civ3)
+
+The soundtrack of "[Civilization%20III](Civilization III)" was written by [Roger%20Briggs](Roger Briggs) and [Mark%20Cromer](Mark Cromer). There are five different mixes that represent the five major cultural groupings of the [Civilizations%20%28Civ3%29](civilizations) in the game ([Europe](Europe)an, [North%20America](North America)n, [Middle%20East](Middle East)ern, [Greek](Greco)-[Roman](Roman), and [Asia](Asia)n), and the music changes to reflect the [Era%20%28Civ3%29](era) as the game progresses.
+During diplomatic negotiations with [Leaders%20%28Civ3%29](leaders) of other civilizations, there are both aggressive and passive tracks for each culture grouping that play depending on the mood of the civilization the player negotiates with. All the music in the game is stored in MP3 format.

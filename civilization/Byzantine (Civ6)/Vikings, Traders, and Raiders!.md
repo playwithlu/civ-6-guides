@@ -1,0 +1,3 @@
+# Byzantine (Civ6)/Vikings, Traders, and Raiders!
+
+The Byzantine people represent Byzantium, a non-playable [Civilizations%20%28Civ6%29](civilization) from the [Vikings%2C%20Traders%2C%20and%20Raiders%21%20%28Civ6%29](Vikings, Traders, and Raiders!) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". They are led by [Basil%20II%20%28Civ6%29/Vikings%2C%20Traders%2C%20and%20Raiders%21](Basil II), and their [Unique%20ability%20%28Civ6%29](civilization ability) is "Byzantine," which allows them to start with the [Hagia%20Sophia%20%28Civ6%29](Hagia Sophia) [Wonder%20%28Civ6%29](wonder) in [Constantinople](Constantinople).

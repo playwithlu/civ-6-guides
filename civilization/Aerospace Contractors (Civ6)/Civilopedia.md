@@ -1,0 +1,3 @@
+# Aerospace Contractors (Civ6)/Civilopedia
+
+In nations with well-developed aerospace industries and government-sponsored space exploration, it is common for the government to contract with these industries to manufacture and service the tools of space exploration. This is generally seen to benefit both parties: The government pays less (ostensibly) because it can tap into an existing pool of talent, and the industries benefit by extending their government space program work into the civilian sector. In that latter case, spinoffs from the hook-and-loop fastener to powdered breakfast drink to the global positioning system are all extensions of the government space program.

@@ -1,0 +1,13 @@
+# Corporation (Civ6)
+
+The Corporation is a special [Tile%20improvement%20%28Civ6%29](tile improvement) in "[Civilization%20VI](Civilization VI)". It is built by a [Great%20Merchant%20%28Civ6%29](Great Merchant) and is exclusive to the [Monopolies%20and%20Corporations%20%28Civ6%29](Monopolies and Corporations) [Game%20mode%20%28Civ6%29](game mode), introduced in the [Vietnam%20%26amp%3B%20Kublai%20Khan%20Pack%20%28Civ6%29](Vietnam &amp; Kublai Khan Pack). It can only be built on a [Resource%20%28Civ6%29%23Luxury](luxury resource) which a player already owns three improved copies of and on a [Tile%20%28Civ6%29](tile) that is already improved by an [Industry%20%28Civ6%29](Industry).
+Strategy.
+When [Economics%20%28Civ6%29](Economics) is discovered, you can take your [Industry%20%28Civ6%29](Industries) to the next level with this Corporation improvement. Similar to its predecessor, the Industry, the Corporation also has a few notable quirks:
+Once established, Corporations allow their parent city to run an expensive new project called [Create%20New%20Product%20%28Civ6%29](Create New Product), up to 5 times, provided there are [Stock%20Exchange%20%28Civ6%29](Stock Exchanges) or [Seaport%20%28Civ6%29](Seaports) with free slots within the empire. There are many variations of products, corresponding to the types of luxury resources, but the mechanics behind them stay the same. Once finished, the project creates a new type of [Great%20Work%20%28Civ6%29](Great Works) called Products.
+Products can be stored inside [Stock%20Exchange%20%28Civ6%29](Stock Exchanges) and [Seaport%20%28Civ6%29](Seaports) (each of which has 3 slots in this game mode) and provide a stackable bonus that consists of:
+The industry bonus provided by Products will also stack with the Corporation bonus (e.g. a Silver corporation will provide a maximum of 50%+25%*5 multiplier). Products can also be traded to other [Civilizations%20%28Civ6%29](civilizations), just like Great Works.
+Note that when you build a Corporation, the existing Industry improvement will be removed, so the net yield you gain from this is actually 2 , 8 , and 2 , and you will lose the extra point from the Industry.
+Mechanics.
+The table below lists all of the bonuses that each luxury grants to its host city once it has been improved with a Corporation. Each created Product provides half this bonus.
+Corporation names.
+Each new Corporation is given a name formed by randomly choosing one of the prefixes and one of the suffixes from the table below.

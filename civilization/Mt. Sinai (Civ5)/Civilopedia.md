@@ -1,0 +1,3 @@
+# Mt. Sinai (Civ5)/Civilopedia
+
+Found on the Sinai Peninsula of Egypt, Mount Sinai is among the most revered holy sites recognized by the followers of Judaism, Christianity, and Islam. Mount Sinai is believed to be the location where Moses first received the Ten Commandments from God during the Israelites' exodus from Egypt, making the peak an important site for religious pilgrims from around the world.

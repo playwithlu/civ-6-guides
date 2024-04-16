@@ -1,0 +1,3 @@
+# Culture Bomb
+
+In the "[Civilization%20%28series%29](Civilization)" games, a "Culture Bomb" can be activated to automatically claim nearby [tile](tile)s, even if they already belong to another [Civilizations](civilization). The means of activating it vary from game to game: it may be triggered by using a [unit](unit)'s ability, or by building certain [tile%20improvement](tile improvement)s or [district](district)s while playing as a particular civilization or [Leaders](leader).

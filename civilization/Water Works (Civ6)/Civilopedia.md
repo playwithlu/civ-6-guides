@@ -1,0 +1,3 @@
+# Water Works (Civ6)/Civilopedia
+
+Water works is the collective term for the filtering, pumping, and plumbing infrastructure that provides clean water to people. In many jurisdictions, these are public services that are administered by local governments. It is also the colloquial term for crying, as in: "The audience turned on the water works at the end of the play." No one has ever used that sense of the term to refer to crying over utility bills, which is a bit paradoxical.

@@ -1,0 +1,3 @@
+# Cathedral (Civ5)/Civilopedia
+
+The Cathedral is a form of Christian church differentiated by the presence of the Bishop's throne. The Latin term "Cathedra" means "chair," in reference to the throne itself - the cathedral then being the building containing this throne. Most cathedrals feature a unique architectural style when compared to other surrounding structures, frequently becoming noted landmarks within the area. While primarily used as places of worship, cathedrals are also host to varying social functions within the community.

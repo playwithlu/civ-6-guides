@@ -1,0 +1,7 @@
+# Eden Project (CTP1)
+
+The Eden Project (referred to in-game as "The Eden Project") is a wonder in "". It destroys the three most polluting cities in the world (excluding those in the host civilization) and allows [Ecotopia%20%28government%29%20%28CTP1%29](Ecotopian) societies to build the [Eco%20Ranger%20%28CTP1%29](Eco Ranger) unit.
+Gameplay.
+The Eden Project brings all Civilizations into a new age of consciousness, a time when the health of the Earth justifies any action. This destroys the three most [Pollution%20%28CTP1%29](polluting) cities worldwide. Also, n Civilizations can begin making s. Woe betide those who ignore Gaia's needs.
+Great Library entry.
+The Eden Project was borne from the passionate desire of environmentalists around the world to return the Earth to its natural state. At a time when the natural world seemed on the verge of collapse, the Ecotopians launched a new crusade to save what was left of the Earth's wild areas. "The Earth," they boldly declared, "has certain inalienable rights... rights that supercede those of the individual or even human society." Politicians, though wary of the Ecotopians growing power, were forced by public demand to requisition funds for what would later be called the Eden Project. Employing a team of nanotechnologists the Ecotopians created a tool, the Eco Ranger, with the power to create or destroy on an epic scale. Tragically, the Ecotopian movement made good on its promise to assert "natural rights" over the rights of human beings.

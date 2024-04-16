@@ -1,0 +1,5 @@
+# Chemistry (Civ5)/Civilopedia
+
+The offspring of alchemy and mathematics, Chemistry is the science of matter, its structure, behavior, composition, and how it behaves during chemical reactions. Physicists drop balls off of towers and time how long it takes them to fall; chemists study the balls themselves and try to figure out why some shatter and some bounce.
+While scientists, doctors and philosophers have been interested in chemistry throughout history, it achieved the dignified status of science in 1789, when Antoine Lavoisier published a paper describing the law of conservation of mass. In "Elements of Chemistry," Lavoisier discovered the composition of air and water, coining the term "oxygen." He also debunked the phlogiston theory, which had been hanging around confusing scientists for over 100 years.
+Lavoisier is considered the father of modern chemistry. His example led other chemists to employ scientific methods to the study of chemicals. By so doing, they were able to disprove theories that had been taken as gospel since they were put forth by the Greeks thousands of years ago.

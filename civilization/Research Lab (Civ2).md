@@ -1,0 +1,6 @@
+# Research Lab (Civ2)
+
+ A Research Lab is a [List%20of%20buildings%20in%20Civ2](building) in "[Civilization%20II](Civilization II)" that increases the science output of a by an additional 50% (cumulative with a and [University%20%28building%29%20%28Civ2%29](University), which must be present for this to be built).
+The [SETI%20Program%20%28Civ2%29](SETI Program) creates a research lab in all of its owner's cities. Players may sell their research labs with the SETI program with no consequences.
+Civilopedia entry.
+Historically, libraries and universities have acted as the primary centers of research for new ideas and technologies. The growth of private industry in the modern age has also given birth to hundreds of privately-owned research facilities. These private laboratories, usually dedicated to research in a single field related to their founding company, have made tremendous advances in many fields including physics, biology, chemistry, and medicine. The growth of privately-funded research has vastly increased the speed at which mankind achieves new advances in science and technology.

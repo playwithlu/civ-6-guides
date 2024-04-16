@@ -1,0 +1,3 @@
+# List of historical figures in Civ3
+
+The following is a list of historical figures in "[Civilization%20III](Civilization III)" and its expansions. They are created as "[Leader%20%28Civ3%29](Leaders)" by upgrading a [List%20of%20units%20in%20Civ3](unit). Links to [Wikipedia](Wikipedia) (or other appropriate resources) are provided here; click on one of these names to view more information on the respective historical figure.

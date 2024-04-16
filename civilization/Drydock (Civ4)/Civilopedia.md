@@ -1,0 +1,3 @@
+# Drydock (Civ4)/Civilopedia
+
+A drydock is a facility for constructing and repairing ships. Drydocks may be floating structures or land-based. They contain one or more large bays in which the ship-work is done. These bays are below sea-level and contain drainage systems and water-tight doors. While construction or repairs are going on, the drydock is dry, the vessel sitting on the dock's floor supported by an elaborate structure of scaffolding. When construction or repairs are complete, the dock is flooded and the ship floats gently off the scaffolding. Once the water level inside the dock reaches sea-level, the drydock's doors are opened and the ship can proceed to sea.

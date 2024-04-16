@@ -1,0 +1,3 @@
+# Temple of Artemis (Civ5)/Civilopedia
+
+The Temple of Artemis, a Greek temple first constructed in 880 BC, was dedicated to the Goddess Artemis who represented the wilderness, the hunt and the moon. Originally built in the city of Ephesus, the temple is said to have been destroyed and rebuilt no less than seven times, the victim of both natural and man-made disasters. Considered one of the Seven Wonders of the Ancient World, the site was rediscovered by British archaeologists in the late 1800s, and today is marked by a single column made up of excavated remnants found at the site.

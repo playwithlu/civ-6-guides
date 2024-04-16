@@ -1,0 +1,7 @@
+# Shah Jahān (Civ6)
+
+Shah Jahān is a in "[Civilization%20VI](Civilization VI)". He was added in the [Babylon%20Pack%20%28Civ6%29](Babylon Pack).
+Unique ability.
+Grants towards [Wonder%20%28Civ6%29](wonder) construction, capped at half your current treasury, then reduces your twice the amount of purchased .
+Strategy.
+Shah Jahān is a ridiculously powerful , especially in the hands of a [Civilizations%20%28Civ6%29](civilization) with a vast treasury. The awkward wording of his ability description makes it hard to conceive how it functions and how strong it is. Basically, he allows you to purchase toward wonders with at half the normal price (1 for 2 , instead of 4). The most expensive wonder in the game is the [Sydney%20Opera%20House%20%28Civ6%29](Sydney Opera House) at 1850 , which is equivalent to 3700 if built by Shah Jahān. Even for civilizations with no bonus toward , accumulating 3700 in the last few [Era%20%28Civ6%29](eras) of the game is not a difficult task. The best thing about this ability is that there's no hard limit on how much can be purchased - with the [Mausoleum%20at%20Halicarnassus%20%28Civ6%29](Mausoleum at Halicarnassus), Shah Jahān can easily give you two full wonders in no time, provided that you have enough for him to complete the projects.

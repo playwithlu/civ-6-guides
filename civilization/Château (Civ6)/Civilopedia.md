@@ -1,0 +1,3 @@
+# Château (Civ6)/Civilopedia
+
+If one must ask, one cannot afford it. A château is a manor house or country home of landed gentry, usually without fortifications. In the Middle Ages, a château was largely self-sufficient, being supported by the lord's demesne (hereditary lands). In the 1600s, the wealthy and aristocratic French lords dotted the countryside with elegant, luxuriant, architecturally refined mansions such as the Château de Maisons. But many of these stately homes were burned during peasant revolts and populist revolutions. But a few remain as tourist attractions. Today, the term château is loosely used; for instance, it is common for any winery or inn, no matter how humble, to prefix its name with "Château."

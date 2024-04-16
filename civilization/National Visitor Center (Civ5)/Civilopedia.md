@@ -1,0 +1,3 @@
+# National Visitor Center (Civ5)/Civilopedia
+
+A Visitor Center is a location that provides information to the travelers to a specific site or area. Most common are the government-run visitor centers which provide information and suggestions on visiting the area's attractions, lodging and costs as well as maps, brochures and memorabilia. The first simple visitor centers were located at railroad stations, and maintained by the railroad companies in the hopes of fostering repeated visits. Today, most towns and cities have a visitor center of some sort with the same aim.

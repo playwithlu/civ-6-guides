@@ -1,0 +1,3 @@
+# Moorehead Circle (Civ5)/Civilopedia
+
+Discovered in 2005 AD in southwest Ohio, the Moorehead Circle - a "woodhenge" - was constructed about 2000 years ago, between 40 BC and 130 AD, likely by one of the tribes in the Hopewell culture. Consisting of three concentric rings of wooden posts, estimated up to 15 feet tall each, some 200 in the outer ring that was about 200 feet in diameter, the Moorehead Circle was likely used for ceremonial purposes, though the specifics are unknown. Recently, a central altar filled with red earth with a 40-by-50 foot rectangular structure adjacent has been uncovered.

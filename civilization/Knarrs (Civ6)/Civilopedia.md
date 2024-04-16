@@ -1,0 +1,3 @@
+# Knarrs (Civ6)/Civilopedia
+
+The Viking knarr was a heavy, freight-carrying cargo ship that could haul a couple dozen tons of goods and crew on long sea voyages. Routinely venturing on trading voyages across the Mediterranean, Baltic and North seas, the knarr also carried Norse colonists to the likes of Iceland, Greenland and Vinland. Though it was neither sleek nor picturesque when set aside a longship, the knarr was the true workhorse of the Viking fleets.

@@ -1,0 +1,4 @@
+# Bill Stealey
+
+John Wilbur "Wild Bill" Stealey Sr. (born August 22, 1947) is an American video game developer and publisher who founded [MicroProse](MicroProse) with [Sid%20Meier](Sid Meier). A former lieutenant colonel in the USAF, he designed "Airborne Ranger" and provided creative services, quality assurance, and playtesting for several games, including "Silent Service", "Kennedy Approach", "Gunship", "[Pirates%21%20%281987%29](Sid Meier's Pirates!)", "M1 Tank Platoon", "[Railroad%20Tycoon](Railroad Tycoon)", "Darklands", "Apache", and "iM1A2 Abrams".
+Stealey founded iEntertainment Network (originally Interactive Magic) in 1995 and has been the company's CEO since 2002.

@@ -1,0 +1,3 @@
+# Great Artist (Civ5)/Civilopedia
+
+"Great Artists" are the visionaries of civilization. They interpret the world, bringing beauty, brilliance, form and color where none may have been found before. They carve the statues, paint the pictures, take the photos and make the films that define our humanity. Often their work surpasses its time and place, enlightening and elevating a people, making a civilization far greater than its material possessions and power.

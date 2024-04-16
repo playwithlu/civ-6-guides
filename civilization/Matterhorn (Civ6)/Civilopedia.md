@@ -1,0 +1,4 @@
+# Matterhorn (Civ6)/Civilopedia
+
+The jagged precipice of the Matterhorn stands alone amongst the Alps. Its giant spire reaches nearly 15,000 feet, dominating the landscape of valleys surrounding it. As with most tall mountains, people saw the Matterhorn and decided to climb it.
+Mountaineers long considered the Matterhorn a worthy opponent. One 19th Century mountaineer famously declared it unclimbable, but this claim was proven false when Edward Whymper and a party of ten other climbers began their ascent on July 14th, 1865. Though the Matterhorn claimed the lives of four companions, Whymper’s party was the first to conquer the mountain. (The mountaineer who declared it “unclimbable” was Whymper himself, who had tried and failed multiple times before.)

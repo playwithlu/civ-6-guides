@@ -1,0 +1,3 @@
+# Cat Burglar (Civ6)/Civilopedia
+
+Like the infamous (albeit fictional) Arthur J. Raffles or (real) Bill Mason, cat burglars steal valuables. Spies too are occasionally called upon to pilfer things – plans, designs, codes … and artwork. The latter either to embarrass a foreign government, or to reclaim their national cultural artifacts that have been looted or stolen previously. The ability to slip in and out undetected, leaving the authorities baffled, is a skill that has brought more than one master thief to employment in an intelligence service. The most successful heists are never, of course, announced or admitted by either the victims or the agents.

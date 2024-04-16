@@ -1,0 +1,10 @@
+# Pā (Civ6)
+
+The Pā is a unique [Tile%20improvement%20%28Civ6%29](tile improvement) of the [M%C4%81ori%20%28Civ6%29](Māori) [Civilizations%20%28Civ6%29](civilization) in "". It is built by the [Toa%20%28Civ6%29](Toa) and must be on a [Hills%20%28Civ6%29](Hills) [Tile%20%28Civ6%29](tile).
+In the [Zombie%20Defense%20%28Civ6%29](Zombie Defense) [Game%20mode%20%28Civ6%29](game mode), the Pā deals minor (10 [HP](HP)) damage to hostile units passing through it.
+Strategy.
+The Pā is exactly the same as the [Fort%20%28Civ6%29](Fort), except for the healing for Māori units using it.
+Using the Pā effectively is the same as using Forts effectively. Place them along the fringes of your [Territory%20%28Civ6%29](territory), especially along [Borders%20%28Civ6%29](borders) with other civs. Preferably, you do not want to place a Pā on an open and isolated tile, since the unit occupying it can be swarmed by enemies. It is a good idea to place this improvement on a strategic spot against a Mountain range where you cannot be ambushed from all sides, or on the escape route between multiple enemy cities to cut off their retreat and quickly heal your units while moving from one city to another.
+Remember, similar to a Fort, if the enemy manages to occupy your Pā, they will receive the fortification bonus. However, the Pā will not provide extra healing to the enemy.
+The Pā can only be built on Hills [Terrain%20%28Civ6%29](terrains), and similar to other Fort-like improvements, the tile cannot contain any removable features. While the Toa can clear features, the action will consume its build charge, so remember to escort a [Builder%20%28Civ6%29](Builder) with you just in case you need to build this improvement on a strategic hill that happens to be covered with a terrain feature. Also note that you can only clear features inside your own territory.
+The healing aspect functions similarly to the [Mamluk%20%28Civ6%29](Mamluk's) healing ability, the healed amount depends on the location of the Pā and always applies as long as a unit ends their turns on a Pā. A unit will heal 10 HP if the Pā is in neutral territory and 15 HP if it is inside friendly territory.

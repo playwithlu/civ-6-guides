@@ -1,0 +1,5 @@
+# Castle (Civ5)/Civilopedia
+
+A castle is a building designed to protect a military force (and perhaps some civilians, too) from its enemies. Primarily constructed of stone (wood being unfortunately flammable), castles usually contain an outer wall and a separate fortified inner building, or "donjon." A castle should also contain an independent water source and storage for a lot of food.
+A well-designed castle should provide its defenders with a way to kill the attackers during their approach, and while they're attempting to scale the walls or break through the gates. Arrow slits and crenellations (battlements with portions cut out at regular intervals) are required, while "murder holes" to shoot arrows or pour boiling oil on attackers' heads are a nice addition.
+Castles were the largest and most expensive sign of a country's military and economic might until the advent of gunpowder artillery made them into elaborate and expensive deathtraps for those within.

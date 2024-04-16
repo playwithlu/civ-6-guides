@@ -1,0 +1,8 @@
+# Unified Physics (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Whereas Newtonian , and were, in some ways, each inadequate to explain all aspects of the known universe, Unified Physics explains the nature of everything. The application of this revolutionary new science makes unimaginable things possible, such as the and the . 
+The gives the ability to build a nearly impenetrable wall of energy, which dramatically increases city defenses. The grants a to every city in the host empire.
+Great Library entry.
+Unified Field Theory, also known as the "Unified Theory of Everything," was an attempt to describe all fundamental forces and the relationships between elementary particles within a single theoretical framework. Physicists were able to describe forces by fields that mediate interactions between separate objects. For instance, in the mid-19th century, James Clerk Maxwell formulated the first field theory in his theory of electromagnetism. Then, in the early part of the 20th century, Albert Einstein developed a field theory of gravitation, known as general relativity. Later, Einstein and others attempted to construct a unified field theory in which electromagnetism and gravity would emerge as different aspects of a single fundamental field. They did not succeed, and a unified field theory remained out of reach for the rest of the 20th century. When 21st-century physicists succeeded in unraveling the mysteries of chaos theory, they were finally able to create the first unified theory of everything.

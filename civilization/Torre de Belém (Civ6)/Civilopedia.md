@@ -1,0 +1,3 @@
+# Torre de Belém (Civ6)/Civilopedia
+
+The Torre de Belém is one of Portugal’s most recognizable structures and serves a monument to the Age of Discovery. The tower stands defensively in Lisbon’s harbor and acted as the starting point for many explorers setting off into the Atlantic. King Manuel I commissioned Francisco de Arruda in the 16th century to design and build the structure. The tower is made from limestone and is designed in the ornate Manueline style. The grand stonework is visible from a distance. If someone were to give the tower a closer look, they would see sculptures and most curiously, a rhinoceros head carved into the stone. Even with its exterior grandeur and beauty, it was functional and served as an active defense for the region.

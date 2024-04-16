@@ -1,0 +1,5 @@
+# Line Production
+
+Line Production is one of the "[Special%20Features%20%28C-evo%29](Special Features)" group of [Unit%20Features%20%28C-evo%29](Unit Features) in [C-evo](C-evo). Without taking up any of the [weight%20%28C-evo%29](weight) quota (as some unit features do), it gives you all units except the first in a row in any one [city%20%28C-evo%29](city), at half the [resource%20%28C-evo%29](resource) cost - ideal for combining with your [Military%20Academy%20%28C-evo%29](Military Academy). 
+The first unit can seem horrendously expensive, but by the end of unit three you will have broken even (3 for the price of 3) and will thereafter get them at half price until shortly after your city's production exceeds that cost (when you will find that you can't carry [production%20overflow%20%28C-evo%29](production overflow) on "ad infinitum").
+You may greatly reduce the cost of the first unit by incorporating obsolete units (for two-thirds of their resource cost if they have 100% health and at least a whole movement point).

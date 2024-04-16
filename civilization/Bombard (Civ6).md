@@ -1,0 +1,8 @@
+# Bombard (Civ6)
+
+The Bombard is a [Renaissance%20Era%20%28Civ6%29](Renaissance Era) [List%20of%20units%20in%20Civ6/By%20class%23Siege](siege unit) in "[Civilization%20VI](Civilization VI)". It upgrades from the [Trebuchet%20%28Civ6%29](Trebuchet) (or its replacements) and requires .
+In the "" expansion, the Bombard requires 20 to train.
+Strategy.
+As the progressively more elaborate fortifications of enemy [Civilizations%20%28Civ6%29](civilizations) make Trebuchets less and less effective at breaking through, dire necessity spurs on a new invention. Utilizing the miraculous recent developments in gunpowder, Renaissance engineers devised what essentially amounts to an oversized musket, designed to hurl massive metal balls with incredible speed against those pesky, now-obsolete walls.
+Thanks to its enormous firepower, the Bombard has little trouble blasting through the defenses of Renaissance-era [City%20%28Civ6%29](cities) and their [District%20%28Civ6%29](districts). Becoming available right after the [Musketman%20%28Civ6%29](Musketman), the pair are excellent in tandem with one another, as the swift Musketman can provide support for the ponderous Bombard on the battlefield. A small formation of Bombards positioned on [Hills%20%28Civ6%29](hills) or flat land within firing range of a city will easily demolish its defenses, leaving it ripe for the taking. Its decent defensive strength is an additional perk.
+For more details on how the move-and-shoot rule works, head [Movement%20%28Civ6%29%23Siege%20units%20and%20the%20move-and-shoot%20rule](here).

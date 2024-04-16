@@ -1,0 +1,3 @@
+# Michael Curran
+
+Michael Curran is a composer and sound designer who previously worked for [Firaxis%20Games](Firaxis Games). He is known for composing the [soundtrack](soundtrack)s for "[Civilization%20IV](Civilization IV)", "[Civilization%20V](Civilization V)", and their expansions (', ', ', and '), as well as providing sound and music for ', sound effects for "[Civilization%20Revolution](Civilization Revolution)", and additional music for '.

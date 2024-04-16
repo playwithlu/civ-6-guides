@@ -1,0 +1,3 @@
+# Ismail Pasha (Civ5)/Civilopedia
+
+Known as Ismail the Magnificent, Ismail Pasha became Khedive of Egypt and the Sudan in 1867 when the Ottoman Porte granted a firman recognizing his rule in exchange for an increase in tribute. Despite his reforms and urbanization programs, a costly war with Ethiopia (1875-1884) resulted in the sale of his country's shares in the newly opened Suez Canal and Ismail Pasha was toppled from power in 1895 after the British government's investigation into Egypt's finances forced his abdication in favor of a constitutional monarchy.

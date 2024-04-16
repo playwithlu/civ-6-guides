@@ -1,0 +1,3 @@
+# Legion (Civ5)/Civilopedia
+
+The Roman Legion is - justifiably - the most famous military unit from antiquity. Armed with a "pilum" (throwing spear) and "gladius" (short sword), and wearing a metal helmet, cuirass and shield, Roman Legions conquered the known world. Along with the best weapons technology available at the time, the Roman Legions were highly trained and extremely disciplined. Under competent leadership there was literally no other military able to stand up to them.

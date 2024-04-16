@@ -1,0 +1,3 @@
+# Great Lighthouse (Civ5)/Civilopedia
+
+The Great Lighthouse, also known as the Pharos, was a marble watchtower and lighthouse built in 280 BC on an island in the harbor of Alexandria, Egypt. Estimated to have been 300 feet high, the primary function of the lighthouse was to guide approaching ships to the harbor on an otherwise unmarked coast. Exactly how the Pharos functioned is open to debate, with some historians believing that fires were burned on the top of the tower, while others believe that mirrors were used to reflect sunlight. (Since ships rarely sailed along coasts at night, there was probably little need for the lighthouse after dark.) The Pharos was destroyed in the 14th century after having been damaged by earthquakes.

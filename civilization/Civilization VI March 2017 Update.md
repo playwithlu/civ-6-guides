@@ -1,0 +1,5 @@
+# Civilization VI March 2017 Update
+
+The March 2017 Update, also known as the Spring 2017 Update for "[Civilization%20VI](Civilization VI)" was released on March 28, 2017. The update was released simultaneously with the [Persia%20and%20Macedon%20Civilization%20%26amp%3B%20Scenario%20Pack%20%28Civ6%29](Persia and Macedon Civilization &amp; Scenario Pack). The update includes a number of balance changes, AI adjustments, multiplayer changes, and bug fixes.
+The [Harbor%20%28Civ6%29](Harbor) balance change, included in this patch, brings the strength of the various districts in line with each other. In addition, there are now added nuances to the warmonger penalties so they only hit with their full strength if one is truly wresting valuable cities from one's opponents.
+The following is a complete list of change notes.

@@ -1,0 +1,3 @@
+# Vampire (Civ6)/Civilopedia
+
+The myth of the vampire is one that has a particular resonance in a world where hereditary aristocracy is largely a thing of the past. Cruel masters, obsessed with eternal youth, who prey upon a populace to whom they imagine themselves to be superior, full of decadent but decayed culture, hold a fascination as monarchies worldwide have fallen one by one. They emerge as sometimes tragic, sometimes horrific villains or antiheroes to a population confined to normalcy. Of these, the quintessential real-life vampire would be the Countess Elizabeth Báthory de Ecsed, a Hungarian noblewoman who, according to legend, believed that she could preserve her youth and beauty through the blood of her victims – over 600 of them.

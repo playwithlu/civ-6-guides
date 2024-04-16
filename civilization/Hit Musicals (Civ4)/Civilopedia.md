@@ -1,0 +1,4 @@
+# Hit Musicals (Civ4)/Civilopedia
+
+"Drama" is defined as a literary form in which the author writes parts for actors to play. Usually the actors are playing the parts of other people and the drama displays an event in which those people participate. Western drama as we know it was invented by the Greeks sometime in the fifth century BC. The very first dramas were probably lyric poems sung by a chorus eventually actors were added to portray heroes and villains in the poems. Western drama has changed very little in form since then.
+The date of origin of Eastern drama is widely debated, primarily because scholars don't agree upon what elements are necessary to distinguish drama from other art forms such as pantomime, dancing, and certain religious rituals, some of which date back to over four thousand years ago. It is known that a Chinese theatre opened in around 700 BC.

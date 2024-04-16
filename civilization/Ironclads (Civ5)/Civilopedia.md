@@ -1,0 +1,3 @@
+# Ironclads (Civ5)/Civilopedia
+
+In an attempt to break the Union blockade, the Confederacy was the first in the Civil War to turn to constructing an ironclad; in October 1861 the CSS Manassas became the first ironclad to enter combat, engaging Union warships in the Battle of the Head of Passes - a battle overshadowed by the first ironclad clash between the CSS Merrimack and the USS Monitor the following February.

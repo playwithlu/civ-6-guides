@@ -1,0 +1,5 @@
+# Schoolhouse (Col)
+
+A Schoolhouse is a tier 1 workplace [building%20%28Col%29](building) where certain specialists may teach their skills. Only one teacher may be working in a Schoolhouse at a time, and only one student may be taught at a time. In [FreeCol](FreeCol), you may select which colonist will be the student. (The student must be working somewhere in the colony, either indoors or outdoors. This work takes place at the same time as the teaching.)
+The Schoolhouse requires a population of 4, and costs 64 [Hammer%20%28Col%29](Hammers). It may be upgraded to a [College%20%28Col%29](College) and then to a [University%20%28Col%29](University).
+A [Free%20Colonists%20%28Col%29](Free Colonist) student will acquire the teacher's specialty after a few turns, at which time the teacher will need a new student. A [Petty%20Criminals%20%28Col%29](Petty Criminal) may be educated to become an [Indentured%20Servants%20%28Col%29](Indentured Servant), and an Indentured Servant may be educated to become a Free Colonist.

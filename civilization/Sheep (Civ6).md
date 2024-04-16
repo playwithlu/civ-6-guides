@@ -1,0 +1,5 @@
+# Sheep (Civ6)
+
+ Sheep are a [Resource%20%28Civ6%29%23Bonus](Bonus Resource) in "[Civilization%20VI](Civilization VI)". They may be found on any type of [Woods%20%28Civ6%29](unwooded) [Hills%20%28Civ6%29](Hills) [Tile%20%28Civ6%29](tile) except for [Snow%20%28Hills%29%20%28Civ6%29](Snow Hills).
+Strategy.
+Improved Sheep help cities grow larger and more productive. The [Australian%20%28Civ6%29](Australians) should settle near them whenever possible, because Sheep are one of three resources they can improve to trigger a [Culture%20Bomb%20%28Civ6%29](Culture Bomb) (and stealing a tile that contains a [Lumber%20Mill%20%28Civ6%29](Lumber Mill) from an opponent in this manner will earn them an [Steam%20achievements%20in%20Civ6](achievement)). Also, since Sheep [Pasture%20%28Civ6%29](Pastures) are one of the only reliable ways to provide a [Desert%20%28Civ6%29](desert) city with , expect to improve a lot of Sheep when playing as them, the [Malian%20%28Civ6%29](Malians), and the [Nubian%20%28Civ6%29](Nubians).

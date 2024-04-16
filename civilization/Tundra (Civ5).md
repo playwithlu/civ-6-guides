@@ -1,0 +1,9 @@
+# Tundra (Civ5)
+
+Tundra is a type of [Terrain%20%28Civ5%29%23Base%20Terrain](base terrain) in "[Civilization%20V](Civilization V)".
+Game Info.
+Base terrain found in the north/south portions of the [Map%20%28Civ5%29](map).
+Strategy.
+Tundra tiles aren't very good for settling because of their limited base yield. However, most of them are initially covered in [Forest%20%28Civ5%29](Forests), which adds another point of to the base yield and allows construction of [Lumber%20Mill%20%28Civ5%29](Lumber Mills) for improved . Try to preserve the Forests at all costs and use [Trading%20Post%20%28Civ5%29](Trading Posts) to make bare Tundra tiles more useful. Placing a [Great%20People%20%28Civ5%29](Great Person's) [List%20of%20improvements%20in%20Civ5%23Great%20Tile%20Improvements](special improvement) on a Tundra tile is another good way to improve its output.
+[Farm%20%28Civ5%29](Farms) "cannot" be constructed on Tundra tiles unless they're next to a [Rivers%20%28Civ5%29](River) or [Lakes%20%28Civ5%29](Lake).
+When [Religion%20%28Civ5%29%23Founding%20a%20Pantheon](founding a Pantheon) in an area dominated by Tundra, consider the value of [Religion%20%28Civ5%29%23Pantheons](Dance of the Aurora) (+1 from Tundra tiles without Forest) and [Religion%20%28Civ5%29%23Pantheons](Goddess of the Hunt) (+1 from [Camp%20%28Civ5%29](Camps)) carefully: both can be very powerful, but you can choose only one. The former is ideal if you are pursuing a -based strategy, but the the latter is helpful under a wider variety of circumstances. Tundra areas tend to contain many [Resources%20%28Civ5%29](resources) on which Camps can be built, and the bonus is especially important in such a harsh environment.

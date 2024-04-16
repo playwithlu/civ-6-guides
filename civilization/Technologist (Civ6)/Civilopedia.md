@@ -1,0 +1,3 @@
+# Technologist (Civ6)/Civilopedia
+
+While espionage has been practiced since the days of Francis Walsingham (“spymaster” to Elizabeth I), the advent of modern warfare made acquisition of information on technology a priority. Such skullduggery reached its peak during World War II and the subsequent Cold War. American operations such as “LUSTY” (to uncover and evaluate German aeronautical technology) and the Technical Air Intelligence Units (to retrieve and analyze Japanese aircraft) characterize this sort of espionage. Later, Soviet and American moles dug about to see what secrets they could steal in research institutions, ministries, and factories - work now done by government-funded hackers.

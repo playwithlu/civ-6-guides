@@ -1,0 +1,3 @@
+# Heritage Tourism (Civ6)/Civilopedia
+
+Heritage tourism, defined by the National Trust as “traveling to experience the places, artifacts, and activities that authentically represent the stories and peoples of the past.” Well, more-or-less authentic, since it doesn’t include the bad food, dysentery, bugs, lack of sanitation, and other dangers of that past. Think Colonial Williamsburg today, rather than in pre-Revolution America. Heritage tourism is booming, especially in the United States as people seek to find their “roots” and legitimize their present. Rather than museums, these tourists seek operating railways, interactive battlefields, working farms and ranches, native villages … all emulating a period in the past for which they hanker.

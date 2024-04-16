@@ -1,0 +1,4 @@
+# Armagh (Civ6)/Civilopedia
+
+The Irish town of Armagh has long known religion. Thought to have been a worship site for ancient pagans, it gained prominence in the 5th Century when Saint Patrick, a Christian missionary, constructed and consecrated a stone church on the summit of a hill. Around that sprang a monastery, and then a town devoted to spreading Christianity throughout Ireland—a beachhead of theology.
+This is not to imply that Armagh is a coastal city. Its location in Northern Ireland is a short 25 miles to the ocean. Nevertheless, its reputation as the seat of the Church of Ireland made it a tempting target for those looking to score riches. Vikings raided Armagh's monastery twice in the 9th Century, each time making the overland trek to abscond with armloads of religious relics. John de Courcy, an invading Norman knight, thought to repeat the tradition when he plundered the town in the late 12th Century.

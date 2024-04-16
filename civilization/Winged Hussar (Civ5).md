@@ -1,0 +1,9 @@
+# Winged Hussar (Civ5)
+
+Game Info.
+[Unique%20unit%20%28Civ5%29](Unique) mounted unit of the [Polish%20%28Civ5%29](Polish) [Civilizations%20%28Civ5%29](civilization). Replaces the [Lancer%20%28Civ5%29](Lancer). Requires .
+Strategy.
+The Winged Hussar is faster and more powerful than the Lancer, which it replaces. It is capable of forcing defenders to retreat when it inflicts more damage than it receives. A defender who cannot retreat instead takes extra damage.
+This special ability is one of the most interesting in the game, and, needless to say, packs a punch! Normally you are able to activate it on (almost) every attack, unless you are attacking specialized anti-cavalry units. The Lancer is conceptually a unit designed to attack the weak links of the enemy lines - or alternatively, other cavalry - so you should never attempt to use it against powerful, fortified units. Try to surround enemy units, then attack with the Winged Hussar and eliminate them quickly! Even if you don't manage to corner the target, the displacement can have strategically important effects - for example, removing the target from a dangerous position.
+Winged Hussars are especially useful against [Barbarian%20%28Civ5%29](Barbarians). If your enemy has captured a civilian unit, this unique ability will rescue it even if the Barbarian survived your attack. It can also be used to force Barbarians out of their [Encampment%20%28Civ5%29](encampments), leaving the Winged Hussar on the encampment tile and instantly capturing it.
+The Heavy Charge [Promotions%20%28Civ5%29](promotion) ability carries over to [Anti-Tank%20Gun%20%28Civ5%29](Anti-Tank Guns) and [Helicopter%20Gunship%20%28Civ5%29](Helicopter Gunships), allowing for pushes later in the game.

@@ -1,0 +1,3 @@
+# Ballistics (Civ5)/Civilopedia
+
+Ballistics is the study of motion involving projectiles - mainly bullets, missiles, and bombs. In most cases, the term ballistics arises in relation to the forensic study of weapons and ammunition, particularly involving crime, where it may be necessary to connect a weapon with a recovered bullet to prove guilt or innocence. The more general study of ballistics has, over the past century, led to vast improvements in the accuracy, power, and overall effectiveness of projectile weapons of varying types.

@@ -1,0 +1,3 @@
+# Cigars
+
+Cigars are a [Goods](good) in the "[Colonization%20%28game%29](Colonization)" games.

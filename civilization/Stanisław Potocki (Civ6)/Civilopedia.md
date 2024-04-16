@@ -1,0 +1,5 @@
+# Stanisław Potocki (Civ6)/Civilopedia
+
+Proud Polish son Stanisław "Rewera" Potocki fought his first skirmish at the age of 18. He acquitted himself well enough against Polish rebels to gain an affection for fighting, and has spent the bulk of his life since on the battlefield.
+Though Stanisław has acquired a number of titles, the only one that truly matters to him is that of Great Crown Hetman, the commander-in-chief of Polish forces. Indeed, his career has been a series of prominent military engagements on behalf of the Polish-Lithuanian Commonwealth. Most notably, Stanisław defended against the Swedish Deluge, in which Swedish and Russian forces invaded the Commonwealth.
+As becomes quickly in his company, Stanisław has a tendency toward the pompous. His earned his nickname from his rather insufferable use of the Latin words 're vera,' which mean 'in fact.' He would be the first to tell you he does, in fact, appreciate the nickname.

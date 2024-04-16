@@ -1,0 +1,3 @@
+# Maria Pia (Civ5)/Civilopedia
+
+Maria Pia of Savoy was Queen Consort (1862-1889), consort to Portugal's King Luis I, and known for both her extravagance and her charitable efforts. Called the "angel of charity" and "mother of the poor," she sponsored a number of social welfare reforms and projects in Portugal's African colonies, especially Mozambique and Angola where she funded free schools and medical clinics.

@@ -1,0 +1,3 @@
+# Commerce (Civ5)/Civilopedia
+
+Commerce deals with the exchange of goods and services, either through barter (in exchange for other goods and services) or by the exchange of some form of currency. Commerce is as old as human language and perhaps even older. In some cultures merchants occupy a lower class than those who rule or who get to carry the weapons. In other cultures, merchants are seen as the elite, and the acquisition of wealth is seen as the greatest good. For most of its recent history the United States has been the second kind of country.

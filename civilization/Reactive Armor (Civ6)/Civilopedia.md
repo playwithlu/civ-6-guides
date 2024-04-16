@@ -1,0 +1,3 @@
+# Reactive Armor (Civ6)/Civilopedia
+
+As weapons improved, an "arms race" evolved between armor and armor-piercing technologies, one as old as war itself. In the late Middle Ages, inventors tried using padding on the inside and outside of the plate armor in hopes of ameliorating the effects of crossbow bolts and pikes (nothing worked very well). In the World wars, the answer was simply to add more layers of armor; again, it didn't work very well. After World War II, various types of "reactive armor" were invented. The concept of explosive reactive armor was first proposed by the Russian Bogdan Voitsekhovsky in 1949, with the first production models appearing in the 1960s. Most main battle tanks now carry some form of reactive armor.

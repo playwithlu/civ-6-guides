@@ -1,0 +1,11 @@
+# Lake (Civ6)
+
+Lakes are a [Terrain%20%28Civ6%29](terrain) feature in "[Civilization%20VI](Civilization VI)". They are found throughout the world, formed by up to 9 water [Tile%20%28Civ6%29](tiles) completely surrounded by land.
+Strategy.
+A relatively small expanse of shallow water which is surrounded entirely by land is considered a Lake. Their main function is to provide a source of fresh water for [City%20%28Civ6%29](cities) founded next to them (or connected to them via an [Aqueduct%20%28Civ6%29](Aqueduct)); this is also their main differential from [Coast%20%28Civ6%29](Coast). However, if they are big enough, they will almost always have at least one [Resource%20%28Civ6%29](resource) and can thus be explored just like seas and oceans.
+[Huey%20Teocalli%20%28Civ6%29](Huey Teocalli) is specifically designed to enhance Lakes. It adds +1 and to all Lake tiles for a total yield of 2 , 1 and 1 , plus any additional bonuses from resources (and bonus for the city which built it).
+Note that [Harbor%20%28Civ6%29](Harbors) can still be built on Lakes, and units may embark there. Of course, since Lakes are by definition landlocked, it doesn't make much sense to Embark units just to cross one instead of going around it by land, unless otherwise blocked such as by a [Mountain%20%28Civ6%29](Mountain).
+In "" you can build the new [Water%20Park%20%28Civ6%29](Water Park) [District%20%28Civ6%29](district) in a Lake. This is especially useful for single-tile Lakes, which are of little use otherwise. The Water Park, with its special buildings and wider effect, is often a better alternative to the [Entertainment%20Complex%20%28Civ6%29](Entertainment Complex).
+In "" the new [Canal%20%28Civ6%29](Canal) district will allow connecting Lakes in suitable locations to the open ocean, or to any nearby body of water.
+Lake names.
+"" introduced a new mechanic in which Lakes can have different names based on the first [Civilizations%20%28Civ6%29](civilization) that finds them. Below is the list of the names and civilization of origin:

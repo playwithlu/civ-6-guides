@@ -1,0 +1,5 @@
+# Bulgaria
+
+Bulgaria (refers to Old Great Bulgaria or Volga Bulgaria) is the [Hunnic](Hunnic) [capital](capital) in the [Fall%20of%20Rome%20%28Civ3%29](Fall of Rome) [List%20of%20scenarios%20in%20Civ3](scenario) and a [Bulgar](Bulgar) [city](city) in [The%20Middle%20Ages%20%28Civ3%29](The Middle Ages) scenario in "". To date, it has appeared only in [scenario](scenario)s. It refers to several places in real life:
+Old Great Bulgaria was a 7th-century Turkic nomadic empire formed by the Onogur-Bulgars on the western Pontic–Caspian steppe. Great Bulgaria was originally centered between the Dniester and lower Volga.
+Volga Bulgaria was a historical Bulgar state that existed between the 7th and 13th centuries around the confluence of the Volga and Kama River, in what is now [Europe](Europe)an [Russian](Russia).

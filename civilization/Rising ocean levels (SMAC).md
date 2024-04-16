@@ -1,0 +1,6 @@
+# Rising ocean levels (SMAC)
+
+Ocean levels can rise, turning land tiles into water tiles, and destroying terrain placements (roads, mines, solar cells, etc.), any land units there, and even entire bases. Bases can be protected if they have a pressure dome built, thus preventing submerging, and turning them into a [sea%20base%20%28SMAC%29](sea base).
+Additional information.
+Deliberately flooding the planet is a good way to destroy your enemy's bases, they not always having time to build enough pressure domes, and not able to afford to rush production for all of their bases. This also destroys their [terrain%20enhancements%20%28SMAC%29](terrain enhancements), and eliminates land they formerly used to move their ground troops about.
+The AI doesn't handle the flooding very well, having trouble adapting to proper fighting styles. Of course the AI also has trouble with the concept of building supply crawlers, and many other things, that make it rather simple to beat even at the highest level once you have mastered the basics of this game.

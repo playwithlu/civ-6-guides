@@ -1,0 +1,3 @@
+# Patala (Civ6)/Civilopedia
+
+The ancient city of Patala existed in what is now Pakistan, but there is no clear consensus on exactly where it stood during the time of Alexander the Great—possibly Hyperabad or Thatta. Ancient texts suggest it was a city on the Indus River near the outflow to the Arabian Sea. (The Indus River’s fluctuation over the course of two millennia helps explain the geographic confusion.) Capital of the Patalene, the land of the Indus delta, its king wisely submitted to Alexander, who based his troops there while he explored a route to the Arabian Sea, the southern boundary of his empire.

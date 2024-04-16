@@ -1,0 +1,4 @@
+# Overrun (CivRev)
+
+Overrun is an effect of overpowering the enemy in "[Civilization%20Revolution](Civilization Revolution)". If a [List%20of%20units%20in%20CivRev](unit's) attack is much higher than the [Defense%20%28CivRev%29](defense) of a unit it is attacking, the attacker will overrun the defender and automatically win the battle.
+The attack/defense ratio required for an attacker to overrun a defender is normally 7:1 against other [List%20of%20civilizations%20in%20CivRev](civilizations') units and 14:1 against [Barbarian%20%28CivRev%29](Barbarians) (when attacking with a single unit). The [Bonus%20%28CivRev%29](starting bonus) of the [Zulu%20%28CivRev%29](Zulu), however, reduces this ratio to 3:1 against other civilizations and 6:1 against Barbarians.

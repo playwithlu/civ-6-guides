@@ -1,0 +1,6 @@
+# Hallyu (Civ6)
+
+Hallyu is a Wildcard [Policy%20Cards%20%28Civ6%29](Policy Card) in "".
+Strategy.
+Late in the game, purchasing [Rock%20Band%20%28Civ6%29](Rock Bands) and sending them on international tours is one of the best ways to direct bursts of at specific [Civilizations%20%28Civ6%29](civilizations). Hallyu makes Rock Bands even more useful by allowing them to choose any available when they're first purchased and gain levels. Although its primary purpose is to speed up your [Victory%20%28Civ6%29%23Culture](Cultural Victory) progress, using bands with [Religious%20Rock%20%28Civ6%29](Religious Rock) can potentially help you win a [Victory%20%28Civ6%29%23Religion](Religious Victory) instead.
+This policy affects only Rock Bands that are purchased or gain levels "after" it is activated - bands that were ready for a promotion (whether they were just purchased or put on an exceptionally good concert) before it was activated will have three randomly-selected promotions to choose from instead of the entire pool.

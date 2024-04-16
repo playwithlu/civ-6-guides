@@ -1,0 +1,3 @@
+# Endless Night (Civ6)/Civilopedia
+
+The Pact gathers and whispers that the land itself has taken up the Pact. The rivers are its veins; the mountains its bones. It drinks us as we drink it. By day you have taken to sleeping deep underground, by nights you brood over the battlements, your thoughts consumed by endless hunger in endless night. Your people move to your commands, almost unwittingly - spreading your nation, growing their families, and, when the time comes, giving themselves as sacrifices to the Pact.

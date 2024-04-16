@@ -1,0 +1,5 @@
+# Solidarity (Civ6)
+
+Solidarity is a [Golden%20Age%20%28Civ6%29](Golden Age) [Policy%20card%20%28Civ6%29](Policy Card) from the [Dramatic%20Ages%20%28Civ6%29](Dramatic Ages) [Game%20Mode%20%28Civ6%29](Game Mode) in "[Civilization%20VI](Civilization VI)". It is available from the [Atomic%20Era%20%28Civ6%29](Atomic Era) to the [Information%20Era%20%28Civ6%29](Information Era) ([Future%20Era%20%28Civ6%29](Future Era) in "") and uses a Wildcard slot.
+Strategy.
+Solidarity's bonus to [City%20%28Civ6%29](cities) with assigned [Governor%20%28Civ6%29](Governors) makes it a solid card for religious [Civilizations%20%28Civ6%29](civilizations). The bonus can also be useful for a warmongering civ looking for a way to avoid hard-building [Unit%20%28Civ6%29](units). Civs such as [Malian%20%28Civ6%29](Mali) and [Portuguese%20%28Civ6%29](Portugal), which specialize in s and economic development, will benefit most from this card.

@@ -1,0 +1,5 @@
+# Ground unit (CivRev)
+
+A ground unit, as its name implies, is a [List%20of%20units%20in%20CivRev](unit) that fights on the ground. They are the most numerous kind of unit; some of them include the [Catapult%20%28CivRev%29](Catapult) and the [Tank%20%28CivRev%29](Tank).
+Ground units can board any [Naval%20unit%20%28CivRev%29](naval unit) except the [Submarine%20%28CivRev%29](Submarine). They can defend against [Air%20unit%20%28CivRev%29](air units), but cannot attack them unless the air unit is defending a [City%20%28CivRev%29](city).
+The [Militia%20%28CivRev%29](Militia) and [Ranger%20Militia%20%28CivRev%29](Ranger Militia) are technically ground units, though they are classified as [Special%20unit%20%28CivRev%29](special units) since they are unable to attack and impossible to train in cities.

@@ -1,0 +1,8 @@
+# Gatling Gun (Civ5)
+
+Game Info.
+[Industrial%20Era%20%28Civ5%29](Industrial Era) ranged unit. Upgrades from the [Crossbowman%20%28Civ5%29](Crossbowman).
+Strategy.
+The Gatling Gun is an upgrade from the Crossbowman, but its role changes entirely, and together with the [Artillery%20%28Civ5%29](Artillery) and aircraft, it ushers in a complete change to combat tactics in modern times. The first repeating gun weapon, it is able to spit lead with incredible speed and mow down incoming infantry. Although its bullets can't reach 2 tiles away like the attacks of earlier ranged units (it has only 1 range), it still attacks with impunity. Furthermore, its Ranged Strength is the same as its Melee Strength, eliminating the vulnerability to melee attacks that troubled earlier archer units. This makes searching for vantage points less important (although the Gatling Gun can still use a [Hill%20%28Civ5%29](hill's) defensive bonus), since the unit will only be able to attack adjacent tiles anyway.
+Gatling Guns now become part of your front-line troops, being as useful against melee troops as infantry. Their advantage is the ability to shoot (and avoid counterattacks from the units they attack), and a well-situated Gatling Gun can become very lethal on the field.
+A Gatling Gun is fully capable of making use of the Range [Promotions%20%28Civ5%29](promotion), allowing it to have a range of 2 [hex](hex)es. Similarly, [Longbowman%20%28Civ5%29](Longbowmen) and [Chu-Ko-Nu%20%28Civ5%29](Chu-Ko-Nu) will retain their special traits when upgraded to Gatling Guns.

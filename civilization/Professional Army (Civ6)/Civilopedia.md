@@ -1,0 +1,3 @@
+# Professional Army (Civ6)/Civilopedia
+
+In the early medieval period, serfs and villeins formed the bulk of the armies; barely trained and ill-equipped, other than sheer numbers, they were pretty useless in battle. The idea of a state-maintained “professional” army had faded – as so much else did – with the Roman Empire (although China still had one). But as various nations coalesced out of the ruins, kings began to supplement their mobs drawn from feudal lords with paid professionals. These soldiers were usually housed in barracks and segregated from the civilian population to minimize friction, and the king provided their food, weapons, clothes, and training. They were (almost) always more effective than the amateurs.

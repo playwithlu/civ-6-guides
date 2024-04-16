@@ -1,0 +1,3 @@
+# Texcotzingo (Civ5)/Civilopedia
+
+Dating back to the Postclassic Period of the Aztec Empire, adjacent to the capital of Texcoco, Texcotzingo served as the imperial summer gardens. Dedicated to Tlaloc, the god of rain, it was constructed by the monarch Nezahualcoyoti in the 15th century AD. An elaborate and advanced irrigation system transformed Texcotzingo into a recreational paradise for the nobility, a display of the flora of the empire, a medicinal garden, and a sacred place. Covering 122 hectares, it is considered the first botanical garden of the world, and was a source of wonder for the Spanish conquistadors.

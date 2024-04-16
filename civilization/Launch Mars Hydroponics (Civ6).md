@@ -1,0 +1,5 @@
+# Launch Mars Hydroponics (Civ6)
+
+Launch Mars Hydroponics is a [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)" and part of the third and final step toward winning a [Victory%20%28Civ6%29%23Science](Science Victory). It becomes available after researching [Nanotechnology%20%28Civ6%29](Nanotechnology) and completing the [Launch%20Moon%20Landing%20%28Civ6%29](Launch Moon Landing) project, and requires a [Spaceport%20%28Civ6%29](Spaceport) [District%20%28Civ6%29](district).
+The hydroponics section of the future [Mars](Mars) colony is vital for providing food and breathable air to the colonists. By completing it, a player takes a step towards the ultimate goal of near-future space travel: establishing a human colony on another planet! Once this project, [Launch%20Mars%20Habitation%20%28Civ6%29](Launch Mars Habitation), and [Launch%20Mars%20Reactor%20%28Civ6%29](Launch Mars Reactor) are completed, the player establishes a Martian colony and wins a Science Victory.
+In "", this project is removed and replaced by [Launch%20Mars%20Colony%20%28Civ6%29](Launch Mars Colony).

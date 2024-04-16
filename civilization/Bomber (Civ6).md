@@ -1,0 +1,7 @@
+# Bomber (Civ6)
+
+The Bomber is an [List%20of%20units%20in%20Civ6/By%20class%23Bomber](air bomber unit) in "[Civilization%20VI](Civilization VI)". It requires .
+In the "" expansion, the Bomber requires 1 to train and 1 per turn to maintain.
+Strategy.
+The Bomber doesn't become available until late in the game, but it completely changes the nature of sieges when it does. It can rain death on enemy [City%20%28Civ6%29](cities) or pillage districts and tile improvements up to 10 [Tile%20%28Civ6%29](tiles) away from its base, having nothing to fear except [Anti-Air%20Gun%20%28Civ6%29](Anti-Air Guns), [Mobile%20SAM%20%28Civ6%29](Mobile SAMs), patrolling fighters, a select few [Naval%20unit%20%28Civ6%29](naval units), and (in "Gathering Storm") [Giant%20Death%20Robot%20%28Civ6%29](Giant Death Robots). It can also deliver [Nuclear%20weapons%20%28Civ6%29](nuclear weapons), which will severely damage any [Unit%20%28Civ6%29](units) and destroy the defenses of any cities caught within the blast radius.
+When delivering nuclear weapons, the attack will fail and the nuke will be lost if the Bomber falls below 50% [HP](HP) during an interception, so always make sure your Bomber is in good health and the anti-air defenses are cleared before delivering a nuclear payload.

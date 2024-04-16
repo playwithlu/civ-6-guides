@@ -1,0 +1,7 @@
+# Mechanized Infantry (Civ6)
+
+The Mechanized Infantry is an [Information%20Era%20%28Civ6%29](Information Era) [List%20of%20units%20in%20Civ6/By%20class%23Melee](melee unit) in "[Civilization%20VI](Civilization VI)". It upgrades from the [Infantry%20%28Civ6%29](Infantry) (or its replacements).
+In the "" expansion, the Mechanized Infantry requires 1 to train and 1 per turn to maintain.
+Strategy.
+This is the strongest melee unit in the game, a serious upgrade from the more simple Infantry. Soldiers are now equipped with the latest small arms and body armor - and even more importantly, APCs to move them around. This makes them faster, and for the first time in the game a frontline unit has more than 2 . Of course, this rarely helps them keep up with [Tank%20%28Civ6%29](Tanks) and other advanced cavalry units, but at least they now have a fighting chance. Besides, the Mechanized Infantry is the "cheapest" of the late game units, because it requires no difficult-to-find [Resource%20%28Civ6%29](resources) (until "Gathering Storm").
+Even though the icon of the unit is an armored vehicle, it is not vulnerable to the [Modern%20AT%20%28Civ6%29](Modern AT) as the soldiers deployed from the vehicle can handle the AT without much trouble.

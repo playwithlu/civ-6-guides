@@ -1,0 +1,3 @@
+# Artists' Guild (Civ5)/Civilopedia
+
+The concept of guilds for artisans did not take hold until the late Middle Ages, when Europe began its long process of urbanization. In the 13th century a number of artists' guilds sprang up in cities, modeled on the merchants' guilds of the time. The guilds sought to fix costs and set prices, and offered support and education to artists in a city, thus avoiding the problems of patronage by the wealthy and the nobility. Although unofficial guilds still exist for various types of artists, the Enlightenment Age brought about a decline in guild monopolies until all had been abolished by the mid-1800s.

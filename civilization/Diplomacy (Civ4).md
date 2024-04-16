@@ -1,0 +1,21 @@
+# Diplomacy (Civ4)
+
+As "[Civilization%20IV](Civilization IV)" progresses and your [List%20of%20units%20in%20Civ4](units) [Exploration%20%28Civ4%29](explore) the world around them, you will meet the [Leaders%20%28Civ4%29](leaders) of the other [List%20of%20civilizations%20in%20Civ4](civilizations) around you. Each leader is different: some are warlike; others, peaceful. Some are backstabbing liars; others are (usually) honest. You'll have to learn how to deal with these characters: some you'll fight right away; others you'll negotiate with - at least until it's time to destroy them...
+You can accomplish a lot through diplomacy. You can trade [List%20of%20technologies%20in%20Civ4](technologies), [Resource%20%28Civ4%29](resources), [Map%20%28Civ4%29](maps), [Gold%20%28currency%29%20%28Civ4%29](gold), and even [City%20%28Civ4%29](cities). You can form mutual protection pacts; you can declare war; you can negotiate peace settlements. Success in "Civilization IV" depends as much on your diplomatic skills as it does on your martial and management prowess.
+Leaders.
+Each leader has his or her own agenda. They, too, seek to achieve [Victory%20%28Civ4%29](victory) - some through force of arms, others through technological prowess, others through [Culture%20%28Civ4%29](cultural) domination. You'll get clues to their intentions as the game progresses - the more warlike leaders will usually not trade anything of military value, the knowledge-focused leaders will seek advanced technologies, and so forth. 
+Opening Diplomacy.
+You can open diplomacy from the diplomacy screen, or by clicking on the leader's name in the "score box" on the main screen. Occasionally, a leader might open negotiations with you. When diplomacy begins, the diplomacy screen appears.
+Diplomatic Options.
+When diplomacy opens, you (and the other leaders) usually have several choices available:
+Making Trade Offers.
+On the trade table, all of your tradable items are listed in the right-hand column, while the other leader's stuff is in the left-hand column. To make an offer, click on one (or more) items in your column, and one (or more) items in the other leader's column, and then click on the "make offer" button. If the leader agrees, the deal is done. If not, you can exit diplomacy or try another deal. 
+If you click only on an item in the other leader's column but not on anything in your column, you are "demanding tribute:" ordering the leader to give you the item for free. He or she may decline, of course, and in either case, his opinion of you will probably decline. If you click only on an item in your column but none in the other leader's, you are giving the leader that item for free, as a "goodwill gesture." Leaders never refuse goodwill gestures. Goodwill gestures often cause the leader to raise his or her opinion of you.
+Responding to Offers.
+When another leader makes you an offer, you must choose to refuse or accept the offer. If you accept, the trade occurs immediately. If you decline, the other leader may ask you to make a counter-offer, may end diplomacy, or may declare war on you.
+Untradeable Items.
+Often you will see items in the leader's column that are colored red. This indicates that the leader will not (or cannot) trade these items with you, so don't bother asking.
+Technological Requirements for Trade.
+You need access to certain technologies to trade some items; at the beginning of the game, your diplomatic options are severely limited. Both sides do not need to know the required technology, but at least one of the traders must. You cannot trade technology, for example, until either you or your trading partner knows the [Alphabet%20%28Civ4%29](Alphabet) technology.
+Trading Types.
+There are two distinct kinds of items you can trade: "immediate" items or "annual" items. Immediate items can only be traded for other immediate items, and annuals only for other annuals. You are free to trade any items within a group - technology for gold and a world map, for instance, since they're all immediate items - but you can't trade an immediate item or items for one or more annuals.

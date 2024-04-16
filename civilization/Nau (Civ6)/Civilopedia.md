@@ -1,0 +1,4 @@
+# Nau (Civ6)/Civilopedia
+
+During the 1300s to the 1500s, the Portuguese dominated the seas. Trade networks linked Lisbon and ports across Asia, Africa, and the New World, and reshaped how we see the world today. For instance, without the Portuguese introduction of New World chili peppers to Asia, we would not have spicy Thai food, and without the Portuguese presence in Japan, we would not have tempura (from the Latin quatuor anni tempora – a time of eating no meat). But it was not all spices: nau transported gold, Catholic missionaries… and enslaved persons.
+The nau was a larger version of the caravel, with square sails in the front, and triangular sails on the mizzenmast. Their heavy build allowed them to navigate stormier seas, especially around the southern tips of Africa and South America, and to reach farther than the caravel or cog.

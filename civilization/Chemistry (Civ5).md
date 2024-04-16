@@ -1,0 +1,5 @@
+# Chemistry (Civ5)
+
+Game Info.
+The discovery of Chemistry allows the deeper study and understanding of natural elements and their interaction. Аs a consequence, a number of technological advancements become possible, both in the economical and military fields. of all [Mine%20%28Civ5%29](Mines) and [Quarry%20%28Civ5%29](Quarries) increases, as does production of the [Manufactory%20%28Civ5%29](Manufactory) great improvement.
+Siege weaponry leaps forward once again when Chemistry is discovered. [Trebuchet%20%28Civ5%29](Trebuchets) can upgrade into [Cannon%20%28Civ5%29](Cannons), and that gives them a major boost in their Ranged Combat. Though still limited to slower movement and setup times, these units are strong enough to shred cities that depend on their [Castle%20%28Civ5%29](Castles) for safety.

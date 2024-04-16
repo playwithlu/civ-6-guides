@@ -1,0 +1,3 @@
+# Ω Stealth Ship (Civ4)/Final Frontier/Civilopedia
+
+When the human Colonies began to come into contact with one another competition immediately erupted. Eager to find a way to undermine its opponents, each Colony began searching for new technologies to weaken them. One such way was through sabotage and intelligence-gathering. However, advanced sensors and detection systems made such activities difficult to perform. The Stealth Ship was the response to this. Designed to elude detection, they employ sophisticated synthetic materials and polymers to 'trick' enemies into thinking the ship is a rock or piece of debris. Having escaped discovery, they are then able to perform their missions.

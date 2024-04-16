@@ -1,0 +1,3 @@
+# Seasteads (Civ6)/Civilopedia
+
+By custom, the sea is a place of its own laws, under the control of no nation. This makes it attractive for people who wish to experiment with new models of government and so the idea of "seasteading" is the creation of new micro-nations at sea. As of the publication of this game, no permanent, sustainable seastead has been created, but many organizations around the world continue to explore the practical implementation of seasteading, whether by creating artificial islands or converting large sea-going vessels (like retired cruise ships) into permanent seasteads.

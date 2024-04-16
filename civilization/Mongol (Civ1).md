@@ -1,0 +1,4 @@
+# Mongol (Civ1)
+
+The people (or Mongolians) represent a [Civilizations%20%28Civ1%29](civilization) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Their [Leaders%20%28Civ1%29](leader) is [Genghis%20Khan%20%28Civ1%29](Genghis Khan), their [Capital%20%28Civ1%29](capital) is [Samarkand](Samarkand), and their color is gray (which they share with the [Indian%20%28Civ1%29](Indians)).
+The Mongols were a powerful civilization in real life, having conquered much of the super continent of Eurasia in the 1200s. In "Sid Meier's Civilization", their expansionist outlook makes them the most dangerous of all foes, especially in early to mid-game. On [Earth%20%28map%29%20%28Civ1%29](Earth), however, their early expansion is hindered by their starting point in central [Asia](Asia) among [Plains%20%28Civ1%29](plains), [Desert%20%28Civ1%29](desert), and [Mountain%20%28Civ1%29](mountains).

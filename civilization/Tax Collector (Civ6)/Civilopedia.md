@@ -1,0 +1,3 @@
+# Tax Collector (Civ6)/Civilopedia
+
+One of only two inevitabilities in the human condition, tax collectors are some of the state’s most important and least popular employees. Without the revenue to fund state operations, many public goods would not be possible. Methods for collecting taxes throughout history have ranged from the relatively benign to the outrageous. Assume that your Governor with this skill manages to do so without raising the popular ire.

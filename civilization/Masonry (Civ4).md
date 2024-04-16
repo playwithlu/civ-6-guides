@@ -1,0 +1,4 @@
+# Masonry (Civ4)
+
+Strategy.
+Masonry has multiple effects. Immediately, it allows your [Worker%20%28Civ4%29](Workers) to build [Quarry%20%28Civ4%29](Quarries) on [Stone%20%28Civ4%29](Stone) and [Marble%20%28Civ4%29](Marble) resources, granting several production bonuses. Additionally, Masonry enables the construction of [Walls%20%28Civ4%29](Walls) and the mighty [Pyramids%20%28Civ4%29](Pyramids) world wonder. Later, the [Great%20Lighthouse%20%28Civ4%29](Great Lighthouse) and [Aqueduct%20%28Civ4%29](Aqueducts) can be built with [Sailing%20%28Civ4%29](Sailing) and [Mathematics%20%28Civ4%29](Mathematics) respectively.

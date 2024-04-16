@@ -1,0 +1,7 @@
+# Square Rigging (Civ6)
+
+Square Rigging is a [Renaissance%20Era%20%28Civ6%29](Renaissance Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by killing a [Unit%20%28Civ6%29](unit) with a [Musketman%20%28Civ6%29](Musketman).
+Strategy.
+Further development of sailing technology invents a new way to rig the sails of a vessel, which is able to utilize wind even more effectively than before. This puts to final rest the last rowing vessels of past ages, and brings forth the most powerful Renaissance-era ship: the [Frigate%20%28Civ6%29](Frigate), which will dominate the seas well into modernity.
+Square Rigging is very important for seafaring [Civilizations%20%28Civ6%29](civilizations), providing them with a robust ranged ship that can attack both land-based targets and other [Naval%20unit%20%28Civ6%29](naval units). It also increases the of embarked units, facilitating overseas settlement. This could be crucial, or not that important, depending on how well other civs have been doing with their own settlement: if there isn't any free space left to settle, or if the lands are all very close to other empires, you won't get any profit from the increased .
+The tech is very easy to research once you get [Cartography%20%28Civ6%29](Cartography) - it's simply the next tech in the line. But even for non-seafaring civs it will be important as one of the requirements for the most important tech of the [Industrial%20Era%20%28Civ6%29](Industrial Era).

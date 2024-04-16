@@ -1,0 +1,2 @@
+# Galapagos Islands (Civ6)
+

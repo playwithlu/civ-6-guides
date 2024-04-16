@@ -1,0 +1,10 @@
+# Great Musician (Civ5)
+
+Game Info.
+A [Great%20People%20%28Civ5%29](Great Person) in the " expansion, specialized in music.
+The unit is expended after performing either of these actions.
+Strategy.
+The Great Musician is one of the new types of Artists in the " expansion. The main method of producing him is building a [Musicians%27%20Guild%20%28Civ5%29](Musicians' Guild) and assigning Specialists to work there. This earns Great Person Points. These Great Person Points eventually create a Great Musician, the pool empties and the pool size increases, meaning that more points are needed to earn each successive Great Musician. 
+As with other Great Artists, Musicians can produce a [Great%20Work%20%28Civ5%29](Great Work), which may then be placed within your buildings for a permanent bonus to  and . Their other ability, "Concert Tour," may be used in another [Civilizations%20%28Civ5%29](civilization's) lands for a one-time boost to your cultural influence with them (a part of which is also shared between all other civilizations). Use this to take over your pesky cultural rivals who withstand the power of your culture!
+Note that a Great Musician, unlike a [Great%20Prophet%20%28Civ5%29](Great Prophet), can only enter the [Territory%20%28Civ5%29](territory) of civilizations with which you have an open borders agreement. This presents a problem, because many of your direct rivals in the endgame won't agree to open their borders to you, and your Great Musicians will never be able to set foot in their territory. You will either have to negotiate tough agreements where you trade off a lot more than you get, or declare war on them and share your music by force.
+There are many ways to earn "free" Great Musicians. Purchasing them with does not push back the spawning pool, whereas all of the following do:

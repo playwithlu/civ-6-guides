@@ -1,0 +1,5 @@
+# Resource
+
+A resource is a special commodity that gives bonus [yield](yield)s (such as [food](food) or [production](production)) to its [tile](tile). It may also have an effect across the [empire](empire) or on [City](cities) which have access to it, most notably increased [happiness](happiness).
+The number of resources and complexity of the resource system has steadily increased with each new entry in the "[Civilization%20%28series%29](Civilization)" franchise. Some resources such as [Peat](Peat), [Pig](Pig), and [Rubber](Rubber) have appeared in only one game; others such as [Crab](Crab), [Copper](Copper), [Sugar](Sugar), and [Stone](Stone) have been in different resource categories depending on which game is involved.
+From "[Civilization%20III](Civilization III)" onward, there are three types of tile resources, some with additional effects apart from increased yield:

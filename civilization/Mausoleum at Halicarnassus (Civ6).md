@@ -1,0 +1,7 @@
+# Mausoleum at Halicarnassus (Civ6)
+
+The Mausoleum at Halicarnassus is a in "[Civilization%20VI](Civilization VI)". It must be built adjacent to a .
+Strategy.
+The Mausoleum at Halicarnassus is a surprisingly good wonder, yet highly undervalued by the [AI](AI), meaning you will have an easier time building it before they do. The main reason you should build this wonder is the extra charge on Great Engineers, which proves particularly helpful for [Victory%20%28Civ6%29%23Science](Science) and [Victory%20%28Civ6%29%23Culture](Culture Victory) seekers. Be sure to build many [Industrial%20Zone%20%28Civ6%29](Industrial Zones) to get points and maximize the benefits of this wonder.
+The extra yields on [Coast%20%28Civ6%29](Coast) [Tile%20%28Civ6%29](tiles) are really strong as well, considering this is only a Classical Era wonder. Any maritime [Civilizations%20%28Civ6%29](civilization) should aim for the Mausoleum at Halicarnassus, as they are likely to have the best coastal areas. Even an inland empire can settle at least one [Coastal%20%28Civ6%29](coastal) [City%20%28Civ6%29](city) just to vie for this wonder, which is strong enough to turn its city into a bustling shipbuilding hub.
+[Qin%20Shi%20Huang%20%28Civ6%29](Qin Shi Huang's) [Chinese%20%28Civ6%29](China) can use its [Builder%20%28Civ6%29](Builders) to expedite production of the Mausoleum at Halicarnassus.

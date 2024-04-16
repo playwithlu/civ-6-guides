@@ -1,0 +1,3 @@
+# Japanese
+
+The Japanese people represent Japan, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)". Their [capital](capital) might be [Kyoto](Kyoto) or [Tokyo](Tokyo), and they can be led by [Amaterasu](Amaterasu), [Himiko](Himiko), [H%C5%8Dj%C5%8D%20Tokimune](Hōjō Tokimune), [Minamoto](Minamoto), [Murasaki%20Shikibu](Murasaki Shikibu), [Oda%20Nobunaga](Oda Nobunaga), [Tokugawa%20Ieyasu](Tokugawa Ieyasu), or [T%C5%8Dg%C5%8D%20Heihachir%C5%8D](Tōgō Heihachirō).

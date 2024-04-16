@@ -1,0 +1,3 @@
+# Thorfinn the Mighty (Civ6)/Civilopedia
+
+Thorfinn was the youngest of five sons of Sigurd Hlodvirsson, Earl of Orkney … but the only one to the earl’s second wife, who happened to be daughter of Malcolm II of Scotland. When Sigurd was killed in Ireland in 1011, Orkney got divided between the four surviving brothers, with two-year-old Thorfinn getting the least share. With the support of King Malcolm and of King Olaf of Norway, young Thorfinn gained control of the Orkneys by 1030. Thorfinn spent the rest of his life conquering the Hebrides, raiding Ireland, helping his cousin Macbeth gain the Scottish throne, and turning his subjects Christian.

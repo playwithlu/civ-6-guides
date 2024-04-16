@@ -1,0 +1,7 @@
+# Warrior (Civ6)
+
+The Warrior is an [Ancient%20Era%20%28Civ6%29](Ancient Era) [List%20of%20units%20in%20Civ6/By%20class%23Melee](melee unit) in "[Civilization%20VI](Civilization VI)". It is available without any [Technology%20%28Civ6%29](technological) research.
+Strategy.
+Armed with a club or a stone axe, the sturdy Warrior is the backbone of an ancient army. It is the first melee unit of the game, and you spawn with one at the very start of the game, along with your [Settler%20%28Civ6%29](Settler). As usual, Warriors are good against the first [Barbarian%20%28Civ6%29](Barbarian) scum and for defending against early rushes by aggressive neighbors, but they quickly grow useless in the [Classical%20Era%20%28Civ6%29](Classical Era).
+Warriors are also free of maintenance, so you can make a whole army of Warriors without running the risk of going bankrupt. Just be warned that when they upgrade, your flow will take a sudden hit!
+"Civilization VI" adds a new bonus to all melee units: they now do additional damage against [List%20of%20units%20in%20Civ6/By%20class%23Anti-cavalry](anti-cavalry units) (such as the [Spearman%20%28Civ6%29](Spearman)). This makes them effective against Barbarians, who usually have a Spearman guarding their outposts at all times.

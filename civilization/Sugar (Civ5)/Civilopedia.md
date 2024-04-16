@@ -1,0 +1,3 @@
+# Sugar (Civ5)/Civilopedia
+
+Sugar is an incredibly sweet substance derived from sugar cane (or beets) and used to sweeten food and beverages. It is believed that sugar was first used by [Polynesian%20%28Civ5%29](Polynesians), and then the practice spread to India and from there eventually into Asia and Europe. Eventually sugar cane was transported to the Caribbean and to North and South America, where it was found to grow incredibly well. Plentiful and cheap, sugar and its sweet cousins, glucose, fructose, etc., can be found in almost all processed foods across the world, much to the unhappiness of dentists and dieticians everywhere.

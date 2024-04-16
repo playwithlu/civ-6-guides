@@ -1,0 +1,3 @@
+# Reinforced Armor Plating (Civ6)/Civilopedia
+
+Protection and mobility are offsetting factors. You cannot add armor and retain mobility, and the easiest way to improve the mobility of a weapon system is to reduce its armor weight. Even the mighty Gun Deployment Rig must consider these factors. The reinforced armor plating on most GDRs is a composite lightweight armor which adds considerable bulk to the chassis. The gold standard in GDR protection is the "New Mountain Pattern" lamellar system developed in China.

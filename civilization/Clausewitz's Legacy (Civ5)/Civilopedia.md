@@ -1,0 +1,3 @@
+# Clausewitz's Legacy (Civ5)/Civilopedia
+
+Following the Napoleonic Wars, the Prussian officer Carl von Clausewitz wrote the first definitive exploration of military theory since Sun Tzu. His ten-volume "Vom Krieg" ("On War"), although unfinished upon his death in 1831, served as the basis for the training of generations of army officers at military academies around the world. Stressing the psychological and political aspects of war in terms of strategy and tactics, his statement that "War is the continuation of politics by other means" would become the foundation of autocratic, expansionist governments for the next two centuries.

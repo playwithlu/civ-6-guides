@@ -1,0 +1,3 @@
+# Zero (Civ5)/Civilopedia
+
+The Mitsubishi A6M Zero was the fighter aircraft used by Japan throughout World War II. Designed to fight from an aircraft carrier, at the start of World War II the Zero was the best carrier-based fighter in the world. Combining maneuverability and long range, the Zero was excellent at dog-fighting, easily out-flying the inferior American and British aircraft. As the war progressed the Allied fighters dramatically improved while the Japanese air force suffered from increasing material and manpower shortages, and by war's end the Zero was overmatched. But at its height the Zero was a great fighter indeed, dominating the vast Pacific theatre.

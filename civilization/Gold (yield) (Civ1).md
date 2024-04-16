@@ -1,0 +1,2 @@
+# Gold (yield) (Civ1)
+

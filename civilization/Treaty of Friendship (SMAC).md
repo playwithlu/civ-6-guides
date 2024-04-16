@@ -1,0 +1,2 @@
+# Treaty of Friendship (SMAC)
+

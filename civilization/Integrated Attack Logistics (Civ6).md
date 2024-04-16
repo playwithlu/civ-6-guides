@@ -1,0 +1,6 @@
+# Integrated Attack Logistics (Civ6)
+
+Integrated Attack Logistics is a Wildcard [Policy%20card%20%28Civ6%29](Policy Card) in "".
+Strategy.
+If you're a warmonger looking for something to assist you with your endgame push toward a [Victory%20%28Civ6%29%23Domination](Domination Victory), you'll find it in Integrated Attack Logistics. The bonus for [Unit%20%28Civ6%29](units) in enemy [Territory%20%28Civ6%29](territory) and bonus for [Giant%20Death%20Robot%20%28Civ6%29](Giant Death Robots) will help you build a magnificent army that can reach and capture [City%20%28Civ6%29](cities) quickly, especially if your enemy's territory has a well-developed [Roads%20%28Civ6%29](road) or [Railroad%20%28Civ6%29](railroad) network. This policy will be particularly deadly if you're in a and select Automaton Warfare as your [Ages%20%28Civ6%29%23Dedications](Dedication).
+Integrated Attack Logistics reduces the reliance on [Great%20General%20%28Civ6%29](Great Generals) for allowing [List%20of%20units%20in%20Civ6/By%20class%23Siege](siege units) to move and shoot inside enemy [Borders%20%28Civ6%29](borders). For more details on how the move-and-shoot rule works, head [Movement%20%28Civ6%29%23Siege%20units%20and%20the%20move-and-shoot%20rule](here).

@@ -1,0 +1,2 @@
+# Strategic Resources (Civ5)
+

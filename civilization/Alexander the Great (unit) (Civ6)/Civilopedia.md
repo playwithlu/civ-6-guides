@@ -1,0 +1,3 @@
+# Alexander the Great (unit) (Civ6)/Civilopedia
+
+Alexander had a reputation for leading from the front, endearing himself to his soldiers by sharing in the same (or more) danger than they did. He would often lead the hetairoi (Companion cavalry) into battle, and was once so impatient to storm the walls of a besieged city that he and a few troops found themselves cut off and surrounded by the enemy. Though he suffered a grievous wound, he survived the seemingly impossible situation, and his soldiers loved him all the more for his courage—which the sly Alexander certainly used to push them beyond their limits.

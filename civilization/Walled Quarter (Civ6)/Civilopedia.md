@@ -1,0 +1,3 @@
+# Walled Quarter (Civ6)/Civilopedia
+
+Without a proper understanding of the epidemiology of the plague, residents of cities nonetheless discovered a system for containing the Black Death: Walling off the victims in a permanent quarantine. This draconian measure doomed the walled-off victims to a terrible fate but could occasionally check the progress of the plague. It is an example of the terrible calculus of suffering in the Black Death that some healthy people willingly accepted quarantine rather than see the pestilence spread.

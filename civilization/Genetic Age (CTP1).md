@@ -1,0 +1,5 @@
+# Genetic Age (CTP1)
+
+The Genetic Age is the fourth [Age%20%28CTP1%29](age) in "". It is preceded by the [Modern%20Age%20%28CTP1%29](Modern Age) and followed by the [Diamond%20Age%20%28CTP1%29](Diamond Age).
+Great Library entry.
+The advent of the Genetic Age marked the beginning of a period of powerful social and technological changes for the human race. It was an age of teeming, overcrowded cities on the verge of chaos, corporate governments, space exploration, and environmental fanaticism. It was during this time that arrogant scientists decoded the mysteries of life and set about to transform the human race. The wealthy lived decadent lives in fabulous penthouses, surrounded by genetically engineered clones and servants, while far below in the street the common people clashed with security forces or lost themselves for a few moments in the warm embrace of virtual reality.

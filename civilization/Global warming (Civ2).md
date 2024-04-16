@@ -1,0 +1,4 @@
+# Global warming (Civ2)
+
+Global warming can occur when there is too much [Pollution%20%28Civ2%29](pollution) on the [Map%20%28Civ2%29](map). The more polluted [Tile%20%28Civ2%29](tiles) there are on the map, the greater the chances of devastating global warming happening next turn. There is some tolerance for pollution on the map at low levels.
+Once triggered, global warming will generally turn [Grassland%20%28Civ2%29](grasslands) into [Plains%20%28Civ2%29](plains), plains into [Desert%20%28Civ2%29](deserts), and tiles near the [Ocean%20%28Civ2%29](ocean) into [Swamp%20%28Civ2%29](swamps). This generally means less productive [Terrain%20%28Civ2%29](terrain) all around.

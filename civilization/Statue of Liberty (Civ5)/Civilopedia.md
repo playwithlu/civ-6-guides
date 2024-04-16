@@ -1,0 +1,4 @@
+# Statue of Liberty (Civ5)/Civilopedia
+
+The Statue of Liberty is one of the largest statues in the world. Measuring over 300 feet tall from the base of its pedestal, the statue is constructed of copper plating over an iron framework and weighs over 250 metric tons. Designed by French sculptor Frederic Bartholdi, the statue, with upraised torch and the broken chains of tyranny at her feet, was presented to the United States by the French government in 1886 to commemorate 100 years of American independence. The statue itself, Liberty Island, and nearby Ellis Island became a national monument in 1924.
+For more than a century, the Statue of Liberty has stood at the mouth of the New York harbor. Often the first sight seen by immigrants arriving in America, Lady Liberty symbolizes the ideals of freedom upon which the United States was founded.

@@ -1,0 +1,3 @@
+# Squadron Focus (Civ4)/Final Frontier/Civilopedia
+
+With the development of the Carrier, a new surge of innovation swept the field of Squadron-based spacecraft deployment. The development of the Squadron Doctrine encouraged minor ships, for the first time in space combat history, to bear the brunt of combat. This renewal of Squadron combat made Destroyers once again an invaluable part of modern space combat. class Destroyers were even more capable than their predecessors at plucking pesky Squadron spacecraft from the heavens.

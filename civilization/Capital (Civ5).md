@@ -1,0 +1,7 @@
+# Capital (Civ5)
+
+Your Capital is the [City%20%28Civ5%29](city) that contains your [Palace%20%28Civ5%29](Palace), the center of your empire and your power as ruler. As the capital is your [Civilizations%20%28Civ5%29](civilization's) first and greatest city, it is also the most glorious and productive city in your empire. The first city you settle will automatically become your capital in the beginning of the game, and is also considered your "Original Capital" for the purposes of a [Domination%20victory%20%28Civ5%29](domination victory).
+If your capital is captured, the Palace (as well as the Capital status) will move to your next largest city.
+You can connect other cities to your capital to form the internal trade network of your empire, using the appropriate infrastructural connections. These links are called s (or s in ""). Each connected city will then generate each turn thanks to trade, which will be applied straight to your treasury for purposes of local -boosting [Building%20%28Civ5%29](buildings).
+Many bonuses from [Social%20policies%20%28Civ5%29](social policies) apply only to your capital, as does the "Friend" level bonus of a Maritime (whereas the "Ally" level bonus applies to all cities).
+Only players in control of their original capitals are eligible for a domination victory.

@@ -1,0 +1,3 @@
+# Anti-Tank Gun (Civ5)/Civilopedia
+
+Anti-tank guns are, not surprisingly, artillery units specially designed to destroy enemy tanks. These weapons are of necessity mobile, either self-propelled or easily dragged by truck or other heavy equipment. They fire shells specially designed to penetrate enemy armor. Anti-tank guns are often quite vulnerable to enemy infantry, and thus must be supported by anti-infantry units if the enemy gets too close.

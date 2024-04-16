@@ -1,0 +1,3 @@
+# Tufan (Civ6)
+
+The Tufan people represent the Tibetan Empire, a playable [Civilizations%20%28Civ6%29](civilization) from the [Path%20to%20Nirvana%20%28Civ6%29](Path to Nirvana) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". Their [Religion%20%28Civ6%29](religion) is [Vajrayana%20Buddhism%20%28Civ6%29](Vajrayana Buddhism), and they start with [Mysticism%20%28Civ6%29](Mysticism).

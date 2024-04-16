@@ -1,0 +1,12 @@
+# Pikemen (Civ2)
+
+Pikemen are a late -era in "[Civilization%20II](Civilization II)", available with the . They feature a [%23Strategy](50% Defense strength bonus) versus Ancient and early .
+Pikemen succeed and the , and are succeeded by with the advent of .
+Strategy.
+Pikemen have the same cost as Phalanxes, but feature a unique bonus against specific mounted units. This is not fully documented in the [Civilopedia](Civilopedia); see [%23Pikeman%20mechanic](the following section) for details. When attacked by , s, s, , or , Pikemen gain a 50% bonus to their Defense strength "after" factoring all other modifiers such as and . This makes Pikemen the optimal defensive unit until the advent of Musketeers.
+An incorrect [Glossary%20of%20Civilization%20terms%23Meta](meta) posits that [Veteran%20%28Civ2%29](Veteran) Pikemen are superior to regular Musketeers when defending against these mounted units, and therefore [Leonardo%27s%20Workshop%20%28Civ2%29](Leonardo's Workshop) can inadvertently weaken a [Civilizations%20%28Civ2%29](civilization's) standing army. This stems from a misunderstanding of "Civ II"s combat formula: while Pikemen's modified defense is higher in individual combat rounds (36 to 24 in basic conditions), the Musketeers' second hitpoint yields slightly higher odds of winning the battle overall. The suggested meta only holds true when playing with , which removes hitpoints and firepower.
+Pikeman mechanic.
+The "pikeman bonus" is a unit assigned in . The exact mechanic adds 50% to the unit's total Defense strength against any attacker that has 1 Hitpoint and 2 Movement. Thus, later units such as and , which have 2 hitpoints, do not invoke the pikeman bonus.
+This is not properly documented in the game: the Civilopedia states "Defense +50% versus units with a movement factor of 2", while the added with "" claims "x2 on defense versus horse". 
+Civilopedia entry.
+The growing deployment of knights on the battlefield demanded that foot soldiers develop new means of fighting that would lessen their vulnerability against mounted opponents. One of the best ways to do this was to lengthen the reach of the infantrymen by arming them with long, sturdy spears known as pikes. Massed infantry armed with pikes, in conjunction with archers, managed to even the battlefield odds. Armies equipped in this manner managed to hold their own until the invention of gunpowder made knights a thing of the past.

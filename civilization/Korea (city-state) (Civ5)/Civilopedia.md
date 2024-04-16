@@ -1,0 +1,3 @@
+# Korea (city-state) (Civ5)/Civilopedia
+
+At the time of the Mongolian Empire, the Kingdom of Korea was ruled by the Goryeo dynasty, which took power in 918 AD. During this reign the nation flourished: its laws were codified, a civil service system was introduced, and it made great cultural advancements with the creation of the world's first movable-metal-type printing press. Starting in the 1230s however, the kingdom became threatened by Mongolian forces, who continued a heated invasion attempt for the next few decades. In 1259 the nation sued for peace, and a treaty was drawn up between Korea and the Mongols. The Goryeo were allowed to keep their sovereignty, while the Mongolian Empire annexed a large portion of the northern Provinces.

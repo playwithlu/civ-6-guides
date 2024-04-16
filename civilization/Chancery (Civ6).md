@@ -1,0 +1,6 @@
+# Chancery (Civ6)
+
+The Chancery is an advanced diplomatic [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the [Diplomatic%20Quarter%20%28Civ6%29](Diplomatic Quarter) [District%20%28Civ6%29](district) and requires a [Consulate%20%28Civ6%29](Consulate) (or one of its replacements).
+Strategy.
+Building the Chancery quickly (particularly if [Catherine%20de%20Medici%20%28Civ6%29](Black Queen Catherine) is in the game) can benefit any [Civilizations%20%28Civ6%29](civilization). The building's efficacy can also be improved by the [Cryptography%20%28Civ6%29](Cryptography) and [Police%20State%20%28Civ6%29](Police State) [Policy%20card%20%28Civ6%29](policy cards), which will hamper enemy [Spy%20%28Civ6%29](Spies) from wreaking havoc across your lands. The downside of this building's -generation ability is that it is entirely reactive and dependent on other civilizations placing Spies in your [City%20%28Civ6%29](cities).
+The Chancery grows in value and efficiency if you have 6 s in many [City-state%20%28Civ6%29](city-states) of the same type.

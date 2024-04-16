@@ -1,0 +1,3 @@
+# East India Company (Civ5)/Civilopedia
+
+The various East India Companies were joint-stock ventures chartered by the crown to pursue trade in Asia and the islands around the Indian Ocean. Reaching their height during the 17th and 18th centuries, the various companies maintained their own military forces, established settlements under their administration, undertook explorations, fought wars, collected taxes, and built plantations, mines and roads - all in the pursuit of profit. The most successful of these corporations were the "Honourable" East India Company of Britain (chartered by Queen Elizabeth in 1600 AD), the Dutch East Indies Company (1602) and the French Company of the Indies (1664).

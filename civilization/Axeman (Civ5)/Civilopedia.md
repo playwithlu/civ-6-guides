@@ -1,0 +1,3 @@
+# Axeman (Civ5)/Civilopedia
+
+Although there were many types of axes used as weapons by the barbarian tribes that beset Rome, the Vandals tended to favor the throwing axe, used as a missile weapon in battle as they closed with the foe. A variant of the francisca, a light-weight axe developed by the Franks in the 3rd Century AD, the Vandal version was thrown with an overhand motion that caused the axe to rotate in flight and so increased accuracy. Heavier than arrows and more accurate than spears, the throwing axe proved even more effective in naval combat after the Vandals conquered Roman Carthage.

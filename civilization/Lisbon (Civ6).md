@@ -1,0 +1,6 @@
+# Lisbon (Civ6)
+
+Lisbon is a trade [City-state%20%28Civ6%29](city-state) in "[Civilization%20VI](Civilization VI)".
+In the [Portugal%20Pack%20%28Civ6%29](Portugal Pack), with the introduction of [Portuguese%20%28Civ6%29](Portugal) as a playable [Civilizations%20%28Civ6%29](civilization), Lisbon became a [Portuguese%20cities%20%28Civ6%29](Portuguese city) and was replaced with [Mogadishu%20%28Civ6%29](Mogadishu) under all rulesets.
+Strategy.
+Lisbon's [Suzerain%20%28Civ6%29](Suzerain) bonus is useful on water-heavy [Map%20%28Civ6%29](maps), particularly for [Civilizations%20%28Civ6%29](civilizations) like the [Phoenician%20%28Civ6%29](Phoenicians) and the [English%20%28Civ6%29](English) (who have good incentives to build and develop [Harbor%20%28Civ6%29](Harbors)) or trade-oriented civilizations like the [Dutch%20%28Civ6%29](Dutch), whose s are frequently at risk of being plundered by seafaring [Barbarian%20%28Civ6%29](Barbarians). On the other hand, there will almost always be a better city-state to which players can send their s on land-heavy maps, where Lisbon's bonus doesn't come into play nearly as often.

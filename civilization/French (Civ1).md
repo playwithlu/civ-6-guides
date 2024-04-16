@@ -1,0 +1,4 @@
+# French (Civ1)
+
+The French are a playable [List%20of%20civilizations%20in%20Civ1](civilization) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Their [Leaders%20%28Civ1%29](leader) is [Napoleon%20%28Civ1%29](Napoleon Bonaparte), their [Capital%20%28Civ1%29](capital) is [Paris](Paris), and their color is blue (which they share with the [German%20%28Civ1%29](Germans)).
+Playing this civilization on [Earth%20%28map%29%20%28Civ1%29](Earth) can make for an interesting and high-risk opening, if the [Roman%20%28Civ1%29](Romans) and [Greek%20%28Civ1%29](Greeks) are also in play. Moving east with the initial [Settlers%20%28Civ1%29](Settlers) or the first [List%20of%20units%20in%20Civ1](military unit) often leads to the early conquest of two rival civilizations.

@@ -1,0 +1,3 @@
+# Aztec
+
+The Aztec people represent the Aztec Empire, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and a [Native%20American](Native American) tribe in the "[Colonization%20%28game%29](Colonization)" games. Their [capital](capital) is [Tenochtitlan](Tenochtitlan), and they can be led by [Montezuma](Montezuma) or [Nazca](Nazca). Descendants of the Aztecs still live in [Mexico](Mexico) today.

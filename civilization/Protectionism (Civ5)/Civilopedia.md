@@ -1,0 +1,3 @@
+# Protectionism (Civ5)/Civilopedia
+
+Protectionism is the policy of restraining trade between nations through quotas, taxes and other methods. It is employed by countries who seek to slow or stop foreign goods and services from entering national markets and thereby "protecting" the local industries. Protectionism is also used by rulers who wish to limit their citizens' contact with foreign people and goods, either because they think that foreign things are evil, or because they don't want their citizens to know how badly off they are compared with people elsewhere in the world. North Korea is an example of a grotesquely protectionist state, its leaders limiting contact with the outside world to keep the North Koreans unaware of their own backwardness.

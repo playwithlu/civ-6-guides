@@ -1,0 +1,2 @@
+# Kandake Amanitore (Civ6)
+

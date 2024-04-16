@@ -1,0 +1,2 @@
+# The Manifold Harmonics (SMAC)
+

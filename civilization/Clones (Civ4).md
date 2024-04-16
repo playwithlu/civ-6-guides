@@ -1,0 +1,5 @@
+# Clones (Civ4)
+
+The Clone is a non-combat unit in the "[Next%20War%20%28Civ4%29](Next War)" Scenario/Mod of . As with the [Worker%20%28Civ4%29](Worker) it can [tile%20improvement%20%28Civ4%29](build tile improvements) and clean up [Terrain%20%28Civ4%29%23Terrain%20Features](fallout), albeit faster than the Worker. It is more expensive than the Worker though, so leaders in Next War will likely maintain a mix of the two even when Clones become available. Civilizations led by an [Expansive%20%28Civ4%29](Expansive) leader get a bonus of +50% hammers in the [Production%20%28Civ4%29](production) of Clones.
+Strategy.
+Like the Worker, Clones improve the land around your cities and build [Roads%20and%20railroads%20%28Civ4%29](roads) that help to establish [Trade%20route%20%28Civ4%29](trade routes). (They are faster than Workers, especially at clearing fallout.)

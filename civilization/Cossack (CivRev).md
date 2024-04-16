@@ -1,0 +1,2 @@
+# Cossack (CivRev)
+

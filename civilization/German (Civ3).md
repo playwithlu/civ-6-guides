@@ -1,0 +1,7 @@
+# German (Civ3)
+
+The Germans are a playable [List%20of%20civilizations%20in%20Civ3](civilization) in "[Civilization%20III](Civilization III)". They are led by [Bismarck%20%28Civ3%29](Otto von Bismarck).
+The Germans are [Scientific%20%28Civ3%29](Scientific) and [Militaristic%20%28Civ3%29](Militaristic). They start the game with [Bronze%20Working%20%28Civ3%29](Bronze Working) and [Warrior%20Code%20%28Civ3%29](Warrior Code) and build [Panzer%20%28Civ3%29](Panzers) instead of [Tank%20%28Civ3%29](Tanks).
+Unique Unit: [Panzer%20%28Civ3%29](Panzer).
+Not to be confused with the later Volkswagen, the Panzerkampfwagen (German "armored fighting vehicle") was the mainstay of the German tank forces during World War II. A variety of different models were produced, ranging from lighter, cheaper medium tanks (PzKw IV) to heavier models (PzKw V and VI). Panzer divisions were made famous by the campaigns of German Field Marshal Erwin Rommel ("The Desert Fox") in North Africa.
+The Panzer is an upgraded version of the tank. Like the tank, it requires oil and rubber to build, but its additional movement point makes their blitz maneuvers much more dangerous to their enemies, a power which is noted by all nations foolish enough to stand against Germany in the industrial age.

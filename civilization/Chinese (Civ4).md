@@ -1,0 +1,25 @@
+# Chinese (Civ4)
+
+The Chinese people represent a [List%20of%20civilizations%20in%20Civ4](civilization) in "[Civilization%20IV](Civilization IV)".
+Unit Dialogue.
+The Chinese units speak modern Mandarin Chinese. Corresponding English dialogue appears in parentheses.
+Order000: Rú nín suǒ yuàn. / 如您所愿. (As you wish.)
+Order001: Chū fā. / 出发. (Move out.)
+Order002: Dāng rán. / 当然. (Certainly.)
+Order003: Wǒ men zài jìn xíng. / 我们在进行. (We're on it.)
+Order004: Méi wèn tí. / 没问题. (No problem.)
+Order005: Jiù suàn chéng le. / 就算成了. (Consider it done.)
+Order006: Hěn hǎo. / 很好. (Very well.)
+Order007: Dòng shēn. / 动身. (Let's go.)
+Order008: Gǎn kuài xíng dòng. / 赶快行动. (Let's get moving.)
+Order009: Nín děng zhe qiáo hǎo le. / 您等着瞧好了. (You just wait and see.)
+Select000: Bào dào zhì xù yè wù. / 报道秩序业务. (Reporting for duty.)
+Select001: Tīng nín fēn fu. / 听您吩咐. (Give me your orders.)
+Select002: Gào su wǒ zuò shén me. / 告诉我做什么. (Tell me what to do.)
+Select003: Děng dài nín de mìng lìng. / 等待您的命令. (Awaiting your orders.)
+Select004: Suí shí zhǔn bèi xíng dòng. / 随时准备行动. (Ready for action.)
+Select005: Jì huà shì shén me? / 计划些什么? (What's the plan?)
+Select006: Shì ma? / 是吗? (Is it so?)
+Select007: Nín de mìng lìng? / 您的命令? (Your orders?)
+Select008: Nín xū yào shén me? / 您需要什么? (What do you need?)
+Select009: Quán bù dào qí bào gào. / 全部到齐报告. (All present and reporting in.)

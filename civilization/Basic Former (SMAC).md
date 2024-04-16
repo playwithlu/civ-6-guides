@@ -1,0 +1,2 @@
+# Basic Former (SMAC)
+

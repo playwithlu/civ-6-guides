@@ -1,0 +1,3 @@
+# Heathen Conversion (Civ6)/Civilopedia
+
+For quite some time, it was tough on organized religion, what with all those other faiths vying for the “hearts and minds” of the people. Buddhists in Japan, Christians in Rome, Hindus in Indonesia … all struggled to bring holy writ to the heathens they faced. Although the Christian conversion of the Roman Empire proceeded by fits and starts, it wasn’t long before the Church had missionaries all over Europe. And then Africa, Asia and the Americas, converting heathens everywhere – by the sword if necessary.

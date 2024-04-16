@@ -1,0 +1,6 @@
+# Agoge (Civ6)
+
+Agoge is a Military [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Another one of the earliest Policy Cards, Agoge will boost your earliest military [Units%20%28Civ6%29](units') training rate significantly. It is very important for militarized [Civilizations%20%28Civ6%29](civilizations), which rely on early conquest - they generally need to churn out a sizable army within the first 30-40 turns. However, civilizations in peril of invasion could also use the Policy effectively, and come up with an army where before there were only easy pickings for the enemy.
+This Policy is a Military one, and is a very good option for a general Military Policy for the first 50-100 turns. You can occasionally replace it with [Discipline%20%28Civ6%29](Discipline) (if threatened by [Barbarian%20%28Civ6%29](Barbarians)), with [Survey%20%28Civ6%29](Survey) (if you want to boost early reconnaissance), or with other unit production-oriented Cards as the need arises.

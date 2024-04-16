@@ -1,0 +1,4 @@
+# Queensland (Civ6)/Civilopedia
+
+The lush northeastern portion of Australia is known for its natural beauty and—according to Australians who aren’t from Queensland—unnaturally straight bananas which require bending before export. (Choice responses of Queenslanders are too colorful to share here.) It once had the largest Aboriginal population in Australia, but this changed with the arrival of British colonists, their diseases, and a series of bloody conflicts in the early 19th Century.
+When Queensland broke from New South Wales to become its own Crown colony in 1859, Brisbane—originally founded as a penal colony in 1824—had the good fortune to be selected as its capital. This proved especially so with the discovery of gold in Queensland, leading to multiple gold rushes through the back half of the 19th Century. In addition to its numerous national parks, the Great Barrier Reef can be found along most of Queensland’s eastern coast.

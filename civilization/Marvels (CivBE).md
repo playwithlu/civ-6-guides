@@ -1,0 +1,7 @@
+# Marvels (CivBE)
+
+Marvels have been introduced to "" in the "Rising Tide" expansion pack. Unless the player specifically chooses to disable them, every "Rising Tide" map will have at least one marvel. 
+All marvels take up three hexes. (Except for the massive meteorite crater which takes up four.) Every biome has a unique marvel, and water has a unique marvel.
+Once a Marvel is found, a quest begins for all players, which requires players to explore the map to find various items. The quest is separated into two parts, requiring the player to gather a single sample and then two (or more, corresponding to your game speed; marathon requires 9) additional samples. Once the quest is complete the player will gain a bonus. Unlike wonders, multiple civilizations may complete these quests. Different factions can complete the same marvel quest, as well.
+Any unit can be used to explore Marvels. Units over the appropriate "subquest marvel" task tiles (i.e. smaller version of the fungus, hydrocoral overmind), will have a yellow explore action/function (yellow version of the quest symbol above, on the right side of their action bar. Subquest marvels can be claimed by opposing factions, preventing credit when you attempt to claim. 
+Marvels are similar to the [Natural%20wonder%20%28Civ5%29](natural wonder) concept in Civilization V.

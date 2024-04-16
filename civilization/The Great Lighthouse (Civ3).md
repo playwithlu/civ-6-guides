@@ -1,0 +1,3 @@
+# The Great Lighthouse (Civ3)
+
+ is a [List%20of%20wonders%20in%20Civ3%23Great%20Wonders](Great Wonder) in "[Civilization%20III](Civilization III)". It requires and is obsoleted by . It allows s to move safely in and out of squares, and it increases all naval unit movement rates by one. This Great Wonder can become a [tourist%20attraction%20%28Civ3%29](tourist attraction) and may trigger [Golden%20Age%20%28Civ3%29](Golden Age) for , and .

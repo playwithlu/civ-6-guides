@@ -1,0 +1,3 @@
+# Coffee House (Civ5)/Civilopedia
+
+The famous coffeehouses of Austria, found predominantly in the cultural center of Vienna, have long been a sanctuary from the hustle and bustle of everyday life. According to legend, the first coffee house in Vienna was opened by a Polish soldier named Jerzy Franciszek Kulczycki, who discovered a cache of coffee beans left behind by the retreating Ottoman-Turks following the Battle of Vienna in 1683. Vienna's café culture blossomed in the 19th century, when writers and artists across the city took comfort in the laid-back atmosphere of the coffeehouse and often lingered throughout the day.

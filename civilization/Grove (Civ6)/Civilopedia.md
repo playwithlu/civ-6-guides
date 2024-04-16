@@ -1,0 +1,3 @@
+# Grove (Civ6)/Civilopedia
+
+Semi-wild groves figure deeply into the religious and imaginative worlds of many peoples. The 11th-century German chronicler Adam of Bremen describes the grove in Uppsala, present-day Sweden, where human sacrifices to Odin, Thor, and Frey were hanged. Baltic and Celtic peoples likewise held stands of old trees – especially, for the latter, oak – to be holy. In the city of Kyoto, the bamboo grove at Arashiyama remains one of the most peaceful and sacred sites in a city known for its shrines. But perhaps the most famous of groves is Lumbini, the forest garden where the Buddha was born. A grove of ancient trees, preserved and tended, lends a living sacred and cultural heart to a preserve.

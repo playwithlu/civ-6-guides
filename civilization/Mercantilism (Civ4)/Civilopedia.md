@@ -1,0 +1,4 @@
+# Mercantilism (Civ4)/Civilopedia
+
+Mercantilism refers to government policy that strictly manages the nation's production. The government determines which farmers produce which crops, decides who will be allowed to sew pants and who will have a monopoly on shirts, and so on. The nation may ban all foreign imports.
+The advantages of mercantilism are that it ensures that a nation's wealth remains within the nation itself, and that its people are not put out of business by cheap foreign imports. On the other hand, the success or the failure of the entire economy is in the hands of just a few men or even one, and if they make foolish or unlucky decisions, the nation as a whole suffers. Further, the ban on foreign imports limits the nation's exposure to new products and new ideas. And if someone has a monopoly on an item, there is little pressure for that person to improve the item or make it cheaper.

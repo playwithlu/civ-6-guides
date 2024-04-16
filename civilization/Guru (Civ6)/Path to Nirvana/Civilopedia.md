@@ -1,0 +1,3 @@
+# Guru (Civ6)/Path to Nirvana/Civilopedia
+
+"Guru" is a Sanskrit term that denotes a master and teacher in a given field, typically religion and its instruction. Gurus are important in Hinduism, Jainism, some branches of Buddhism, and most especially in Sikhism, whose founder is Guru Nanak. A proper relationship between the guru and student is considered critical guiding students in these religions, though the methods by which the guru instructs the student vary between traditions. But all these make clear the guru is more than just a teacher, but a font of spiritual wisdom and sacred instruction.

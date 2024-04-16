@@ -1,0 +1,7 @@
+# Global Communications (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Global Communications is an Advance in global surveillance that gives rise to two high-tech defense systems. The Anti-Ballistic Missile improvement allows to counter any nuclear strike with missiles of its own. The wonder gives the host empire the ability to monitor every enemy unit and city on the map. The player who owns the can track enemy military activity, which affords a considerable strategic and diplomatic advantage.
+Great Library entry.
+Completed in 1866, the Atlantic telegraph cable opened trans-oceanic telecommunications. However, the Atlantic cable was but the first of a growing communication network. Telephone lines soon followed, with major telecommunications corporations investing billions of dollars over the course of the 20th century upgrading existing lines and laying new ones. In 1974, the first commercial satellite flew into orbit, and by the early 21st century, a combination of fiber optic land lines and rings of orbital digital satellites had linked the world. With the rise of satellite telephone service, even the remotest regions of the planet were within reach. The global satellite network enabled the military to monitor the world through spy satellites equipped with high-powered cameras. The nation who possessed this technology could watch any activity around the world and monitor their rivals with unprecedented access.

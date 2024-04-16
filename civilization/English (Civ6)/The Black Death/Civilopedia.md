@@ -1,0 +1,3 @@
+# English (Civ6)/The Black Death/Civilopedia
+
+The Plantagenet family that ruled England during the Black Death had claims to both the English and French thrones. They had embarked on military conquests against Scotland and Wales. Over time, the king of England was forced to accede power to Parliament and the nobility, meaning that English kings were comparatively less powerful than other European monarchs.

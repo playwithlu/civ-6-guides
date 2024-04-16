@@ -1,0 +1,5 @@
+# Brussels (Civ6)
+
+Brussels is an industrial [City-state%20%28Civ6%29](city-state) in "[Civilization%20VI](Civilization VI)". 
+Strategy.
+Brussels' bonus towards building Wonder is rather straightforward, which makes it situational yet useful and easily utilized by every [Civilizations%20%28Civ6%29](civilization). Civilizations with innate Wonder building bonuses like [French%20%28Civ6%29](France) and [Egyptian%20%28Civ6%29](Egypt) have particularly great synergy with this city-state. A good tip when playing in a game with Brussels is that since its bonus does not apply throughout the game but only when you decide to build Wonders, prepare [Amani%20%28Diplomat%29%20%28Civ6%29](Amani) with her [Puppeteer%20%28Civ6%29](Puppeteer) and only send her to Brussels when you have plans to build an important Wonder and move her away afterwards, since its bonus is useless if no Wonder is under construction.

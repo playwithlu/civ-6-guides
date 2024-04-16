@@ -1,0 +1,3 @@
+# Offworld Mission (Civ6)/Civilopedia
+
+If human beings are to settle away from planet Earth, it will be necessary to develop competencies for life isolated from the main planet—simple matters like “growing food” and “finding enough water” and “not having to run home for spare parts.” Approaches for sustained life away from Earth are still in the theoretical stages in the early Twenty-First Century. It is hoped that as human beings develop the ability to live away from our home planet, those learnings will also be passed back to those of us living on Earth, in order to help us make better use of the resources we possess and safeguard them for future generations.

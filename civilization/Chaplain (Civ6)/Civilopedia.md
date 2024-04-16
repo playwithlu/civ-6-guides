@@ -1,0 +1,3 @@
+# Chaplain (Civ6)/Civilopedia
+
+Every faith has its healers. In antiquity, priests were often also physicians, keeping the faithful healthy in body as well as spirit. A number of early Christian healers are revered as saints by the Catholic Church, and in the Middle Ages several religious orders were founded which maintained hospitals, leper colonies, infirmaries, hospices, and rudimentary medical care for the poor … some still do. The Catholics weren’t alone. Buddha declared, “Bodhisattvas should learn the art of healing in order to help others and to liberate them from suffering”; and Islamic scholars kept the knowledge of the ancient physicians alive through the Dark Ages of Europe.

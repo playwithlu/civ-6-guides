@@ -1,0 +1,3 @@
+# Monitor (Civ5)/Civilopedia
+
+In the Civil War, a "monitor" was an armored, steam-driven warship with a very low freeboard (as a foot from waterline to deck) mounting a few heavy guns in one or more turrets. Intended primarily for use on the rivers that cut through Southern territory, the unseaworthy craft were used to support land forces, protect riverbank positions, and control river passage; monitors were crucial to the Union victories in the West, notably along the Mississippi River.

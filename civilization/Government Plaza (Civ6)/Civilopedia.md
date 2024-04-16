@@ -1,0 +1,3 @@
+# Government Plaza (Civ6)/Civilopedia
+
+While a government may exist in the hearts and minds and consent of the governed, the actual execution of government requires desks to work on, archives to store records, and meeting rooms to discuss the affairs of state. It helps if the government can set aside space somewhere for dedicated scribes, civil servants, sinecure holders, and politicos to work efficiently, so that the matters of state can be conducted in a timely way. Throughout history, many civilizations have consolidated their bureaucracies in central areas, creating Government Plazas with clustered office dedicated to governance. Westminster in London, or the Kremlin in Moscow, or Eixo Monumental in Brazil might all be considered examples of the Government Plaza.

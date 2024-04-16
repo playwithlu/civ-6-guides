@@ -1,0 +1,6 @@
+# Goddess of the Harvest (Civ6)
+
+Goddess of the Harvest was a [Pantheons%20%28Civ6%29](Pantheon) in "[Civilization%20VI](Civilization VI)". When a player with the Goddess of the Harvest pantheon harvested a [Resources%20%28Civ6%29](resource) or removed a [Terrain%20%28Civ6%29%23Features](feature), they received equal to the other yield's quantity. This Pantheon was removed from "[Gathering%20Storm](Gathering Storm)" in the [Civilization_VI_June_2019_Update](June 2019 Update).
+Strategy.
+Goddess of the Harvest is useful for players who would rather clear terrain features and resources than improve them. The [Japanese%20%28Civ6%29](Japanese) may have the best incentive to choose it, since it will provide them with in addition to the , , and/or they normally get. Once they've gotten the lump sum of yields, they can freely place s on the empty [Tile%20%28Civ6%29](tiles).
+Some more aggressive players occasionally combine this pantheon with the [Warrior%20Monk%20%28Civ6%29](Warrior Monks) follower belief with interesting results; however, this is a highly situational combination!

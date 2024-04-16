@@ -1,0 +1,3 @@
+# Hwacha (Civ3)
+
+The Hwach'a replaces the [Cannon%20%28Civ3%29](Cannon) as the siege weapon of choice for the [Korean%20%28Civ3%29](Korean) civilization in the Middle Ages. The Hwach'a is a more advanced artillery unit, capable of bombarding adjacent targets and unlike other siege weapons it is even able to kill them rather than simply reducing their health. A Korean city must have Saltpeter to build a Hwach'a.

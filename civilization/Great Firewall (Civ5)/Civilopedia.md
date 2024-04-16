@@ -1,0 +1,3 @@
+# Great Firewall (Civ5)/Civilopedia
+
+The Great Firewall is a restrictive internet monitoring and censorship program used to control the flow of information available to a civilization's people through the internet. By limiting the public's access to potentially volatile information available online, government agencies can limit potential backlash and other dissension regarding unpopular policies and government programs.

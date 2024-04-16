@@ -1,0 +1,5 @@
+# Pollution (CTP1)
+
+Pollution is one of the destructive forces that can result from a reckless pursuit of industrial and population growth. Pollution causes unhappiness, s, and even global warming (which results in flooded tiles) if left unchecked.
+Great Library entry.
+Pollution has always followed the rise of civilization. Well before the oil spills and clear cutting of the 20th century, the drive for materials and fuel created unexpected consequences for mankind. Demand for firewood cleared most of England of old growth forest by the late sixteenth century. Four hundred years later, it was learned that chemical propellants were destroying the Earth's protective ozone layer while carcinogens in food and drinking water threatened the health of the world. As public awareness about environmental problems increased, pollution became an important social and political issue in all developed nations.

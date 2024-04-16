@@ -1,0 +1,5 @@
+# Prasat (Civ6)/Civilopedia
+
+When not dominating the Mekong and the mainland of Southeast Asia, the kings of the Khmer empire would turn their attention to their faith. And what better way to venerate the gods than through erecting massive temples?
+These holy sites at the center of Khmer worship would serve as both symbols of their warrior-kings’ piety and their engineers' brilliance. The earliest Khmer temple on record is Prasat Ak Yom (c. 800), its design reflecting the South Indian tradition of 'ratha'-style temples, towering edifices terminating in a crown at the top. Of course, the Khmer would add their own flourish, adding prangs, or towers to the structures.
+The construction of these temples would become an enduring feature of subsequent Khmer rulers, first facing east in honor of the Hindu god Shiva, while later construction would turn west after Jayavarman VII introduced Mahayana Buddhism to the Empire in the Twelfth Century.

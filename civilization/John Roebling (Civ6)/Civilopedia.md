@@ -1,0 +1,5 @@
+# John Roebling (Civ6)/Civilopedia
+
+Everyone crossing the Brooklyn Bridge in New York City can attribute their safe passage to John Roebling. Born in Mülhausen, Prussia, the young man studied drafting, architecture, and engineering before working to build roads for three years.
+In 1831, he moved with his brother to the United States, there marrying and beginning a family, before ultimately finding work as a railroad surveyor for a new line across the Allegheny Mountains. It was here that his suggestion to use weaved wire cables to haul heavy goods launched his cable manufacturing business.
+But an engineer’s curiosity is never satisfied, and so with the success of his business, he began to explore designs for, and build, suspension bridges. In the end, he died from complications resulting from an accident at the site of the Brooklyn Bridge in 1869.

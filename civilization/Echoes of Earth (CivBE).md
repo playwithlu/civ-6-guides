@@ -1,0 +1,3 @@
+# Echoes of Earth (CivBE)
+
+Echoes of Earth is a total conversion [Mods%20%28CivBE%29](mod) for "". It was created by [CivFanatics](CivFanatics) user Machiavelli24 (who also created [New%20Horizons%20%28CivBE%29](New Horizons)) and first released on May 16, 2016. It replaces the [Tech%20Web%20%28CivBE%29](tech web), [Building%20%28CivBE%29](buildings), [Quests%20%28CivBE%29](quests), [Personality%20traits%20%28CivBE%29](personality traits), [Tile%20improvement%20%28CivBE%29](tile improvements), [Orbitals%20%28CivBE%29](orbital units), and other game elements while adhering to the following four design pillars:

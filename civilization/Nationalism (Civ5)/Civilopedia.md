@@ -1,0 +1,3 @@
+# Nationalism (Civ5)/Civilopedia
+
+Nationalism is the policy that emphasizes the importance and uniqueness of the state. The state is the mother and father of the people, and the people love the state. Everybody has the national flag flying from their home, and everybody attends the founding day parade of military personnel and cool hardware. Nationalist states are often quite powerful, as the people work tirelessly for the state's advancement. However, internal criticism of the state may be stifled, which can limit the state's ability to correct itself if it goes off course.

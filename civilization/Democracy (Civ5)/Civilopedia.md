@@ -1,0 +1,3 @@
+# Democracy (Civ5)/Civilopedia
+
+In a democracy the government is controlled by the people, either directly or through elected representatives. Some city-states in ancient Greece were democracies for at least part of their existence, as Rome was before the Caesars came to power. Following the fall of the Roman Republic democracy went out of favor for several thousand years, although it did enjoy a small revival in certain Northern European states in the Middle Ages. Democracy blossomed in the eighteenth century, following the American and French Revolutions, and today it is the dominant political system in the world.

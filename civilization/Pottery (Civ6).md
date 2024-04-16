@@ -1,0 +1,6 @@
+# Pottery (Civ6)
+
+Pottery is an [Ancient%20Era%20%28Civ6%29](Ancient Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Pottery is an important early step for civilization. The creation of containers out of clay ensures long-term, safe storage of food and other essentials. Through this technology, [City%20%28Civ6%29](cities) can build [Granary%20%28Civ6%29](Granaries) to improve sanitation and growth. It also allows [Builder%20%28Civ6%29](Builders) to harvest any or in planned spots.
+Pottery is one of the five possible techs you can choose at the very start of the game. Although it doesn't unlock any important [Tile%20improvement%20%28Civ6%29](improvement) or [District%20%28Civ6%29](district), it leads to the ubiquitous [Writing%20%28Civ6%29](Writing) that unlocks the entire upper side of the tech tree, so you will need to research it eventually. It also leads to [Irrigation%20%28Civ6%29](Irrigation), which you will absolutely need if your starting location's [Resource%20%28Civ6%29%23Luxury](luxury resources) are predominantly plant-based (and thus accessible via [Plantation%20%28Civ6%29](Plantations)), or if it is far from the sea, devoid of minerals, and generally poor on terrain-based sources. Otherwise, you should prioritize one of the other starting techs, which unlock more immediate benefits.

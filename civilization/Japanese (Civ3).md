@@ -1,0 +1,7 @@
+# Japanese (Civ3)
+
+The Japanese are a playable [List%20of%20civilizations%20in%20Civ3](civilization) in "[Civilization%20III](Civilization III)". They are led by [Tokugawa%20%28Civ3%29](Tokugawa Ieyasu).
+The Japanese are religious and militaristic. They start the game with Ceremonial Burial and The Wheel, and can build [Samurai%20%28Civ3%29](Samurai) units instead of [Knight%20%28Civ3%29](Knights).
+Unique Unit: [Samurai%20%28Civ3%29](Samurai).
+Similar to the European knights, Japanese samurai were landowners who volunteered military service in exchange for a larger warlord's protection. Their handsome lacquer armor gave them durable protection on the battlefield. The warrior code of "Bushido" placed exacting restrictions on their behavior, both on the field of battle and off. One such tenant was that samurai of opposing forces must seek each other out and battle one on one. While their armor provided some safety from early gunpowder weapons, soon more advanced weaponry and skilled marksmen relegated them to administrative and leadership roles. The samurai caste was abolished in 1868.
+The Samurai is an upgraded version of the knight. Like the knight, it requires iron to build, but it does not require horses as the knight does. The Samurai has an additional defensive point, making it a powerful all-purpose unit which is equally suited for both assault and defense roles.

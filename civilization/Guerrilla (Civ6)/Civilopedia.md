@@ -1,0 +1,3 @@
+# Guerrilla (Civ6)/Civilopedia
+
+Typically, guerrilla operations entail some sort of "fight and flee" tactic, whereby a small, lightly-armed, fast-moving unit attacks a bigger one, and then gallantly runs away. Using every advantage of cover, camouflage, stealth, and ambush, guerrilla units seek to wear down the enemy's advantages in numbers and munitions, while simultaneously negatively impacting its will to pursue. But, the main point is to avoid a "stand-up" fight; otherwise the guerrilla force is annihilated.

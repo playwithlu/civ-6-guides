@@ -1,0 +1,3 @@
+# Communism (Civ5)/Civilopedia
+
+Communism is a system in which private property is abolished and everything is commonly owned. The workers in the factories work for their own common good, not to line the pockets of some rich factory owner. No one is superior to another, and no one is oppressed by another. Communist states rarely reach this utopian vision, and invariably some in the society are more powerful and better off than others - possibly much more so. Further, communist states are fairly inefficient, as the profit motive is mostly removed, which tends to stifle creative innovation. On the other hand communist states generally have adequate social support networks, ensuring that at worst none of the citizens starve to death or die lacking basic healthcare.

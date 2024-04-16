@@ -1,0 +1,3 @@
+# Banner Cavalry (Civ5)/Civilopedia
+
+The Eight Banners, created by Manchu founder Nurhaci in the early 17th century, was a system of administration intended to organize the dynasty's military. Initially created to divide the soldiers into different companies, the banner system later came to utilize ethnically-segregated units, as the Manchu military was made up of Manchu, Han, and Mongol troops who typically didn't intermingle. The Manchu and Mongol banner companies were ideal cavalrymen, their long history of nomadic equestrianism breeding formidable mounted troops.

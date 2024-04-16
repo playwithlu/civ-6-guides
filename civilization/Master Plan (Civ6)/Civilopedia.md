@@ -1,0 +1,3 @@
+# Master Plan (Civ6)/Civilopedia
+
+In a chamber underground, its ceiling set with gilded stars, you sit across from figures in masks - owl masks, mantis masks, fox masks, others of creatures from distant shores. The glimmer of screens on the wall reveals multiple vantage points into the sleeping chamber of the lord of a distant city-state. The servant shown on the screen (you know that she wears a beetle mask when she is among the Owls) takes a small vial from her sleeve, awaiting your order.

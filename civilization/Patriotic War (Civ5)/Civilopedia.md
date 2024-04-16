@@ -1,0 +1,3 @@
+# Patriotic War (Civ5)/Civilopedia
+
+Throughout history the term "Patriotic War" has designated those conflicts where, according to Communist doctrine, the proletariat has risen to defend itself against a foreign threat. More generally, it refers to a war to defend the homeland, or in this case, the "Motherland." First applied to the general resistance by the Russian peasantry to Napoleon's invasion in 1812 AD, it was more generally used to refer to the costly defense of Russia against Germany in the Second World War.

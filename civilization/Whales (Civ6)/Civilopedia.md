@@ -1,0 +1,3 @@
+# Whales (Civ6)/Civilopedia
+
+Whales have been hunted nearly to extinction for their meat, blubber, ambergris, oil, and bones (best not to be too useful to the dominant species). Whales have been hunted commercially since the 17th Century, but commercial whaling is now banned by several international commissions … although Norway, Iceland, Japan, and others have continued to license whaling vessels. The beasts also loom large in the folklore of several civilizations, and who can forget the 1851 novel 'Moby Dick.'

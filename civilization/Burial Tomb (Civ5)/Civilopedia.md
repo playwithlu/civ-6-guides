@@ -1,0 +1,3 @@
+# Burial Tomb (Civ5)/Civilopedia
+
+The Egyptians raised ancestor-worship to heights unmatched before and since, and much of civilization's wealth and creative energy was expended in the construction of Burial Tombs for deceased relatives. Many such tombs may be found in the Valley of the Kings, across the Nile River from Thebes. These tombs were often stocked with a portion of the wealth of the deceased, making them rich targets for tomb robbers throughout history.

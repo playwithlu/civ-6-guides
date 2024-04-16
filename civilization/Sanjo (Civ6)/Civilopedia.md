@@ -1,0 +1,3 @@
+# Sanjo (Civ6)/Civilopedia
+
+Chainmail – sanjo – has a long history in Punjab, dating back to its introduction by the Persians in the early first millennium, and a chain shirt was a core part of a Nihang’s equipment. In 18th-century warfare, muskets were present, and Nihang were certainly trained in their use, but muskets were slow and unreliable, and a real fight always came down to swords and armor.

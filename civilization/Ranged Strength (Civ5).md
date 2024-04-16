@@ -1,0 +1,2 @@
+# Ranged Strength (Civ5)
+

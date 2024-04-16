@@ -1,0 +1,8 @@
+# Education (Col)
+
+In "Colonization", Education occurs when a colonist with a skill is placed on the [Schoolhouse%20%28Col%29](Schoolhouse), [College%20%28Col%29](College), or [University%20%28Col%29](University), and there is a [Petty%20Criminals%20%28Col%29](Petty Criminal), [Indentured%20Servants%20%28Col%29](Indentured Servant), or [Free%20Colonist%20%28Col%29](Free Colonist) present in the [colony%20%28Col%29](colony).
+A Petty Criminal will be educated to become an Indentured Servant; an Indentured Servant can be educated to become a Free Colonist.
+The number of turns required for the change to occur is decreased if the Sons of Liberty membership is 50% and further decreased at 100%. See [Liberty%20bell%20%28Col%29](Liberty bell) for more on Sons of Liberty membership.
+The colonist learning a skill does not have to be performing that skill in order to learn it; the teacher is the determining factor.
+Conversely, some skills can be learned by a Free Colonist spontaneously while he is performing that skill, with no teacher required. These are:
+Finally, a Petty Criminal, Indentured Servant, and a Free Colonist each have a chance to be promoted to the next type from winning in combat. They must be equipped with [Muskets%20%28Col%29](Muskets) to become [Soldiers%20%28Col%29](Soldiers) first. A Free Colonist who wins a battle has a chance to become a [Veteran%20Soldiers%20%28Col%29](Veteran Soldier). [George%20Washington%20%28Col%29](George Washington) increases this chance to 100%.

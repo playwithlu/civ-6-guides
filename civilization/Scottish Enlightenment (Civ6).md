@@ -1,0 +1,2 @@
+# Scottish Enlightenment (Civ6)
+

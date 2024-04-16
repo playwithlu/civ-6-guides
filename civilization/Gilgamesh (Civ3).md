@@ -1,0 +1,3 @@
+# Gilgamesh (Civ3)
+
+Gilgamesh is the main character of the ', an poem based on earlier Sumerian sources that is considered the oldest known work of literature in history, which describes him as the demigod king of the city-state of [Uruk](Uruk). The general consensus is that the character was likely based on a historical king of Uruk that reigned sometime between 2800 and 2500 BC and was later deified. He leads the [Sumerian%20%28Civ3%29](Sumerians) in '.

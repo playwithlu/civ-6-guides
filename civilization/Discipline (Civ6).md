@@ -1,0 +1,5 @@
+# Discipline (Civ6)
+
+Discipline is a Military [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Discipline is the other starting choice for your initial Military Policy slot (unless you play as [German%20%28Civ6%29](Germany), which has an extra Military slot and will be able to use both Discipline and [Survey%20%28Civ6%29](Survey)), and is invaluable for dealing with [Barbarian%20%28Civ6%29](Barbarian) raiders. The +5 Strength provides a real edge against unruly hordes invading one's land or blocking early expansion during the early game. You should use the policy as soon as they start turning into a problem, unless you've been lucky enough to have close neighbors who deal with the Barbarians for you. Incidentally, Discipline does maintain some usefulness after the [Ancient%20Era%20%28Civ6%29](Ancient Era), though you usually have much better uses for your Military Policy slots at this point.

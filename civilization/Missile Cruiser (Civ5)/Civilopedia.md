@@ -1,0 +1,3 @@
+# Missile Cruiser (Civ5)/Civilopedia
+
+A missile cruiser is, excepting the aircraft carrier and nuclear submarine, the most powerful naval weapon in the modern arsenal. Designed to carry and deploy the enormously powerful, accurate and long-ranged cruise missiles, a missile cruiser can often target and destroy an enemy on land or sea, long before the enemy even knew the missile cruiser was in range. The "Ticonderoga"-class American missile cruiser is arguably the most powerful vessel afloat, armed with 122 launch tubes that can carry a huge variety of surface-to-surface, surface-to-air, and even anti-submarine missiles. It is also equipped with a variety of anti-aircraft Gatling-style guns, capable of destroying incoming enemy missiles and aircraft in short order.

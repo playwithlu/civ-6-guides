@@ -1,0 +1,6 @@
+# Warrior Code (Civ5)
+
+Warrior Code is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Honor%20%28Civ5%29](Honor) tree.
+Introducing a Warrior Code in a society causes a profound change in the people's relationship with their military. They see the benefits of a well-disciplined army, complying with strict moral and military laws, and this increases the recruitment volunteering rate in most infantry units. At the same time, military leaders become very popular and tend to arise faster than normal. One of them even appears spontaneously as the people acclaim their new social order!
+Strategy.
+Being a level 1 Policy, Warrior Code is one choice for a starting Policy. However, its benefits are immediate only if you are about to embark on a conquest right away, and intent to start building units immediately. In this case you will get a crucial boost to your unit production and be able to field a large army before anyone thinks it possible. The free [Great%20General%20%28Civ5%29](Great General) also comes handy in this case. Otherwise you may want to take your time and consider the other possible path through the [Honor%20%28Civ5%29](Honor) tree, and adopt Warrior Code later.

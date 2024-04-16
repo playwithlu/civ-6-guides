@@ -1,0 +1,3 @@
+# Caravan (Civ5)/Civilopedia
+
+From time immemorial traders have used beasts of burden - from horses and mules to camels and llamas - to engage in long-range commerce. The first historical records of caravans date to around 1000 BC when camel trains brought gems, precious metals, incense and spices up the west coast of Arabia, linking India with Egypt, Phoenicia, and the Mesopotamian empires. Many caravan routes, such as the famous Silk Road from China to the Middle East, shaped history as surely as wars and beliefs. Although largely supplanted by motorized transport, pack caravans still operate across such inhospitable terrain as the fringes of the Sahara and Gobi deserts.

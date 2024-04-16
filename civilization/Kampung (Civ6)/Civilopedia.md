@@ -1,0 +1,4 @@
+# Kampung (Civ6)/Civilopedia
+
+In the densely-packed islands of Southeast Asia, local rulers faced the challenge of how best to house their people while also keeping them safe from floods and wildlife. Their answer – communities of tightly-clustered houses on stilts, or the kampung.
+While the term is a general one referring to a neighborhood, Indonesian kampungs were famous for helping Java achieve the highest population density of any island in the world. Indeed, foreign visitors were so impressed by the efficiency of Indonesian and Malay kampungs that they adopted the term in the English ‘compound.’

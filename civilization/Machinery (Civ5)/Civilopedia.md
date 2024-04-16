@@ -1,0 +1,4 @@
+# Machinery (Civ5)/Civilopedia
+
+A machine is a device with moving parts (this is true during the pre-Electronics Age, anyway) that uses energy to perform tasks. A printing press is a machine, as is a loom, a clock and a watermill. Mastery of machinery requires design and engineering skill, of course, but also the ability to manufacture machine parts to precise measurements. A steam engine will leak if it's constructed poorly - that is, if it doesn't explode. The early Machine Age was a hugely dangerous time to work around the devices - if the fumes didn't kill you then you stood a fair chance of getting scalded, sucked into the works or blown to pieces.
+On the other hand, once a civilization began to master complex machinery, it gave them unrivaled wealth and power. [English%20%28Civ5%29](England) went early into the Industrial Revolution, and by so doing the small island nation dominated world trade for a little over two centuries.

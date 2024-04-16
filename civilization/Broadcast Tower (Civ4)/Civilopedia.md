@@ -1,0 +1,3 @@
+# Broadcast Tower (Civ4)/Civilopedia
+
+Although newspapers are published on a daily basis, they cannot often keep up to date on what is happening at the moment. Radio provides a means of doing that, as well as providing entertainment sources that would not otherwise be possible. With many events that occur in the world, it is important that the government be able to repudiate claims made by others, especially those that are true! Although radio has been superseded by the television in most parts of the world, it is still a valuable tool to disseminate pro-government propaganda to the populace.

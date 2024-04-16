@@ -1,0 +1,6 @@
+# Scientific Theory (Civ6)
+
+Scientific Theory is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by developing [The%20Enlightenment%20%28Civ6%29](The Enlightenment) [Civic%20%28Civ6%29](civic).
+Strategy.
+Scientific theory, the notion that every claim is only true if it can be tested scientifically, is the basis of advanced modern technology and science. Its notion allows the continuation of the scientific advancement of mankind in most fields, thanks to a systematic approach which eliminates mistaken beliefs and erroneous theories before they can take hold and steer scientists in the wrong direction.
+Scientific Theory allows immediate advancements in cultivation, improving the yield of [Plantation%20%28Civ6%29](Plantations). It also contributes to [Diplomacy%20%28Civ6%29](diplomacy) by enabling [Civilizations%20%28Civ6%29](civilizations) to pursue common research goals through [Diplomacy%20%28Civ6%29%23Research%20Agreement](Research Agreements).

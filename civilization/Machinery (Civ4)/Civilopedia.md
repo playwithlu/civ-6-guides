@@ -1,0 +1,5 @@
+# Machinery (Civ4)/Civilopedia
+
+A machine is an object constructed of several parts that assists in the performance of a task. The machinery technology allows construction of fairly complex machines with metal components that store, modify and transmit energy in a useful fashion. A windmill is a machine of this type, as is a printing press.
+Man has used primitive machines throughout much of history. A bow can be considered a simple machine, as can a mortar and pestle. More complex machines came into being in the Middle Ages - at least in Europe. The Persians had windmills back in the seventh century BC.
+The earliest machines consisted of gears, driveshafts, levers, pulleys, screws, winches and so forth. Some of these elements could be satisfactorily created of wood or stone, but those substances tend to be both fragile and very difficult to work with, particularly in small sizes. Once metallurgy provided stronger and more precise metal components, machines rapidly grew in sophistication and utility.

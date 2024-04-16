@@ -1,0 +1,7 @@
+# Solar Farm (Civ6)
+
+The Solar Farm is a standard [Tile%20improvement%20%28Civ6%29](tile improvement) in "". It is used to supply renewable  to its [City%20%28Civ6%29](city) from flat [Terrain%20%28Civ6%29](terrain) [Tile%20%28Civ6%29](tiles). It cannot be built on [Snow%20%28Civ6%29](Snow).
+Strategy.
+The Solar Farm is another, arguably more easily accessible way of supplying for your cities without burning fossil fuels. However, it will have to compete for a spot on the [Map%20%28Civ6%29](map) with other improvements, and on flat land this usually means [Farm%20%28Civ6%29](Farms), or any number of special improvements. You'll have to decide whether it's worth it to replace these with Solar Farms.
+The best place to use Solar Farms is on these boring [Desert%20%28Civ6%29](Desert) and [Tundra%20%28Civ6%29](Tundra) tiles which can't be improved in any other way. And if they've been "fertilized" by some [Storm%20%28Civ6%29](storms), you could get some really nice output out of them!
+[Governor%20%28Civ6%29](City Governor) [Reyna%20%28Financier%29%20%28Civ6%29](Reyna's) [Renewable%20Subsidizer%20%28Civ6%29](Renewable Subsidizer) title can boost the yield from this improvement by +2 and +2 .

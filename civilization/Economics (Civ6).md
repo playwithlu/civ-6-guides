@@ -1,0 +1,7 @@
+# Economics (Civ6)
+
+Economics is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by building 2 [Bank%20%28Civ6%29](Banks).
+Strategy.
+Simply told, Economics is science applied to money and commerce. The first who thought to do this soon prove how important it is for national development, and then everyone was rushing to study economics...and to invent new and ever more sophisticated and implausible financial instruments with which to rip off the unsuspecting consumer.
+Development of Economics unlocks the final [Building%20%28Civ6%29](building) of the [Commercial%20Hub%20%28Civ6%29](Commercial Hub): the [Stock%20Exchange%20%28Civ6%29](Stock Exchange), which substantially increases a [City%20%28Civ6%29](city's) yield. It also unlocks [Big%20Ben%20%28Civ6%29](Big Ben), which dramatically increases the in the treasury of the player who builds it and adds an Economic policy slot to their [Government%20%28Civ6%29](government).
+In the [Monopolies%20and%20Corporations%20%28Civ6%29](Monopolies and Corporations) [Game%20mode%20%28Civ6%29](game mode), Economics has the added benefits of giving players a place to store Products and allowing them to create [Corporation%20%28Civ6%29](Corporations) by expending [Great%20Merchant%20%28Civ6%29](Great Merchants). It should be a high priority for everyone to research.

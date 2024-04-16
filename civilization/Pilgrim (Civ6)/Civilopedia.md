@@ -1,0 +1,3 @@
+# Pilgrim (Civ6)/Civilopedia
+
+As Nelson DeMille put it, “We’re all pilgrims … but some pilgrims have better road maps.” A pilgrim is a traveler with a purpose, to reach a holy place – thus a physical and spiritual journey to some special place in some specific belief system. This might be a holy city (Rome, Mecca, and the like), a natural wonder imbued with significance (Mount Sinai, Naj Tunich, the Ganges River, etc.), or something much smaller but just as significant. Inevitably, some of the pilgrims to such places come back having “seen the light,” and insist on sharing their enlightenment.

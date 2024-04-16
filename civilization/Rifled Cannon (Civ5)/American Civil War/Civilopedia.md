@@ -1,0 +1,3 @@
+# Rifled Cannon (Civ5)/American Civil War/Civilopedia
+
+Rifling adds grooves to the inside of the barrel of cannon to improve the range and accuracy of the piece, at the cost of increased expense to manufacture and the need for a longer barrel. Although various makes of rifled artillery were supplied to the Civil War armies, the most famous is the Parrott Rifle, used by both sides in different sizes, from the common 10-pounders for field use up to the emplaced 300-pounders in fortifications.

@@ -1,0 +1,3 @@
+# Pepper (Civ5)/Civilopedia
+
+Pepper, in many forms, has been grown virtually everywhere in the world and used for millennia to season our food. Black peppercorns were found in the nostrils of Ramesses II, part of the mummification process. It has been used in Southeast Asian cuisine since the 2nd century BC. Archaeological finds indicate that various hot peppers were used by the Aztecs and Mayans in cooking. In Rome, so valuable was pepper that it was used as collateral for loans, and Attila demanded a ton of pepper to spare the city in the 5th Century AD. Pepper has justifiably been called the "king of spice."

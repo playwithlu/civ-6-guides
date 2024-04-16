@@ -1,0 +1,3 @@
+# Japanese (Civ1)
+
+The Japanese are a playable [List%20of%20civilizations%20in%20Civ1](civilization) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Their [Leaders%20%28Civ1%29](leader) is [Tokugawa%20%28Civ1%29](Tokugawa), their [Capital%20%28Civ1%29](capital) is [Tokyo](Tokyo), and their color is green (which they share with the [Babylonian%20%28Civ1%29](Babylonians)). The Japanese replace the [Zulu%20%28Civ1%29](Zulus) in the SNES version of the game.

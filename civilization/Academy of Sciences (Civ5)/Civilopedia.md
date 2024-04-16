@@ -1,0 +1,3 @@
+# Academy of Sciences (Civ5)/Civilopedia
+
+An Academy of Sciences is a state-supported institution of learning or research society dedicated to the sciences and/or technology. The most famous, the Russian - later Soviet - Academy was founded in 1724 AD by Peter the Great in his efforts to modernize his empire. In 1917 the academy came under Soviet control, and was tasked with addressing questions of construction and social issues; beginning in 1928 the Soviet Politburo increasingly interfered in the teaching and research of the Soviet Academy of Sciences, hindering the scientific progress of the Soviet Union for decades.

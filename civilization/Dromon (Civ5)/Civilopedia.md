@@ -1,0 +1,3 @@
+# Dromon (Civ5)/Civilopedia
+
+A modified form of the traditional galley, the Dromon was an integral part of the Byzantine navy throughout the empire's reign. Featuring both oar and sail power, the Dromon was highly maneuverable and agile, but also dangerously equipped for battle. Through the use of Greek Fire, a precursor to modern Napalm, the Byzantines used an early form of the flamethrower to strike fear in the hearts of any who opposed them on the sea.

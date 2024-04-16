@@ -1,0 +1,3 @@
+# Ascendancy Theory (Civ4)/Final Frontier/Civilopedia
+
+Those unhappy with the interstellar state of man were thrilled with the discovery of the Lambda-VC beacon and its most precious of treasures: the foundations of Ascendancy Theory. Promising an escape to a new plane of the multiverse, Ascendancy Theory became man's greatest hope for escaping into a new, hopeful frontier. Scientists and Intuitive Computers throughout the universe began fervent research into what they saw to be man's final hope. But what secrets will this research unveil? And will its results be enough to thwart those who might send humanity into eternal disarray and chaos?

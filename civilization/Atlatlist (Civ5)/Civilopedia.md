@@ -1,0 +1,4 @@
+# Atlatlist (Civ5)/Civilopedia
+
+The Atlatlists were super-specialized dart-throwers, employing a long, wooden, spear-like object to hurl their darts towards the intended target at a great speed. This implement, called an atlatl, had a small cup on one end on which the dart would rest, and a channel cut down the length for it to travel down. Using an atlatl, the Atlatlist could launch a dart over 100 meters (300 feet) and up to 100 kilometers per hour (60 mph) - a good deal farther and faster than a simple hand-thrown projectile. The Mayan Atlatlists would have been capable of devastating enemy lines from afar, provided they had a clear line of sight to the target.
+Some of the earliest atlatls date back to roughly 400,000 years ago, used by the extinct "Homo heidelbergensis". "Homo sapiens" are thought to have used an early version of the atlatl starting in the Upper Paleolithic Era, about 15,500 BC.

@@ -1,0 +1,3 @@
+# Russian
+
+The Russian people represent Russia, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)". Their [capital](capital) might be [Kiev](Kiev), [Moscow](Moscow), or [St.%20Petersburg](St. Petersburg), and they can be led by [Catherine%20the%20Great](Catherine the Great), [Ivan%20the%20Terrible](Ivan the Terrible), [Lenin](Lenin), [Peter%20the%20Great](Peter the Great), or [Stalin](Stalin).

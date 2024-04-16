@@ -1,0 +1,3 @@
+# Commando (Civ6)/Civilopedia
+
+Commandos, those soldiers trained in the more esoteric aspects of war – infiltration, climbing, and rappelling, close combat, amphibious operations, and such – are today's elite troops, from the American Green Berets to the Israeli Shaldag Unit. Although several nations had units trained in unconventional attacks on "high-value targets," the term "commando" was first used in relation to the Boer bands of militia which raised havoc with the British at the beginning of the 1900s. So impressed were the British, that in 1941 their Imperial General Staff adopted the name for their volunteer units raised to raid the German-occupied continent. Other militaries soon followed suit with these "special forces."

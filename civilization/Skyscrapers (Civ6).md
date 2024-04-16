@@ -1,0 +1,5 @@
+# Skyscrapers (Civ6)
+
+Skyscrapers is an Economic [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Skyscrapers is the last of the [Wonder%20%28Civ6%29](wonder)-accelerating policies, providing bonuses for all Wonders. This includes [Oxford%20University%20%28Civ6%29](Oxford University) and the [Amundsen-Scott%20Research%20Station%20%28Civ6%29](Amundsen-Scott Research Station) (which are invaluable to players pursuing a [Victory%20%28Civ6%29%23Science](Science Victory)), as well as [Cristo%20Redentor%20%28Civ6%29](Cristo Redentor), the [Eiffel%20Tower%20%28Civ6%29](Eiffel Tower), and [Est%C3%A1dio%20do%20Maracan%C3%A3%20%28Civ6%29](Estádio do Maracanã) (which will do a lot to help players achieve a [Victory%20%28Civ6%29%23Culture](Cultural Victory)) and the [Ruhr%20Valley%20%28Civ6%29](Ruhr Valley) (which will benefit just about everyone).

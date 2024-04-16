@@ -1,0 +1,7 @@
+# Fountain of Youth (Civ6)
+
+The Fountain of Youth is a single-tile passable in "[Civilization%20VI](Civilization VI)" that was added in the [Maya%20%26amp%3B%20Gran%20Colombia%20Pack%20%28Civ6%29](Maya &amp; Gran Colombia Pack). Its [Tile%20%28Civ6%29](tile) provides 4 and 4 , as well as [Fresh%20water%20%28Civ6%29](fresh water), and +2 [Appeal%20%28Civ6%29](Appeal) to adjacent tiles.
+A land [Unit%20%28Civ6%29](unit) that moves into the Fountain of Youth receives the Water of Life ability, which allows it to recover +10 [HP](HP) per [turn](turn) when [Combat%20%28Civ6%29%23Healing](healing) in any [Territory%20%28Civ6%29](territory).
+In "", discovering the Fountain of Youth grants +1 [Era%20Score%20%28Civ6%29](Era Score), or +3 Score if the player is the first to do so.
+Strategy.
+The Fountain of Youth is fantastic if you settle near it in the early game. Its bonus is good for getting an early , and for generation in general from adjacent [Holy%20Site%20%28Civ6%29](Holy Sites). Its bonus is great for early game research, and its healing bonus is decent for war. Building an [Encampment%20%28Civ6%29](Encampment) next to the Fountain of Youth makes it extremely easy for units trained in that [City%20%28Civ6%29](city) to get the Water of Life ability.

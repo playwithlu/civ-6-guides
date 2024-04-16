@@ -1,0 +1,3 @@
+# Body Ornamentation (Civ3)/Mesoamerica/Civilopedia
+
+Exotic costumery and body augmentation were important aspects of Mesoamerican culture, particularly for the nobility classes. Kings wore brilliantly colored headdresses and robes. Golden earrings and nose rings were common, and Mayan leaders, in their pursuit to “become” the jaguar, would sharpen their teeth to fine points and tattoo their faces with spots.

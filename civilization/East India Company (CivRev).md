@@ -1,0 +1,5 @@
+# East India Company (CivRev)
+
+The East India Company is a [Wonder%20%28CivRev%29](wonder) in "[Civilization%20Revolution](Civilization Revolution)".
+Building the East India Company will increase the [Trade%20%28CivRev%29](trade) produced by every sea square worked by a [List%20of%20civilizations%20in%20CivRev](civilization) by +1! This means your [Gold%20%28currency%29%20%28CivRev%29](gold) and research will accumulate faster than ever! This wonder's effect is cancelled when any civilization discovers [Flight%20%28CivRev%29](Flight). Note that the wonder's benefit applies to all the player's [City%20%28CivRev%29](cities) and not just the city it is built in.
+This is considered to be a wonder that's meant for the English civilization because they were the first country to build this company in real life.

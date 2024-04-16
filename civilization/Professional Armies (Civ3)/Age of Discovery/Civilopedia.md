@@ -1,0 +1,3 @@
+# Professional Armies (Civ3)/Age of Discovery/Civilopedia
+
+During the Middle Ages, soldiers were almost always farmers or tradesmen compelled to fight by obligation to their landlords. Sometimes wars lasted long enough, though, that young boys learned no trade other than soldiering. These men became professional mercenaries, soldiers who fight for money. By the time of the Thirty Years' War in 1618, most major powers relied heavily on mercenaries to fill their ranks. Mercenaries were also widely used in Italy, where individual states had too few citizens to raise traditional militias to defend their territory (militias were also often reluctant to engage in offensive warfare, whereas mercenaries had no such qualms).

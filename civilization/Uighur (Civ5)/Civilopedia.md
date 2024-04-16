@@ -1,0 +1,3 @@
+# Uighur (Civ5)/Civilopedia
+
+Founded in 742 AD, the Golden Age of the Uighur Empire quickly began and extended into the latter 8th century. However, the young and fledgling empire was conquered by the Kyrgyz in 840, and the Uighur scattered into three kingdoms: Gansu, Turpan and Karakhanids. This scenario concerns the Uighur in Turpan, a fairly successful tribal kingdom which lasted until the Mongol invasion of 1389. The Mongols eventually adopted Uighur script as their writing system after the Uighurs became their vassals.

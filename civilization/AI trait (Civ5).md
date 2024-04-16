@@ -1,0 +1,8 @@
+# AI trait (Civ5)
+
+An AI trait is an aspect of an [AI](AI) [Leaders%20%28Civ5%29](leader) in "[Civilization%20V](Civilization V)" that governs his or her behavior. Traits differ from one leader to another - [Ramesses%20II%20%28Civ5%29](Ramesses II), for example, has a base Competitiveness rating of 4, whereas [Napoleon%20%28Civ5%29](Napoleon) has a base Competitiveness rating of 8.
+All of the information presented here comes from the pages cited below and the game's XML files.
+Mechanics.
+Traits are measured on a ten-point scale, with 1 being the lowest and 10 being the highest. There is a two-point margin of variance in leader traits, meaning that AI leaders will sometimes have traits that are up to two points higher or lower than their base values - Napoleon, for example, could have a Competitiveness rating as high as 10 or as low as 6. This variance may sometimes result in leaders having traits higher than 10 or lower than 1, in which case their traits will be rounded off to the nearest possible value.
+In rare cases, leaders display behavior that is inconsistent with their traits. [Askia%20%28Civ5%29](Askia), for example, has a base Wonder Emphasis rating of 3, yet he will try to build many [List%20of%20wonders%20in%20Civ5](wonders) in a typical game.
+Traits for each leader can be found in the tables on the leader pages. Note that these traits are the default values, so they will not apply if "Random Personalities" is selected during game setup or a heavily [Modding%20%28Civ5%29](modded) version of the game is being played.

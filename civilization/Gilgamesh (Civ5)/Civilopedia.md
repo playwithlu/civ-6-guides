@@ -1,0 +1,3 @@
+# Gilgamesh (Civ5)/Civilopedia
+
+The legendary Sumerian king Gilgamesh is widely known as the subject of the "Epic of Gilgamesh," one of the world's earliest known examples of literature. Ruling sometime around 2500 BC, Gilgamesh was the king of Uruk, a city-state which served as the capital during the Uruk period (an early stage of Sumerian civilization). Although many of Gilgamesh's exploits are thought to have been mythological, he is credited with the construction of the Walls of Uruk, which coincides with historical references to an increasingly urban population and the construction of walled cities during this period.

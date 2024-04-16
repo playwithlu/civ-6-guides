@@ -1,0 +1,6 @@
+# Hạ Long Bay (Civ6)/Civilopedia
+
+How many natural formations are featured in the creation myth of a nation? According the Vietnamese legend, it's here that the gods sent jade and jewel-spewing dragons who created the rocky islands dotting the bay and creating a defense against early Chinese invaders. In fact, the name means some variation of 'descending dragons,' or 'dragons descending into the sea.'
+Hạ Long Bay is the name given to a collection of karst islets, natural limestone formations created after millions of years of erosion, featuring ridges, towers, and caves. To see and explore it today, is to trace a network of around 1600 limestone isles and caves stretching across 120 km of modern Vietnamese coastline.
+As far back as 16,000 BCE, it was the home to early tribes of fishers, while throughout history, it has stood as a natural bulwark against invaders: in 1288, it would be the site of a Mongol defeat, where Vietnamese General Tran Hung Dao impaled Mongol ships on steel-tipped spikes, stopping their advance.
+Since 2000, Ha Long Bay has been designated a UNESCO World Heritage Site.

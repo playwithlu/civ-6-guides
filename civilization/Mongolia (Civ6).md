@@ -1,0 +1,2 @@
+# Mongolia (Civ6)
+

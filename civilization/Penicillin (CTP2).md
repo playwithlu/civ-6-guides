@@ -1,0 +1,8 @@
+# Penicillin (CTP2)
+
+Penicillin is a [Wonder%20%28CTP2%29](Wonder) in "[Call%20to%20Power%20II](Call to Power II)". It is meant for the [American%20%28CTP2%29](Americans) and costs 7200 production points to build.
+Gameplay.
+Penicillin is one of the most effective and inexpensive pharmaceuticals of the modern age. Its low cost, wide range of uses and low risk of side effects makes overall health in the host empire higher. This decreases infant mortality and allows people to live longer, increasing the rate of .
+Great Library entry.
+Penicillin was one of the first antibiotic agents, and continued to be used throughout the modern age, until genetic and nanotechnological breakthroughs in disease control rendered it no longer necessary. In 1928, Alexander Fleming observed that colonies of the bacterium Staphylococcus aureus failed to grow in those areas of a culture that had been accidentally contaminated by the green mold Penicillium notatum. He grew the mold in a fluid medium and found that the substance it produced killed many of the most common forms of bacteria ailing humans. In the late 1930s, Howard Florey and Ernst Boris Chain purified penicillin and, by 1941, an injectable form of the drug became available.
+Doctors used penicillin to treat a range of bacterial infections, including those that caused pneumonia, spinal meningitis, syphilis and staphylococcus infections of the throat. Although some people were violently allergic to it, penicillin became a principal drug in the war against bacterial infection and widespread use throughout the twentieth century contributed to a healthier population wherever it became available.

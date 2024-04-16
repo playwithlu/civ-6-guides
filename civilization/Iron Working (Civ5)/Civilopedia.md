@@ -1,0 +1,6 @@
+# Iron Working (Civ5)/Civilopedia
+
+Iron Working is older than history itself. The first iron worked probably came from meteorites; when this useful material was not to be found, the ancient people probably looked elsewhere for similar materials. Iron "smelting" - the extraction of the metal from iron ore - appears to have been discovered in the 12th century BC, in the Caucasus Mountains, Asia Minor, or possibly India. The production of wrought iron dates from approximately 1,000 BC.
+The oldest examples of objects made from meteor iron are found in Ancient Egypt and Sumer and date back to 4,000 BC. Iron was extremely rare at that time, and historians speculate that it may have been more valued than gold.
+By the 12th century BC, iron largely replaced bronze as the metal preferred for tools and weapons in the Eastern Mediterranean. The iron of the time was not a better metal than the bronze it replaced, but it was far more abundant and could be found in many places where copper and tin weren't available, making it a whole lot cheaper.
+The "modern" metal steel was first produced in prehistoric times, but the technology for large-scale production lagged far behind until the 17th century AD. Once steel became cheap and plentiful, it supplanted iron for most uses.

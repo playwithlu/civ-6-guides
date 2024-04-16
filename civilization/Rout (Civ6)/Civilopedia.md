@@ -1,0 +1,3 @@
+# Rout (Civ6)/Civilopedia
+
+Heavy cavalry comes into its own when it can ride down a defeated enemy, especially those in a chaotic and disorderly rout. An orderly retreat can quickly turn into a rout when heavy cavalry attack units that have already suffered significant casualties; the result: a state of "every man for himself," ideal for those fast-moving cavalry men with their lances and sabers. In fact, in general more soldiers have been killed in the rout than in the battle. And tanks work just as well as heavy cavalry in turning retreat into rout, as the Germans proved repeatedly during their blitzkrieg across Europe.

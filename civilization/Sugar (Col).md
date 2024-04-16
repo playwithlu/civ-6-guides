@@ -1,0 +1,3 @@
+# Sugar (Col)
+
+In "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)", Sugar is one of the [Goods](Goods) which can be produced. It is an agricultural product which can be grown on [Savannah](Savannah), [Swamp](Swamp) or [Rain%20forest](Rain forest) tiles. [Master%20Sugar%20Planters%20%28Col%29](Master Sugar Planters) increase yields. Sugar may be processed into [Rum%20%28Col%29](Rum) at a [Rum%20distillery%20%28Col%29](Rum distillery) or a [Rum%20factory%20%28Col%29](Rum factory).

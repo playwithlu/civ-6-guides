@@ -1,0 +1,3 @@
+# Police State (Civ6)/Civilopedia
+
+The traditional police state that arose in various countries during the 18th and 19th centuries was a mixture of autocratic reforms, paternalistic benevolence and compulsion … not necessarily repressive, with its emphasis on national security and progress. But the modern police state arose in the 20th Century and presupposes an authoritarian regime, which in turn grants sweeping powers to its law enforcement agencies. Inhabitants of the latter face restrictions on their freedom to move about, express political or social views, and high levels of surveillance (the primary purpose of the “secret police”).

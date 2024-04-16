@@ -1,0 +1,7 @@
+# Diplomacy Robot (CTP2)
+
+Diplomacy Robots are a type of unit found in the Space mod of [Call%20to%20Power%20II](Call to Power II). Diplomacy Robots are artificially constructed diplomats using an advanced technology. Their purpose is to re-establish diplomatic relations with another civilization and not have to risk the life of a real person just in case the Diplomacy Robot is killed by an enemy civilization.
+Statistics.
+Diplomatic Robots have all the same functions as the original Diplomat from the default rules. The only difference is that this type now can move 10 tiles on land. One of the drawbacks is that once you make land fall on the moon there is not much land to explore. Diplomacy Robots require that you also discover Computers and Robotics, and the technology that unlocks this unit is Adv. Bureaucracy. These Diplomacy Robots do not have any attack ability but they have a slightly higher defense due to them being made of metal.
+Trivia.
+The original Diplomacy robots were featured in Science Fiction scenario. But in that scenario they were called simply "Ambassadors" and their color was green and not blue as they are in Call to Power II. Although the campaigns these robots fought in Civ2 were based on random world maps for different worlds in the Lalande21185 Star System.

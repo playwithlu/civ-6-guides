@@ -1,0 +1,3 @@
+# Entertainment Complex (Civ6)/Civilopedia
+
+The "entertainment" district offers family-friendly distractions from the burden of living in an urban environment. In some cities, the entertainment complex is filled with museums and zoos and other edifying sights; in others it is a district of theaters, pubs, music venues and such; and some are the center of the city's sport with stadiums and indoor arenas. Whatever the form – be it the Quartier des Spectacles in Montreal, or Te Aro District in Wellington, or even St. Pauli in Hamburg – every civilized city has one to engender happiness and pride in its citizens, imparting a sense of social identity that the countryside can't.

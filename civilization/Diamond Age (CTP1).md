@@ -1,0 +1,5 @@
+# Diamond Age (CTP1)
+
+The Diamond Age is the fifth and final [Age%20%28CTP1%29](age) in "". It is preceded by the [Genetic%20Age%20%28CTP1%29](Genetic Age).
+Great Library entry.
+During the Diamond Age mankind realized the dreams of a thousand years. Massive space cities of crystal and steel hung like chandeliers over a blue Earth while humans reached for immortality by swapping brains from body to body or downloading their consciousness into global computer networks. Many people experienced true equality for the first time in a Virtual Democracy while others languished as slaves jacked into the mainframes of their Technocratic masters. Undaunted by the consequences of genetic engineering, scientists strove harder in their pursuit to remake the world, finally perfecting Nanotechnology to the point where nature and the works of man could be erased and remade as causally as an artist sketches the contents of his mind.

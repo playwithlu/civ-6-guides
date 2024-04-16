@@ -1,0 +1,3 @@
+# Intercept (Civ4)
+
+In "[Civilization%20IV](Civilization IV)", intercept is a move that can be done by the [Fighter%20%28Civ4%29](Fighter) and [Jet%20Fighter%20%28Civ4%29](Jet Fighter). Intercepting allows your [List%20of%20units%20in%20Civ4](units) shoot enemy planes down when they come to bomb or strike your [City%20%28Civ4%29](cities). Your city will be unharmed. Besides fighters, the [Anti-Tank%20%28Civ4%29](Anti-Tank), [Mechanized%20Infantry%20%28Civ4%29](Mechanized Infantry), [SAM%20Infantry%20%28Civ4%29](SAM Infantry), [Mobile%20SAM%20%28Civ4%29](Mobile SAM) and the [Destroyer%20%28Civ4%29](Destroyer) can do this as well. These all have a reduced chance of damaging planes.

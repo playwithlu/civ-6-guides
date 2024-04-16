@@ -1,0 +1,4 @@
+# Construction (Civ5)
+
+Game Info.
+The Construction technology represents further advancements in building and combining materials, allowing in general more flexible and varied shapes and constructions, and the combination of building materials such as stone and wood. This technology allows your [Worker%20%28Civ5%29](Workers) to construct the [Lumber%20mill%20%28Civ5%29](Lumber Mill) improvement in forested tiles, increasing without destroying the forest. It also allows the construction of the [Colosseum%20%28Civ5%29](Colosseum), the first standard -enhancing building. Finally, in "[Gods%20%26amp%3B%20Kings](Gods &amp; Kings)" it allows the training of the next generation archer: the [Composite%20Bowman%20%28Civ5%29](Composite Bowman).

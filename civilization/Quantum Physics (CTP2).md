@@ -1,0 +1,7 @@
+# Quantum Physics (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Quantum Physics introduces new theories on the nature of the universe, particularly related to energy and relativity. It leads the way to many of the , most notably , by building on the theories of traditional Newtonian .
+Great Library entry.
+Whereas Isaac Newton's laws of physics primarily dealt with objects, forces and their relationships, quantum physics was concerned with small-scale phenomena that, when analyzed in the context of classical physics, defied explanation. Throughout the 1800s, most physicists considered Newton's dynamical laws sacred. By the early 20th century, however, Newtonian physics proved inadequate to explain some newly discovered phenomena, like radiation. Physicists began to apply the principles of quantum mechanics when dealing with the behavior of electrons and nuclei within atoms and molecules. Although conventional quantum mechanics did not try to completely explain what occurred inside the atomic nucleus, it helped scientists grasp the fundamentals of many processes, such as photodisintegration and the emission of alpha particles. The field theory of quantum mechanics also provided insight into the properties of mesons, subatomic particles and nuclear phenomena.

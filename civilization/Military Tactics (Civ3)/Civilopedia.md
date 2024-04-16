@@ -1,0 +1,3 @@
+# Military Tactics (Civ3)/Civilopedia
+
+Tactical skill in combat is an important aspect of any military force, and even so in Mesoamerican society. The Aztecs had a very well trained and organized military system that drilled its soldiers in the proper use of the bow and arrow and spear throwing (using the [atl-atl] to augment the strength and range of the throw). The Maya were skilled javelin throwers as well, and practiced the technique of tossing hornets nests (called “hornet bombs”) into the swell of oncoming enemy troops. And the Incas practiced a pseudo “rope-a-dope” style of battle, wherein their soldiers would conduct a staunch defense against the oncoming enemy horde, and then when the enemy’s lines faltered, immediately conduct a savage counter-strike.

@@ -1,0 +1,4 @@
+# Spaceship
+
+A spaceship (called a "SpaceShip" in the original "[Sid%20Meier%27s%20Civilization](Civilization)") is a vital part of most games covered in this wiki.
+All of the "[Civilization%20%28series%29](Civilization)" games in the main series allow you to achieve [victory](victory) by winning the [Space%20Race](Space Race), which involves building a spaceship to colonize [Alpha%20Centauri%20%28star%20system%29](Alpha Centauri) ([Mars](Mars) in "[Civilization%20VI](Civilization VI)", an exoplanet in ""). In "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)", however, the game starts with you and six other [Factions%20%28SMAC%29](factions) already on board [U.N.S.%20Unity%20%28SMAC%29](a spaceship) about to land on a largely solid part of that star system.

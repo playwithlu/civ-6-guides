@@ -1,0 +1,2 @@
+# Luxury Resource (Civ6)
+

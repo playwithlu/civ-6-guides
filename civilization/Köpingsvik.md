@@ -1,0 +1,3 @@
+# Köpingsvik
+
+Köpingsvik is the [Swedish](Swedish) [capital](capital) in the [Vikings%2C%20Traders%2C%20and%20Raiders%21%20%28Civ6%29](Vikings, Traders, and Raiders!) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)" and a Swedish [city](city). To date, it has appeared only in [scenario](scenario)s. In real life, it is a locality situated in Borgholm Municipality, Kalmar County in present-day Sweden.

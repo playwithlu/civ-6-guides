@@ -1,0 +1,3 @@
+# Robber Barons (Civ6)/Civilopedia
+
+The free enterprise system sometimes gives rise to individuals who, through determination, ruthlessness, guile, force, insight, dumb luck, and frequently less scrupulous methods come to exercise outsize force on business and industry. The appellation “robber baron” previously applied to nobles of the Holy Roman Empire who used their lands as a base for predatory practices, and went on to be applied to men like the Carnegies, Rockefellers, Stanfords, Cookes, and Dukes of the Gilded Age business world. Eventually public outrage compelled governments to rein in their practices, and many of these barons used portions of their immense fortunes to rehabilitate their image with philanthropic works.

@@ -1,0 +1,5 @@
+# Corruption (Civ1)
+
+ Corruption in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)" results in the loss of [Trade%20%28yield%29%20%28Civ1%29](trade arrows) in [City%20%28Civ1%29](cities), reducing the income available towards [Gold%20%28currency%29%20%28Civ1%29](taxes), [Science%20%28Civ1%29](science), or [Luxuries%20%28Civ1%29](luxuries). Corruption does not occur under [Democracy%20%28Civ1%29](Democracy).
+Corruption is affected mainly by two factors: distance from the [Capital%20%28Civ1%29](capital), and [Government%20%28Civ1%29](government) type. Corruption does not occur in the capital, and the farther away a city is from the capital, the more corruption it has (except when under [Communism%20%28Civ1%29](Communism)). Each government type has a distinct effect on corruption:
+Corruption can be reduced by building [Courthouse%20%28Civ1%29](Courthouses).

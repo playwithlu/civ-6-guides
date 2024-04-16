@@ -1,0 +1,4 @@
+# Space Port (C-evo)
+
+The Space Port is a [State%20Improvement%20%28C-evo%29](State Improvement) in "[C-evo](C-evo)". It is required before you can build the [MIR%20Space%20Station%20%28C-evo%29](MIR Space Station) [List%20of%20wonders%20in%20C-evo](Wonder) or any [Colony%20ship%20part%20%28C-evo%29](colony ship parts). It requires the [Space%20Flight%20%28C-evo%29](Space Flight) [Advance%20%28C-evo%29](advance) and 300/400/500 resources.
+A not insignificant side effect is that all [special%20resource%20%28C-evo%29](special resources) are produced in double amounts, making those [diamond%20%28C-evo%29](diamond), [fish%20%28C-evo%29](fish), [gas%20%28C-evo%29](gas), [gold%20%28C-evo%29](gold), [ivory%20%28C-evo%29](ivory), [manganese%20%28C-evo%29](manganese), [peat%20%28C-evo%29](peat), and [wine%20%28C-evo%29](wine) tiles really productive, especially the mountain diamond (extra 7 trade) and arctic ivory (extra 3 food and 4 trade).

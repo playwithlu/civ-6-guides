@@ -1,0 +1,3 @@
+# Noble Path (Civ6)/Civilopedia
+
+The Noble Path or the Eightfold Path is a formulation of the Buddhist path of enlightenment set down by Siddhartha Gautama, as a middle way between the extremes of asceticism and hedonistic indulgence. These are generally understood as qualities that an enlightened individual will understand intellectually and exhibit in their behavior: Correct view, correct intention, correct speech, correct action, correct livelihood, correct effort, correct mindfulness, and correct concentration.

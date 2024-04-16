@@ -1,0 +1,3 @@
+# Foreign Exchange (Civ6)/Civilopedia
+
+Since the creation of coinage, there has been an agreement that not everyone’s coins are valued equally. From this, the foreign exchange came into being, allowing traders to get locally-accepted currency in exchange for whatever coin they arrived with, usually allowing the exchanger to keep a percentage of the transaction. The English word “bank” derives from the Italian “banca,” which was the name of the counters where medieval money-men performed foreign exchange.

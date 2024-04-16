@@ -1,0 +1,4 @@
+# Holy Grail (Civ3)/Civilopedia
+
+The Holy Grail relic is considered to be the cup used by Jesus Christ at the Last Supper when he instituted the sacrament of the Eucharist. Some stories have this cup also being used by Mary Magdalene to collect the blood of Christ in his tomb. According to Catholic tradition, St. Peter brought the grail to Rome; the first Popes used it to celebrate mass. Other legends hold that it was Constantine the Great's mother (the empress Helena) that had the Holy Sepulchre in Jerusalem excavated. A cup found during those excavations was brought to Rome.
+Either way, the sacred chalice was lost during the sacking of Rome in 410 AD, though legends claim that the grail was smuggled out to safety in England. This storyline then ties the grail in with the famous legends of King Arthur and his knights', who searched far and wide across England for this holy artifact.

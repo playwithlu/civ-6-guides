@@ -1,0 +1,4 @@
+# Mathematics (Civ5)
+
+Game Info.
+The science of Mathematics is arguably the most important in all human history - laying the basis for exploring and understanding the physical world around us. Creation of abstract number systems allows translation of natural phenomena into logical and easily understandable sequences by the human mind, and provides the conditions for a number of advancements in technology. The most immediate of these are the creation of the [Catapult%20%28Civ5%29](Catapult) (the first siege unit in the game) and construction of the [Courthouse%20%28Civ5%29](Courthouse), which removes extra unhappiness in conquered cities.

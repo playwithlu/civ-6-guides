@@ -1,0 +1,3 @@
+# Naval support (CivRev)
+
+Naval support is a feature in "[Civilization%20Revolution](Civilization Revolution)" in which adjacent [Naval%20unit%20%28CivRev%29](naval units) can support land battles. Each ship has its own naval support power such as the [Galleon%20%28CivRev%29](Galleon) being one, with 3 for a [Army%20%28CivRev%29](Fleet) of them. The only two ships that are incapable of providing naval support are the [Galley%20%28CivRev%29](Galley) and the [Submarine%20%28CivRev%29](Submarine).

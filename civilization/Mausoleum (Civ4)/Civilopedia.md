@@ -1,0 +1,4 @@
+# Mausoleum (Civ4)/Civilopedia
+
+A "mausoleum" is a large and ornate building constructed to hold the remains of a person of importance, typically a leader, warlord, or extremely wealthy merchant. Mausoleums can be found in many ancient civilizations, where they played both a sacred and political role - seeking to awe the viewer with the power and wealth of the state (or the individual). The Egyptian pyramids are essentially huge mausoleums built to hold the remains of pharaohs.
+Throughout history Indian leaders have constructed extensive mausoleums for themselves and their relatives. Perhaps the best known of these is the Taj Mahal, built in the seventeenth century by the Mughal Emperor Shah Jahan to house the remains of his beloved wife, Mumtaz Mahal.

@@ -1,0 +1,9 @@
+# Renaissance Era (Civ5)
+
+The Renaissance Era is an era that is based on the Renaissance in Europe, which was a rebirth of Greek and Roman culture. It is the fourth era of the game.
+Game Info.
+This is the era of exploration. [Astronomy%20%28Civ5%29](Astronomy) finally allows your sea units to traverse [Ocean%20%28Civ5%29](oceans) and lets you explore the rest of the world and discover other players and [City-state%20%28Civ5%29](City-States). As a result, diplomacy enters a brand new, global phase with the founding of the [World%20Congress%20%28Civ5%29](World Congress) and its work. Nations now realize how important is to know what others think, and start using [Espionage%20%28Civ5%29](Espionage).
+Sea warfare will get an enormous development in this era, as well as sea trade and infrastructure. Get ready for epic battles in the oceans! Another interesting development on the military front, the invention of gunpowder, finally ends the dominance of at the front lines, allowing players without this resource to field stable armies.
+Other Properties.
+The Freedom and [Rationalism%20%28Civ5%29](Rationalism) [Social%20policies%20%28Civ5%29](social policy) trees are unlocked. (In both of the expansion packs, however, Freedom is not unlocked in this era.)
+When starting a game in the Renaissance Era, you receive two [Settler%20%28Civ5%29](Settlers), one [Worker%20%28Civ5%29](Worker), three [Pikeman%20%28Civ5%29](Pikemen), 300 , and 50 . [Venetian%20%28Civ5%29](Venice) gets a [Merchant%20of%20Venice%20%28Civ5%29](Merchant of Venice) instead of the extra Settler. When a city is founded it begins with 2 and contains a [Granary%20%28Civ5%29](Granary), [Monument%20%28Civ5%29](Monument), [Shrine%20%28Civ5%29](Shrine), and (if on the coast) [Lighthouse%20%28Civ5%29](Lighthouse).

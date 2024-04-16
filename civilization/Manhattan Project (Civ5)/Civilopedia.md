@@ -1,0 +1,3 @@
+# Manhattan Project (Civ5)/Civilopedia
+
+The Manhattan Project is the code name for the Anglo-European effort to develop a nuclear bomb during World War II. The project was led by the US but included scientists and engineers from the United Kingdom and Canada. The US began serious efforts to create a nuclear bomb in the 1930s, but the program ramped up into high gear after the Japanese bombed Pearl Harbor in late 1941. Eventually the program would employ some 125,000 people and cost approximately $20 billion (in today's dollars). By 1945 the Manhattan Project had successfully constructed and tested nuclear weapons, and in early August of that year a uranium and a plutonium bomb were dropped upon Japan. Japan surrendered less than a week later, ending World War II.

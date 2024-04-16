@@ -1,0 +1,5 @@
+# Genetic Engineering (Civ1)
+
+Genetic Engineering allows the building of the [Cure%20for%20Cancer%20%28Civ1%29](Cure for Cancer) wonder, a powerful wonder which adds one happy person per city in the entire world for the wonder's controller.
+Civilopedia entry.
+One of the hopes in the search for a cure for cancer and many other diseases and disorders comes from Genetic Engineering, a new field of study in science and Medicine. Genetic Engineering is a group of techniques that manipulate the genetic material of living cells. Gene splicing is a technique for transporting genetic material from one species to another. Other techniques include cell fusion and nuclear transplantation. The hope is that DNA, the basic genetic material for all life, may prove to be repairable and changeable. Then all genetic disorders would no longer be permanent, but curable.

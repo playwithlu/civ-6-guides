@@ -1,0 +1,4 @@
+# Atomic Theory (CivRev)
+
+Atomic Theory is a [List%20of%20technologies%20in%20CivRev](technology) in "[Civilization%20Revolution](Civilization Revolution)". Discovering it enables players to build the [Manhattan%20Project%20%28CivRev%29](Manhattan Project) [Wonder%20%28CivRev%29](wonder), which in turn permits the use of one nuclear weapon to its builder. As well as being a powerful destructive weapon, the [ICBM%20%28CivRev%29](ICBM) can be used as an advantage when making demands in negotiations with other [List%20of%20civilizations%20in%20CivRev](civilizations).
+The first player to discover Atomic Theory will receive +1 [Science%20%28CivRev%29](Science) in all their [City%20%28CivRev%29](cities) and [Albert%20Einstein%20%28CivRev%29](Albert Einstein).

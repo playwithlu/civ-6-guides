@@ -1,0 +1,3 @@
+# Military Academy (Civ3)
+
+The Military Academy is a [Small%20Wonder%20%28Civ3%29](Small Wonder) in "[Civilization%20III](Civilization III)". It requires and it also requires the civilization to have had a victorious . The city owning this can build [Army%20%28Civ3%29](Armies) without needing a [Leader%20%28Civ3%29](Military Great Leader). Additionally, the overall [Attack%20%28Civ3%29](Attack) and [Defense%20%28Civ3%29](Defense) of all Armies owned by the Civ are increased by 25%.

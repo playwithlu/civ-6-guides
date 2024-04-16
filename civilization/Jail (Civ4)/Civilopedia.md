@@ -1,0 +1,4 @@
+# Jail (Civ4)/Civilopedia
+
+A jail is a building for holding prisoners. Jails can range in size from a single room to a sprawling complex of buildings inside miles of barbed wire. Prisoners incarcerated in a jail may be there for a variety of reasons. Some may be common criminals; others may be brutal murderers. Some may be captured enemy soldiers and spies. Some might be political prisoners, dissidents, or simply people who fell into bad grace with their rulers. Some might be mad - incarceration being a common way to deal with the insane before the creation of mental hospitals and sanitariums.
+The facilities inside jails vary widely. A jail for commoners or enemies of the state might be horrible, overcrowded dark pits that are infested with rats, while a king's prison may be indistinguishable from royal quarters, except for the small matter of which side of the door on which the guards stand. Mostly, jails are unpleasant and unhappy places.

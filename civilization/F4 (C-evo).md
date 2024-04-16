@@ -1,0 +1,5 @@
+# F4 (C-evo)
+
+"[F4](F4)" is the keyboard function key used in the free-to-play game [C-evo](C-evo) to display in a pop-up window details of your research and that of other nations you know about. 
+s have their icons and names tabulated, with "higher" advances at the top, and columns to show whether a nation has completed one or is working on it (with shades of color culminating in red for "nearly done") or has half of the research obtained from another nation or the . Your column is first, uncolored; next come your friends, then other extant nations you know about (with the year of latest known information, e.g. when they ended friendship with you), then fallen nations. Nations' columns have their national colors and also a mouse-over name
+The display may be reached also from the menu opened by a click on the government building icon near the bottom right of the map.

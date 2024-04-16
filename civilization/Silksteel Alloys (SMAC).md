@@ -1,0 +1,3 @@
+# Silksteel Alloys (SMAC)
+
+The growing field of [Industrial%20Automation%20%28SMAC%29](Industrial Automation) causes increased demand for new kinds of material that can withstand the incredible stresses of the robotic factories. Discoveries in [Advanced%20Subatomic%20Theory%20%28SMAC%29](Advanced Subatomic Theory) provide engineers with these materials, dubbed Silksteel Alloys for their extraordinary tensile strength and flexibility.

@@ -1,0 +1,3 @@
+# Sviatoslav the Brave (Civ6)/Civilopedia
+
+Grand Prince of Kiev from 945 to his death in 972 AD, Sviatoslav was the first of the rulers of the Rus to have a Slavic—rather than Norse—name. In effect, his reign marks the end of Varangian influence on the Rus, whose concerns and culture now diverged dramatically from the Vikings. Sviatoslav had the typical Viking approach to life, for his rule was marked by persistent warfare against the Khazars, the Bulgarians, various East Slavic tribes, the Alans, and the Volga Bulgars. He was either warring or allied with the Perchenegs and Magyars, depending on the year. At his death, Sviatoslav had carved out the largest state in Europe … for the time.

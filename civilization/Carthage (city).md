@@ -1,0 +1,4 @@
+# Carthage (city)
+
+, also known as Carthago, is the [Carthaginian](Carthaginian) [capital](capital) and a [Phoenician](Phoenician) and [Roman](Roman) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and the Phoenician capital in [C-evo](C-evo), and also appears as a [city-state](city-state). In real life, it was the capital city of ancient Carthage, on the eastern side of the Lake of Tunis in what is now present-day Tunisia.
+In [scenario](scenario)s, it may appear as the [Vandal](Vandal) capital and a [Western%20Roman](Western Roman) city in [Fall%20of%20Rome](Fall of Rome).

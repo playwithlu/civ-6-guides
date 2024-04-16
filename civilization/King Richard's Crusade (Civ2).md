@@ -1,0 +1,5 @@
+# King Richard's Crusade (Civ2)
+
+ King Richard's Crusade is a [List%20of%20wonders%20in%20Civ2](wonder) in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The Crusades were a series of military expeditions by European Christians between 1095 and 1270 AD intended to recapture the Christian Holy Land from Muslim control. The most successful was the Third Crusade, in which a tremendous force led by King Richard I and Philip Augustus managed to regain control over a number of cities along the Mediterranean coast and reconstitute the Latin Kingdom in Palestine. In addition to their more altruistic goals, the Crusades also served to extend the political and religious power of the Pope over a larger area of the world. This great burst of territorial expansion led to an increase in both the population and the productivity of Europe. The ongoing wars provided lucrative business for Western European traders and merchants.

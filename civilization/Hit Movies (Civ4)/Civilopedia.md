@@ -1,0 +1,5 @@
+# Hit Movies (Civ4)/Civilopedia
+
+Throughout history, man has been fascinated by moving images. Before the movie, such images were created by magic lanterns, zoetropes, flip books, and the like. In the 1880s, photographic film was invented, and the new material's potential to create moving pictures was quickly seen. Within just several years motion picture cameras and projectors were created, and the "movie" - moving pictures - was born. 
+Movies were silent for their first forty years, but by the late 1920s soundtracks were added and the "talkie" was born. By the mid-1950s color film was common. Excepting for improvements in picture and sound quality, movies have remained essentially the same since. 
+In the early years of movies, the United States produced the majority of films, most made in Hollywood, California. Though the US remains an important producer, a number of other countries now have film industries that rival Hollywood. For instance, the Indian film industry produces more films per year than the US and sells more tickets. However, no other films can yet match Hollywood's international appeal.

@@ -1,0 +1,3 @@
+# Hassan I (Civ5)/Civilopedia
+
+Among the most successful sultans of the Alaouite dynasty, Mulay Hassan I (ruled 1873-1894) instituted sweeping military and administrative reforms to strengthen Morocco at a time when much of North Africa was falling under European control. Although both France and Spain would establish enclaves and demand favored status, Hassan proved adept at using Morocco's strategic position to play the European powers against each other, guaranteeing his nation's independence until after his death.

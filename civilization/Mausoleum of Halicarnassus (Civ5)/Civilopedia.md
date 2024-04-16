@@ -1,0 +1,3 @@
+# Mausoleum of Halicarnassus (Civ5)/Civilopedia
+
+The Mausoleum of Halicarnassus was constructed c. 350 BC as a tomb for Mausolus, the ruler of Caria (an area of modern Turkey). Said to have been designed and constructed by the greatest sculptors and craftsmen of the time, the temple was known for its detailed sculptural reliefs and impressive scale, towering nearly 150 feet high (47m). Destroyed by a series of earthquakes that struck the region during the 1st millennium AD, portions of the tomb were excavated by British archaeologists in the mid 19th century. One of the Seven Wonders of the Ancient World, the term "Mausoleum" as it is used today traces its origins to this tomb.

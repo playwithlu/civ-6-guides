@@ -1,0 +1,3 @@
+# Military Caste (Civ5)/Civilopedia
+
+In a society with a military caste, all members of the military are from a specific tribe, nationality, religion, or other socio-economic subgroup. Citizens who are not part of the caste are forbidden from joining the military and often from carrying any weapons at all, often because the military caste fears that the citizens might use the weapons against them. Much of feudal Japan was under a military caste system, as was ancient Sparta.

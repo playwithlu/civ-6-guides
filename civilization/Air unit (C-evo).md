@@ -1,0 +1,6 @@
+# Air unit (C-evo)
+
+The free-to-play game "[C-evo](C-evo)" has only one pre-designed air unit: the [Glider%20%28C-evo%29](Glider), which reverts to being a [Ground%20unit%20%28C-evo%29](ground unit) at the end of each [turn](turn). All others are designed by the player. Even the most primitive require [Science%20%28C-evo%29](Science); interestingly, even the most advanced (using [Smart%20Weapons%20%28C-evo%29](Smart Weapons)) do not require [Steel%20%28C-evo%29](Steel).
+Air units stop blinking when they reach one of their owner's cities (unless just passing through on a "Go" order), but they can be restarted if they have any movement points remaining.
+Like [Naval%20unit%20%28C-evo%29](naval units), air units (including gliders) cannot enter but can [bombard%20%28C-evo%29](bombard) an unguarded enemy city, reducing it by one population point per movement point expended, but not below a population of 2.
+Like other units, an air unit that you design can have a number of weapons modules and a number of armor modules. Other additions are included in "[unit%20feature%20%28C-evo%29](unit feature)s". is 12.5 if you know but 8.5 if not; in contrast to other units, no other speed variations can be researched or bought. 

@@ -1,0 +1,4 @@
+# Douglas MacArthur (Civ6)/Civilopedia
+
+Douglas MacArthur led American troops in World War I, commanded the Allied Forces in the Pacific Theater during World War II, and led United Nations troops in the Korean War. MacArthur earned the Medal of Honor and is one of only five individuals to earn the rank General of the Army in the United States.
+MacArthur graduated at the top of his class from West Point and after World War I would return to become the school’s superintendent. During his life, he would also serve as chief of staff of the army for President Herbert Hoover, Field Marshal of the Philippines for President Manuel Quezon, and was encouraged to run for President of the United States himself. Yet, in a lifetime of accomplishments, liberating the Philippines from Japanese forces and accepting Japan’s surrender during World War II are perhaps his most well-known.

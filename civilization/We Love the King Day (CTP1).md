@@ -1,0 +1,3 @@
+# We Love the King Day (CTP1)
+
+In ', the concept of "We Love the King Day" is referred to as Celebrations. Any [City%20%28CTP1%29](city) with a [Happiness%20%28CTP1%29](happiness) rating of 85 or greater at the end of a turn will "celebrate" the next turn: it will instantly gain a unit of population if it has the [Food%20%28CTP1%29](food) surplus to support it, and the [List%20of%20civilizations%20in%20CTP1](civilization) the city belongs to will earn one point toward their end-game [Score%20%28CTP1%29](score).

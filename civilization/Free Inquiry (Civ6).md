@@ -1,0 +1,5 @@
+# Free Inquiry (Civ6)
+
+Free Inquiry is a [Golden%20Age%20%28Civ6%29](Golden Age) [Policy%20card%20%28Civ6%29](Policy Card) from the [Dramatic%20Ages%20%28Civ6%29](Dramatic Ages) [Game%20mode%20%28Civ6%29](game mode) in "[Civilization%20VI](Civilization VI)". It is available from the [Classical%20Era%20%28Civ6%29](Classical Era) to the [Medieval%20Era%20%28Civ6%29](Medieval Era) and uses a Wildcard slot.
+Strategy.
+Free Inquiry has similar effects to its namesake Dedication, save for replacing the enhancement with a bonus for [Campus%20%28Civ6%29](Campuses). It is one of the most powerful Golden Age Policy Cards in the game, especially when combined with [Natural%20Philosophy%20%28Civ6%29](Natural Philosophy), [Town%20Charters%20%28Civ6%29](Town Charters), and/or [Naval%20Infrastructure%20%28Civ6%29](Naval Infrastructure). [Civilizations%20%28Civ6%29](Civilizations) that benefit the most from it include [Korean%20%28Civ6%29](Korea), [Malian%20%28Civ6%29](Mali), [Japanese%20%28Civ6%29](Japan), [English%20%28Civ6%29](England), [Phoenician%20%28Civ6%29](Phoenicia), and [Brazilian%20%28Civ6%29](Brazil).

@@ -1,0 +1,3 @@
+# Police State (Civ5)/Civilopedia
+
+Any government - whether left- or right-wing - that exercises rigid and repressive control over the social, economic, cultural and political life of its citizens can be said to be a Police State. A Police State is often characterized by totalitarianism and militarism, with civil liberties limited and a large internal security system in place to monitor personal activities. The term, according to the Oxford Dictionary, was first used in 1851 in several obscure German tracts; in the 1930s it came to be used in the press to describe the totalitarian and communistic governments of the time.

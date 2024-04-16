@@ -1,0 +1,4 @@
+# Pacifism (Civ4)/Civilopedia
+
+Pacifism is the religious belief that all conflict is against the will of God. Man must not fight against his fellow man. If a person slaps your face, simply turn the other cheek. Basically, what happens to a person in this world really doesn't matter much at all: if a bully takes your stuff or kills you and you don't fight back, you will gain your reward in heaven (or in your next incarnation). The bully may enjoy his ill-gotten gains for a few paltry years in this world, but he will suffer tenfold in the next.
+Pacifism seems to enjoy popularity among people or nations who have little power of their own, people who cannot physically resist their oppressors with any hope of success. Once such people gain power and gain some measure of control over their destinies, however, they often discard their pacifism for more militant beliefs.

@@ -1,0 +1,2 @@
+# Kotoku-in
+

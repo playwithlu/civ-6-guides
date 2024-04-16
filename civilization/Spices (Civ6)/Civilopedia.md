@@ -1,0 +1,3 @@
+# Spices (Civ6)/Civilopedia
+
+Spices enhance (or mask) the flavor of prepared food, and might be made from seed, bark, root, leaf, blossom, or just about any other part of a plant. The “spice trade” developed across Southern Asia and the Middle East around 2000 BC when people discovered properly prepared cinnamon and pepper helped make spoiled food palatable. Within a few centuries, spice merchants ranged across the known world and linked East and West. Spices really were the “spice of life,” and demand for them has been insatiable ever since.

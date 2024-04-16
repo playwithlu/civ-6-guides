@@ -1,0 +1,3 @@
+# Archaeology (Civ6)
+
+In "[Civilization%20VI](Civilization VI)", Archaeology deals with [Great%20Work%20%28Civ6%29%23Artifacts](Artifacts) that are extracted from s and s using [Archaeologist%20%28Civ6%29](Archaeologists) and then taken to [Archaeological%20Museum%20%28Civ6%29](Archaeological Museums). These Artifacts can be kept for and bonuses, or [Diplomacy%20%28Civ6%29%23Trading](traded) with other [Civilizations%20%28Civ6%29](civilizations).

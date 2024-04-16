@@ -1,0 +1,5 @@
+# Defense of the Motherland (Civ6)
+
+Defense of the Motherland is a Military [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)". In "", it becomes a Wildcard Policy Card and is only available after adopting [Communism%20%28Civ6%29](Communism) as a [Government%20%28Civ6%29](government).
+Strategy.
+In [vanilla](vanilla) "Civilization VI" and "", Defense of the Motherland isn't worth adopting unless you're fighting for survival and [War%20weariness%20%28Civ6%29](war weariness) has put your [City%20%28Civ6%29](cities) at risk of revolting. It's better in "Gathering Storm", in which its added bonuses for [Supply%20Convoy%20%28Civ6%29](Supply Convoys), [Drone%20%28Civ6%29](Drones), [Anti-Air%20Gun%20%28Civ6%29](Anti-Air Guns), and [Mobile%20SAM%20%28Civ6%29](Mobile SAMs) (all inherited from [Patriotic%20War%20%28Civ6%29](Patriotic War)) will help you prepare to launch a counteroffensive as you beat the enemy back.

@@ -1,0 +1,3 @@
+# Palace (Civ5)/Civilopedia
+
+A palace is the residence of a civilization's ruler. The term is somewhat anachronistic, dating back to a time when most countries were ruled by kings or other hereditary leaders. Nowadays modern rulers live in ornate buildings called something like "the People's House" or "the Place of Justice," but the effect is the same. Palaces (and their modern equivalents) are designed to do three things: to provide the ruler with access to the people and communications necessary to rule, to defend the leader from attack, and to impress upon subjects and foreign visitors the leader's importance and grandeur.

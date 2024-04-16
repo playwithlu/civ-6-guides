@@ -1,0 +1,4 @@
+# Campus Research Grants (Civ6)
+
+Campus Research Grants is a [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)". It becomes available after building a [Campus%20%28Civ6%29](Campus) [District%20%28Civ6%29](district) (or one of its replacements).
+This project turns the Campus into a center for accelerated research activity, which also engages the entire city production infrastructure. The project draws talents from across your nation to participate in the effort, converting 15% of the city's output to . When completed, it yields points equal to approximately 22% of the invested in it (on Standard [Speed%20%28Civ6%29](speed)).

@@ -1,0 +1,3 @@
+# German (Civ1)
+
+The Germans are a playable [List%20of%20civilizations%20in%20Civ1](civilization) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Their [Leaders%20%28Civ1%29](leader) is [Frederick%20the%20Great%20%28Civ1%29](Frederick the Great), their [Capital%20%28Civ1%29](capital) is [Berlin](Berlin), and their color is blue (which they share with the [French%20%28Civ1%29](French)).

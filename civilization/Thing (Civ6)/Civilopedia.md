@@ -1,0 +1,3 @@
+# Thing (Civ6)/Civilopedia
+
+The thing (or the several variant spellings) was the “assembly” of a Norse settlement (even provinces and countries), composed of the free men (and occasionally women) that elected leaders, settled disputes, passed laws, punished lawbreakers, and generally tried to keep the Vikings from killing each other. Mostly, the thing worked as a cultural counterweight to the clan wars and blood feuds.

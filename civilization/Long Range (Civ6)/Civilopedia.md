@@ -1,0 +1,3 @@
+# Long Range (Civ6)/Civilopedia
+
+By the end of 1943, it had become obvious that the United States needed a very long-range, high-flying strategic bomber to carry the war to the Japanese home islands and the heart of Japanese industry. The Americans developed the Boeing B-29 Superfortress with an operational range of 3250 miles (5230 km) and the British their Avro Lancaster with range of 2530 miles (4073 km). The long-range raids on Japan culminated in the bombs dropped by B-29s on Hiroshima and Nagasaki in August 1945. In the ensuing Cold War, both Soviet Russia and the United States developed ever longer ranged bombers, so as to drop nuclear bombs on the other's heartland.

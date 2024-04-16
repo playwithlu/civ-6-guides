@@ -1,0 +1,11 @@
+# Gallic Warrior (Civ4)
+
+The Gallic Warrior is the [Unique%20unit%20%28Civ4%29](unique unit) of the [Celtic%20%28Civ4%29](Celtic) [List%20of%20civilizations%20in%20Civ4](civilization).
+Strategy.
+Compared to the [Swordsman%20%28Civ4%29](Swordsman) that it replaces, the Gallic Warrior has access to the [Guerrilla%20%28Civ4%29](Guerrilla) [Promotion%20%28Civ4%29](promotions), starts with Guerrilla I and can be built with [Copper%20%28Civ4%29](Copper), in addition to [Iron%20%28Civ4%29](Iron).
+Using Gallic Warriors.
+Gallic Warriors have two key advantages. One, they can be built with Copper as well as Iron. Two, they have access to the Guerrilla line of promotions. Being built with Copper means that you'll be able to produce them earlier than you might normally, without having the strength disadvantage of [Jaguar%20%28Civ4%29](Jaguars). This makes them decent at a fast attack, but other Swordsmen replacements are better at this role, the Jaguar requiring no [Resource%20%28Civ4%29](resources) and being slightly faster to build, the [Roman%20%28Civ4%29](Roman) [Praetorian%20%28Civ4%29](Praetorian) being an absolute city-crushing juggernaut.
+The key uses of Gallic Warriors are in defense, and for pillaging. In defense, they match up to [Longbowman%20%28Civ4%29](Longbowmen) for hills defense - your [Mine%20%28Civ4%29](Mines) are safe from enemy attack, and if your cities are on hills, you'll be able to keep them better-defended than Archers might. For pillaging, promote them to Guerrilla II and take out enemy mines. High defense will make your Gallic Warrior a pain to kill and the movement bonus will let you out faster if need be.
+Against Gallic Warriors.
+Gallic Warriors off hills are no more powerful than regular Swordsmen. In more open [Terrain%20%28Civ4%29](terrain), [List%20of%20mounted%20units%20in%20Civ4](Mounted units) can pick them off fairly well. If pillaging warriors become a pain, just defend those hills with Archers. Then, they'll lose their advantages.
+Pick them off with [Axeman%20%28Civ4%29](Axemen)! Lone Gallic Warriors are still highly vulnerable to Axemen like regular Swordsmen are.

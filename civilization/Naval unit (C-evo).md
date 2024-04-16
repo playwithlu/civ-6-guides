@@ -1,0 +1,4 @@
+# Naval unit (C-evo)
+
+"[C-evo](C-evo)" players can build their first naval units very early in the game, but there's no point designing any if there's no water in sight.
+The pre-designed naval unit, [Longboats%20%28C-evo%29](Longboats), can be built as soon as you discover [Map%20Making%20%28C-evo%29](Map Making), which requires only [Alphabet%20%28C-evo%29](Alphabet) as a prerequisite. At that point you can also design your own naval units, but unless you see vast amounts of water near your [City%20%28C-evo%29](cities), that is probably a waste of precious research time. Longboats carry troops and explore, which is all that you need at the start.

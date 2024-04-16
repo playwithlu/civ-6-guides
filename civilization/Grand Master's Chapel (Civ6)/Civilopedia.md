@@ -1,0 +1,4 @@
+# Grand Master's Chapel (Civ6)/Civilopedia
+
+Although rare, religious military orders are an interesting intersection of the spiritual and the earthly. The best have been elite soldiers, and have gone on to occupy a place in the cultural imagination well beyond their historical impact. In the west, there were Crusader orders like the Knights Templar, Knights Hospitalier, and Teutonic Order. Japan produced the sohei, an order of military Buddhist monks.
+In the West, the leader of a religious military order is usually called the Grand Master, and he combined the spiritual and military leadership in his person and role. A Grand Master was expected to serve as a paragon for the ideals of his followers, but was also given certain privileges and prerogatives. This may have included the privilege of a private place of worship and prayer, to which he may retire for contemplation, and to gain the strength needed to bring victory to the forces of heaven on earth.

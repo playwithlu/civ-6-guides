@@ -1,0 +1,12 @@
+# Catherine (CivRev2)
+
+Catherine leads the [Russian%20%28CivRev2%29](Russians) in "[Civilization%20Revolution%202](Civilization Revolution 2)".
+History.
+Catherine (1729 - 1796 AD) was born in Szczecin in 1729, a princess of Pomerania, a small kingdom in Prussia. At 16 she was married to Carl Peter Ulrich, the heir to the Russian throne. Catherine quickly learned Russian and joined the Russian Orthodox Church. Largely self-educated, Catherine immersed herself in the literature of the time. Endowed with both beauty and intelligence, she became strong friends (if not more) with the great thinkers of the day, including the brilliant French philosophers Rousseau and Diderot.
+Catherine did not lack political ambition, however. At the age of 33, with the support of the Imperial guard, she overthrew her husband, the Emperor Peter III, who was soon killed "in a hunting accident," leaving Catherine the sole ruler of Russia. As Empress, Catherine pursued an expansionist policy, fighting two successful wars against the Ottoman Empire and acquiring vast territory in southern Ukraine and the Crimea. She undertook a wide range of political reforms, attempting to shape up the notoriously corrupt and incompetent Russian bureaucracy. She curried favor with the aristocracy, expanding their already great power over the Russian peasants.
+A patron of the arts, Catherine commissioned many statues and paintings. Under her rule St. Petersburg was transformed from a primitive and forbidding city into one of the most beautiful and impressive European capitals.
+Despite her many public successes, Catherine is best known for her private excesses. Her affairs are legendary; it has been suggested that she slept with a fairly large fraction of the Russian officers corps, not to mention her many well-publicized dalliances with a horde of well-known European politicians and artists.
+Catherine died at the age of 67, having lived longer than any other Romanov monarch.
+Fun Facts.
+Yekaterinoslav, today known as Dnipropetrovsk, was a city founded in Ukraine after Catherine's successful conquest of the region. The name literally means "the glory of Catherine."
+Catherine was an avid collector of art and literature and created a number of museums and libraries during her reign. Collections of Greek artifacts, relics of ancient Troy and the works of Voltaire all found their ways into Catherine's institutions.

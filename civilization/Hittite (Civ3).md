@@ -1,0 +1,9 @@
+# Hittite (Civ3)
+
+The Hittites have only appeared as a playable [List%20of%20civilizations%20in%20Civ3](civilization) in the "" expansion of "[Civilization%20III](Civilization III)". This may be due to their similarities with other [Middle%20East](Middle East)ern civilizations such as the [Babylonian%20%28Civ3%29](Babylonians) or [Sumerian%20%28Civ3%29](Sumerians). In its heyday, the Hittite Empire fought the [Egyptian%20%28Civ3%29](Egyptians) to a standstill. They are led by [Mursilis%20%28Civ3%29](Mursilis).
+Civilopedia entry.
+In "Civilization III: Conquests", the Hittites are considered an expansionist and commercial civilization. They start the game with [Pottery%20%28Civ3%29](Pottery) and the [Alphabet%20%28Civ3%29](Alphabet), and build the [Three-Man%20Chariot%20%28Civ3%29](Three-Man Chariot) instead of the Standard [Chariot%20%28Civ3%29](Chariot).
+Unique Unit: 3-Man Chariot.
+The Hittites were perhaps most famous for waging fast, deadly warfare with their powerful heavy war chariots. The Three-Man Chariot was an improvement over other contemporary chariots in close combat, because it sacrificed speed for stability and "elbow room" with which to fight. At the battle of Kadesh, the Hittites used three-man chariots to closely engage the Egyptian forces; this almost routed the entire Egyptian host.
+Hittite Three-Man Chariots take the place of normal chariots. They move quickly and will withdraw from combat if they are losing (unless fighting another fast unit). Like other chariot units, they are wheeled and may not enter Mountains, Volcano, Jungle or Marsh terrain unless following a road. A Hittite city must have Horses in its Strategic Resources box to build a three-man chariot.
+Attack: 2 (Chariot has 1) Defense: 2 (Chariot has 1) Moves: 2 Shield Cost: 30 (Chariot has 20)

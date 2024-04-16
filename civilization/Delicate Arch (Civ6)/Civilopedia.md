@@ -1,0 +1,4 @@
+# Delicate Arch (Civ6)/Civilopedia
+
+A remarkable rock formation long ago caught the attention of people in the American southwest. The towering formation resembles the waist and legs of a bow legged person. Newspaper editors nicknamed it the “Gigantic Window,” “Chaps,” and “Schoolmarm’s Bloomers,” though Frank Beckwith’s “Delicate Arch” stuck in 1934.
+The precarious sandstone arch is as tall as a six-story building, which unfortunately sealed its fate. Both gravity and Utah’s winds will eventually lead to the arch’s collapse. Nature alone hasn’t taken its toll—despite its name, some ill-advised attempts to climb the Delicate Arch have damaged the majestic structure.

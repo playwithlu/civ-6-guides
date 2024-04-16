@@ -1,0 +1,3 @@
+# Pantanal (Civ6)/Civilopedia
+
+The Pantanal is considered the world’s largest tropical wetlands, spreading out to as much as 195 thousand square kilometers (about 75 thousand square miles) of water, bog, quagmire, and muck. It is, of course, home to an extremely diverse bio-system of flora and fauna, including some 1000 species of birds and 480 species of reptiles. For centuries, the Bororo lived happily among these, but by the end of the 1800s they were decimated by disease and Brazilian explorers, slave traders, prospectors, and settlers. Now several Brazilian cities are located within the Pantanal.

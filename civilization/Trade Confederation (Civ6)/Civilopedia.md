@@ -1,0 +1,3 @@
+# Trade Confederation (Civ6)/Civilopedia
+
+As international trade recovered after the collapse of the Roman Empire, some traders found it was better to pool their resources and establish their own economic infrastructure than go it alone or trust to the government (whatever uncertain form this took). In short, the merchants of a city or region sought to establish shared trade routes, or establish monopolies in certain commodities, or both. Many of these were foundations for the more formal merchant confederations that could span several cities. Too, trade confederations tended to be shorter lived, as the death of a merchant or trader family usually ended the ad hoc and loosely organized confederation.

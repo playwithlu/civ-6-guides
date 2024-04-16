@@ -1,0 +1,3 @@
+# Leiðangr (Civ6)/Civilopedia
+
+The leiðangr was a sort of conscription to fill out Norse fleets for seasonal raids or to defend the land … in effect, a fleet levy lasting (usually) two or three of the summer months. Since all sources which mention leiðangr are medieval, it is uncertain when the practice started or how widespread it was; according to these vague accounts, each district (skipreida) was to provide one ship and crew when called upon by their ruler.

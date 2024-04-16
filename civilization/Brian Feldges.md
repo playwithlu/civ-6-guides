@@ -1,0 +1,3 @@
+# Brian Feldges
+
+Brian Feldges is a computer programmer, game designer, and artist who has worked for [Firaxis%20Games](Firaxis Games). He is known for helping to design, develop, and program ', "[Sid%20Meier%27s%20Starships](Sid Meier's Starships)", and "[Civilization%20VI](Civilization VI)". He also contributed to "Railroad Tycoon 3", ', "[Civilization%20Revolution](Civilization Revolution)", and "[CivWorld](CivWorld)" as an artist and animator.

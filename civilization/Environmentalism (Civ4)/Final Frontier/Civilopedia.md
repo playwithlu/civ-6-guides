@@ -1,0 +1,3 @@
+# Environmentalism (Civ4)/Final Frontier/Civilopedia
+
+The development of the Nutrition Facility was a major step in the progression towards more environmentally-friendly technology, a trend that would become increasingly popular among those inhabiting more fragile alien ecosystems. The philosophies which led to the "Green Economy" took off in this era, with the development of the Research Lab largely guiding its principals. Research Labs, while not limited to environmental research, led the charge in the development of new and sustainable construction and survival techniques, as opposed to their more industrial brethren, which paid far less attention to the sustainability of their activities.

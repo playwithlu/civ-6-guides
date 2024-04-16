@@ -1,0 +1,3 @@
+# Mead Hall (Civ5)/Civilopedia
+
+In ancient Scandinavian and Germanic regions the Mead Hall was a large building with a single room, which served both as the feast hall of the chieftain as well as the center of the cultural and religious life of the settlement. Guarded by the chieftain's retainers, it was also the final refuge for the tribe's women, children and elders in times of crisis. Constructed of stone and wood, 40 to 50 meters long, decorated with carvings, it was usually the most prominent building in the town. Beginning in the 4th Century AD, Mead Halls were often fortified as well, and as such were the forerunner of the keep found in medieval castles.

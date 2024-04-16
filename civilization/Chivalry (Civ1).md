@@ -1,0 +1,5 @@
+# Chivalry (Civ1)
+
+Chivalry allows the building of [Knights%20%28Civ1%29](knight) unit, a fast attacking land unit with some defense that replaces the [Chariot%20%28Civ1%29](Chariot) unit.
+Civilopedia entry.
+Chivalry was a system of ethical ideals that grew out of Feudalism. It established a code of behavior for the landed class of mounted warriors, known as Knights. The chief chivalric virtues were piety, honor, valor, courtesy, chastity, and loyalty. These represented a fusion of Christian and military morality and became the basis for gentlemanly conduct. The zenith of Chivalry were the Crusades, a series of invasions of the Middle East that attempted to recapture the Holy Land from the Muslims. Chivalry was enhanced by monastic orders of knighthood, including the Knights Templar and Knights Hospitaler.

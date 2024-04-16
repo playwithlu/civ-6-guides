@@ -1,0 +1,3 @@
+# Constabulary (Civ5)/Civilopedia
+
+One of the first known descriptions of the role of a constable comes from Bracton, a jurist in England writing between 1220 and 1250. "In whatever way they come and on whatever day, it is the duty of the constable to enroll everything in order, for he has record as to the things he sees; but he cannot judge, because there is no judgment at the Tower, since there the third element of a judicial proceeding is lacking, namely a judge and jurisdiction. He has record as to matters of fact, not matters of judgment and law."

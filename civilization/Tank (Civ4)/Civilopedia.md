@@ -1,0 +1,3 @@
+# Tank (Civ4)/Civilopedia
+
+The rise in the use of semi-automatic and automatic firearms in the late 19th and early 20th century led to the demise of horse-mounted cavalry. As a result, attackers lost a significant advantage in both scouting and deployment. It was only with the development of tanks, armored mobile attack vehicles equipped with high caliber-guns, that a weapon was found which could once more punch a hole through enemy field forces. First appearing in World War I, armored attack vehicles move quickly and strike with power, while still possessing an effective defensive strength. Tanks are powerful weapons against any ground unit.

@@ -1,0 +1,3 @@
+# Merchant Navy (Civ5)/Civilopedia
+
+A merchant navy is a group of merchant ships which, in times of war, can be pressed into service and carry a nation's military goods and supplies, often with protection from the nation's navy. For many years the British maintained the largest and best fleet of merchant marine vessels in world history. Implemented in 1835, the British Merchant Navy suffered huge losses in World Wars I and II. Nearly 15,000 merchant seamen lost their lives in World War I, and a staggering 30,000 died in the Second World War.

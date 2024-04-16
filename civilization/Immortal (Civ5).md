@@ -1,0 +1,7 @@
+# Immortal (Civ5)
+
+Game Info.
+[Unique%20unit%20%28Civ5%29](Unique) front-line unit of the [Persian%20%28Civ5%29](Persian) [Civilizations%20%28Civ5%29](civilization). Replaces the [Spearman%20%28Civ5%29](Spearman).
+Strategy.
+The Immortal lives up to its name thanks to its ability to heal twice as fast as any other unit. However, the 2x bonus does not apply to any healing received through friendly [Territory%20%28Civ5%29](territory) or the Medic [Promotions%20%28Civ5%29](promotion) (either its own or another unit's; for example, an Immortal with Medic II will gain back 25 [HP](HP) outside of friendly territory rather than 30). This means that if it's in friendly territory, the Immortal will regain 30 (or 35, if in a [City%20%28Civ5%29](city)) HP per turn! While the promotion's description would be more accurate if it read "+10 HP when healing," it is still very valuable, especially early in the game. With this ability, the Persians can engage in early combat and recover roughly twice as fast as the enemy units. Use that to your advantage, especially when clearing [Barbarian%20%28Civ5%29](Barbarian) [Encampment%20%28Civ5%29](encampments)!
+Immortals retain their special trait when they upgrade.

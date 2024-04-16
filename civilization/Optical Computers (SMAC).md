@@ -1,0 +1,3 @@
+# Optical Computers (SMAC)
+
+The widespread adoption of [Polymorphic%20Software%20%28SMAC%29](Polymorphic Software) increased demand for faster computers. The revolutionary Optical Computers, which use photons traveling at the speed of light for binary calculations, prove nearly 70% faster than old electron-based devices. Based on successes in [Applied%20Physics%20%28SMAC%29](Applied Physics), Optical Computers also exponentially improve storage capacities and access times.

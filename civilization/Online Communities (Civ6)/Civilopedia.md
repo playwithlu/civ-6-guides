@@ -1,0 +1,3 @@
+# Online Communities (Civ6)/Civilopedia
+
+Where “community” was once defined by place, now it is defined by common interests, common concerns, or cat videos. Virtual communities have proliferated with the expansion of the internet, notably via portable devices. Through chat rooms, forums, e-mail lists, and social networking services, many people now have thousands of “invisible friends” … along with, or instead of, the real ones next door. The trend towards belonging to an online community is spreading; as of 2013 AD, there were 20 major virtual communities with over 100 million members each.

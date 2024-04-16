@@ -1,0 +1,3 @@
+# Ikanda (Civ5)/Civilopedia
+
+Ikanda were a form of military kraal or corral for the Zulu cattle and livestock. An amabutho, or "age-regiment," was comprised of youths or men of the same age who trained, lived and fought together in a single formation, each of which was lodged at one of the royal corrals - making it an Ikanda. Each Ikanda had a herd of royal cattle assigned to it, from which the warriors were supplied with meat. The hides of the cattle were used to provide the shields, with distinctive skin coloring for each amabutho. Ikanda followed the general layout of the traditional kraal, consisting of two concentric palisades of thorn brush, with the living huts located inside the outer ring and the cattle herd protected by the inner ring.

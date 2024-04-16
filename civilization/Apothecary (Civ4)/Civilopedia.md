@@ -1,0 +1,4 @@
+# Apothecary (Civ4)/Civilopedia
+
+An apothecary is the name of a person who researches and creates herbal medicines (it's also the name of his business establishment). In ancient Persia, the practice of medicine was split between two professions. The "ashpiu" was a sort of sorcerer or witch-doctor, who determined the spiritual cause of the ailment and prescribed the religious and magical rituals necessary for a cure. The ashpiu could also refer the patient to an apothecary or "asu," a combination of pharmacist and physician, who would provide the necessary medicines and treatments to cure the ailment. 
+Persia stood atop one of the great trading crossroads of the world, and their apothecaries had access to medicines and procedures from Africa, Europe, and Asia. And though like anywhere else there was much superstition and misinformation about disease and how best to treat it, Persian medicine was among the most advanced in the ancient world.

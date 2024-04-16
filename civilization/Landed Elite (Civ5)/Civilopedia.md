@@ -1,0 +1,3 @@
+# Landed Elite (Civ5)/Civilopedia
+
+Under this policy, the power and prestige in a nation is held by those who own the land. The more land one owns, the more powerful one is. In some cases land ownership may be limited to members of a certain class, tribe, religion, or even gender. Great care must be taken by the landed elite to see to it that the great unwashed mass of peasants don't become angry with them, as such situations often end with a radical redistribution of land, which may or may not be accompanied by the executions of the former landowners.

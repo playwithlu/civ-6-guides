@@ -1,0 +1,4 @@
+# Kotoku-in (Civ6)/Civilopedia
+
+Serene, enduring, and somewhat mysterious, the Buddha statue known as the Daibutsu sits outside of Kamakura’s Kōtoku-in. Towering over the Buddhist temple’s visitors, the Daibutsu patiently greets both faithful and tourist alike. An unknown artist cast the Great Buddha of Kamakura out of bronze, which has since oxidized into a muted green color through natural weathering.
+However, the Kōtoku-in’s artist clearly built it to last. It survived an earthquake and two typhoons, one of which destroyed the building that used to surround it. The statue remains unfazed by nature’s attempts to unseat its 750-year meditation.

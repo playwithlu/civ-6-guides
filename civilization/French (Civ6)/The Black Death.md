@@ -1,0 +1,3 @@
+# French (Civ6)/The Black Death
+
+The French people represent the Kingdom of France, a playable [Civilizations%20%28Civ6%29](civilization) from [The%20Black%20Death%20%28Civ6%29](The Black Death), a [List%20of%20scenarios%20in%20Civ6](scenario) in "". They are led by [King%20Philip%20VI%20%28Civ6%29](King Philip VI), and their [Unique%20ability%20%28Civ6%29](civilization ability) is "Papal Leadership," which provides their [Government%20%28Civ6%29](government) a special 'Papal Policy' wildcard slot. This slot is optional, but consumes per turn if used.

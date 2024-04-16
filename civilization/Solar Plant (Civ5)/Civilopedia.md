@@ -1,0 +1,3 @@
+# Solar Plant (Civ5)/Civilopedia
+
+A solar plant collects the energy from the sun and turns it into electrical power. The most efficient solar plants are, naturally, in locations that get a lot of direct sunlight and not much cloud cover. At present solar-generated energy is somewhat expensive when compared with energy generated from fossil fuels (petroleum or coal), but solar technology is getting cheaper, and fossil fuels are getting more expensive - particularly when the environmental cost of the pollutants they emit is taken into consideration. Once the technology is perfected it will do much to satisfy the world's energy needs - it's estimated that the earth receives some 200,000 times more solar energy than humanity's total present electric-generating capacity.

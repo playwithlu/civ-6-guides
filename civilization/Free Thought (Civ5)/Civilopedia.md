@@ -1,0 +1,3 @@
+# Free Thought (Civ5)/Civilopedia
+
+Free thought is the belief that knowledge should be gained through the application of science and reason, rather than from tradition or religious dogma. Theories should be tested scientifically and logically. If something can't be proven, it's foolish to believe in it. Blind faith is the arch enemy of free thinkers everywhere. Free thinking is an important part of Buddhist tradition. In the "Kalama Sutta," the Buddha states, "Do not accept anything by mere tradition... Do not accept anything because it accords with your scriptures... But when you know for yourselves - then do you live accordingly."

@@ -1,0 +1,3 @@
+# Universal Suffrage (Civ5)/Civilopedia
+
+Many political struggles have been concerned with gaining the right to vote (as opposed to the opportunity, an important distinction) in public elections in a democracy. Where universal suffrage exists, the right to vote cannot be restricted by gender, race, belief, wealth and property ownership, or social status. In most western nations, full universal suffrage followed universal male suffrage by one or two decades; in 1893 AD, New Zealand was the first nation to achieve universal suffrage.

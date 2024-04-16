@@ -1,0 +1,3 @@
+# Freedom (Civ5)/Civilopedia
+
+As a policy, freedom generally means that no class of society is subservient to another, and that all are equally subject to the laws. I can't own you, and you can't take my wife from me simply because you're the king's son-in-law. Free societies are generally more successful than non-free states, as the free people often feel that they have more of a stake in their country's success or failure.

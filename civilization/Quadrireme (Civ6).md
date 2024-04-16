@@ -1,0 +1,7 @@
+# Quadrireme (Civ6)
+
+The Quadrireme is a [List%20of%20units%20in%20Civ6/By%20class%23Naval%20ranged](naval ranged unit) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+The Quadrireme is the first ranged [Naval%20unit%20%28Civ6%29](naval unit) available in the game. Although outclassed in melee combat by the [Galley%20%28Civ6%29](Galley), its ranged capabilities allow for "free" attacks, which gives it the overall edge in naval battles. But much more importantly, the Quadrireme is capable of attacking land [Tile%20%28Civ6%29](tiles), and doing significant damage to land units which dare approach the coast!
+That makes the Quadrireme an important part of a land invasion when the target [Civilizations%20%28Civ6%29](civilization) mostly has lands along the coast. Despite its limited range, the Quadrireme can make a difference, especially when fighting to take [Coastal%20%28Civ6%29](coastal) [City%20%28Civ6%29](cities).
+[Barbarian%20%28Civ6%29](Barbarians) on the coast will usually skip Galleys and move straight to Quadriremes. If you find an outpost on the coast, be ready for a Quadrireme to be lurking nearby. A single Galley will most likely be destroyed in a one-on-one fight, so try to keep them supported with ranged land units or other ships!

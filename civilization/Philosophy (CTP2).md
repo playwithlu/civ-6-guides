@@ -1,0 +1,7 @@
+# Philosophy (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Philosophy is the pursuit of wisdom. It elevates the consciousness of citizens and gives them an opportunity to speculate on some of the most basic conventions of human being. The is the central place in a city in which one studies such things. was one of the first formalized centers of philosophical study.
+Great Library entry.
+Throughout world history, the term "philosophy" (from the Greek word philosophia, "love of wisdom") has meant many different things. It encompassed the pursuit of wisdom, the understanding of the universe as a whole, the examination of morals, values and ethics, and the attempt to promote rationality and clear thinking through the codification of rules governing human thought. At its core, philosophy was an analysis of the basis for fundamental beliefs and an examination of the expression of such beliefs. Its pursuit was the mark of an intellectually robust civilization. It was a reflective pursuit, with no explicitly defined subject matter. Much like science, it was a mental operation that could be exercised on any area or subject. Because of this flexibility, philosophy, and its subcategories ethics, logic and metaphysics, formed the basis of rational thought processes that spawned many of the scientific and cultural advances in history.

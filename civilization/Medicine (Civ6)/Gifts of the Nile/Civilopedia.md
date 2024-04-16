@@ -1,0 +1,3 @@
+# Medicine (Civ6)/Gifts of the Nile/Civilopedia
+
+Though its methods were crude, medical knowledge in the Nile region was surprisingly comprehensive. Extensive knowledge of anatomy led to hygienic practices, surgical knowledge, and incantations against demons thought to spread disease. As of 1550 BCE, a medical papyrus identified cancer as “a tumor against the god Xenus.” Sadly, there was no known treatment.

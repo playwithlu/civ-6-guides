@@ -1,0 +1,7 @@
+# Shipyard (Civ6)
+
+The Shipyard is an advanced maritime [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the [Harbor%20%28Civ6%29](Harbor) [District%20%28Civ6%29](district) and requires a [Lighthouse%20%28Civ6%29](Lighthouse) (or one of its replacements).
+Strategy.
+The Shipyard turns the bonuses of the Harbor away from growth and economics and toward [Naval%20unit%20%28Civ6%29](naval unit) production. It increases the [XP](XP) bonus for naval units, and if built in a Harbor adjacent to a [City%20Center%20%28Civ6%29](City Center) and sea [Resource%20%28Civ6%29](resources), it will provide a substantial bonus. Not only that, but in "", it adds even to unimproved [Coast%20%28Civ6%29](Coast) [Tile%20%28Civ6%29](tiles), which together with the action of the other Harbor buildings will turn them into really useful contributors to city growth.
+Building two Shipyards triggers the for [Steam%20Power%20%28Civ6%29](Steam Power).
+If [Reyna%20%28Financier%29%20%28Civ6%29](Reyna) is established in a city with a Shipyard, the double [Adjacency%20bonus%20%28Civ6%29](adjacency bonuses) from her [Harbormaster%20%28Civ6%29](Harbormaster) title may benefit the Shipyard's greatly, depending on the adjacency bonus from the Harbor in the city.

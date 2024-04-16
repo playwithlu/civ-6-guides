@@ -1,0 +1,31 @@
+# Conquest of the New World (Civ5)
+
+Conquest of the New World is a [List%20of%20scenarios%20in%20Civ5](scenario) in "[Civilization%20V](Civilization V)" that came along with the [DLC%20%28Civ5%29](DLC). The objective is to get the most points by playing as a [Europe](Europe)an nation or a [Native%20American](Native American) tribe. It is somewhat similar to the "[Colonization%20%28game%29](Colonization)" games.
+An updated version of the scenario, called Conquest of the New World Deluxe, was added on 4 February 2014 as a free DLC for the "" expansion pack.
+Scenario Description.
+The year is 1492. To the courts of England, France, and Spain come intrepid explorers, anxious to voyage across the Atlantic in search of a western route to China and the Indies. Will they find a new trade route and uncover untold riches from the Asian shores? Or will they perhaps run aground on undiscovered lands along their way? Will native peoples be receptive to the knowledge and trade prospects presented to them, or will they fight against the invaders of their homeland? What riches, fame, and opportunities await those who brave the unknown waters? What path will you choose? Who will prevail in the struggle for supremacy over this New World?
+Gameplay.
+Original.
+The Native American tribes spawn in various locations around the American continent(s), which will be randomly generated each time a new game is started. They begin play with several [Settler%20%28Civ5%29](Settlers), [Worker%20%28Civ5%29](Workers), and military units and a large amount of , and should focus on claiming as much [Territory%20%28Civ5%29](territory) as possible and increasing their military and economic strength before dealing with expansionist neighbors.
+The European nations start from the far eastern side of the [Map%20%28Civ5%29](map). They each begin play with a well-developed , a [Worker%20%28Civ5%29](Worker), and a [Caravel%20%28Civ5%29](Caravel), and should focus on exploring the New World and finding choice tracts of land to settle. They may declare war on the Native Americans freely, but are unable to declare war on each other until they have researched [Piracy%20%28Civ5%29](Piracy). Additionally, all European naval units begin play with the Scurvy "promotion," which gives them a chance to lose 1 HP each time they end a turn outside of friendly territory. This promotion persists until the [Navigation%20School%20%28building%29%20%28Civ5%29](Navigation School) - a national wonder unique to this scenario - is constructed.
+In addition to the standard scoring methods, European nations can earn points by sending Caravels to [Chinese%20%28Civ5%29](China). China's cultural [Borders%20%28Civ5%29](borders) will always be on the far western side of the map, and moving a Caravel adjacent to them will remove the unit from play and award points to its owner - 200 for the first Caravel, 100 for the second, and 50 for the third. These rewards are only given for the first three Caravels to reach China, and one nation can earn multiple rewards, so naval dominance can quickly propel a civilization toward victory in this scenario.
+Any civilization can also earn points by collecting [Treasure%20%28Civ5%29](Treasures) and delivering them to its . Treasures are special units that appear whenever a city or [City-state%20%28Civ5%29](city-state) is razed. Except for those in Europe and the last city (not necessarily the ) of an American civilization, all cities may be razed. Two of the [Natural%20wonder%20%28Civ5%29](natural wonders) - [Cerro%20de%20Potosi%20%28Civ5%29](Cerro de Potosi) and [El%20Dorado%20%28Civ5%29](El Dorado) - also generate Treasures at regular intervals if they are within a civilization's cultural borders. A civilization that returns a Treasure to its will score 100 points. Treasures are unable to defend themselves and can be plundered by enemy military units, so it's important to protect them from marauding [Barbarian%20%28Civ5%29](Barbarians) and opportunistic neighbors on the way to the .
+Victory goes to the first civilization to score 1000 points, or to the civilization with the highest score after 100 turns have elapsed.
+Deluxe.
+The Deluxe version of the scenario adds the [Religion%20%28Civ5%29](religion) of ' and the [International%20trade%20route%20%28Civ5%29](international trade routes) of ' and integrates them into the scoring system. Native American tribes receive 1 point for every 2 they generate, whereas European nations receive 1 point for every 12 they earn.
+The [Social%20policies%20%28Civ5%29](Social Policy) trees are replaced with [Ideology%20%28Civ5%29](Ideology) trees, which are different for the Native American and European civilizations.
+Each of the Native American tribes can found a pantheon (and choose from a list of enhanced scenario-specific beliefs) at the start of the game. They are also able to build wonders in their cities, which grant significant advantages but are destroyed if the city is captured.
+The European nations automatically receive points toward [Great%20Admiral%20%28Civ5%29](Great Admiral) generation every turn. Reaching China with a Great Admiral (rather than using a Caravel) grants points and .
+This version of the scenario also adds as a bonus resource and as a luxury resource.
+Conquest of the New World Deluxe lasts for 150 turns, after which the civilization with the highest score wins.
+Civilizations.
+Original.
+This scenario features six playable civilizations, split into two subgroups. All of the European civilizations have their [Unique%20unit%20%28Civ5%29](unique units) omitted for the scenario, whereas the Native American civilizations retain both their unique features and their regular city names.
+Deluxe.
+The Deluxe edition of this scenario adds four new civilizations, three of which have scenario-specific unique features.
+Non-Playable.
+In addition to the six playable civilizations (ten in the Deluxe edition), these two civilizations appear in this scenario as non-playable civilizations, and do not have units or cities.
+City-States.
+Not all of these city-states will appear in any given game.
+Special Techs.
+All of the units enabled by these technologies have different statistics than they do in the main game.

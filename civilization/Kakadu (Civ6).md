@@ -1,0 +1,7 @@
+# Kakadu (Civ6)
+
+Kakadu is a 4-tile passable available in the in "[Civilization%20VI](Civilization VI)". Kakadu appears as a on tiles. Each wonder tile provides 2 and 2 , instead of the normal yields from Marsh tiles. Kakadu increases the of adjacent tiles by +2.
+Like normal Marsh tiles, Kakadu tiles have a cost of 2, and reduce the Combat Strength of defending units by -2.
+Strategy.
+Each Kakadu tile has a yield of 2 and 2 . Since Culture is often hard to generate early in the game, incorporating natural wonder tiles can provide a vital head start through the . With some planning, you can get two [National%20Parks%20%28Civ6%29](National Parks) from Kakadu, or with some luck, place improvements nearby that benefit from increased appeal, like [Seaside%20Resort%20%28Civ6%29](Seaside Resorts).
+Unfortunately, as with all natural wonders, the Kakadu tiles cannot be developed or improved. Because of this, natural wonders may be more of a hindrance than an asset later in the game - a natural wonder in the heart of a can spoil adjacency bonuses for Farms and districts. In general, passable wonder tiles are significantly better than an unimproved tile of any kind, but are often less productive than an ordinary tile with an improvement or a district.

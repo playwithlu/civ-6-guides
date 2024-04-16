@@ -1,0 +1,4 @@
+# Obelisk (Civ4)/Civilopedia
+
+An obelisk is an upright four-sided pillar that tapers to a point, usually placed to commemorate some important god, person or event. The earliest known obelisks are found in Egypt, which is believed to have invented the form. Obelisks were a prominent feature of Egyptian architecture, and two were generally placed at the entrance to Egyptian temples.
+Cleopatra's Needles - the most famous Egyptian obelisks (which were later looted and relocated to various countries around the world) - were constructed of granite and stood over 20 meters in height. While much larger obelisks have since been built - at 167 meters the Washington Monument in the United States is the tallest obelisk in the world - the Egyptian obelisks were extremely impressive feats of architecture and engineering for their time.

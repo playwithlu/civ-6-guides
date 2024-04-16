@@ -1,0 +1,3 @@
+# Feudalism (government) (Civ3)/Civilopedia
+
+Feudal governments are decentralized monarchies where kings rule because subordinate nobles support them. Kings still retain vast powers under feudalism, but nonetheless must tread carefully lest their vassals rebel. The range of powers available to feudal kings usually involved the power to tax, to impress a lord's serfs into (limited) military service, and to resolve political disputes and create titles.

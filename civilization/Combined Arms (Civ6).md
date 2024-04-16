@@ -1,0 +1,7 @@
+# Combined Arms (Civ6)
+
+Combined Arms is an [Atomic%20Era%20%28Civ6%29](Atomic Era) [Technologies%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by having 3 Armies or Armadas.
+Strategy.
+The thoughtful combination of different arms in the same army is a very old concept - many generals of the antiquity have tried to supply their archers with pike regiments for defense against cavalry charges, for example. But it takes the chaotic battlefield of modernity, with its artillery shells and air-dropped bombs exploding everywhere, and its tanks rolling through everything, for the concept of combined arms to get true traction.
+And it turns out that the military branch which is least prepared for this concept is the navy. So, after the implementation of combined arms, two new maritime units are immediately invented to ensure support for and against various types of weapons: the [Destroyer%20%28Civ6%29](Destroyer) and the [Aircraft%20Carrier%20%28Civ6%29](Aircraft Carrier).
+This new approach to arms of different kinds also reveals the use of the last [Resources%20%28Civ6%29%23Strategic](Strategic resource) in the game - - preparing the world for the era of mass destruction.

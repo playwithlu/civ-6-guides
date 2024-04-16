@@ -1,0 +1,3 @@
+# Native Conquest (Civ6)/Civilopedia
+
+The first wave of European colonization began in the early 15th Century AD when the Portuguese established trading posts along the coast of Africa on their way to the Far East. But when the Spanish discovered the Americas, soon followed by the Portuguese, English, French, Dutch, Swedes, and anyone else who could sail the oceans, the settlement of “empty” lands took on another tone. For, of course, these lands weren’t empty, but full of natives that had been there for millennia. When the new arrivals clashed with the locals, it turned out poorly for the natives, thanks to Europeans guns, cannons, horses, and diseases.

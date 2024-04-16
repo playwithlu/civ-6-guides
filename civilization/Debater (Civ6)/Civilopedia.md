@@ -1,0 +1,3 @@
+# Debater (Civ6)/Civilopedia
+
+Through most of the Middle Ages and Renaissance, religious “disputations” (formal debates) offered the avowed method of establishing truth in theology. Based on the hoary old traditions of Platonic philosophy, these debates were judged based on the debaters’ citation of “accepted” written works and the usual rhetorical skills of spokesmen. Disputations between Catholic and Jewish theologians (such as that in Paris in 1240) were quite polite; those between Protestants and Catholics (for instance, Regensburg in 1541) somewhat less so. Meanwhile, to the East the Mughal emperor Akbar the Great was hosting disputations between Muslim, Hindu, Jain, Zoroastrian, and Catholic Jesuit holy men as a show of his religious tolerance.

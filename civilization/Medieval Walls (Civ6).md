@@ -1,0 +1,7 @@
+# Medieval Walls (Civ6)
+
+Medieval Walls are a defensive [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". They are built in the and require [Ancient%20Walls%20%28Civ6%29](Ancient Walls) (or one of their replacements).
+Strategy.
+The Medieval Walls are the second-stage upgrade to city defenses, providing additional defense that attackers need to defeat before assaulting the city (or [Encampment%20%28Civ6%29](Encampment)) itself. They are much more elaborate than [Ancient%20Walls%20%28Civ6%29](Ancient Walls), capable of withstanding more advanced medieval weapons, and even some [Catapult%20%28Civ6%29](Catapult) bombardment.
+What is interesting about them is that they provide +2 for the city, when your [Government%20%28Civ6%29](government) is [Monarchy%20%28Civ6%29](Monarchy). Note that this bonus continues to be valid after you discover [Steel%20%28Civ6%29](Steel)! On the other hand, cities which haven't constructed Medieval Walls will not get the bonus upon discovering that technology, and won't have the chance to get it anymore, since you cannot construct City Defenses anymore once Steel is completed.
+As of the [Civilization%20VI%20Summer%202017%20Update](Summer 2017 Update), Medieval Walls provide and have no maintenance cost.

@@ -1,0 +1,4 @@
+# Enslavement (Civ3)
+
+Enslavement allows a unit to potentially "enslave" a combatant (instead of killing it) when it wins a battle. A unit with the "enslave" capability has a 1/3 chance of enslaving a defeated unit everytime it wins a battle. As soon as the battle is over, the game determines if the defeated unit is enslaved; if so, the unit is turned into another unit type (as specificed in the editor) and is immediately under the control of the victorious player. 
+The [Privateer%20%28Civ3%29](Privateer), the English [Man-O-War%20%28Civ3%29](Man-O-War), and the Mayan [Javelin%20Thrower%20%28Civ3%29](Javelin Thrower) have the Enslavement capability.

@@ -1,0 +1,5 @@
+# Conscription (Civ2)
+
+ Conscription is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+Compulsory enrollment in the armed forces has been practiced for thousands of years. In ancient Greece, before the introduction of a professional militia in about 2000 BC, men between the ages of 17 and 60 were obligated to serve in civilian militia. The modern form of conscription was introduced in France during the Revolution in 1789. By the 19th century, nearly every country except for Great Britain and the United States had instituted a program of peacetime conscription. Many of the combatants in both World Wars fought with forces composed largely of conscripted troops. The U.S. Selective Service Act of 1948 maintained peacetime conscription following World War II. This act which was to have expired in 1950, was extended due to the Korean War. Peacetime conscription in the United States continued until 1973, at which time military service became voluntary.

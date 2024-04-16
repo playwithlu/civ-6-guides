@@ -1,0 +1,3 @@
+# Advanced Power Cells (Civ6)/Civilopedia
+
+The first true solid-state device for generating electricity was created by the Italian inventor Alessandro Volta in 1800. There have been countless refinements to Volta's electrochemical cell design since then, and with the digital revolution the development of battery technology has undergone ever-greater investment and interest. A live electronic device is capable of marvels. One without a working battery is an expensive hindrance. Increases in capacity, working voltage, and lifespan continue, and the search continues for a reliable, affordable means of storing energy.

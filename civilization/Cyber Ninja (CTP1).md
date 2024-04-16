@@ -1,0 +1,7 @@
+# Cyber Ninja (CTP1)
+
+The Cyber Ninja is a [List%20of%20units%20in%20CTP1](unit) in "".
+Summary.
+The Cyber Ninja is the futuristic counterpart of the [Spy%20%28CTP1%29](Spy). She has far better training than the Spy, and has a greater chance of surviving her missions. Alluring and deceptive, she can spy on an enemy [City%20%28CTP1%29](city) to reveal its vital statistics or incite a [Revolution%20%28CTP1%29](revolution). She can steal enemy [List%20of%20advances%20in%20CTP1](Advances) by terror hacking into the Enemy's computer network. And she may perform the most detestable act of planting a [Nuke%20%28CTP1%29](nuke) in an enemy city. The Cyber Ninja is a [Stealth%20units%20%28CTP1%29](stealth unit), which allows her to hide from regular armies. Exercising her special actions requires [Gold%20%28currency%29%20%28CTP1%29](gold).
+Great Library entry.
+Some of the world's most noble scientific achievements have also produced some of the world's most devastating results. One such Advance was the Neural Interface. Originally intended to cure crippling nerve damage and reverse paralysis, this revolutionary technology also spawned the Cyber Ninja. In 2505 Jenni Ozawa-Matsushita, a brilliant programmer, received an NI implant to help her overcome nerve damage from a cybercycle accident. Not only was Jenni cured, she was also somewhat improved. By modifying her NI, she transformed herself into a Cyber Ninja: a stealthy super hacker. Eventually she cultivated a following. Cyber Ninjas had little allegiance to

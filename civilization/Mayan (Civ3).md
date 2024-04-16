@@ -1,0 +1,8 @@
+# Mayan (Civ3)
+
+The Mayans are a playable [List%20of%20civilizations%20in%20Civ3](civilization) in the "" expansion of "[Civilization%20III](Civilization III)". They are led by [Smoke-Jaguar%20%28Civ3%29](Smoke-Jaguar).
+Civilopedia entry.
+In "Civilization III: Conquests", the Mayans are considered agricultural and industrious. They start the game with Masonry and Pottery and build the Javelin Thrower instead of the Archer.
+Unique Unit: the Javelin Thrower.
+The Mayan army was comprised of warriors armed with a variety of weapons: lances, clubs, daggers, and even tridents. When the Aztecs introduced them to the atl-atl (a tool used to extend the throwing range and penetration strength of a javelin) in the 9th century, the javelin thrower became a staple in the Mayan warrior class. Capable of launching spears in rapid succession, the javelin thrower is a powerful force on the battlefield. The primary purpose of war for the Mayans was not to kill the enemy, but to enslave him. In particular, the capture of the enemy's leader. He and his direct subordinates were carried triumphantly to the captors' city, where they were summarily sacrificed to the gods. The rest of the vanquished army was enslaved. Therefore, the Javelin Thrower has the ability to "enslave".
+The Mayan Javelin Thrower hurls javelins in rapid succession, using the atl-atl. He is strong on both the attack and on the defense. The Javelin Thrower also possesses the ability to "enslave". When the javelin thrower wins a battle, there is a 1/3 chance that the defeated unit will be "enslaved" and immediately turned into a Worker, which is then the property of the Maya.

@@ -1,0 +1,3 @@
+# Assyrian
+
+The Assyrian people represent Assyria, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. Their [capital](capital) might be [Assur](Assur) or [Nineveh](Nineveh), and they can be led by [Ashurbanipal](Ashurbanipal), [Sennacherib%20%28CTP1%29](Sennacherib), [Shammuramat](Shammuramat), [Tiamat%20%28CTP1%29](Tiamat), or [Tiglath-Pileser%20III](Tiglath-Pileser III).

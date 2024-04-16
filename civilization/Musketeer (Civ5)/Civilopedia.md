@@ -1,0 +1,3 @@
+# Musketeer (Civ5)/Civilopedia
+
+Made famous by the swashbuckling tales of Alexandre Dumas, the Musketeers were elite French soldiers armed with sword and musket. Created in 1622 as a "junior unit" in the Royal Guard, the Musketeers of the Guard were open to the lower ranks of the French aristocracy, while the more prestigious guard units were reserved for the higher classes. The Musketeers had a reputation for fighting spirit and swagger and were much admired in Paris and the country at large. They were disbanded at the end of the eighteenth century.

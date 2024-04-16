@@ -1,0 +1,5 @@
+# Praetorium (Civ6)
+
+Praetorium is a Diplomatic [Policy%20card%20%28Civ6%29](Policy Card) in "".
+Strategy.
+Praetorium further increases the amount of [Loyalty%20%28Civ6%29](Loyalty) that [City%20%28Civ6%29](cities) gain with an assigned Governor. However, +2 Loyalty isn't a particularly large boost, and considering that you're unlikely to have more than two or three Governors when this card becomes available, the Diplomatic Policy slot it takes up is much better used on extra from [Merchant%20Confederation%20%28Civ6%29](Merchant Confederation) or extra s from [Charismatic%20Leader%20%28Civ6%29](Charismatic Leader) than on 6 extra Loyalty at most. Later in the game, when you have more Governors and thus higher potential yields, the cards available are even stronger, making this card ultimately almost never worth slotting.

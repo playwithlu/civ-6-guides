@@ -1,0 +1,3 @@
+# Hammer (Col)
+
+A hammer in "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)" is the somewhat curiously-named output of a [Carpenter%27s%20Shop%20%28Col%29](Carpenter's Shop) or [Lumber%20mill%20%28Col%29](Lumber mill). It is used for constructing [building%20%28Col%29](buildings), or [artillery%20%28Col%29](artillery). A [Master%20Carpenters%20%28Col%29](Master Carpenter) initially produces twice as many hammers per turn as an ordinary colonist, but that ratio may change a little after bonuses are counted.

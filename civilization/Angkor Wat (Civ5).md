@@ -1,0 +1,4 @@
+# Angkor Wat (Civ5)
+
+Strategy.
+Angkor Wat isn't a terribly exciting wonder, but if you have nothing better to build, go ahead and do it. The main bonus will considerably speed up natural [Territory%20%28Civ5%29](territorial) expansion in all cities, which is always good but not so game-changing, especially since most territorial expansion occurs long before this [Era%20%28Civ5%29](era). The [Great%20Engineer%20%28Civ5%29](Great Engineer) point added is maybe even more useful than the main bonus. [University%20%28Civ5%29](Universities) are unlocked with the same [List%20of%20technologies%20in%20Civ5](technology), and in most cases they should be built first, especially for scientific players.

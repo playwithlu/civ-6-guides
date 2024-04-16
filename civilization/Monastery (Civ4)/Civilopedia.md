@@ -1,0 +1,4 @@
+# Monastery (Civ4)/Civilopedia
+
+A monastery is a building where monks can retreat from the world and concentrate upon the divine. Usually a monastery will have strict rules of conduct to protect its unworldly members from temptation. In some monasteries, the monks are totally silent; in others no visitors are allowed inside. Monasteries usually have many daily rituals and religious services.
+Throughout the ages monasteries have often been centers of learning. In remote areas the monks may be the only literate people for miles around. Monks have often been employed as scribes, copying out the words of their religion's sacred scripture. Monasteries frequently have extensive libraries, holding religious, scientific, medical and philosophical texts.

@@ -1,0 +1,3 @@
+# Mass Grave (Civ6)/Civilopedia
+
+As the death tolls climbed during the Black Death, individual funerals were impractical, and dead bodies were buried in large numbers with whatever modesty could be provided for the dead. Sometimes partially decomposed bodies would be exhumed and reburied together to save space. In other cases, cemeteries became so clogged that the dead were buried above ground. Not all mass graves were marked, and they continue to be discovered in the present age.

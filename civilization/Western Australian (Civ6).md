@@ -1,0 +1,4 @@
+# Western Australian (Civ6)
+
+The Western Australian people represent Western Australia, a playable [Civilizations%20%28Civ6%29](civilization) from the [Outback%20Tycoon%20%28Civ6%29](Outback Tycoon) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". Their civilization ability is "Land Down Under," which provides +3 in [Coastal%20%28Civ6%29](coastal) [City%20%28Civ6%29](cities), allows [Pasture%20%28Civ6%29](Pastures) to trigger a [Culture%20Bomb%20%28Civ6%29](Culture Bomb), and increases yields from [Campus%20%28Civ6%29](Campuses), [Commercial%20Hub%20%28Civ6%29](Commercial Hubs), and [Theater%20Square%20%28Civ6%29](Theater Squares) by 2 in [Tile%20%28Civ6%29](tiles) with Charming [Appeal%20%28Civ6%29](Appeal) (or 4 with Breathtaking Appeal).
+The Western Australians are led by the Premier of Western Australia. His leader ability is "Golden Outback," which provides him with extra territory when he founds his cities.

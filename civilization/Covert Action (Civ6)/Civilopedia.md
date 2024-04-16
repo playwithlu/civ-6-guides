@@ -1,0 +1,3 @@
+# Covert Action (Civ6)/Civilopedia
+
+A covert action is a political action which is not claimed by a state, or which would be disavowed if evidence of it were to come to light. This includes most active espionage missions and counterintelligence operations, as well as a whole host of other activities. Only a small number of individuals are informed of, plan, or execute the mission, in order to minimize the possibility that the covert action will leak out into general awareness.

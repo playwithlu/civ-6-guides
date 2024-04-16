@@ -1,0 +1,3 @@
+# Workshop (Civ5)/Civilopedia
+
+A workshop is a building dedicated to constructing stuff. It would contain raw materials, tools, and the skilled labor to build whatever was needed. A pottery workshop would create pottery (unsurprisingly), while a carpentry workshop might construct doors, cabinets, floors - anything wooden. In Renaissance Italy, many artists worked in workshops, where a great painter might take credit for a painting that was in fact painted by his employees and students who had learned to accurately mimic his style, a practice which gives art collectors and historians headaches even today.

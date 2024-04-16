@@ -1,0 +1,2 @@
+# Military Tradition (Civ3)
+

@@ -1,0 +1,8 @@
+# Alien Artifact (SMAC)
+
+ is a unit equipment type in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)". Units with Alien Artifact equipment become Alien Artifact units, which is a special relic type unit. It consists of:
+Game info.
+Artifacts are mysterious and unexplained alien devices sometimes discovered on Planet. If you can find an artifact and return it to one of your bases, you will have several options:
+Artifacts can be captured from other players. A lone artifact can be captured by any player without diplomatic penalty.
+Strategy.
+While it's tempting to get the free tech early in the game, early alien artifacts should be reserved for building the most important early Secret Project, [The%20Planetary%20Transit%20System%20%28SMAC%29](the Planetary Transit System). After getting [Centauri%20Ecology%20%28SMAC%29](Centaur Ecology), you should beeline for [Industrial%20Automation%20%28SMAC%29](Industrial Automation) in order to get the Planetary Transit System; getting a tech that is otherwise not on that beeline will simply delay your tech advance towards it (the cost of each tech is increased according to the number of techs you already know), so a random tech is less valuable than the opportunity to speed up this important swing Secret Project. Once the Planetary Transit System has been completed, feel free to cash in any extra alien artifacts for techs or another Secret Project.

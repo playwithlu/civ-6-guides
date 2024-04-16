@@ -1,0 +1,6 @@
+# Resolutions (Civ5)
+
+Resolutions are a new concept in "". They can only be proposed in the [World%20Congress%20%28Civ5%29](World Congress). A vote on resolutions occurs every 30 [turn](turn)s after the Congress is founded, and more frequently as the game progresses. Some resolutions cannot be proposed until certain [List%20of%20technologies%20in%20Civ5](technologies) have been discovered. In fact, the Congress itself cannot be founded until a [Civilizations%20%28Civ5%29](civilization) has met all other civs and discovered [Printing%20Press%20%28Civ5%29](Printing Press).
+During a single Congress meeting, two civilizations (the host and the Congress member with the next highest delegate count) have an ability to propose resolutions. A resolution will be enacted if there are enough delegates in favor of that resolution. While in effect, resolutions will greatly change the gameplay, and may also impact one civilization's relations with others. Enacted resolutions may only be repealed on the future Congress meetings.
+List of Resolutions.
+Note that both Arts Funding and Sciences Funding resolutions may be in effect at the same time! In this case they effectively cancel each other, and production rate of all affected Great People returns to normal. You will need to arrange the repeal of one of the resolutions if you want production to be affected again.

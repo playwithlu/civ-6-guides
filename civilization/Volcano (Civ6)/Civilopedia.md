@@ -1,0 +1,4 @@
+# Volcano (Civ6)/Civilopedia
+
+Volcanoes form when the earth's crust is ruptured by an upwelling of hot gas, and magma. This can occur both above ground and below the surface of the ocean. Volcanoes are most common at the edges of tectonic plates, with the “ring of fire” in the Pacific being an excellent example.
+Volcanic eruptions can have disruptive impacts on the climate, with exceptionally vigorous volcanic activity having distinct patterns in the geological record of the world. Fortunately, these events are relatively infrequent. Unfortunately, when they do occur, they have profound and serious effects on human civilizations, sometimes affecting the course of history.

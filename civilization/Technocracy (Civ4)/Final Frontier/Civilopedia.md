@@ -1,0 +1,3 @@
+# Technocracy (Civ4)/Final Frontier/Civilopedia
+
+Taking the policies set forth in the mid-twenty-second century by the Initiative to Advance Scientific Research (IASR), the Technocracy places the guidance of the people within the hands of the educated. And while the original IASR was only concerned with technology capable of restoring Earth to its former glory, modern Technocracies are massive research-governed societies meshed with industrial complexes developed enough to implement their discoveries. The adoption of a Technocratic Government Policy will ensure an immediate increase in research in all tiers of society.

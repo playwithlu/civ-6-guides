@@ -1,0 +1,4 @@
+# Casa de Contratación (Civ6)/Civilopedia
+
+When Spain joined the late 15th Century’s exploration race, Queen Isabella I of Castile and Ferdinand II of Aragón realized they needed a firmer grasp on colonial trade and expansion. Through their Casa de Contratación, a “House of Trade” created to regulate trade and procurement, the Spanish crown controlled everything related to trade and sea travel down to the smallest details. Even their navigation and cartography school kept literal trade secrets in house.
+Seville was home to the first incarnation of the Casa de Contración, but the agency moved to Cádiz in 1717. Moving to a city near the southern tip of Spain streamlined the influx of ships, which had previously traveled up the highly trafficked Guadalquivir River. The Casa remained in Cádiz until its termination in 1790 due to the empire’s growing debts.

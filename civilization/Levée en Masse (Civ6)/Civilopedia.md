@@ -1,0 +1,3 @@
+# Levée en Masse (Civ6)/Civilopedia
+
+In response to reverses at the hands of the First Coalition, the revolutionary National Convention of France decreed a "levée en masse” in August 1793 AD, a “requisition” of all able-bodied, unmarried men between the ages of 18 and 25. While there had been conscription in many countries previously, the French approach meant that unprecedentedly large armies could be raised and put into the field … giving French generals the numbers to pound their many enemies into defeat. The levée in times of crisis was a major development in the history of modern warfare, leading to increasingly larger forces with each successive war, culminating in the enormous armies of the First and Second world wars.

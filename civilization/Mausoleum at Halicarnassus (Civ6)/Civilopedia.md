@@ -1,0 +1,4 @@
+# Mausoleum at Halicarnassus (Civ6)/Civilopedia
+
+The Persian satrap Mausolus had a tomb built for himself that was so lavish and beautiful that the term “mausoleum” would subsequently be used for any stately tomb. Planned before his death in the city of Halicarnassus, a coastal town on the shores of what is now western Turkey, it was completed after his death in 353 BCE. Many writings from antiquity mention the Mausoleum’s beauty, and it was declared one of the seven wonders of the ancient world.
+Artemisia, widow to Mausolus, hired famous sculptors to work the stone and marble, and its sides were emblazoned with bas-reliefs of mythical creatures. Atop a pyramidal roof, supported by columns and solid stone, was a bronze chariot bearing depictions of Mausolus and Artemisia, together in death for eternity—or the early 15th Century, when the whole thing was toppled by earthquakes.

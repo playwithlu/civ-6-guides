@@ -1,0 +1,3 @@
+# Garrison (Civ6)/Civilopedia
+
+From the French verb 'garner' ("to equip"), a garrison is put in place in a town to protect it, intimidate the residents, rest or train the troops, or simply as policy. The Romans, beset by barbarians on all sides, would often settle retiring veterans in frontier towns, a ready-made garrison of experienced soldiers should necessity demand. For garrisons, fighting from behind walls and well-motivated (since there was no place to retreat to), proved the best defense against attackers. Often the garrison troops had their families with them ... also a motivation to defend the place to the death. The ability of garrisons to stave off assaults is the primary reason there are so many sieges in history.

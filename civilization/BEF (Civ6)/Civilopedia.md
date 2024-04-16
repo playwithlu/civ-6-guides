@@ -1,0 +1,3 @@
+# BEF (Civ6)/Civilopedia
+
+The British Expeditionary Force was a small army rushed into the field with the express purpose of drawing the British more closely into the entente with the French. Positioned on the far west of the French line, they were initially seen more as a political courtesy than a substantial military force. However, as the Germans descended through the Low Countries towards Paris, the BEF fought a numerically superior German force in the Battle of Mons, and despite being mauled and eventually forced to retreat, they saved the French Fifth Army from annihilation. The Battle of Mons is one of Great Britain’s most celebrated and honored military achievements, and synonymous with the BEF.

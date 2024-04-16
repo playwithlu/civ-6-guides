@@ -1,0 +1,5 @@
+# Revolution (CTP1)
+
+Any city that ends a turn with a happiness of 60 or less will revolt. Revolting cities break completely away from their parent Civilization, establishing a new government with a fiery hatred of their former oppressors. In addition, there is a chance that the revolutionary passion will spread to nearby cities. Any city near to a revolting city has a chance of revolting itself. The probability of the revolt spreading successfully depends on the happiness of the nearby cities. Military in and around a revolting city will switch allegiance and join the new revolutionary government.
+Great Library entry.
+History is full of stories about armed revolutionary struggles against the forces of government authority. Most revolutions have ended with a crushing defeat for the daring insurrectionists. Others, like the French Revolution, or the Bolshevik movement of 20th Century Russia have ended with the complete destruction of the old nation and the establishment of a new government based on revolutionary ideals.

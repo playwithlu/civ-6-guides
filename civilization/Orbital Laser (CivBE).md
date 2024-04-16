@@ -1,0 +1,7 @@
+# Orbital Laser (CivBE)
+
+Strategy.
+This is the first direct damage satellite available to your colony. Its large range makes it a moderately effective weapon in combat, capable of striking without retaliation at any sort of unit, regardless of its location. However, you shouldn't depend solely on it, merely use it as a tactical weapon to eliminate hard-to-reach targets such as Artillery platforms.
+In Universe information.
+Orbital-based weapons is an old idea, dating back to mankind's first steps into space. The first projects for something like the Orbital laser were developed as part of the conveniently named 'Star Wars' programs, but technical difficulties and economical costs constantly put off their deployment. 
+Now, with the resources of a whole new planet and the technical advances reached after the Great Mistake, Orbital weapons are a reality. The Laser is in fact little more than a glorified Solar Collector: it gathers energy via its solar panels, which is stored in high-capacity energy cells; then focused to the surface through a series of powerful lenses in a single, powerful burst. High resolution cameras and advanced targeting software make sure the laser beam is capable of striking within meters of its target point, with devastating consequences.

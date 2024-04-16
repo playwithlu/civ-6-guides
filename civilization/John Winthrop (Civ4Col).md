@@ -1,0 +1,5 @@
+# John Winthrop (Civ4Col)
+
+Civilopedia.
+Lived: 1587-1649
+John Winthrop was an English lawyer and one of the founders of the colony of Massachusetts, as well as its first governor. Born in Sussex, England, Winthrop had a wealthy and privileged upbringing, his father Lord of Groton Manor, and Winthrop received an enviable education. But Winthrop, a highly religious man, could not allow himself to remain in the presence of what he saw as the tainted religious practices of the Anglican Church. With a group of fellow Puritans, Winthrop set off across the sea towards the New World. In 1630, Winthrop became the first governor of the young colony. As governor, it fell to Winthrop to both enforce the strict religious law that the colony's founders had agreed upon and regulate some of the more fanatical ideas put forth by some of the new settlers. Under his gubernatorial leadership, the Puritan work ethic was visible in full form. Winthrop became renowned for his "City on a Hill" speech, where he stated that this new colony would stand as a shining example of religious fervor for all the world to see.

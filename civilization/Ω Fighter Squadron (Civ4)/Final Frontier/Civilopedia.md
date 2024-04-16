@@ -1,0 +1,3 @@
+# Ω Fighter Squadron (Civ4)/Final Frontier/Civilopedia
+
+The Fighter was developed in response to the increasing threat to larger ships posed by Bomber Squadrons. While Destroyers were fitted with weapons to counter Bombers, they could not be effectively deployed until the enemies were dangerously close. The Fighter was created as a faster, more maneuverable spacecraft able to take on the enemy before it got within bombing range. Fighters were later also fitted with weapons that might cause some damage to larger ships, and their role now includes defending against Bombers, clearing the way for one's own Bombers, light assault and reconnaissance.

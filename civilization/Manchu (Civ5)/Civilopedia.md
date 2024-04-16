@@ -1,0 +1,3 @@
+# Manchu (Civ5)/Civilopedia
+
+The Manchu Dynasty of China, also known as the Qing Dynasty, traces its foundations to the Jurchen tribes who inhabited the region historically known as Manchuria. First established in the 17th century by the Jurchen tribal leader Nurhaci, the Manchu under Nurhaci embarked on a campaign of expansion and conquest against the powerful Ming Dynasty. Eventually overthrowing the Ming and laying claim to vast swaths of territory, the Manchu Dynasty ruled China for nearly 300 years, and was the last dynasty of China before the formation of the People's Republic.

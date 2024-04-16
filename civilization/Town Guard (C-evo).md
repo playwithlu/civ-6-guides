@@ -1,0 +1,25 @@
+# Town Guard (C-evo)
+
+A Town Guard is one of the [Special%20Units%20%28C-evo%29](Special Units) available right at the start of any "[C-evo](C-evo)" game and is the default unit for the first to be built. Think carefully before you switch to building something else, because the Town Guard is much the best defensive unit available for that first [city%20%28C-evo%29](city) (for a dozen or so turns!) and has other demonstrable value too. Generally the only units you should build first are for exploration and possibly attack.
+Statistics.
+The Town Guard costs 20 [material%20%28C-evo%29](material) (or 15 at [Difficulty%20level%20%28C-evo%29](Difficulty level) 1 or 25 at [Difficulty%20level%20%28C-evo%29](Difficulty level) 3), which is more than double the cheapest possible.
+Its movement ability ("[speed%20%28C-evo%29](speed)") is the standard minimum 1.5. 
+It has an [attack%20strength%20%28C-evo%29](attack strength) of 4, which is the lowest possible for any unit that has any attack strength. 
+Its [defensive%20strength%20%28C-evo%29](defensive strength) is:
+Vulnerability.
+If "[green%20%28C-evo%29](green)", a Town Guard supposedly protected by [City%20Walls%20%28C-evo%29](City Walls) will lose to an attack from a hardened 18/6/2.5 or 18/12/1.5, a common type of early unit as noted below. If the Town Guard has just been built or moved in, its "12" defensive strength is made up of a basic 6 and a city bonus of 6; the walls add 200% of the basic, so the total is 24, which loses to 27 (the attacker's basic 18 plus hardening 50%). However, a Town Guard usually sits in the city turn after turn, thereby earning the [fortification%20%28C-evo%29](fortification) enhancement of 50%, i.e. 3, taking it up to 27, which means the attacker dies too and therefore cannot enter the city.
+A "green" Town Guard fortified in a city, alone, has a defensive strength of 15 and can lose to three militia attacking in the same turn, upon which the city may be captured. However, if the TG is "hardened" and all militia are "green" they will all die too and the city will survive if its initial population was three or more. See the [Militia%20%28C-evo%29](Militia) article for details.
+Features.
+The distinctive features of the Town Guard are:
+Support.
+All other units require material support only in particular circumstances related to city size and government. The Town Guard always requires support amounting to one material per turn, but it does not count in the "units related to population" calculation important under Despotism or .
+Support does not have to be from the city it is in, but moving it out to a more material-rich city, for switching support, then back again may be costly unless there is no current need for its "morale points" (which could be, for example, just after you create [settlers%20%28C-evo%29](settlers) and thus reduce city size).
+Morale points.
+A Town Guard is very useful in your first city, quickly allowing the city to grow from the initial 4 (with the standard built-in 4 morale points) up to 6 fairly efficiently. In that respect it is as good as a [temple%20%28C-evo%29](temple) but at only half the construction cost, and it can be started straight away, whereas a temple cannot. The maintenance cost will outweigh the initial saving after 20 turns (or 15 at [Difficulty%20level%20%28C-evo%29](Difficulty level) 1 or 25 at [Difficulty%20level%20%28C-evo%29](Difficulty level) 3), but the temple has a similar-sized cash maintenance cost (unless you own [Oracle%20%28C-evo%29](The Oracle)), so there's generally no pressing economic need to replace the Town Guard at any time during your Despotism period (which may last for millennia!). 
+It can be similarly useful as the cheapest quick fix under Despotism for a captured city that has a population of more than 4.
+A city that you build may benefit from building its own Town Guard, but may be able to use one that migrates from your capital or another city. Consider travel times, construction times, the morale of the donor city, and how close you are to .
+Disband or integrate; or move.
+As with all other units, a Town Guard can be simply disbanded or it can (more profitably) be [integrate%20%28C-evo%29](integrate)d into the material cost of a new unit being produced in the same city - but contributing only two-thirds of its original material cost (rounding down fractions).
+However, if you are still under Despotism, a Town Guard that is no longer useful where it is (e.g. because a or Cathedral has been built) can be moved to another city so as to delay the need for a morale-boosting building there. You can decide whether it should switch support to the new city, bearing in mind that the support cannot be absorbed in the "free" units tally.
+Enemy Town Guards.
+AI nations that have moved out of Despotism seem unable to make profitable integrations of their Town Guards and may send them to "besiege" your cities. Leave them alone unless they are seriously hampering unit movement or reducing your production, because each one you kill adds to the productive capacity of its home city.

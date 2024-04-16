@@ -1,0 +1,5 @@
+# Guerrilla Warfare (Civ2)
+
+ Guerrilla Warfare is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+In extreme situations, usually spawned by an oppressive or militaristic system of government, small groups of citizens have been known to form armed factions. In many cases, these splinter groups lack the numbers, finances, and armament to start a full-scale revolution. Instead, they adopt a practice of undermining governmental authority through covert military operations. These operations usually take the form of hit-and-run raids, where rebel soldiers launch a surprise attack on an enemy target, then disappear into hiding, only to strike again at some other time and place. Such tactics, known as guerrilla warfare, seldom have any lasting effect individually. However, over many years, guerrilla factions can become a serious threat to governmental authority if the rebels cannot be caught and suppressed. Tactics of this sort were used to great effect by the partisan forces in Nazi-occupied Europe during World War II.

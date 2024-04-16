@@ -1,0 +1,4 @@
+# Royal Guards (Civ5)/Civilopedia
+
+Usually formed by an elite group of armed retainers, royal guards are the traditional military or ceremonial unit employed to protect royalty or important clergy. Historically, these elite members have also served a dual political purpose, as their unique position would allow them to sway a given monarch's opinion or play a key part in any sort of coup or uprising.
+Some regiments of royal guards have become celebrated and well-known outside of their given countries, such as Spain's Tropas de la Casa Real and the French Musketeers. France's Musketeers were technically only a junior unit of the French Royal Guard, beneath the Garde de Corpe who actually performed most of the bodyguard responsibilities. But thanks in part to Alexandre Dumas' work, "The Three Musketeers", they have become some of the most popular and recognizable royal guards of any civilization.

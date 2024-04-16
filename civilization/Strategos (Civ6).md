@@ -1,0 +1,5 @@
+# Strategos (Civ6)
+
+Strategos is a Wildcard [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+This is one of the first Wildcards in the game, available quite early. However, unless you're playing as [Greek%20%28Civ6%29](Greece) or [Polish%20%28Civ6%29](Poland), it may only be used after you develop [Political%20Philosophy%20%28Civ6%29](Political Philosophy) and get the respective slot in your [Government%20%28Civ6%29](government). It is a nice way to get one of the early [Great%20General%20%28Civ6%29](Great Generals), even without building an [Encampment%20%28Civ6%29](Encampment). This can be really useful for a militaristic [Civilizations%20%28Civ6%29](civilization) bent on early conquest, or it may be a pure waste of effort - it all depends on your current strategy, and the neighbors you got. Sometimes you won't even need a General to conquer them; other times you simply won't make it without one. So, you should think carefully whether you really need a [Great%20General%20%28Civ6%29](Great General) so early - if you don't, then there's no reason to use Strategos.

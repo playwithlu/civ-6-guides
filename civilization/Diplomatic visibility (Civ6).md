@@ -1,0 +1,2 @@
+# Diplomatic visibility (Civ6)
+

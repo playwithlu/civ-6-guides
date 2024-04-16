@@ -1,0 +1,6 @@
+# Ballista (Civ5)
+
+Game Info.
+[Unique%20unit%20%28Civ5%29](Unique) siege unit of the [Roman%20%28Civ5%29](Roman) [Civilizations%20%28Civ5%29](civilization). Replaces the [Catapult%20%28Civ5%29](Catapult).
+Strategy.
+The Roman Ballista is the strongest ranged unit in the [Classical%20Era%20%28Civ5%29](Classical Era). It is a siege unit that must set up prior to being fired and has limited visibility by itself. Regardless, it's considerably stronger than the Catapult, which it replaces. The use of [Legion%20%28Civ5%29](Legions) can greatly increase the effectiveness of the Ballista, as well as the use of mounted units like the [Horseman%20%28Civ5%29](Horseman). Using the Legion's unique ability to build [Road%20%28Civ5%29](roads), you can greatly reduce the travel time of Ballistae as you move them towards enemy [City%20%28Civ5%29](cities). Even without the [Engineering%20%28Civ5%29](Engineering) [List%20of%20technologies%20in%20Civ5](technology), a Ballista on a road can move one tile, set up, and fire within the same turn (effectively mirroring the actions of an [Archer%20%28Civ5%29](Archer)). Ballistae are useful for siege and combat, and are the strongest units to use in city garrisons against rival armies before the [Trebuchet%20%28Civ5%29](Trebuchet).

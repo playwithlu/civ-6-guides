@@ -1,0 +1,4 @@
+# Airlift (Civ4)
+
+In "[Civilization%20IV](Civilization IV)", any city that has an [Airport%20%28Civ4%29](Airport) may Airlift units. Each turn, that city may directly transfer one land unit to any other city that is controlled by the player or one of their vassals. The unit must not have already moved during this turn, and airlifting uses up all a unit's movement points. If the receiving city does not have an Airport, only one unit may be airlifted there; otherwise there is no limit.
+[Naval%20unit%20%28Civ4%29](Naval units) and, obviously, [Air%20unit%20%28Civ4%29](Air units) may not be airlifted.

@@ -1,0 +1,2 @@
+# Amphitheater (Civ3)
+

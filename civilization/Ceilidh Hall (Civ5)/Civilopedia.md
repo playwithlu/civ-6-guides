@@ -1,0 +1,3 @@
+# Ceilidh Hall (Civ5)/Civilopedia
+
+Traditionally, a "Ceilidh" (KAY-LEE) was a social gathering first associated with the early people of Ireland and Scotland. Held frequently throughout the year, Ceilidhs were often accompanied by music and dance, and provided an important social diversion from the labors of everyday life. Ceilidhs were held in halls when available, but were also known to have taken place in private homes, schools, and local businesses.

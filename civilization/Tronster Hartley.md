@@ -1,0 +1,3 @@
+# Tronster Hartley
+
+Tronster Hartley (born c. 1976) is a video game programmer, engineer, and UI/UX team lead who has worked for [Firaxis%20Games](Firaxis Games) since 2008. He served as the lead interface engineer for "[Civilization%20VI](Civilization VI)" and helped program the user interface for ' and its ' expansion. He was also a systems programmer for "[CivWorld](CivWorld)", a co-lead UI engineer for "XCOM: Enemy Unknown", a UI engineer for "Command &amp; Conquer 3: Kane's Wrath", and a voice artist for "Sid Meier's Ace Patrol" and "Sid Meier's Ace Patrol: Pacific Skies".

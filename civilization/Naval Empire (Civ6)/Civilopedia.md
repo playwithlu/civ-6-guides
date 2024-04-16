@@ -1,0 +1,3 @@
+# Naval Empire (Civ6)/Civilopedia
+
+When the Vikings began raiding the coasts, they were successful largely due to the fact that few kingdoms had a standing navy. When kings began to create navies, it marked the end of Viking dominance; the “hundred-ship” Viking fleets that did come together occasionally had no cohesion, formation or coordination, being mere masses composed of smaller fleets led by individual chieftains or clans.

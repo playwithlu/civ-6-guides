@@ -1,0 +1,4 @@
+# Research Lab (Civ5)/Civilopedia
+
+A research lab is an institute devoted to the advanced study of a subject, which might be medicine, physics, chemistry, robotics, clean energy, or any other area of interest. Such labs may be publicly funded or funded by wealthy persons or corporations. Research labs may be attached to universities or they may be independent.
+It is pretty clear that such labs are the future of research. As man's understanding of the world around him has advanced, the days of the dedicated scientist working alone in his or her basement and shouting "Eureka!" are all but passed. Research labs filled with dozens of talented people are now making the great breakthroughs.

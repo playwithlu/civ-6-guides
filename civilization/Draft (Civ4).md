@@ -1,0 +1,12 @@
+# Draft (Civ4)
+
+The draft is a powerful action which converts [Population%20%28Civ4%29](population) directly into [Military%20unit%20%28Civ4%29](military units).
+Conditions for Drafting.
+When a [List%20of%20civilizations%20in%20Civ4](civilization) has the [List%20of%20technologies%20in%20Civ4](tech) [Nationalism%20%28Civ4%29](Nationalism), it can run the [Nationhood%20%28Civ4%29](Nationhood) [List%20of%20civics%20in%20Civ4](civic). Nationhood is a Legal civic; running it precludes [Bureaucracy%20%28Civ4%29](Bureaucracy), [Vassalage%20%28Civ4%29](Vassalage), and [Free%20Speech%20%28Civ4%29](Free Speech).
+In Nationhood, a civ can draft from each [City%20%28Civ4%29](city) it owns if all of these conditions hold:
+How to Draft.
+To draft, you just select the city (or cities), and click the Draft button. The effect is immediate: population is lost and anger incurred, and the drafted unit appears and can move in that same turn.
+Effects of Drafting.
+When a civ drafts a unit in a city, the city loses population but creates a new military unit. The unit a civ drafts is completely determined by its tech; there is no choice as there is when building units. The drafted unit will be the highest unit on the draftable units table below, which the civ has the tech to build, and (for units requiring [Resource%20%28Civ4%29](resources)), that the city has the resources for. (A civ gets a unique unit if it is based on the drafted unit.) Note that only Macemen and Axemen (and their unique replacements) require resources.
+The drafted unit gets half of the [experience](experience) it would get if built normally in that city; fractions round down. Other than that it is completely normal. Drafted units are full strength, and get any free [Promotion%20%28Civ4%29](promotions) they would otherwise get. A drafted unit can move and fight immediately.
+The population cost to the city varies according to the unit, as shown in the table. (The [Hammer%20%28Civ4%29](hammer) cost of the units on Normal [Speed%20%28Civ4%29](speed) is shown in the table only for reference purposes -- hammer cost has no impact whatsoever on drafting.) In addition to the loss of population, the city is subject to temporary [Happiness%20%28Civ4%29](unhappiness) of +3 unhappy for a while. (This unhappiness shows in the tooltip for a city as "Hell no, we won't go!") The duration of draft unhappiness depends on the game speed: on Fast/Normal/Epic/Marathon it is 7/10/15/30 turns.

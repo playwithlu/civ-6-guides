@@ -1,0 +1,3 @@
+# Landship (Civ5)/Empires of the Smoky Skies/Civilopedia
+
+The Landship was everything the land ironclad was to be but was not. The discovery of luboric increased the energy available to power such a vehicle exponentially, allowing for more armor and weaponry while maintaining the same maneuverability. It became the gold standard on the battlefield, capable of destroying nearly any other land unit. With several of them, a commander could quickly take out an army or encircle a city.

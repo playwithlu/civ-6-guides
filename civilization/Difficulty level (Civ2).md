@@ -1,0 +1,5 @@
+# Difficulty level (Civ2)
+
+The difficulty level is a game setting in "[Civilization%20II](Civilization II)" that allows players to compete against [AI](AI) opponents matched to their skills and desire for challenge. In order from lowest to highest, the difficulty levels are as follows:
+Since the computer players are not controlled by advanced AI (i.e., cannot learn from and react to the player's strategies by changing their own accordingly), but instead behave based on a very long list of if-then statements, the game makes the AI [Leaders%20%28Civ2%29](leaders) more challenging opponents by giving them advantages on higher difficulty levels. The bonuses conferred to both human and AI players on each difficulty level are listed in the table below.
+All of the information presented here comes from the pages cited below and the game's data files. The number of turns depends on the [Map%20%28Civ2%29](map) size and difficulty level of the game, but the game always ends in the same year (2020 AD).

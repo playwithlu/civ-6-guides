@@ -1,0 +1,12 @@
+# Chariot Archer (Civ5)
+
+Game Info.
+"A fast ranged unit highly effective on flat ground, but slowed significantly when entering rough terrain." — Civilopedia
+They are the first unit to require a [Resources%20%28Civ5%29](strategic resource) - .
+Strategy.
+"Chariot Archers are fast ranged units, deadly on open terrain. They are more powerful than the [Archer%20%28Civ5%29](Archer) and can move twice the distance on open terrain [4 MPs; allowing them to reach elements of the enemy army other units can't]. However, Chariot Archers suffer a movement penalty when entering [Forest%20%28Civ5%29](forest), [Jungle%20%28Civ5%29](jungle), or [Hill%20%28Civ5%29](hill) tiles unless [Road%20%28Civ5%29](roads) have been constructed in them." — Civilopedia
+Note also:
+Advice:
+A strong mobile alternative to the [Composite%20Bowman%20%28Civ5%29](Composite Bowman), use the Chariot Archers to explore the world and deal with [Barbarian%20%28Civ5%29](Barbarians). Against other civilizations, they're excellent at getting into privileged positions and raining fire on the enemy from afar, but stay out of melee range (or block them with your own [Zone%20of%20control%20%28Civ5%29](zone of control)) – they are weak in close combat!
+There is one more important detail to remember: Chariot Archers and all three unique alternatives ([Hunnic%20%28Civ5%29](Hunnic) [Horse%20Archer%20%28Civ5%29](Horse Archers), [Egyptian%20%28Civ5%29](Egyptian) [War%20Chariot%20%28Civ5%29](War Chariots), and [Indian%20%28Civ5%29](Indian) [War%20Elephant%20%28Civ5%29](War Elephants)) – are "ranged" units, and receive [Promotions%20%28Civ5%29](promotions) as such. However, come the Medieval Era, they will all upgrade to [Knight%20%28Civ5%29](Knights), which are regular "mounted" units with melee attacks! This means that all attack-oriented promotions the unit received will suddenly become useless, since it now attacks in melee, not from a distance! To circumvent this annoying fault, try to choose non-attacking promotions, such as [Promotions%20%28Civ5%29%23March](March), which will remain useful after the unit changes its attack mode.
+For the [Mongolian%20%28Civ5%29](Mongolian) and [Arabian%20%28Civ5%29](Arabian) civilizations, the Chariot Archer is more future-proof as their replacements for the Knight, the [Keshik%20%28Civ5%29](Keshik) and the [Camel%20Archer%20%28Civ5%29](Camel Archer) respectively, are ranged mounted units as well, allowing them to make use of the inherited promotions specific to them until upgraded further to [Cavalry%20%28Civ5%29](Cavalry).

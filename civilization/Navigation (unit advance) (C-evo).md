@@ -1,0 +1,3 @@
+# Navigation (unit advance) (C-evo)
+
+In [C-evo](C-evo) the term "Navigation" is not only a technological advance but also a [Unit%20Advance%20%28C-evo%29](specific attribute) of [naval%20unit%20%28C-evo%29](naval unit)s that is available when [Navigation%20%28C-evo%29](the advance) has been researched. It allows such vessels to enter the [Ocean%20%28C-evo%29](Ocean), i.e. deep water, the darker of the water tiles, defined as every water tile that could never be part of the workable radius of any city (built on any land tile irrespective of actual permissible terrain) or visible by a [Special%20Commando%20%28C-evo%29](Special Commando) on land, in contrast to the [coast%20%28C-evo%29](coast) waters.

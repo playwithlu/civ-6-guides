@@ -1,0 +1,3 @@
+# Capitalism (Civ5)/Civilopedia
+
+Capitalism is an economic system based on the private production and ownership of goods, driven by the production of goods and services for profit. There are several types of capitalism, such as laissez-faire capitalism, welfare capitalism, and state capitalism. Most modern states have some form of mixed-capitalism, with varying degrees of government-controlled and market-driven entrepreneurship.

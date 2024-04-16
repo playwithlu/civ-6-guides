@@ -1,0 +1,2 @@
+# Global Trade Pact (SMAC)
+

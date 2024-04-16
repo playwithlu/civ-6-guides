@@ -1,0 +1,6 @@
+# Goddess of the Hunt (Civ6)
+
+Goddess of the Hunt is a [Pantheon%20%28Civ6%29](Pantheon) in "[Civilization%20VI](Civilization VI)". It increases the output of all [Camp%20%28Civ6%29](Camps) by 1. In "", it also increases the output of all Camps by 1.
+Strategy.
+In [vanilla](vanilla) "Civilization VI" and "", Goddess of the Hunt increases the output of Camps, which can be built on , , , , and . This is a rather lackluster bonus because of the many other ways to supply [City%20%28Civ6%29](cities) with additional , but the added bonus in "Gathering Storm" makes this pantheon put on a completely different face. If you see [Resource%20%28Civ6%29%23Luxury](luxury resources) that can be improved with Camps near your spawn location, picking Goddess of the Hunt gives you the chance to jumpstart the growth and of every city on the [Continent%20%28Civ6%29](continent). This bonus is strong enough to allow you to churn out [Unit%20%28Civ6%29](units) and [Wonder%20%28Civ6%29](wonders) reliably in cities with multiple Camps.
+The best [Leaders%20%28Civ6%29](leader) to make use of this pantheon is [Wilfrid%20Laurier%20%28Civ6%29](Wilfrid Laurier) (whose Camps already receive bonuses), but extra and will take you a long way with any leader. It also has excellent synergy with the [Temple%20of%20Artemis%20%28Civ6%29](Temple of Artemis).

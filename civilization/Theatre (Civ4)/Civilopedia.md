@@ -1,0 +1,4 @@
+# Theatre (Civ4)/Civilopedia
+
+A theatre is a building in which audiences can watch a play or other theatrical performance. The earliest theatres were outdoors, constructed in a bowl-shaped depression to allow all in the audience to see the stage. Later, specific buildings were constructed to house theatres.
+Modern theatres are similar in layout to the earliest buildings. The audience sits or stands facing a stage; behind the stage is an extensive backstage area holding sets, props, dressing rooms and so forth. The primary difference between stages of Shakespeare's time and modern theaters is that the latter have electrical systems allowing them to light the stage as needed and to amplify the actors' voices.

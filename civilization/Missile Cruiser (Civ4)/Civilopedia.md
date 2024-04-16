@@ -1,0 +1,3 @@
+# Missile Cruiser (Civ4)/Civilopedia
+
+Once considered an obsolete class of ship, the Cruiser made an impressive comeback in the final decades of the twentieth century. Experiments in ship-mounted missile systems had begun as early as World War II and by the end of the war, the United States Navy had outfitted a slew of Cruisers with surface-to-air missile capabilities. In the 1980s, these early experiments in ship-mounted missile armaments culminated in AEGIS-equipped Ticonderoga-class Missile Cruisers. More than simply reviving the Cruiser class, the "Tico," with its 127 missile arsenal and its phase-array radar, turned the Cruiser into one of the most ferocious ships at sea.

@@ -1,0 +1,7 @@
+# Research Lab (Civ6)
+
+The Research Lab is an advanced [Science%20%28Civ6%29](scientific) [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the [Campus%20%28Civ6%29](Campus) [District%20%28Civ6%29](district) and requires a [University%20%28Civ6%29](University) (or one of its replacements).
+Strategy.
+The Research Lab is a high-level building that boosts a [City%20%28Civ6%29](city's) output. It provides +4 with the [Third%20Alternative%20%28Civ6%29](Third Alternative) [Policy%20card%20%28Civ6%29](policy card) (as well as +2 in ""), so if you're aiming for a [Victory%20%28Civ6%29%23Science](Science Victory) and have many cities with Research Labs, you may want to gear your [Civic%20%28Civ6%29](civic) development toward discovering [Totalitarianism%20%28Civ6%29](Totalitarianism) even if [Fascism%20%28Civ6%29](Fascism) isn't your [Government%20%28Civ6%29](government) of choice.
+The Research Lab also increases the yields of [Specialists%20%28Civ6%29](Specialist) slots, so make sure you work those after building it - that is, if the city is only there to generate . That is the case more often than not if you're going for a Science Victory.
+Building a Research Lab triggers the for [Nuclear%20Program%20%28Civ6%29](Nuclear Program). The [Great%20Scientist%20%28Civ6%29](Great Scientist) [Albert%20Einstein%20%28Civ6%29](Albert Einstein) gives all Research Labs +4 .

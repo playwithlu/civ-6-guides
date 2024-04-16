@@ -1,0 +1,5 @@
+# Marine (Civ5)/Civilopedia
+
+Marines, also known as a marine corps or naval infantry, are an infantry force that specializes in naval operations such as amphibious assault. In the majority of countries, the marine force is part of the navy, but it can also be under the army or independent command.
+Historically, tasks undertaken by marines have included providing protection from war while at sea, reflecting the pressed nature of the ships' company and the risk of mutiny. Other tasks would include boarding of vessels during combat or capture of prize ships and providing manpower for raiding ashore in support of the naval objectives. Marine elements would also contribute to the campaign ashore, in support of the military objective.
+With the industrialization of warfare in the 20th century the scale of landing operations increased; thus brought with it an increased likelihood of opposition and a need for co-ordination of various military elements. Marine forces evolved to specialize in the skills and capabilities required for amphibious warfare.

@@ -1,0 +1,7 @@
+# Classical Education (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Classical Education represents a standardization of the institutions of learning. make higher learning available to a wider group of citizens. The represents the ethical progress that inexorably springs from an enlightened populace.
+Great Library entry.
+As ancient societies expanded and became more complex, the need for a more educated populus increased. Although ancient societies seldom, if ever, made education available to common people, the ruling classes, and some of the upper middle class, sent their children to schools run by the greatest thinkers of the day. Although initially designed as facilities for training clergymen, universities opened their doors to secular study and emerged as centers of higher learning. Universities specializing in law and medicine existed in France and Italy as early as 1100 AD. With a highly educated ruling class, people engaged each other in higher-level pursuits, such as philosophy, theology and law. The classical Greek and Roman schools, with their emphasis on rhetoric and critical thinking, produced exceptional writers, philosophers and statesmen. It was the intellectual environment of these times that intrigued thinkers of the 15th and 16th centuries, prompting the Renaissance obsession with classical art, education, politics and culture.

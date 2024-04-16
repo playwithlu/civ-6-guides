@@ -1,0 +1,5 @@
+# Grassland (Civ2)
+
+Grasslands are a type in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The areas of land between desert regions and forests in temperate and tropical climates usually consist of grasslands. These fertile regions, covered with various types of vegetation, once occupied large areas of North and South America, Africa, and Eurasia. These areas are characterized by marked wet and dry seasons, with annual periods of drought. Although many grasslands are naturally occurring, grasslands can also be created through deforestation of woodland areas. Grasslands are often cultivated and used as pastures and grazing lands. Because of the relatively low rainfall in these regions, the topsoil is high in nutrients. Grasslands are, therefore, well suited for growing crops, especially grain crops.

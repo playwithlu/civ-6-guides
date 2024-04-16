@@ -1,0 +1,5 @@
+# Országház (Civ6)/Civilopedia
+
+Orszaghaz translates to “House of the Country” but is better known as the Hungarian Parliament Building. This important building houses the members of Parliament, Hungarian Holy Crown, and the offices of the Prime Minister and staff.
+But aside from its significance to the government of Hungary, this building itself is an impressive display of Gothic Revival architecture. Overlooking the Danube River, the long wing spans 268 meters, and it is the tallest building in Budapest. Two identical halls for the Lower and Upper houses of Parliament stretch beyond a tall, central dome. Decorating the exterior façade are 90 stone sculptures that portray great moments of Hungarian history, as well as ornately carved stone.
+If that wasn't enough to excite visitors to this grand building, the precious stones and 88 lbs of gold used for decoration should do the trick.

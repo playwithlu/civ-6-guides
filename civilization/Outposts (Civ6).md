@@ -1,0 +1,2 @@
+# Outposts (Civ6)
+

@@ -1,0 +1,3 @@
+# Grande Armée (Civ6)/Civilopedia
+
+At its peak just prior to the invasion of Russia, Napoleon’s Grande Armée numbered some 680 thousand men, drawn primarily from France but also including contingents from 11 other nations (95 thousand from Poland alone). It has been widely acknowledged by military historians to be one of the greatest fighting forces ever assembled, and under the command of Napoleon and his generals, tactically superior to anything it faced. The Grande Armée was originally the force Napoleon had assembled for the invasion of England but renamed in 1805 AD and put to other uses – like conquering most of continental Europe. It would serve as the template when most of the powers decided they too needed a large, national army.

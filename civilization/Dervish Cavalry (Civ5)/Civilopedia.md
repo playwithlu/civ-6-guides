@@ -1,0 +1,3 @@
+# Dervish Cavalry (Civ5)/Civilopedia
+
+Referred to as the "Mad Mullah," the religious leader Mohammed Abdullah al-Hasan established a Dervish state in Somalia that fought an anti-imperialist war for 20 years against the British, Italians and Ethiopians. Of his forces, approximately 10000 were the feared Dervish cavalry, mostly used for interdiction of supply lines and paths of retreat. Unevenly armed and equipped, led by tribal chieftains, the dervish cavalry were marked by their fanaticism, making them fearsome opponents willing to take losses that would deter other units. Until 1920, when the Mullah was finally defeated, his most effective commanders were among the Dervish cavalry.

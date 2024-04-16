@@ -1,0 +1,2 @@
+# The Singularity Inductor (SMAC)
+

@@ -1,0 +1,3 @@
+# Silent Running (Civ6)/Civilopedia
+
+Once surface warships – especially the destroyers, corvettes, and frigates – got sonar, things were not nearly as easy for submarine crews. Sonar was developed towards the end of World War I, too late to take a hand in defeating the U-boat "scourge." But with unusual foresight, by the next big war many of the smaller escort ships had passive sonar and were listening to the depths for sound of a lurking sub so they could drop depth charges and eliminate it. The only way to counter all that pinging for the submarine was to engage in "silent running," silencing all superfluous noises. Engines were cut, ventilation minimized, and the crew kept quiet ... usually silently praying and hoping the enemy above would pass over them unaware.

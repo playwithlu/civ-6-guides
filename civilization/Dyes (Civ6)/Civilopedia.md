@@ -1,0 +1,3 @@
+# Dyes (Civ6)/Civilopedia
+
+Humans have always liked bright colors. And civilizations seemingly forever have used color to signify role and rank, status and membership. Ancient peoples discovered that a wide variety of substances – plants, minerals, and animal bits – could be used to produce dyes to provide those bright colors. So, for some 37 thousand years folk have been dyeing fabric, paint, and their skin and hair.

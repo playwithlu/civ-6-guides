@@ -1,0 +1,4 @@
+# Combustion (Civ4)
+
+Strategy.
+Combustion allows you to construct the [Transport%20%28Civ4%29](Transport), [Destroyer%20%28Civ4%29](Destroyer), and [Attack%20Submarine%20%28Civ4%29](Attack Submarine) (with [Radio%20%28Civ4%29](Radio) and [Rocketry%20%28Civ4%29](Rocketry)) naval units. You may construct the [Public%20Transportation%20%28Civ4%29](Public Transportation) building and the [Creative%20Constructions](Creative Constructions) Wonder. It enables your [Worker%20%28Civ4%29](Workers) to build the [Well%20%28Civ4%29](Well) improvement on land-based [Oil%20%28Civ4%29](Oil) resources and obsoletes the [Whale%20%28Civ4%29](Whale) resource.

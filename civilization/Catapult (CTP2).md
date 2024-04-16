@@ -1,0 +1,7 @@
+# Catapult (CTP2)
+
+The Catapult is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The first Ranged Attack unit to utilize the Bombard capability, Catapults represent a fearsome advance in tactical combat. Though effective at reducing small [City%20%28CTP2%29](Cities) to rubble, it suffers from poor defense and should be accompanied by a good offensive unit or two. It also lacks sufficient range to bombard naval units, and should only be used to assault land targets.
+Great Library entry.
+The catapult was the one of the most effective siege weapons used in ancient and medieval warfare. Although many siege weapons, including ballistae, mangonels and trebuchets, fall under the general heading catapult, the term almost always refers to a mounted, single long arm of wood that hurled stones and other objects. They operated by a sudden release of tension on wooden beams or twisted cords of fibers, usually, gut, sinew or horsehair. Their primary use was attacking fortresses or cities. By hurling large rocks, flaming balls or groups of small stones, catapults could severely damage walls, ignite fires and devastate closely ranked foot soldiers and cavalry. Some catapults were permanently mounted in fortresses and used for defense, while others were set on a wheeled cart for easy transport and positional change. The introduction of the gunpowder cannon in the 14th century spelled the end of the catapult's use in warfare.

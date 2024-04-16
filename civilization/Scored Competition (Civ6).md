@@ -1,0 +1,2 @@
+# Scored Competition (Civ6)
+

@@ -1,0 +1,3 @@
+# Jade (Civ3)/Mesoamerica/Civilopedia
+
+Jade was a vital resource for the Mesoamericans. Primarily mined from quarries in Guatemala, its color varied from dark green to light blue-green and even gray. Jade was prized for its beauty and for its ritual uses. Tombs of important people, rulers, nobles, etc. were often packed with large quantities of this mineral. It was also Used in jewelry, figurines, and mosaics, and as inlays in stone and shells. Wealthy people also liked to have jade inset in their teeth as a mark of social prestige.

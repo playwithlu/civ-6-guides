@@ -1,0 +1,3 @@
+# Cavalry Raids (Civ5)/Civilopedia
+
+The Confederacy, fighting a defensive war, was the first to initiate large-scale cavalry raids, numbering from a few hundred to two thousand mounted troops, sweeping behind the lines to disrupt the enemy forces and dismay the enemy civilian population. Confederate cavalry generals such as J.E.B. Stuart, John Hunt Morgan and "Jo" Shelby became infamous for their deep raids, burning bridges, warehouses and towns and scattering livestock and destroying crops.

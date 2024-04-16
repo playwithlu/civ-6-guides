@@ -1,0 +1,3 @@
+# Their Finest Hour (Civ5)/Civilopedia
+
+In June 1940, following the defeat of France by Germany, British Prime Minister Winston Churchill gave a speech to Parliament in which he used this phrase to refer to the continued resistance to totalitarianism by Britain and the Commonwealth. The iconic phrase has since come to mean any instance where a democratic nation pledges its full resources to victory at all costs, even if it means fighting alone against near overwhelming odds. Occasionally quoted during the Cold War, it also carries the connotation that the foe is implacably opposed to notions of freedom and liberty.

@@ -1,0 +1,7 @@
+# Longbowman (Civ5)
+
+Game Info.
+[Unique%20unit%20%28Civ5%29](Unique) ranged unit of the [English%20%28Civ5%29](English) [Civilizations%20%28Civ5%29](civilization). Replaces the [Crossbowman%20%28Civ5%29](Crossbowman).  
+Strategy.
+Longbowmen are the only pre-[Industrial%20Era%20%28Civ5%29](Industrial Era) unit capable of firing 3 tiles away. This gives the English a unique advantage mid-game, allowing them unmatched firing range. Often Longbowmen stationed safely in [City%20%28Civ5%29](cities) may fire upon half the advancing enemy army, and in offense they may fire at cities outside their defensive range, as [Artillery%20%28Civ5%29](Artillery) later can. An experienced player may set up [Fort%20%28Civ5%29](Forts) at strategic points and station Longbowmen there to gain crucial positional advantage. Furthermore, the +1 Range [Promotions%20%28Civ5%29](promotion) transfers when these units are upgraded to [Gatling%20Gun%20%28Civ5%29](Gatling Guns), so the English can potentially become the only civilization whose late-game ranged units have 2 range.
+Note that Longbowmen lack the Indirect Fire promotion, which may force them to come within the bombardment range of enemy cities located in rough [Terrain%20%28Civ5%29](terrain). But should they find a convenient location, their range allows them to safely gain experience and build levels, especially on slower [Speed%20%28Civ5%29](game speeds) when there will be plenty of time until more powerful units arrive.

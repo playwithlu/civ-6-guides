@@ -1,0 +1,4 @@
+# Bombard (CTP2)
+
+The Bombard attack is a type of long distance attack. Units can Bombard and either destroy improvements, kill fortified units or reduce the city's population. Units can also bombard other units, damaging the enemy unit without risk. A unit cannot move after bombarding.
+Not all bombarding units have the range or capability to bombard every kind of target. s, for instance, can bombard any land unit or city, but cannot bombard naval units that are on ocean tiles. By contrast, s lack the capability to bombard land units or cities. Consult each unit's gameplay entry for information on their specific bombard restrictions.

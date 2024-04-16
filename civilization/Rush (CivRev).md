@@ -1,0 +1,3 @@
+# Rush (CivRev)
+
+In "[Civilization%20Revolution](Civilization Revolution)", it is possible to rush production of a [List%20of%20units%20in%20CivRev](unit), [Building%20%28CivRev%29](building), or [Wonder%20%28CivRev%29](wonder) by spending [Gold%20%28currency%29%20%28CivRev%29](gold) or using a [Great%20Person%20%28CivRev%29](Great Builder). Rushing a unit or building allows it to be instantly finished that turn, while rushing a wonder allows it to be finished on the following turn.

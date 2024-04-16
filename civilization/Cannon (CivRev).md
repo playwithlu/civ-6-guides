@@ -1,0 +1,3 @@
+# Cannon (CivRev)
+
+The Cannon is the primary offensive unit of the [Industrial%20Era%20%28CivRev%29](Industrial Era) because there is no cavalry or the like for this [Era%20%28CivRev%29](era). It has one more attack than the [Riflemen%20%28CivRev%29](Riflemen), so they are evenly matched. They are powerful in attack but slow and weak in [Defense%20%28CivRev%29](defense), so make sure you protect it with your Riflemen.

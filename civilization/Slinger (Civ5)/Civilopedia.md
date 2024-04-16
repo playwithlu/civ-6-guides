@@ -1,0 +1,3 @@
+# Slinger (Civ5)/Civilopedia
+
+The Inca warriors were renowned slingers. Their projectile of choice was a rounded stone. While a sling does not have the range or stopping power of a bow and arrow, slings are remarkably small and light weapons, and infantry warriors could easily carry them without becoming encumbered. And as is written in the Old Testament, a trained slinger can kill even the largest opponent with but a single stone...

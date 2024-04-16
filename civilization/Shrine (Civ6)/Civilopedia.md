@@ -1,0 +1,3 @@
+# Shrine (Civ6)/Civilopedia
+
+To appease a god (or goddess), put up a shrine. Whether simple – a big rock in a forest clearing next to a stream – or elaborate – a marble edifice of soaring arches and fluted columns – the purpose is the same: someplace for the faithful to make pilgrimages to and offerings at. Inevitably the site where some prophet (or perhaps just a saint) performed a miracle, had a revelation, spoke to the masses, or ascended to some form of heaven, civilization’s landscape is peppered with shrines. These holy places are the stuff of nearly every religion, but are usually torn down when a new religion takes over the locale, and a new god must be appeased.

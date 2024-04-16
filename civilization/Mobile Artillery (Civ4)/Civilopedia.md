@@ -1,0 +1,4 @@
+# Mobile Artillery (Civ4)/Civilopedia
+
+The campaigns of World War II brought to the forefront a key predicament in the development of mobile howitzers: how should new artillery reconcile the need for maneuverability with the demand for destructive power? Militaries the world round would have to wait until the 1960s for a machine that was both mobile and truly powerful.
+The M109 Paladin, capable of launching a 155mm-caliber artillery shell over nine miles and moving at speeds of 40mph, has become the world standard in self-propelled howitzers. But with the Paladin beginning to show its age, a new machine, the Crusader, capable of firing every six seconds and coordinating eight hits simultaneously, may soon find a spot at the top of the howitzer hierarchy.

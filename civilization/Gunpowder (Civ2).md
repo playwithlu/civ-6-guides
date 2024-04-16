@@ -1,0 +1,6 @@
+# Gunpowder (Civ2)
+
+ Gunpowder is an in "[Civilization%20II](Civilization II)". Discovering Gunpowder will make existing [barracks%20%28Civ2%29](barracks) obsolete and all existing barracks will be sold.
+Discovering Gunpowder will make existing [barracks%20%28Civ2%29](barracks) obsolete. The game will automatically sell existing barracks, and the player can rebuild new Barracks. This also happens after the discovery of [Mobile%20Warfare%20%28Civ2%29](Mobile Warfare).
+Civilopedia entry.
+Gunpowder is a chemical mixture of saltpeter, sulfur, and charcoal. When ignited, it burns rapidly and explodes if contained to any degree. Gunpowder is believed to have been developed by the Chinese, who used it in fireworks as early as the 9th century, but it did not reach Europe until the 14th century. Europeans immediately saw the potential of this substance, and manufactured it for use in weapons as early as 1334. The discovery of gunpowder led to the invention of firearms, such as the musket which led to the replacement of archers in most armies of the world by the late 1500s. Gunpowder marked one of the major technological turning points in military history, significantly changing the way wars were fought.

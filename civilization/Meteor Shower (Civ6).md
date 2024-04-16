@@ -1,0 +1,9 @@
+# Meteor Shower (Civ6)
+
+A Meteor Shower is a [Disasters%20%28Civ6%29](natural disaster) in "[Civilization%20VI](Civilization VI)", introduced in the [Maya%20%26amp%3B%20Gran%20Colombia%20Pack%20%28Civ6%29](Maya &amp; Gran Colombia Pack). It is the only disaster that exclusively affects neutral [Territory%20%28Civ6%29](territory).
+Mechanics.
+The Meteor Sites that Meteor Showers produce are treated as [Tribal%20Village%20%28Civ6%29](Tribal Villages) by the game. They can be activated the same way (either by moving a [Unit%20%28Civ6%29](unit) onto their [Tile%20%28Civ6%29](tile) or expanding a [City%20%28Civ6%29](city's) [Borders%20%28Civ6%29](borders) to claim it) and provide all of the associated bonuses (such as awarding [List%20of%20units%20in%20Civ6/By%20class%23Recon](recon units) +5 [XP](XP) and giving players a chance to discover the [Voidsingers%20%28Civ6%29](Voidsingers)).
+The [List%20of%20units%20in%20Civ6/By%20class%23Heavy%20cavalry](heavy cavalry unit) received will be the strongest heavy cavalry unit players are capable of training. Players will still receive a [Heavy%20Chariot%20%28Civ6%29](Heavy Chariot) even if they have not researched [Wheel%20%28Civ6%29](Wheel).
+Havoc caused by Meteor Showers is minimal. Even if the meteor falls on a unit, that unit takes no damage. However, if the meteor falls on a [Tile%20improvement%20%28Civ6%29](tile improvement) ([Fort%20%28Civ6%29](Forts), [Airstrip%20%28Civ6%29](Airstrips), [Missile%20Silo%20%28Civ6%29](Missile Silos), etc.), the improvement will be removed.
+Bugs.
+Meteor Showers will never land on [Tundra%20%28Civ6%29](Tundra) or [Tundra%20%28Hills%29%20%28Civ6%29](Tundra Hills) tiles. The reason why these [Terrain%20%28Civ6%29](terrain) types are excluded is unknown.

@@ -1,0 +1,3 @@
+# Chancery (Civ6)/Civilopedia
+
+A collection of consulates and embassies is termed a chancery. Here, diplomats gather to work out treaties and arrange deals… and (more likely than not) rub shoulders with spies. A chancery provides a centralized place to observe and monitor foreign agents within the country, to improve relations (and to try and figure out what other countries might be up to). It is larger and more exhaustive than a consulate.

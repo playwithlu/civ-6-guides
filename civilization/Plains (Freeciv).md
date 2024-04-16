@@ -1,0 +1,3 @@
+# Plains (Freeciv)
+
+Plains is a type of [terrain](terrain) in [Freeciv](Freeciv). It can contain [Buffalo](Buffalo) or [Wheat](Wheat). [Engineer](Engineer)s can transform a [Desert%20%28Freeciv%29](Desert), [Hills%20%28Freeciv%29](Hills), or [Jungle%20%28Freeciv%29](Jungle) into Plains, and Plains into a [Grassland%20%28Freeciv%29](Grassland) (and any [resource](resource)s on the tile will be carried over when it transforms).

@@ -1,0 +1,3 @@
+# Victor (Castellan) (Civ6)/Civilopedia
+
+A Castellan is a military officer responsible for directing the day-to-day affairs of a castle or fortress and the territory immediately around it. As castles were massive investments of treasure and important points of military power, the castellan had to be both competent and politically reliable. In times of war, a competent castellan could determine the fate of campaigns, and with that, the historical outcome.

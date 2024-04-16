@@ -1,0 +1,2 @@
+# War weariness (Civ2)
+

@@ -1,0 +1,3 @@
+# Orator (Civ6)/Civilopedia
+
+Whether quietly teaching the “Word” or loudly pounding the pulpit, the primary method of bringing newcomers into a faith is public speaking, with all the techniques of oratory to draw upon. Indeed, in the Roman Catholic Church, an “oratory” is a place set aside for ecclesiastical public prayer. In the beginning, religious oratory carried only as far as a prophet’s voice, but the mass media age gave it evangelical wings on radio (Billy Sunday, for example) and television (Billy Graham).

@@ -1,0 +1,8 @@
+# Aluminum (Civ6)
+
+ Aluminum is an [Atomic%20Era%20%28Civ6%29](Atomic Era) [Resource%20%28Civ6%29%23Strategic](Strategic Resource) in "[Civilization%20VI](Civilization VI)". It is revealed with [Radio%20%28Civ6%29](Radio).
+ Aluminum is found in [Desert%20%28Civ6%29](Deserts), [Desert%20%28Hills%29%20%28Civ6%29](Desert Hills), [Plains%20%28Civ6%29](Plains), and [Rainforest%20%28Civ6%29](Rainforests).
+Strategy.
+ Aluminum is required for most [Air%20unit%20%28Civ6%29](air units) in the game, with the exception of the most basic one (the [Biplane%20%28Civ6%29](Biplane)). It is rarer than , but not as rare as . Its [Mine%20%28Civ6%29](Mine) improvement provides a nice boost to , but is bested by the [Oil%20Well%20%28Civ6%29](Oil Well). Aluminum's bonus yield is .
+In the "" expansion, Aluminum - besides being used to build and maintain aircraft - is also indispensable for the reworked [Victory%20%28Civ6%29%23Science](Science Victory), as it is used to build the [Lagrange%20Laser%20Station%20%28Civ6%29](Lagrange Laser Station).
+The [Future%20Era%20%28Civ6%29](Future Era) [Policy%20card%20%28Civ6%29](policy card) [Aerospace%20Contractors%20%28Civ6%29](Aerospace Contractors) grants Aluminum for free! Sadly, it is unlocked very late, with [Exodus%20Imperative%20%28Civ6%29](Exodus Imperative), and it also requires an expensive [Spaceport%20%28Civ6%29](Spaceport). Consider it a backup option in all cases - if you need Aluminum for building airplanes (or [Helicopter%20%28Civ6%29](Helicopters) in "Gathering Storm"), chances are your military is strong enough to "liberate" some.

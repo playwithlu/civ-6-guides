@@ -1,0 +1,3 @@
+# CN Tower (Civ5)/Civilopedia
+
+At one time the tallest free-standing structure in the world, the CN Tower of Toronto, Canada still remains among the tallest structures in the world today. Constructed in 1976 as a communications tower by the Canadian National Railway Company (hence the CN moniker), the tower has become a hallmark of Toronto and a major tourist attraction for the city. The tower is still primarily used for television and radio broadcasting, and is now considered one of the "Seven Wonders of the Modern World," joined by several notable constructions of the 20th century.

@@ -1,0 +1,5 @@
+# Plastics (Civ2)
+
+ Plastics is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+One of the spin-offs of researching more efficient ways to refine crude oil was the invention of plastics, organic polymer materials that retain their strength when molded into almost any shape. Starting in the 1920s, a flurry of research into the nature and fabrication of plastics resulted in widespread developments in the field, including the formulation of Plexiglas and nylon in the late 1930s. The boom in plastics research and development continued into and after World War II. Plastics were quickly adopted as cheap, sturdy substitutes for more traditional materials such as glass, rubber, and silk. It seemed that plastics were one of the most practical achievements of the Industrial Age. Despite their usefulness, plastics have proven to be an environmental hazard, since most plastics are not biodegradable,and they are therefore very difficult to dispose of. The significant pollution problem posed by plastics has been partially alleviated through the widespread implementation of recycling programs.

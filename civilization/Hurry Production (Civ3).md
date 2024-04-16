@@ -1,0 +1,8 @@
+# Hurry Production (Civ3)
+
+City construction projects (improvements or units) can be hurried to completion if necessary. Use the "Hurry" button on the City Display.
+There are two major ways to rush or "hurry" improvements and units. Wonders generally cannot be rushed without great people.
+Under [Despotism%20%28government%29%20%28Civ3%29](Despotism), [Communism%20%28government%29%20%28Civ3%29](Communism), [Fascism%20%28government%29%20%28Civ3%29](Fascism), and [Feudalism%20%28government%29%20%28Civ3%29](Feudalism) you hurry production in your cities by forced labor. Disillusioned by your harsh rule, citizens will leave your city if you institute this type of rushed production. Rushing this way is imprecise as each population point will contribute 20 shields to the project no more nor no less. So a project that requires 21 shields to complete will still cost 2 population, despite the other 19 being 'wasted'.
+Under [Monarchy%20%28government%29%20%28Civ3%29](Monarchy), [Republic%20%28government%29%20%28Civ3%29](Republic), and [Democracy%20%28government%29%20%28Civ3%29](Democracy) you can pay overtime and hire temporary workers to complete a project. This costs gold from your treasury; the amount depends upon how much work remains to be done. Compared to forced labor this is relatively pain free, as you pay for exactly how many shields are needed to complete the project - no shields are 'wasted' this way.
+[Leader%20%28Civ3%29](Leaders) can also be used to hurry production.
+You have "no" production if your civilization is in [Anarchy%20%28Civ3%29](Anarchy).

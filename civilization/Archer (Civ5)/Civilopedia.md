@@ -1,0 +1,3 @@
+# Archer (Civ5)/Civilopedia
+
+Archery may have been invented as long as 10,000-15,000 years ago, during the Paleolithic Age. It may have been invented in one place and spread, or, more likely, archery was invented in multiple places around the world. In the centuries before gunpowder, most ancient civilizations employed archers in their armies. The Korean armies possessed particularly fine archers during the 600-year Choson period, while the English longbow dominated the European battlefields during the 14th and 15th centuries.

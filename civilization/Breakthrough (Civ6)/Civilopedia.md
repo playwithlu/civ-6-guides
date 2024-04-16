@@ -1,0 +1,3 @@
+# Breakthrough (Civ6)/Civilopedia
+
+When a commander commits his heavy cavalry – be they horses or tanks – the hope is to break through the enemy's defensive line, and then rapidly exploit the gap. Much of the battlefield maneuvering is done to mount a breakthrough attempt – focusing a large force on a small portion of the line – or to insure that reserves are available to plug the gap. For both these, the heavy, mobile units proved best. Once the enemy line is broken, the armor can penetrate deep into the rear or attack the exposed flanks of the units on either side of the breach. In either case, the battle's probably over.

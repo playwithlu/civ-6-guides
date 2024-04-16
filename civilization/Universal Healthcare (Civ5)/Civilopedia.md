@@ -1,0 +1,3 @@
+# Universal Healthcare (Civ5)/Civilopedia
+
+Universal Health Care, sometimes referred to as "social health," is a government-funded system intended to provide equal access to health services and improved health outcomes for all citizens through a specific package of benefits. In 1912 AD, Norway was the first country to create a near-universal health care system; according to the World Health Organization, 32 nations offered some form of universal health care in 2010.

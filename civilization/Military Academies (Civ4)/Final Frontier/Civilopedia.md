@@ -1,0 +1,3 @@
+# Military Academies (Civ4)/Final Frontier/Civilopedia
+
+While West Point and Saint-Cyr may have been fine training grounds for the land-based battles of Earth's wars, three-dimensional, zero-gravity combat contained sufficient subtleties to warrant its own institution. The People's Academy, the Earth's first institution dedicated to the study of interplanetary warfare, became widely renowned for its numerous innovations and the cutthroat quality of its graduates. It was discoveries made by Academy graduates that led to the construction of the first Capital Ship, the PDES Destroyer Charles Vincent. Graduates from the school would spread across the planet, taking with them the teachings of the People's Academy, and sowing the first seeds of their martial tradition.

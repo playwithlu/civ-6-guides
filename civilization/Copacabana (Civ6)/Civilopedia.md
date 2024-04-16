@@ -1,0 +1,3 @@
+# Copacabana (Civ6)/Civilopedia
+
+Justifiably one of the most famous beach neighborhoods in the world (and interestingly, named for a place in the highlands of Bolivia) Copacabana looms large in Brazilian identity domestically and around the world. Officially nestled between Fort Copacabana at the south end and Fort Duque de Caxias at the north end, it was a luxurious neighborhood for the elite of Rio de Janeiro for most of its history, with the Copacabana Palace Hotel as its biggest landmark. In the 1970s when the narrow beach was expanded and the area became a booming destination for sunbathers and tourists of all social classes. It has served as a massive venue for concerts, New Year’s Eve celebrations, and even a papal Mass.

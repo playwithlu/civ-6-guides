@@ -1,0 +1,4 @@
+# Observatory (Civ4)/Civilopedia
+
+An observatory is a building designed to allow those inside to study the stars, usually with the aid of a telescope. Early observatories consisted of buildings with conveniently-placed windows or high platforms, while later models have sophisticated rotating roofs with an aperture to hold a massive telescope. The rooftop rotates to allow the telescope to point in any direction. 
+An observatory's location has much to do with its efficacy. Smog and other pollutants cut down on visibility further, stars become more difficult to observe when there are other light-sources visible so modern observatories are usually built as far away from cities as practical.

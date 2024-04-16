@@ -1,0 +1,8 @@
+# Concrete (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Although it was first discovered in the , Concrete continues to be one of the strongest, cheapest and most abundant building materials well into the . Its discovery allows to build s to entertain people.
+Great Library entry.
+Concrete is one of the strongest, cheapest and most durable building materials available. Its origins date back to the ancient Egyptians, who used lime and gypsum as binders and combined them with clay. Lime (calcium oxide) continued to be the primary cement-forming agent until the early 19th century, when, in 1824, an English inventor Joseph Aspdin burned and ground together a mixture of limestone and clay. This mixture, called portland cement, continues to be the dominant cementing agent used in concrete production. When mixed with water, clay, large and small aggregates and a small amount of air, it is unmatched as building material.
+The benefits of concrete are many. It is castable in almost any form, and is fire resistant, making it ideal for building construction. Concrete was easier to use than stone or marble because it could be mixed at the building site, and did not require resource-intensive transport operations. Perhaps the greatest quality of concrete is its superior compression strength ability, supporting 10,000 or more pounds per square inch. This is far greater than concrete's tensile strength, but with properly designed steel reinforcement, one can build structural elements that are as strong in tension as they are in compression. Concrete columns built by the Egyptians around 1500 BC still standing in the year 2000 AD are a testament to concretes steadfast durability.

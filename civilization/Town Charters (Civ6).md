@@ -1,0 +1,5 @@
+# Town Charters (Civ6)
+
+Town Charters is an Economic [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+The next Economic Policy to enhance adjacency bonuses for a , this time the [Commercial%20Hub%20%28Civ6%29](Commercial Hub). Like the [Harbor%20%28Civ6%29](Harbor), its adjacency bonuses yield , but land-heavy [Map%20%28Civ6%29](maps) make it easier to get good bonuses for the Commercial Hub - it's rare to have more than 2 Sea [Resources%20%28Civ6%29](resources) in a suitable location to get a bonus of +2 or more for the Harbor, whereas every [Tile%20%28Civ6%29](tile) next to a [River%20%28Civ6%29](River) will yield a +2 bonus for the Commercial Hub, which can easily be increased to +3 or more if other districts are adjacent to it. That means that most of the time, it is more profitable to use Town Charters than [Naval%20Infrastructure%20%28Civ6%29](Naval Infrastructure). The latter one, however, is available earlier, and there are other possibilities to enhance your input anyway - you should always think of which one exactly will yield best results for your particular empire.

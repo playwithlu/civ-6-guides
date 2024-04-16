@@ -1,0 +1,2 @@
+# Resolutions (Civ6)
+

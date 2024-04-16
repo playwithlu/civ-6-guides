@@ -1,0 +1,7 @@
+# Siege Tower (Civ5)
+
+Game Info.
+[Unique%20unit%20%28Civ5%29](Unique) siege unit of the [Assyrian%20%28Civ5%29](Assyrian) [Civilizations%20%28Civ5%29](civilization). Replaces the [Catapult%20%28Civ5%29](Catapult).
+Strategy.
+The Siege Tower is one of the most interesting siege units in the game. First, it is a melee siege unit (unlike the Catapult it replaces), so it must move next to an enemy [City%20%28Civ5%29](city) before it can attack. Once in place, however, it is devastating. Not only does it have a powerful city attack of its own, but it also confers a 50% bonus versus cities to all your land units (including other Siege Towers) within 2 [hex](hex)es of it. Moreover, it has a Cover I [Promotions%20%28Civ5%29](promotion) that helps it resist ranged damage more efficiently.
+Complement a Siege Tower with lots of land units, be they melee or ranged, and make sure it reaches its target before getting killed, and cities will fall much more quickly. As this unit loses the Sapper and all other advantages when upgraded to a [Trebuchet%20%28Civ5%29](Trebuchet), it is often beneficial to retain at least one Siege Tower in later [Era%20%28Civ5%29](eras) for faster city-taking. However, be advised that more powerful city defenses in later eras will be able to destroy a Siege Tower much more quickly.

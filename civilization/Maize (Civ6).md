@@ -1,0 +1,5 @@
+# Maize (Civ6)
+
+ Maize is a [Resource%20%28Civ6%29%23Bonus](Bonus Resource) in "[Civilization%20VI](Civilization VI)" that was added in the [Maya%20%26amp%3B%20Gran%20Colombia%20Pack%20%28Civ6%29](Maya &amp; Gran Colombia Pack). It can be found on [Grassland%20%28Civ6%29](Grassland) and [Plains%20%28Civ6%29](Plains) [Tile%20%28Civ6%29](tiles), including [Grassland%20Floodplains%20%28Civ6%29](Grassland) and [Plains%20Floodplains%20%28Civ6%29](Plains Floodplains) tiles.
+Strategy.
+ Maize is the only -yielding resource that is improved with a [Farm%20%28Civ6%29](Farm). As such, it will help nearby [City%20%28Civ6%29](cities) grow large and prosperous, especially since the [Terrain%20%28Civ6%29](terrain) on which it is found can naturally be improved with Farms that will receive [Adjacency%20bonus%20%28Civ6%29](adjacency bonuses) with [Feudalism%20%28Civ6%29](Feudalism) and [Replaceable%20Parts%20%28Civ6%29](Replaceable Parts).

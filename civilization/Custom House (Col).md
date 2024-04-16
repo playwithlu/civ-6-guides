@@ -1,0 +1,3 @@
+# Custom House (Col)
+
+After has joined the , your carpenters may construct custom houses. A custom house serves as a permanent arrangement between the colony that constructs it and the mother country. Once completed, you sell goods and commodities on a regular basis to [Europe%20%28Col%29](Europe), and the logistics are taken care of for you. You no longer have to load and unload cargo or move the ships.

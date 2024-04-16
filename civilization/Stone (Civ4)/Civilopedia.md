@@ -1,0 +1,5 @@
+# Stone (Civ4)/Civilopedia
+
+Stone has always been and remains one of the most important human building materials. In fact, stone tools predate human history. It appears as if the first stone tools were used by "Paranthropus", an ancestor of man who lived about two million years ago.
+Most stone tools are created by chipping or grinding. The former is used when working with crystalline materials such as flint, chert and obsidian. The worker taps the stone with a harder stone, carefully chipping off stone flakes until the stone has been properly shaped. Mesoamerican tribes used this method to make their sharp and deadly obsidian swords.
+The grinding method is used when working with harder and coarser materials such as basalt and granite. This is a long and tedious process in which the toolmaker repeatedly grinds away the stone with a harder material or with sand, sometimes using water as a lubricant. Many of the earliest European stone axes were made using this process.

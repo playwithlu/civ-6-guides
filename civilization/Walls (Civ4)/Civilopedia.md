@@ -1,0 +1,3 @@
+# Walls (Civ4)/Civilopedia
+
+Before the establishment of centralized governments capable of supporting strong, national armies, individual cities were left to fend for themselves when it came to defense. As a result, many cities constructed city walls to protect against raiders and bandits. City walls represented a major investment in both time and materials, requiring years to complete and constant repairs to maintain their strength and integrity. However, these walls turned the city into a fortress capable of withstanding all but the most determined attack. The development of gunpowder largely put an end to the usefulness of walls in stopping large armies.

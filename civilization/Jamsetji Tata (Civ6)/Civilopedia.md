@@ -1,0 +1,4 @@
+# Jamsetji Tata (Civ6)/Civilopedia
+
+In 1857 India revolted against British oppression. The rebellion would fail, but amid the turmoil a young Jamsedji Nusserwanji Tata would begin his journey to heal his homeland and transform it into an industrialized nation. He understood that freedom meant little without financial stability. The company he would found grew to become a global conglomerate of nearly 100 companies, providing its workers with benefits such as medical care, education for children and its workers, pension and maternity leave.
+Colonial rulers would attempt to subvert Tata’s ambition, but would not succeed. This world traveler understood the profit to be gained in the textile industry and opened a cotton mill in Bombay. Today, the Tata Group operates in the chemical, communications, consumer goods, energy, engineering, materials, and services industries.

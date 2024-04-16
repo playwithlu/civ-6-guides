@@ -1,0 +1,3 @@
+# Caparison (Civ6)/Civilopedia
+
+Mankind has used animals in conflict for thousands of years, and soon enough sought to protect these valuable additions to war. What is probably the first man-made "armor" for animals appeared c. 2600 BC in Ur, where the onagers that pulled Sumerian battle carts seem to have worn padded leather chest protectors; the earliest evidence for European horse armor dates to the 8th century BC when cloth and leather caparisons were worn by Greek warhorses, a practice likely introduced from the East. Although padded caparison would evolve to be more decorative than defensive during the Middle Ages, it remains in use for ceremonial occasions.

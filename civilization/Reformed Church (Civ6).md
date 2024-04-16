@@ -1,0 +1,5 @@
+# Reformed Church (Civ6)
+
+Reformed Church is a [Renaissance%20Era%20%28Civ6%29](Renaissance Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by having 6 [City%20%28Civ6%29](cities) following your [Religion%20%28Civ6%29](Religion).
+Strategy.
+Change is part of human life, and of the life of human institutions - even the ones as rigid and traditional as the Church. Reforming this ancient institution brings a veritable flood of new opportunities for the religiously-oriented player, including diverse Policies which aid [Theological%20Combat%20%28Civ6%29](Theological Combat). But most importantly, it enables the [Theocracy%20%28Civ6%29](Theocracy government), specially tailored for those pursuing [Victory%20%28Civ6%29%23Religion](Religious Victory) in the game.

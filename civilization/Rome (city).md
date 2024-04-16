@@ -1,0 +1,4 @@
+# Rome (city)
+
+, also known as Roma, is the [Roman](Roman) [capital](capital) in the "[Civilization%20%28series%29](Civilization)" games and both the [Italian](Italian) and Roman capital and an [Etruscan](Etruscan) [city](city) in the [Call%20to%20Power%20games]("Call to Power" games), and also appears as a [city-state](city-state). In real life, it is the capital of and largest city in present-day Italy and home to the [Colosseum](Colosseum) and [Trajan%27s%20Column](Trajan's Column).
+In [scenario](scenario)s, it may appear as the [Western%20Roman](Western Roman) capital in [Fall%20of%20Rome](Fall of Rome) and a [Burgundian](Burgundian) city in [Middle%20Ages](Middle Ages).

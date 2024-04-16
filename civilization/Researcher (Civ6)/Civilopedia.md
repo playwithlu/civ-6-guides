@@ -1,0 +1,3 @@
+# Researcher (Civ6)/Civilopedia
+
+“Research” comes from the French word “rechecher,” which means “to go about seeking,” and is motivated by a desire to advance human knowledge. Research is the creation of new knowledge by observation or new analysis. The title and role of researcher has changed over time and across culture, but history abounds with examples of people committed to seeking knowledge and openly sharing their discoveries. We owe much to these people.

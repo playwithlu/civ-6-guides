@@ -1,0 +1,7 @@
+# Meritocracy (Civ5)
+
+Meritocracy is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Liberty%20%28Civ5%29](Liberty) tree and requires [Citizenship%20%28Civ5%29](Citizenship).
+Establishing a system where each member is rewarded for his work according to his or her real contributions and abilities, as opposed to a rigid system where rank and rules (and friendships and family connections) apply regardless of actual performance, is a powerful tool for enhancing happiness in a society.
+Strategy.
+Meritocracy is a strong long-term policy which works best after you expand your empire a bit. While it is costly to maintain [Road%20%28Civ5%29](roads), especially in a wide empire with lots of small cities, this can instead avoid spending and relying on trade deals for luxuries while aiding defense. As the reduction is applied per 10 s and quite low at the start, consider adopting this policy as the one to complete the tree (unless your empire is desperate for some due to rapid early expansion).
+Contrast the [Tradition%20%28Civ5%29](Tradition)-tree [Monarchy%20%28Civ5%29](Monarchy) policy, which only applies to the ...but at the far greater reduction of 1:2 instead of 10% from Meritocracy.

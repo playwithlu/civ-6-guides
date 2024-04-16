@@ -1,0 +1,6 @@
+# Córdoba (city)
+
+, also known as Cordova or by its historical name of Corduba, is an [Arabian](Arabian), [Argentinian](Argentinian), and [Spanish](Spanish) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)" and one of the [Territorial%20Cities%20%28Civ1%29](Territorial Cities) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". It refers to several places in real life:
+Córdoba, Argentina is a city in the foothills of the Sierras Chicas on the Suquía River, in central present-day Argentina.
+Córdoba, Spain is the capital of the province of Córdoba and a city in Andalusia in present-day Spain.
+In [scenario](scenario)s, it may appear as the [Andalusian](Andalusian) [capital](capital) in [Vikings%2C%20Traders%2C%20and%20Raiders%21](Vikings, Traders, and Raiders!), the [C%C3%B3rdoban](Córdoban) capital in [Middle%20Ages](Middle Ages), an [Almohad](Almohad) city in [Into%20the%20Renaissance](Into the Renaissance) and a [Western%20Roman](Western Roman) city in [Fall%20of%20Rome](Fall of Rome).

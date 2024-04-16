@@ -1,0 +1,3 @@
+# Hospital (Civ4)/Civilopedia
+
+Hospitals are institutions that focus on the diagnosis and treatment of disease and trauma. While dispensing these services, they also provide housing. With technological innovation in medicine, hospitals have increasingly become community hubs, expanding their role to include teaching and research. Throughout history a hospital's role has shifted from a place to secure the ill or insane, to one of hope and health.

@@ -1,0 +1,3 @@
+# Spices (Civ4)/Civilopedia
+
+Certain types of plants have evolved in such a way that they produce mild toxins or repellents that make their odor or flavor distasteful to animals. Oddly enough, humans sought out many of these plants because of those smells and tastes. Merchants in the Middle East began a profitable spice trade before 2000 BC. Spices are used now, as they were in the ancient world, to preserve food and enhance its flavor. Although spices are now commercially cultivated and prepared, most types can still be found in abundance in nature. Many of the most popular spices, such as cloves and nutmeg, are extracted from plants that grow in tropical or swampy regions of the world.

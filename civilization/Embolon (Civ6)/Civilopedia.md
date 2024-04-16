@@ -1,0 +1,3 @@
+# Embolon (Civ6)/Civilopedia
+
+The embolon (Greek for "wedge") was one of the earliest formations used by ancient warriors, first on land and then on sea. In open sea, the Greek triremes usually sailed in single line, led by the commander's ship. However, upon sight of the enemy warships, the Greek fleet would deploy into a triangular or trapezoid formation, with the courageous commander's ship at the tip. This formation meant the enemy had a limited front to fire missiles at, and gave the superior Greek seamen the chance to use their rams to best effect while shielding the sides of the ship ahead – any enemy turning to ram would be instead rammed by the next ship in the wedge. So effective was the embolon that it remained in use until cannon made it a liability.

@@ -1,0 +1,7 @@
+# Deer (Civ5)
+
+Game Info.
+Bonus resource.
+Strategy.
+ Deer are found on [Forest%20%28Civ5%29](Forest) and [Tundra%20%28Civ5%29](Tundra) tiles, mainly in the polar (northernmost/southernmost) regions of the world. They typically provide a significant fraction of available in these otherwise barren parts of the [Map%20%28Civ5%29](map), making their presence and exploitation an important factor in sustaining strong [City%20%28Civ5%29](cities) in these areas. Building a [Camp%20%28Civ5%29](Camp) will further enhance the yield of Deer once you have researched [Economics%20%28Civ5%29](Economics), making them valuable to your empire's economy as well.
+Note that building a Camp does "not" require clearing the underlying Forest. This allows continued exploitation of the additional provided by the Forest itself, for a base yield of 2 and 2 from a Camp built on a forested Tundra tile with Deer. One should preserve the Forest whenever possible if the underlying [Terrain%20%28Civ5%29](terrain) is Tundra, since clearing it will result in a net loss of 1 . However, if the terrain is [Plains%20%28Civ5%29](Plains), then removing the Forest will not change the tile yields because both Forest and Plains give 1 and 1 . Thus, one should always clear the Forest of a Deer on a Plains tile before constructing the Camp.

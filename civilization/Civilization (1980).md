@@ -1,0 +1,4 @@
+# Civilization (1980)
+
+Civilization is a [board%20game](board game) designed by [Francis%20Tresham](Francis Tresham). It was originally published in the U.K. by Hartland Trefoil and released in 1980; the U.S. version was published by [Avalon%20Hill](Avalon Hill) and released the following year. It inspired [Sid%20Meier](Sid Meier) to create "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)", and is considered to be the first game ever to incorporate a [technology%20tree](technology tree).
+An expansion set for "Civilization" called Advanced Civilization was released in 1991 (and converted into the computer game "[Avalon%20Hill%27s%20Advanced%20Civilization](Avalon Hill's Advanced Civilization)" in 1996).

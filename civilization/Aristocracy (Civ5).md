@@ -1,0 +1,7 @@
+# Aristocracy (Civ5)
+
+Aristocracy is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Tradition%20%28Civ5%29](Tradition) tree.
+The development of a higher class is essential to a feudal society's refinement. After its formation, citizens become more enthusiastic when building Wonders. The general populace also becomes somewhat more able to cope with overcrowding in big cities.
+Strategy.
+The main bonus of Aristocracy is the Wonder-building boost, and it should determine your strategy. Aristocracy is a stand-alone level 1 Policy, not connected to any other policies in the tree. This makes it the choice of the player when exactly to adopt it.
+If you want to build [Wonders%20%28Civ5%29](Wonders) early (note that this includes [national%20wonder%20%28Civ5%29](national wonder)s such as the [National%20College%20%28Civ5%29](National College)), you can adopt it first of all Tradition policies; if not you may adopt it last to complete the tree. Or anywhere in between, when the right moment arises. The second bonus doesn't benefit you much in the early game (what city reaches 10 Population before turn 100?), but it becomes useful later on in the game.

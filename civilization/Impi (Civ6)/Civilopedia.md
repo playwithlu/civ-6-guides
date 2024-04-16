@@ -1,0 +1,4 @@
+# Impi (Civ6)/Civilopedia
+
+The powerful warrior regiments of the Zulu were already a formidable force when the ambitious Shaka taught them new techniques: combining the iklwa (a short, stabbing spear with a broader blade than a throwing spear) and the ishlangu (a large, oval shield with cowhide layered on top). They trained to form shield walls, both to blunt projectiles and to hide their true numbers, and attack with a “buffalo horns” formation—greener troops would sweep out and around to pin the enemy’s flanks (the horns), while a more experienced center would slam into the pinned enemy (the rest of the buffalo).
+The impi training regimes under Shaka were nothing less than brutal, but harsh conditioning led to tightly bonded, well-disciplined soldiers able to carry out complex formations with ease. The impi became a highly mobile force, nigh-unstoppable against anything short of repeating rifles and high explosives.

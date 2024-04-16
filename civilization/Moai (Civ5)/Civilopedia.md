@@ -1,0 +1,5 @@
+# Moai (Civ5)/Civilopedia
+
+Perhaps better known as the "Easter Island Statues", the Moai are large, humanoid figures carved mostly from volcanic rocks like tuff. 887 of these statues dot Easter Island, and are believed to have been created sometime between 1250 and 1500 AD. Almost half still remain at the original quarry site, but the rest were transported and erected around the island's coastline. Easily recognizable by their large heads and elongated features, it is believed that they were individual depictions of deceased ancestors and powerful chiefs.
+While most scholars agree on why and how the statues were created, the method of their transportation still remains a mystery. Weighing from 9 to 86 tons a piece, they would have required an amazing feat of engineering to move from quarry to final resting place.
+In 1994, the Moai statues were given official protection on the UNESCO World Heritage site list.

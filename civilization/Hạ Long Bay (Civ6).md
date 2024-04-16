@@ -1,0 +1,9 @@
+# Hạ Long Bay (Civ6)
+
+Hạ Long Bay is a 2-tile passable available in "[Civilization%20VI](Civilization VI)" with the . Hạ Long Bay appears on tiles. Each Wonder tile provides 1 , 3 , and 1 . Hạ Long Bay increases the of adjacent tiles by +2.
+[Naval%20unit%20%28Civ6%29](Naval units) gain +15 Combat Strength when defending on Hạ Long Bay.
+In "", discovering Hạ Long Bay grants +1 [Era%20Score%20%28Civ6%29](Era Score), or +3 Score if the player is the first to do so.
+Strategy.
+Each Hạ Long Bay tile has a yield of 1 , 3 , and 1 . Since Culture is often hard to generate early in the game, incorporating natural wonder tiles can provide a vital head start through the .
+Like ordinary coast tiles, the yields of Hạ Long Bay's tiles can be increased using certain bonuses. If the wonder tiles are owned by a city with a and , the yield of the tiles will increase by 1 and 2 respectively (in "[Gathering%20Storm](Gathering Storm)", the [Shipyard%20%28Civ6%29](Shipyard) will provide 1 to each tile as well). The bonus of the city-state also increases the tile yields by 1 , and by a further 1 once the has been reached.
+Unfortunately, as with all natural wonders, the Hạ Long Bay tiles cannot be developed or improved. Because of this, natural wonders may be more of a hindrance than an asset later in the game - a natural wonder in the heart of a can spoil adjacency bonuses for districts. In general, passable wonder tiles are significantly better than an unimproved tile of any kind, but are often less productive than an ordinary tile with an improvement or a district. However, if Hạ Long Bay spawns adjacent to the Coast, it can be used to make a [National%20Park%20%28Civ6%29](National Park), and the Appeal bonus can help with adjacent park placement or other improvements like a [Seaside%20Resort%20%28Civ6%29](Seaside Resort) or [Alcazar%20%28Civ6%29](Alcazar).

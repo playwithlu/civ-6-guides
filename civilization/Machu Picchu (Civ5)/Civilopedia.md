@@ -1,0 +1,5 @@
+# Machu Picchu (Civ5)/Civilopedia
+
+Clinging to a Peruvian mountaintop at an elevation of 7,700 feet, Machu Picchu was an extraordinary Incan city and a marvel of pre-Columbian architecture. Constructed in the mid-15th century, scholars believe that much of the city was a palace complex of the mighty Incan ruler Pachacuti Inca Yupanqui. Constructed almost entirely of white granite stone, the city was inexplicably deserted in the mid-16th century. The marauding Spanish Conquistadors did not discover the site during their conquest of the Incas, so it has remained relatively intact until today.
+Archaeologists have identified the aforementioned palace complex, as well as temples, residential areas, plazas and a cemetery, all carved from the living rock. The mountainous terrain surrounding the central structures has been carved into stepped agricultural terraces which were at one time watered by an extensive aqueduct system, in itself a remarkable feat in a mountainous locale.
+Although in ruins, Machu Picchu retains an extraordinary rugged beauty even today. It must have been an incredible city during the days when the mighty Incas called it home.

@@ -1,0 +1,5 @@
+# Chola (Civ6)/Civilopedia
+
+The Tamil Dynasty of the Cholas were primarily Shaivite Hindus, during their extensive reign between the Third Century BCE and the Thirteenth Century CE. They were known throughout Southern India for the construction of temples dedicated to Shiva and his family. As they would expand their empire, the Cholas would build temples and spread the worship of Shiva while still tolerating other Indian religions.
+Which is possibly why, in 1133, Vishnevite apostle Ramanachooloo thought it would be safe to spread the good word about Vishnu. However, the then-Raja of Chola had other ideas: declaring that all of his subjects make a confession of faith to Shiva.
+Ramanachooloo would flee to Mysoor, where he would convert the raja, who would in turn change his name to Vishnoo Verdana to mark his conversion.

@@ -1,0 +1,10 @@
+# Cho-Ko-Nu (Civ4)
+
+The Cho-Ko-Nu is the [Unique%20unit%20%28Civ4%29](unique unit) of the [Chinese%20%28Civ4%29](Chinese) [List%20of%20civilizations%20in%20Civ4](civilization).
+Strategy.
+Compared to the [Crossbowman%20%28Civ4%29](Crossbowman) it replaces, the Cho-Ko-Nu has one more [First%20strike%20%28Civ4%29](first strike) and can cause [Collateral%20damage%20%28Civ4%29](collateral damage).
+Using Cho-Ko-Nu.
+The Cho-Ko-Nu's collateral damage works well in aggressive defense - that is, attacking stacks of units. With more survivability than a [Catapult%20%28Civ4%29](Catapult), and a strength bonus against Melee units, the Cho-Ko-Nu makes a great stack-destroyer. At this stage of the game, it makes the Chinese hard to attack.
+Cho-Ko-Nu aren't so effective attacking [City%20%28Civ4%29](cities) defended by longbows, as they cannot be given City Attack [Promotion%20%28Civ4%29](promotions). However, they can still be used as part of a combined-arms force, protecting attacking Melee and Siege units from [Maceman%20%28Civ4%29](Macemen) and similar threats. With Cho-Ko-Nus against archers, however, the collateral damage keeps increasing the odds, which are usually already high to begin with. Cover promotions remove their biggest counter, but some will need [Formation%20%28Civ4%29](Formation) to counter [Horse%20Archer%20%28Civ4%29](Horse Archers), which are immune to first strikes.
+Against Cho-Ko-Nu.
+Defensively, the Cho-Ko-Nu loses its advantage. Alone, it's easily picked off by mounted units, and in cities, it's not much more dangerous than a [Longbowman%20%28Civ4%29](Longbowman). If attacking China at this point in the game, give some Crossbowmen or Pikemen [Cover%20%28Civ4%29](Cover) promotions to protect stacks, and give stacks some [Medic%20%28Civ4%29](Medic) promotions to counteract any collateral damage.

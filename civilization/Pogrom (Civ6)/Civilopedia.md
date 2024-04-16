@@ -1,0 +1,3 @@
+# Pogrom (Civ6)/Civilopedia
+
+From the Russian word meaning “to destroy,” a pogrom is the systematic murder and oppression of a group with the approval of the state. The oppressed group is usually a minority, such as the Jews in Europe for most of European history. The justification is usually a libel for some crime they did not commit. Pogroms have a long and awful history, and have happened entirely too many times, despite people solemnly swearing “and this shall never happen again” after each one occurs.

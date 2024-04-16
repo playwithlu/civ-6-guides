@@ -1,0 +1,21 @@
+# Promotion (Civ6)
+
+A Promotion is one of many special traits which [Military%20unit%20%28Civ6%29](military units) in "[Civilization%20VI](Civilization VI)" and its expansions can earn to enhance their battlefield performance in various ways. [Unit%20%28Civ6%29](Units) earn promotions by gaining enough experience ([XP](XP)) and leveling up.
+Earning experience.
+Every time a unit enters and survives [Combat%20%28Civ6%29](combat) (whether it attacks an enemy or itself suffers an attack), it will gain XP. The exact amount gained depends on the type of combat the unit was engaged in (melee or ranged), and may be further affected by a number of factors. For example, land units trained in a city with an [Encampment%20%28Civ6%29](Encampment) with specialized [Building%20%28Civ6%29](buildings) in it will earn XP at an increased rate.
+Much of the information here is originally from a [CivFanatics](CivFanatics) info page by Victoria, and has been updated and expounded upon by editors of this wiki.
+XP from battles between units.
+The base amount of XP a unit can receive after a battle is calculated by dividing the Combat Strength of the enemy by the Combat Strength of that unit. If one of the units is dead, the base XP is multiplied by 2. For example, a [Warrior%20%28Civ6%29](Warrior) (20 Combat Strength) attacks a [Spearman%20%28Civ6%29](Spearman) (25 Combat Strength):
+Next, additional XP will be added to the base XP as following:
+So back to the initial example:
+Lastly, this amount of XP will be further modified by other percentage-based XP modifiers, mainly from appropriate buildings, and retirements, or other miscellaneous special abilities. After this last step, the real acquired XP will be rounded up or down to the next closest integer (0.5 is rounded up to 1). In the previous example, if both the Warrior and the Spearman are built in a city with a [Barracks%20%28Civ6%29](Barracks):
+Note that combat XP granted in battles between units is capped at 8 XP maximum. Also, fighting [Barbarian%20%28Civ6%29](Barbarians) and [Free%20City%20%28Civ6%29](Free City units) only obeys the XP rules up until the units reach level 2 (first Promotion). Afterward, every battle against Barbarians and Free City units only grants 1 XP, regardless of situations.
+XP from city combat.
+There are a few important rules to know about XP gained from [City%20combat%20%28Civ6%29](city combat):
+List of unique experience modifiers.
+This list excludes all common modifiers, such as those from Encampment, [Harbor%20%28Civ6%29](Harbor), and [Aerodrome%20%28Civ6%29](Aerodrome) buildings.
+Leveling up.
+When a unit earns enough XP to level up, a special button will appear in its Command Tab, which will trigger the process. Note that you may delay leveling up as long as you want; however, your unit won't earn new XP until it finishes the level-up process. Also note that earning more XP than needed to reach the next level will "not" transfer the excess XP to the pool of the next level.
+Each unit may select from a special promotion table, which is different for every unit class. Furthermore, the promotions in the table have a hierarchical organization, so you will have to progress from lower-tier ones towards the more advanced ones. In general there are two main avenues for advancement, which both lead towards a final Tier IV promotion. The paths may cross before reaching the ultimate promotion (meaning that you could start up one path, then cross to the other), but this happens at different levels for different classes of units.
+Upon selecting a promotion, a unit recovers 50 [HP](HP) and its turn ends (except when playing as [Gran%20Colombian%20%28Civ6%29](Gran Colombia)). Once a unit receives a Promotion, a small number next to its icon will appear, showcasing the number of Promotions it currently has. A level 2 unit will have 1 Promotion, a level 3 unit will have 2, and so on.
+A unit will require an amount of XP equal to 15 times the level it is currently on to reach the next level (a brand new unit starts at level 1, when it doesn't have any Promotions yet). A unit reaches its maximum level at level 8 when it earns all 7 possible Promotions. The special "Promote" button still appears after that when the unit gathers enough XP, but it cannot be used, so the unit can neither promote nor heal anymore.

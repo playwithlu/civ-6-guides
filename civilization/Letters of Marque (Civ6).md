@@ -1,0 +1,5 @@
+# Letters of Marque (Civ6)
+
+Letters of Marque is a [Dark%20Age%20%28Civ6%29](Dark Age) [Policy%20card%20%28Civ6%29](Policy Card) in "". It is available from the [Renaissance%20Era%20%28Civ6%29](Renaissance Era) to the [Modern%20Era%20%28Civ6%29](Modern Era) and uses a Wildcard slot. Letters of Marque is removed from game when playing with the game mode.
+Strategy.
+Letters of Marque is valuable to aggressive maritime [Civilizations%20%28Civ6%29](civilizations) (especially the [English%20%28Civ6%29](English), the [German%20%28Civ6%29](Germans), and the [Ottoman%20%28Civ6%29](Ottomans), all of whose [Unique%20unit%20%28Civ6%29](unique units) are [List%20of%20units%20in%20Civ6/By%20class%23Naval%20raider](naval raiders)). Make liberal use of [Privateer%20%28Civ6%29](Privateers) and [Submarine%20%28Civ6%29](Submarines) if you adopt it - otherwise, the penalty to yields can make it hard to keep your economy solvent.

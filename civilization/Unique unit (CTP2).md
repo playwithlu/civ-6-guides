@@ -1,0 +1,3 @@
+# Unique unit (CTP2)
+
+Unique units are the [List%20of%20units%20in%20CTP2](units) in "[Call%20to%20Power%20II](Call to Power II)" that are based off of historical figures in the past (either the [Classical%20era%20%28CTP2%29](Classical) or [World%20War%20II%20era%20%28CTP2%29](World War II) [Age%20%28CTP2%29](era)). These historical figures can be Consuls, Kings, Generals or Emperors. A few dozen of them may be found in CTP2.

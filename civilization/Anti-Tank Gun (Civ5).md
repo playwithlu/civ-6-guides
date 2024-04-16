@@ -1,0 +1,6 @@
+# Anti-Tank Gun (Civ5)
+
+Game Info.
+Front-line unit of the [Atomic%20Era%20%28Civ5%29](Atomic Era). Upgrades from the [Lancer%20%28Civ5%29](Lancer).
+Strategy.
+The Anti-Tank Gun is basically a modified field gun, firing in a linear fashion as earlier era cannons. Developed so as to counter the new armored vehicles, Anti-Tank Guns excel at taking up a position and holding it against enemy forces. Despite their main role as anti-tank weapons, they can function almost as well as standard infantry, due to equal costs and similar combat strength. They are twice as effective when fighting armored units, and as such should be incorporated into your army as soon as possible to prevent an armored attack from breaking your infantry line, regardless of whether or not your enemy appears to have tanks. Though they are weak compared to [Modern%20Armor%20%28Civ5%29](Modern Armor), and should be replaced with [Helicopter%20Gunship%20%28Civ5%29](Helicopter Gunships) as soon as possible, they do decently well compared to other units, and cost less than half as much as Modern Armor and use no [Resources%20%28Civ5%29%23Strategic%20Resources](strategic resources).

@@ -1,0 +1,8 @@
+# Barracks (Civ2)
+
+ A Barracks is a [List%20of%20buildings%20in%20Civ2](building) in "[Civilization%20II](Civilization II)" that allows the production of ground units. Any ground unit which spends its entire turn in the city is also completely repaired.
+Barracks will be need to be rebuilt once [gunpowder%20%28Civ2%29](gunpowder) is discovered and a second time when [mobile%20warfare%20%28Civ2%29](mobile warfare) is discovered. Barracks maintenance costs go up one coin for the building after the discovery of each of these technologies.
+Strategy.
+While [Sun%20Tzu%27s%20War%20Academy%20%28Civ2%29](Sun Tzu's War Academy) has the veterancy benefits of a barracks, it does not have the repair properties of the building. Do not stop building barracks if you own The academy.
+Civilopedia entry.
+Warfare has been a recurring phenomenon throughout the history of mankind, and it continues to plague the world today. Although war is not a desirable situation, it is important that even the most peaceful of societies be prepared for the possibility of war. When warring nations are closely matched in technology and manpower, battles are usually won by the army with the best training. Military schools and academies exist all over the world, established for the purpose of training military personnel in the latest methods, tactics, and technology. Men and women who graduate from such facilities possess higher than average command and military and technological skills, making them more effective in combat situations.

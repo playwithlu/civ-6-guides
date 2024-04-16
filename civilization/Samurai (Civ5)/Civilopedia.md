@@ -1,0 +1,3 @@
+# Samurai (Civ5)/Civilopedia
+
+The Japanese samurai were arguably the best pre-gunpowder warriors since the Roman legions. Emerging in the 12th century, the samurai were a warrior caste sworn to follow the code of Bushido, which held bravery, honor, and loyalty above life itself. Samurai typically carried two swords, the single-edged katana and the shorter wakizashi, the latter used in the "seppuku" (suicide) ritual. Despite their lack of access to mineral resources of decent quality, Japanese swordsmiths produced weapons that were often as good as the very best elsewhere. Most also carried bow or spear, and later, firearms. Depending upon the era (and the samurai's wealth and status) a samurai might wear padded cloth, lacquered, or metal armor.

@@ -1,0 +1,7 @@
+# AI trait (Civ4)
+
+An AI trait is an aspect of an [AI](AI) [Leaders%20%28Civ4%29](leader) in "[Civilization%20IV](Civilization IV)" that governs his or her behavior. Traits differ from one leader to another and should not be confused with [Leader%20trait%20%28Civ4%29](leader traits).
+Much of the information presented here comes from posts on the [http%3A//modiki.civfanatics.com/](Civilization Modding Wiki) and the [CivFanatics](CivFanatics) forums.
+Mechanics.
+AI traits are separated into several categories that are rated on varying scales. Some of the values can be difficult to interpret and offer guidelines for leader behavior rather than unbreakable rules. Some variance in leader behavior is also possible from one game to another.
+There is one characteristic of computer-controlled leaders that the AI traits do not encompass: war planning habits. No leader will plan a war against a player with whom he or she is friendly, though some leaders will plan wars against players with whom they are pleased. Observations about these leaders can be found above their AI trait lists on the leader pages. Note that the traits listed on these pages are the default values, so they will not apply if "Random Personalities" is selected during game setup or a heavily [Mods%20%28Civ4%29](modded) version of the game is being played.

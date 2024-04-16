@@ -1,0 +1,5 @@
+# Calculus (Civ5)/Civilopedia
+
+Calculus is the branch of mathematics based on functions of limits, differentials, derivatives, integrals and infinite series. Calculus provides the mathematician with tools to study areas described by curves and functions. In ancient times, primitive calculus was used to determine the volume and area of geometric forms - how much area is inside a circle of diameter x, for instance, or what is the volume of a cone with a depth of y and a diameter of z? This is an extremely difficult question, and since that time calculus has gotten even moreso.
+In the 17th century Newton and Liebnitz each independently discovered the so-called "fundamental theorem of calculus." It specifies the relationship between the two central operations of calculus: differentiation and integration. This theorem is totally beyond the understanding of this author, who will not even pretend to try to explain it in the Civilopedia.
+However, despite its nightmarish complexity, calculus is extraordinarily useful in physics, chemistry, and economics, and without it modern science would be missing one of its most important tools.

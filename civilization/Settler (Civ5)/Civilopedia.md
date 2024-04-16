@@ -1,0 +1,3 @@
+# Settler (Civ5)/Civilopedia
+
+Pioneers drive civilization. While most are satisfied with the status quo, happy just to survive, in every culture there are a few hardy individuals willing to strike out on their own, to risk everything in the hope of finding a better life for themselves and their children. In the past, brave settlers have led humanity out of Africa and into Europe, Asia, the Pacific, and the Americas. In the future they may lead the way to the moon, Mars, and even beyond.

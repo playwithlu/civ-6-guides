@@ -1,0 +1,3 @@
+# Antarctica
+
+Antarctica is a region of [Earth](Earth) that encompasses the South Pole. No [civilizations](civilizations) are native to Antarctica, but 12 different countries ([Argentinian](Argentina), [Australian](Australia), [Belgian](Belgium), Chile, [French](France), [Japanese](Japan), [New%20Zealand](New Zealand), [Norwegian](Norway), [Russian](Russia), South Africa, the [British](United Kingdom), and the [American](United States)) presently lay claim to it under the . It is also home to the [Amundsen-Scott%20Research%20Station](Amundsen-Scott Research Station).

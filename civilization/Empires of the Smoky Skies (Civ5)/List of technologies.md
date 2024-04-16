@@ -1,0 +1,3 @@
+# Empires of the Smoky Skies (Civ5)/List of technologies
+
+This page contains a list of [List%20of%20technologies%20in%20Civ5](technologies) in [Empires%20of%20the%20Smoky%20Skies%20%28Civ5%29](Empires of the Smoky Skies), a [List%20of%20scenarios%20in%20Civ5](scenario) in "". Players start with all the regular technologies up until and including the [Industrial%20Era%20%28Civ5%29](Industrial Era), but from that point onward, the [Era%20%28Civ5%29](eras) and technologies change drastically. The [Modern%20Era%20%28Civ5%29](Modern Era) is replaced by the Steam Era, the [Atomic%20Era%20%28Civ5%29](Atomic Era) is replaced by the Airship Era, and the [Information%20Era%20%28Civ5%29](Information Era) is replaced by the Future Era.

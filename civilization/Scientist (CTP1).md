@@ -1,0 +1,5 @@
+# Scientist (CTP1)
+
+Scientists are the citizens belonging to individual cities who specialize in increasing that goes toward the completion of . One scientist earns 10 .
+Great Library entry.
+Since ancient times, Civilizations have relied on a small group of educated leaders for advice and guidance. In Assyria, these men were priest-scribes, the keepers of records and of knowledge. They advised farmers on when to plant and tracked the payment of taxes and fines. Later, in ancient Greece, the philosopher rose to prominence as the educator of future leaders and as the voice of dissension. Such thinkers laid the foundation for many of the valued concepts of our society including the Greek Republic and geometry, introducing the first tools of rigorous analysis that would prove so critical to later scientific thought.

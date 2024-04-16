@@ -1,0 +1,3 @@
+# Drop Tanks (Civ6)/Civilopedia
+
+Drop tanks were first used during the Spanish Civil War to allow fighter escorts to accompany bombers on long-range missions. When World War II opened, the Luftwaffe used 80-gallon drop tanks to extend the range of the long-range version of the infamous Stukas for ground attack. Throughout the war, every air force made use of these external fuel tanks for every sort of fighter mission, from air patrols to recon flights. Because these tanks made the fighter less aerodynamic, when engaging the enemy, the tanks were usually jettisoned (i.e., dropped on some hapless place below). The postwar introduction of jet fighters only made the problem of range more immediate, as such were notorious for fuel consumption.

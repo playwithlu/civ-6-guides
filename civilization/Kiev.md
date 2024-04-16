@@ -1,0 +1,4 @@
+# Kiev
+
+Kiev, also known as Kyiv, is a [Russian](Russian) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games, and also appears (under its historical name of Könugard) as a [Viking](Viking) city and a [city-state](city-state). In real life, it is the capital of and largest city in present-day Ukraine.
+In [scenario](scenario)s, it may appear as the [Kievan%20Rus%27](Kievan Rus') [capital](capital) in [Middle%20Ages](Middle Ages), the Russian capital in [Rise%20of%20the%20Mongols](Rise of the Mongols), and a [Volhynian](Volhynian) city in others.

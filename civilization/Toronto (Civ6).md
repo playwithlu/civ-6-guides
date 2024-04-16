@@ -1,0 +1,6 @@
+# Toronto (Civ6)
+
+Toronto is an industrial [City-state%20%28Civ6%29](city-state) in "[Civilization%20VI](Civilization VI)". 
+Under rulesets in which [Canadian%20%28Civ6%29](Canada) is a playable [Civilizations%20%28Civ6%29](civilization), Toronto becomes a [Canadian%20cities%20%28Civ6%29](Canadian city) and is replaced with [Mexico%20City%20%28Civ6%29](Mexico City).
+Strategy.
+Being [Suzerain%20%28Civ6%29](Suzerain) of Toronto causes and [Building%20%28Civ6%29](buildings) in your empire to affect [City%20Center%20%28Civ6%29](City Centers) 9 [Tile%20%28Civ6%29](tiles) away from their [District%20%28Civ6%29](district) instead of the usual 6. Becoming this city-state's Suzerain can strongly impact decisions about where to place your [Entertainment%20Complex%20%28Civ6%29](Entertainment Complexes), [Industrial%20Zone%20%28Civ6%29](Industrial Zones), and in "", [Water%20Park%20%28Civ6%29](Water Parks). If Suzerainty of Toronto is contested, it is usually better to yield the bonus of the city-state and make do with the normal effect radius of [Zoo%20%28Civ6%29](Zoos), [Stadium%20%28Civ6%29](Stadiums), [Factory%20%28Civ6%29](Factories), and [Power%20Plant%20%28Civ6%29](Power Plants) - the increased effect radius is helpful, but hardly ever game-breaking.

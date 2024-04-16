@@ -1,0 +1,2 @@
+# Monastic Isolation (Civ6)
+

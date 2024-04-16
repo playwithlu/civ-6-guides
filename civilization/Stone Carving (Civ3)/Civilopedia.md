@@ -1,0 +1,3 @@
+# Stone Carving (Civ3)/Civilopedia
+
+A key artistic and cultural skill in Mesoamerican society was stone carving. Without it, the majestic temples of Tikal, the glorious and mysterious walls of Machu Picchu, and the wondrous monuments of Tenochtitlan could not have been conceived. For centuries, artisans toiled over blocks of granite great and small, and forged a body of masonry that stands, to this day, as a testament to the ingenuity of ancient man.

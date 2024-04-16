@@ -1,0 +1,3 @@
+# Missionary (Civ6)/Path to Nirvana/Civilopedia
+
+A missionary is a person who feels called to spread their religion and convert non-believers to it. This process is called proselytization, and may be accompanied by charitable works on behalf of the prospective believers--or more forceful methods. Missionaries may be anointed religious, such as priests, or dedicated lay persons in the faith. Missionaries sometimes provide insight into the pre-contact cultures they reach out to, including documenting beliefs, rituals, and language, although often with the intent of replacing these with their preferred belief.

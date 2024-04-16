@@ -1,0 +1,4 @@
+# Flood Barrier (Civ6)/Civilopedia
+
+There is a long history of constructing earthworks to prevent flooding of low-lying habited areas. Levees to contain rivers have been built almost as long as urban centers have existed. Sea walls prevent the sea from inundating populated areas along the coast under most circumstances. These engineering feats are effective and can be long lasting if maintained—and they must be maintained or they can fail catastrophically.
+The Pondicherry sea wall was built in 1735 and protected that city from a tsunami in 2004 that caused intense devastation in many other areas in the Indian Ocean.

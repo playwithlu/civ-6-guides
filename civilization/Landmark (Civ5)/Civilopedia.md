@@ -1,0 +1,3 @@
+# Landmark (Civ5)/Civilopedia
+
+A Landmark is any magnificent artifact, structure, work of art, or wonder of nature that draws visitors to a location. Nelson's Column in London is a landmark, as is Mount Rushmore in the United States. Not every significantly sized object, however, is a landmark: the World's Largest Ball of Twine may never rise to that stature (though it might well be worth a visit).

@@ -1,0 +1,4 @@
+# Emperor Louis IV (Civ6)/Civilopedia
+
+Louis the Bavarian, the Holy Roman Emperor was the first Wittelsbach emperor of the Germans. His early reign was marked by struggles against both the Habsburg and Luxembourg families and their claimants for the imperial crown. This conflict spilled over into an ancillary conflict with the pope, who excommunicated Louis as a heretic. This proved somewhat awkward when Louis was crowned Emperor in Rome in 1328 by the Roman population. Louis’ reign as emperor was eventually secured mostly as a result of the death of his rivals and general exhaustion in the empire over the endless succession schemes of the major houses.
+Allied with Edward III of England, he was into opposition with France (and the Pope in Avignon), which exacerbated his political situation at home. At the time of his death near Munich in 1347, he had failed to establish the Wittelsbachs as a dominant house in Imperial politics.

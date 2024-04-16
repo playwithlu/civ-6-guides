@@ -1,0 +1,4 @@
+# Frog City Software
+
+Frog City Software was a game developer formed in 1994, responsible for the strategy games "[Imperialism%20%28game%29](Imperialism)" (which "was a critical and commercial success, surpassing its original sales goal more than seven-fold") in 1997, "[w%3Ac%3Aimperialism%3AImperialism%202](Imperialism II)" (which "matched the sales of its predecessor, exceeding sales goals by 50%") in 1999, "Trade Empires" in 2001, and "Tropico 2: Pirate Cove" in 1992 ("Sales topped 300,000 units, another critical and commercial success"). 
+Regrettably (in the opinion of many players), the company ceased to function around 2006. One of its principals expressed interest in participating in any remake.

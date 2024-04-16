@@ -1,0 +1,3 @@
+# Planned Economy (Civ4)/Final Frontier/Civilopedia
+
+Modern Planned Economies rely almost exclusively on the research of a single man - Dr. Edward E. Piper. Piper's creation of visionary economic simulators remains unparalleled to this day, and his centralized system of inputs allowed for two or three highly-trained theorists to create an economic model for an entire interstellar empire, greatly reducing the costs usually associated with maintaining an entire bureaucratic planning system. But because of the static nature of Piper's system, the radical theorist passing away in the late twenty-second century, production levels will never be able to reach heights equal to those of more modern systems.

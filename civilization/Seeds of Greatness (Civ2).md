@@ -1,0 +1,31 @@
+# Seeds of Greatness (Civ2)
+
+"Seeds of Greatness - The Early Empires" is a very well designed [scenario](scenario) for "[Civilization%20II](Civilization II)", by Paul "Kull" Cullivan (whose address was pculliva"at"whc.net). It is "ANCIENT EMPIRES SERIES #2" and is downloadable from [CivFanatics](CivFanatics).
+Scope and objectives.
+Map has a sliver of the eastern Adriatic, the southern halves of the Black and Caspian Seas (with a little Russia to the east), and most of the Persian Gulf, Egypt, and Libya. Lots of rivers, desert, dunes, and plain (though maybe too much solid grassland in places). Lots of goody huts.
+The scenario runs from "3500 BC" in 10-year turns until the mythical year 0. 
+The original seven capital cities (deliberately well defended) are the objectives. For a decisive victory you need all seven - so if you carelessly let an enemy destroy one it's your fault! For a marginal victory you need five. Fewer than three means decisive defeat. You get standard scoring and "titles" as well.
+Terrain.
+Terrain is standard Civ2 with a few exceptions, notably:
+Non-standard items.
+Advances, buildings, units, and Wonders, however, are largely redesigned to be more appropriate to the period. Some have the same names but some of those have different functions. For example, a Library is the standard-game University, preceded by School of Scribes. Food boxes have 20 rows, not 10. There are 21 Wonders, mostly standard in function if not in name, and they never expire (though two of them are purely cosmetic at all times). "Empire" says it's the same as standard Communism but is not: there is still some waste and corruption, fairly independent of capital distance (so you should not sell any Governor's Palace - i.e. Courthouse), but one compensation is that the first "four" units are maintenance-free.
+First year.
+At the start you are stated to be in year 3950 B.C. but it means 3490. If you go to cheat mode you may see that other nations have had their first turn. 
+The Minoans have two cities but the other six nations each have just the standard single city. Each of the eight cities is size 1 and has [City%20Walls%20%28Civ2%29](City Walls), a fortified veteran [Palace%20Guard](Palace Guard) (1/4/0), a veteran [Farmer](Farmer) (= settler) (but the Minoans have two), and a veteran [Skirmisher%20%28Civ2%29](Skirmisher) (2/1/2). A barbarian city in the north-east has a Palace Guard. 
+Minoans know [The%20Sail](The Sail), which would have required knowledge of six earlier techs, but their awkward situation needs compensation; Greeks and Persians know [Organized%20Warfare](Organized Warfare) (which allows City Walls); a couple of nations know their own culture, but it seems to be of no value. Most are studying [Pictographs](Pictographs), which will allow [Ceremonial%20Burial%20%28Civ2%29](Ceremonial Burial) (with [Horse%20Training](Horse Training)) and [Alphabet%20%28Civ2%29](Alphabet).
+Events.
+7 Event files specific to the 7 playable civs are available, but installing them with the provided .bat file may fail on some systems. Manually chosing the correct one for the civ you are playing is easy enough though; There are 7 files in the folder named Events-X.txt where each X is the initial letter of a civilization (A,B,E,G,H,M,P). Just delete the present Events.txt file and replace it with a copy of the correct "X" file, renamed to Events.txt of course. 
+Having no events is not critical, though it deprives you of not only events but also of free settler units, great leader units and [Special%20Unit](Special Unit)s such as Earthquake.
+Difficulties.
+A moderately competent Civ2 player should be able to achieve a marginal victory or better at King level as Greek, Egyptian or Babylonian and higher as Hittite; other civs may be harder, particularly the insular Minoans. Greeks and Persians are in corners a long way from most goody huts (and the Persians can't find advances in those), while the Assyrians have a poor capital site as well as potential early threats from three nearby rivals. 
+After 3000 BC, Sea Raiders are the worst problem, sometimes having unbelievable success when showing substantial damage, so you need to have more defensive units than seems fair in any city near a coast or lake.
+Global warming may strike, though probably only once despite later predictions. A swathe of drought-hit strips, only four tiles apart (which can be very hard on some cities), and maybe coastal swamping.
+Naval units.
+The first ship available is Early Sail, which carries one unit and does not need to end its turn in sight of land. A later similar but faster unit is the Merchant Ship. Later you can build a Troop Galley that carries three but needs to end in sight of land.
+Warships start with the Trikonter, which is handy for sinking other early ships but must end its turn on the coast. In the middle game you have biremes and triremes. Somewhat fearsome is the fast Quadrireme (6/3/8), costing 70, which can carry a passenger and deliver quite a punch (several in one turn) to ships and land units and ports ignoring city walls but being subject to the Claws of Archimedes (= Coastal Fortress); a little further up is the Quinquireme (7/4/8), costing 80, which carries 2. Near the top end is the slower Siege Galley (10/1/5), costing 120, which does not carry passengers but can similarly attack land units and ports more powerfully. At the top of the tech tree you can build a Dromon (8/2/6), costing 80, not really much better than a Quinquireme. 
+The need for many ships to end a turn in sight of land is obviated if you have The Pyramids.
+Possible disappointments.
+Somewhat disappointing is the large number of advances needed before you can build a land unit with a defensive strength of 3; and the first one is an engineer, who has better things to do than sit defending. You get them about five steps before Bridge Building!
+Another disappointment can be (as with other scenarios) a reversion to standard Civ2 on a reload; rare; still playable but distorting the game (e.g. by stripping the copper and olives tiles and by converting the Palace Guard to a spy, hopeless for defending but great for free embassies etc.).
+Game reports.
+The first author of this page has lengthy reports on the backs of envelopes but may publish if someone asks.

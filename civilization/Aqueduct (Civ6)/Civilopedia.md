@@ -1,0 +1,3 @@
+# Aqueduct (Civ6)/Civilopedia
+
+The remains of aqueducts – man-made watercourses – have been found scattered about ancient settlements around the world ... Egypt, India, Persia, Greece, Azteca, and especially across the once-Roman lands. Over 415 kilometers (about 258 miles) of aqueducts brought fresh water to the metropolis of Rome for drinking and bathing. These Roman aqueducts were marvels of engineering (considering the times) and often roofed, so also serving as bridges where they crossed ravines and waterways. Although there were some health issues involved in the design of aqueducts (notably the sometime use of lead to line them), in general a supply of relatively-clean water was a boon to any town hoping to grow into a city.

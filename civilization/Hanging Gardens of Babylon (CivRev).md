@@ -1,0 +1,5 @@
+# Hanging Gardens of Babylon (CivRev)
+
+The Hanging Gardens of Babylon is a [Wonder%20%28CivRev%29](wonder) in "[Civilization%20Revolution](Civilization Revolution)".
+To build it, the player must first discover [Pottery%20%28CivRev%29](Pottery). This Great Wonder increases [Population%20%28CivRev%29](population) of a [City%20%28CivRev%29](city) by 50%, which can really help to get your city up and growing. If the city that builds it has an odd population, it always rounds UP - a city of size 7 that builds it will become 11 (not 10), for example. For this reason, it may be advantageous to wait to build it if your city's population is even but will be odd soon, as it would then provide an extra population when finished - as long as no other [List%20of%20civilizations%20in%20CivRev](civilization) finishes it first!
+A city of size 21 or greater that builds the Hanging Gardens - should it go unbuilt long enough for that to happen - will become the maximum city size of 31, the excess being lost.

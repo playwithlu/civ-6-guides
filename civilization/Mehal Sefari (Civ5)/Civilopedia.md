@@ -1,0 +1,3 @@
+# Mehal Sefari (Civ5)/Civilopedia
+
+The Mehal Sefari was an elite unit of Imperial guardsmen who protected the emperors of Ethiopia in the 19th and 20th centuries. Originally serving as the personal bodyguards for the emperors of Ethiopia, the Mehal Sefari grew to become a formidable brigade of the Ethiopian military. Consisting of specialized units of infantry, cavalry, artillery and marksmen, the Mehal Sefari's status as the elite force of Ethiopia was ensured by the rigorous training and modern equipment provided to them.

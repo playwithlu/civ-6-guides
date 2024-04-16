@@ -1,0 +1,3 @@
+# Keshig (Civ6)/Civilopedia
+
+The Mongolian keshig were the elite imperial guard of the Great Khan. These mounted warriors, originally comprised of Genghis Khan’s most loyal fighters, grew to 10,000 strong among later khans. The keshig were well equipped, using their composite bows and mobility to harry opponents from a distance. As horse archers, they were second to none. Their peculiar rank as the Khan’s guard put them above even the commanding officers of an army—unsurprising, for they were predominantly composed of young warriors from prominent households.

@@ -1,0 +1,3 @@
+# Military Engineer (Civ5)/Civilopedia
+
+Military engineering is loosely defined as the art of designing and building military fortifications and maintaining the lines of military transport and communications. In the Civil War, with recent advances in technology, military engineers were not only responsible for field and permanent fortifications, bridges and bases, but tasked with constructing and repairing the rail and telegraph lines that so dramatically changed the nature of warfare.

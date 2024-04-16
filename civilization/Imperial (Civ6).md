@@ -1,0 +1,3 @@
+# Imperial (Civ6)
+
+The Imperial people represent the Holy Roman Empire, a playable [Civilizations%20%28Civ6%29](civilization) from [The%20Black%20Death%20%28Civ6%29](The Black Death), a [List%20of%20scenarios%20in%20Civ6](scenario) in "". They are led by [Emperor%20Louis%20IV%20%28Civ6%29](Emperor Louis IV), and their [Unique%20ability%20%28Civ6%29](civilization ability) is "Teutonic Order," which replaces their [Swordsman%20%28Civ6%29](Swordsmen) with [Teutonic%20Knight%20%28Civ6%29/The%20Black%20Death](Teutonic Knights).

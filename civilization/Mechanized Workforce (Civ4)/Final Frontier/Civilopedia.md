@@ -1,0 +1,4 @@
+# Mechanized Workforce (Civ4)/Final Frontier/Civilopedia
+
+Extremely popular in Technocracies or principalities with low populations, the modern mechanized workforce can trace its routes all the way back to the original industrial robots employed as painters or welders in the mass production facilities of yesteryear. Due to the limited technical knowledge of their creators, ancient industrial robots were capable of little beyond the most repetitive of jobs.
+In contrast, modern mechanized "Guild" systems employ a throng of general purpose "Novice" bots to ready the raw materials for the highly specialized "Master" machines with sophisticated AI routines, which have been known to enter flurries of creative and innovative development that could rival the greatest human craftsmen of the past. The efficiency of this system increases production significantly wherever it is adopted, but tends to draw resentment from human society's less mechanically inclined.

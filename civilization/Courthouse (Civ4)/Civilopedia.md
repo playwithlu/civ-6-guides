@@ -1,0 +1,3 @@
+# Courthouse (Civ4)/Civilopedia
+
+As kingdoms and empires expanded, it became increasingly difficult for the rulers to maintain control over the more distant regions of their realm. To ensure that the far-flung cities of the empire contributed their expected share of duties and taxes to the government, rulers constructed courthouses to help unify their domains. These local centers of government meted out justice and helped preserve order in the midst of the furthest wilderness.

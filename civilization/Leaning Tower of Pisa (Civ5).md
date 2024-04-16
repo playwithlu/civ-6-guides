@@ -1,0 +1,4 @@
+# Leaning Tower of Pisa (Civ5)
+
+Strategy.
+The Leaning Tower of Pisa may help all players, but especially so those making small, contained empires. It can help [Cultural%20victory%20%28Civ5%29](cultural victory) and [Scientific%20victory%20%28Civ5%29](scientific victory) alike. One possible option is to take a [Great%20Engineer%20%28Civ5%29](Great Engineer) upon completing this wonder and immediately use it to complete another Renaissance wonder, like the [Porcelain%20Tower%20%28Civ5%29](Porcelain Tower) (scientific), [Sistine%20Chapel%20%28Civ5%29](Sistine Chapel) (cultural), [Globe%20Theatre%20%28Civ5%29](Globe Theatre) (cultural), or [Uffizi%20%28Civ5%29](Uffizi) (cultural). Combine it with the [Ideology%20%28Civ5%29](Freedom) Ideology later to enhance this effect.

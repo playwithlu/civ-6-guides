@@ -1,0 +1,7 @@
+# Flight (Civ6)
+
+Flight is an [Modern%20Era%20%28Civ6%29](Modern Era) [Technologies%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by building an Industrial Era or later Wonder.
+Strategy.
+It is said that man has dreamed of conquering the skies from time immemorial, and in the Modern Era he finally manages it. Thanks to the inexorable progress of technology and science, man figures out how to get himself into the air, and stay there without falling immediately to his death.
+The invention of Flight means another quantum leap for mankind. To empower it, your civilization will need a brand new : the [Aerodrome%20%28Civ6%29](Aerodrome). The first flight engineers also develop the basic flight-support structure inside the Aerodrome (the [Hangar%20%28Civ6%29](Hangar)), as well as outside it (the [Airstrip%20%28Civ6%29](Airstrip)). There, your first [Biplane%20%28Civ6%29](Biplanes) will be able to land safely and keep in shape for their next flight, while the new [Observation%20Balloon%20%28Civ6%29](Observation Balloons) will calmly soar in the skies to survey the underlying paysage.
+But flying is not only a military endeavor - it is also a peaceful one. Flight suddenly draws a wide world that much closer - where people previously needed months to traverse an ocean, they are now able to do it in days. And soon civilian travel accelerates to an unbelievable pace, which provides an unexpected boost to your civilization's .

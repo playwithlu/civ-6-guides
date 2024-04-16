@@ -1,0 +1,2 @@
+# Stealth Fighter (Civ2)
+

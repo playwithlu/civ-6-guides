@@ -1,0 +1,9 @@
+# Petra (Civ5)
+
+Petra is a [List%20of%20wonders%20in%20Civ5](Wonder) in "".
+Game Info.
+City must be built on or next to [Desert%20%28Civ5%29](desert).
+Strategy.
+Petra is one of the most powerful, but restricted Wonders in the game. Besides enhancing early trading, its main bonus can turn a desert into a veritable oasis, greatly helping the [City%20%28Civ5%29](city). If one of your starting cities is close to a [Desert%20%28Civ5%29](desert), you should absolutely try to build Petra; for this, you'll need to rush [Currency%20%28Civ5%29](Currency). Even if few or no tiles can benefit, the extra trade route is more than worth the cost. One problem might be that the city next to the desert doesn't have good capabilities; if so, you will really have to juggle your Citizens to make the most of the limited resources available to you and, if possible, establish an [International%20trade%20route%20%28Civ5%29](internal trade route) for extra resources.
+This Wonder is perfect in areas with a large amount of desert [Hill%20%28Civ5%29](hills), as the bonus applies on top of the 2 the hills provide, but otherwise it turns all regular desert tiles into the equivalent of [Plains%20%28Civ5%29](plains) tiles. Note that [Oasis%20%28Civ5%29](oasis) tiles also get the bonus - only [Flood%20plains%20%28Civ5%29](flood plains) (non-hill tiles next to a river) don't get it. And naturally, any tiles with [Resource%20%28Civ5%29](resources) on them will benefit greatly as well!
+[Moroccan%20%28Civ5%29](Morocco) and [Arabian%20%28Civ5%29](Arabia) are the only civilizations that have a desert [Starting%20bias%20%28Civ5%29](start bias), and are likely to get this wonder. A diplomacy-minded Arabia should get this wonder; a war-minded Arabia (with its [Camel%20Archer%20%28Civ5%29](Camel Archers)) might prioritize mobilization instead. Morocco definitely should get Petra, as the effect stacks well with [Kasbah%20%28Civ5%29](Kasbahs).

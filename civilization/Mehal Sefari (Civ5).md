@@ -1,0 +1,8 @@
+# Mehal Sefari (Civ5)
+
+Game Info.
+[Unique%20unit%20%28Civ5%29](Unique) gunpowder unit of the [Ethiopian%20%28Civ5%29](Ethiopian) [Civilizations%20%28Civ5%29](civilization). Replaces the [Rifleman%20%28Civ5%29](Rifleman).
+Strategy.
+This Mehal Sefari is purely defensive in nature, supporting the tactical advantages of the Ethiopians as a whole. It can really make the life of any army trying to attack the Ethiopian heartlands miserable. It is also generally stronger in rough [Terrain%20%28Civ5%29](terrain).
+This unit retains its special combat bonus after being upgraded, so train as many of them as you can before researching [Replaceable%20Parts%20%28Civ5%29](Replaceable Parts). By doing so, you can ensure that you will have a strong army to defend your for the remainder of the game.
+The Drill I [Promotions%20%28Civ5%29](promotion) can turn out to be more powerful than it looks: if these units are trained in a [City%20%28Civ5%29](city) with a [Barracks%20%28Civ5%29](Barracks), [Armory%20%28Civ5%29](Armory), and [Military%20Academy%20%28Civ5%29](Military Academy) combined with either the [Brandenburg%20Gate%20%28Civ5%29](Brandenburg Gate) or the [Total%20War%20%28Civ5%29](Total War) tenet of the [Ideology%20%28Civ5%29](Autocracy) ideology, Mehal Sefari turn into excellent rough terrain fighters that can have access to advanced promotions like March and Blitz. Given the promotions and the [List%20of%20technologies%20in%20Civ5](technology) requirements, Mehal Sefari, [Minuteman%20%28Civ5%29](Minutemen), and [Samurai%20%28Civ5%29](Samurai) are the only three non-[Zulu%20%28Civ5%29](Zulu) units which can acquire those powerful promotions right away without the need for [Alhambra%20%28Civ5%29](Alhambra).

@@ -1,0 +1,7 @@
+# Horses (Civ6)
+
+ Horses are an [Ancient%20Era%20%28Civ6%29](Ancient Era) [Resource%20%28Civ6%29%23Strategic](Strategic Resource) in "[Civilization%20VI](Civilization VI)". In [vanilla](vanilla) "Civilization VI" and ', they are the only resource of their type to be revealed at the beginning of the game; in ', they are revealed with [Animal%20Husbandry%20%28Civ6%29](Animal Husbandry).
+ Horses may be found on flatland [Grassland%20%28Civ6%29](Grassland) and [Plains%20%28Civ6%29](Plains) [Tile%20%28Civ6%29](tiles).
+Strategy.
+As the first strategic resource revealed on the [Map%20%28Civ6%29](map) from the very start (prior to "Gathering Storm"), Horses are very important for planning your initial expansion. They are a valuable and balanced resource for yield purposes and may aid your first [City%20%28Civ6%29](cities) quite a bit.
+ Horses are required to train all [List%20of%20units%20in%20Civ6/By%20class%23Light%20cavalry](light cavalry units) except the [Helicopter%20%28Civ6%29](Helicopter) (i.e., [Horseman%20%28Civ6%29](Horsemen), [Courser%20%28Civ6%29](Coursers), and [Cavalry%20%28Civ6%29](Cavalry), as well as some [Unique%20unit%20%28Civ6%29](unique units) in "Gathering Storm"). Whether or not you plan to make extensive use of these units, Horses are a valuable resource for trading to other [Civilizations%20%28Civ6%29](civilizations).

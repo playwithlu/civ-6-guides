@@ -1,0 +1,3 @@
+# Iron Working
+
+Iron Working (or Ironworking) is an early [List%20of%20technologies](technology) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)". It usually reveals the [Iron](Iron) [resource](resource) and allows the production of [Legion](Legion)s, [Swordsman](Swordsmen), or other [unit](unit)s that use iron weapons and armor.

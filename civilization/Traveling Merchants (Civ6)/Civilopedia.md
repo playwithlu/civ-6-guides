@@ -1,0 +1,3 @@
+# Traveling Merchants (Civ6)/Civilopedia
+
+Most villages, manors and towns in Medieval Europe were as self-sufficient as possible, so it was the more exotic and expensive luxuries in which a traveling merchant would trade. The Crusades, particularly, introduced the gentry and their vassals (those that survived the fighting) to the finer things … spices, fine woods, incenses, silk, and such. Even as the conquerors acquired a taste for these, the conquest of Palestine opened the trade routes from far corners of the East, and Italian traders were soon bringing all sorts of goods back. From the Italian and Byzantine ports, these imports were carried by traveling merchants, even to distant England and Scandinavia.

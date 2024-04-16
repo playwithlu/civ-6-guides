@@ -1,0 +1,4 @@
+# De Zeven Provinciën (Civ6)/Civilopedia
+
+For a fledgling nation bordering a small patch of the North Sea, the Dutch fleet of the late 17th Century was rather exceptional. Its powerful ships of the line were nearly half the length of a football field (either variety), armed with a minimum of 80 guns spread across two gun decks.
+A typical Dutch ship of this class was the flagship De Zeven Provinciën (“The Seven Provinces”), the naval backbone of multiple battles in the Anglo-Dutch wars—battles nobody expected a mercantile nation to win. Nevertheless, these ships proved the Dutch could hold their own against other (presumably) mightier naval powers.

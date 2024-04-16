@@ -1,0 +1,7 @@
+# Autocracy (Civ6)
+
+Autocracy is a form of Tier 1 [Government%20%28Civ6%29](government) in "[Civilization%20VI](Civilization VI)". It is unlocked by the [Political%20Philosophy%20%28Civ6%29](Political Philosophy) [Civic%20%28Civ6%29](civic).
+In ', this government's legacy bonus is conferred by Autocratic Legacy, a Wildcard [Policy%20card%20%28Civ6%29](policy) unlocked by changing governments after adopting Autocracy and constructing a Tier 1 government [Building%20%28Civ6%29](building) ([Ancestral%20Hall%20%28Civ6%29](Ancestral Hall), [Audience%20Chamber%20%28Civ6%29](Audience Chamber), or [Warlord%27s%20Throne%20%28Civ6%29](Warlord's Throne)).
+Strategy.
+Autocracy offers the most balanced selection of cards of the Tier 1 governments, making it a good generalist choice for any [Civilizations%20%28Civ6%29](civilization) that doesn't have any particular strategy. Its real selling point is the boost to [Wonder%20%28Civ6%29](wonder) , which immensely helps any -focused civ.
+When playing as [Qin%20Shi%20Huang%20%28Civ6%29](Qin Shi Huang), you have no excuse not to pick this government. Combined with his [List%20of%20leader%20abilities%20in%20Civ6](leader ability), the [Monument%20to%20the%20Gods%20%28Civ6%29](Monument to the Gods) [Pantheon%20%28Civ6%29](pantheon), and the [Corv%C3%A9e%20%28Civ6%29](Corvée) policy card, one build charge contributes 21% of a wonder's cost.

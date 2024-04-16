@@ -1,0 +1,3 @@
+# Quinquereme (Civ5)/Civilopedia
+
+One of the many ship designs utilized by [Carthaginian%20%28Civ5%29](Carthage) and [Roman%20%28Civ5%29](Rome), the heavily-armed Quinquereme was among the most well known. These vessels took their name from the use of five rowers for each of the vertically aligned oars that were set in columns running down the sides of the ship. Although exact numbers are unknown, these heavy ships are thought to have carried several hundred men, both crew and soldiers alike. The Quinqueremes of Carthage were known to be of the highest quality construction, as the design is said to have originated among the North African naval engineers, only to be copied later by the Romans.

@@ -1,0 +1,3 @@
+# Monastery (Civ6)/Civilopedia
+
+A monastery, in the Roman Catholic tradition, is a complex of buildings that serves as communal home and workplace for monks (and nuns, in modern usage termed “convents”). These also include someplace reserved for prayer, such as a chapel or church. And many housed hospitals, schools, distilleries, and more. According to legend, Christian monasticism began in Egypt, although the first monastery in Europe was founded c. 344 AD near Chirpan (Bulgaria) by St. Athanasius. A couple centuries later, in 529, Saint Benedict established the monastery at Monte Cassino, laying the pattern for Catholic monasticism. Monasteries soon began appearing all over Europe, and beyond.

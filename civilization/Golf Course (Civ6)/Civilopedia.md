@@ -1,0 +1,4 @@
+# Golf Course (Civ6)/Civilopedia
+
+There is one singular, undeniable historical constant: people have always enjoyed hitting balls with sticks. Scotland’s turf happened to be a perfect place to hit balls with sticks across large stretches of land. Thus “golf,” which means, “hitting a ball with a stick across a large stretch of land.” Golf courses became the stretches of land in question, frustrating generations of golfers with sand traps, lakes, the rough, and drops from highlands.
+Golf (as played today) managed to survive and thrive despite various attempts at banning the sport, by people such as King James II (who the Scots rightly ignored) and even the Scottish Church, who did not want it played during holy days. The Church’s larger complaint was with golfers playing in churchyards, which were a very particular sort of hazard.

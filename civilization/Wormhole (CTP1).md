@@ -1,0 +1,5 @@
+# Wormhole (CTP1)
+
+Wormholes occur only in . The Wormhole becomes visible after the completion of the . One victory condition requires a Civilization to send a into the Wormhole.
+Great Library entry.
+Thousands of years ago ancient astrologers wrote about a gleaming purple eye that opened in the heavens when certain stars were properly aligned. Modern astronomers dismissed such legends as superstitious nonsense until Alien artifacts discovered on Mars hinted at a more provocative truth. Accumulated evidence points to the existence of an artificial gate, a wormhole capable of folding space and time somewhere in Earth's orbit. Current sensor technology is unable to detect the strange emissions that such an object must create, but scientists around the world are working to build a device for just that reason. Whoever gets to the wormhole first will have a head start towards solving the greatest riddle in history.

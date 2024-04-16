@@ -1,0 +1,5 @@
+# Capture the Princess (Civ3)
+
+ (also called Capture the Flag) is a game variation introduced in "".
+Rules and Gameplay.
+Capture the Flag is a new method of scoring victory points. Each player starts with a "[Princess%20%28Civ3%29](Princess)" unit. This unit has no unit actions and can be captured. The Princess unit is immobile until it is captured, at which point it moves with its owning unit at its speed. The Princess unit starts in the controlling players Capital. The goal for each player is to capture this unit and return it to their own capital, bestowing them with 10,000 victory points. You may capture the Princess when any unit is in the tile with the Princess and executes the "Pickup" unit action. Once captured, the Princess unit is spawned again at the original owners Capital City. If there is no suitable city for the Princess to re-spawn in, it remains in the captor's Capital and bestows another 10,000 points upon that player.

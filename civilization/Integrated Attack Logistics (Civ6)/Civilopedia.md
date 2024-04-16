@@ -1,0 +1,3 @@
+# Integrated Attack Logistics (Civ6)/Civilopedia
+
+It is necessary to sustain military operations through logistics, and this study constitutes some of the most important work done by a military’s general staff. Integrated attack logistics is the idea of creating an offensive military force with a robust system for resupply that can be deployed with the force. Airmobile corps, strategic rapid-deployment units, and Marine Corps are all examples of the kinds of military forces that make use of strongly integrated logistics.

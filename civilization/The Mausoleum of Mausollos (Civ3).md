@@ -1,0 +1,3 @@
+# The Mausoleum of Mausollos (Civ3)
+
+ is a [List%20of%20wonders%20in%20Civ3%23Great%20Wonders](Great Wonder) in "". It requires . It makes three unhappy s content in its . This Great Wonder can become a [tourist%20attraction%20%28Civ3%29](tourist attraction), and may trigger a [Golden%20Age%20%28Civ3%29](Golden Age) for [Scientific%20%28Civ3%29](Scientific) and [Seafaring%20%28Civ3%29](Seafaring) .

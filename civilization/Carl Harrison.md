@@ -1,0 +1,3 @@
+# Carl Harrison
+
+Carl Harrison is a video game designer and writer who currently works for [Firaxis%20Games](Firaxis Games) as a QA lead. He is known for providing quality assurance and testing for ', ', ' and its ' expansion, "[Sid%20Meier%27s%20Starships](Sid Meier's Starships)", and "[Civilization%20VI](Civilization VI)". He also assisted with the writing of "Brave New World", "Rising Tide", and "Civilization VI".

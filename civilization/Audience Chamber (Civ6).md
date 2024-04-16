@@ -1,0 +1,5 @@
+# Audience Chamber (Civ6)
+
+The Audience Chamber is a Tier 1 [Government%20%28Civ6%29](government) [Buildings%20%28Civ6%29](building) in "". It is built in the [Government%20Plaza%20%28Civ6%29](Government Plaza) [District%20%28Civ6%29](district) and requires a Tier 1 government ([Autocracy%20%28Civ6%29](Autocracy), [Classical%20Republic%20%28Civ6%29](Classical Republic), or [Oligarchy%20%28Civ6%29](Oligarchy)).
+Strategy.
+The Audience Chamber is a huge help if you're building a tall empire. An extra 2 and 4 in [City%20%28Civ6%29](cities) with established [Governor%20%28Civ6%29](Governors) will help them grow larger and more productive. It's particularly useful in situations where you aren't a warmonger and there's a shortage of surrounding land. The -2 [Loyalty%20%28Civ6%29](Loyalty) in cities without Governors is quite inconsequential, so don't worry too much about it. Finally, it's advisable to move Governors to cities that need extra once the ones in which they're established have built the maximum number of districts, since the districts and Population remain even if the goes below the required level.

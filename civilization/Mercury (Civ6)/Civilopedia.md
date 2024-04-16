@@ -1,0 +1,3 @@
+# Mercury (Civ6)/Civilopedia
+
+Mercury – or quicksilver – is one of only two elements that is a liquid under normal conditions of temperature and pressure. Although known for centuries, it was more a curiosity than useful; in China and Tibet it was thought to prolong life and maintain vigor, while the Greeks put it in ointments, and the Romans in cosmetics (they’d all be shocked to learn it has serious adverse health effects). It wasn’t until the Scientific Revolution that it proved useful in things like thermometers, barometers, manometers, blood pressure gauges, mercury switches, and all kinds of other devices.

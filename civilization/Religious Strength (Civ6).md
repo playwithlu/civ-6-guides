@@ -1,0 +1,2 @@
+# Religious Strength (Civ6)
+

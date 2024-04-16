@@ -1,0 +1,3 @@
+# Nurhaci (Civ5)/Civilopedia
+
+Esteemed chieftain Nurhaci of the Jurchen is credited with uniting the nomadic Jurchen tribes of China and creating the foundations of the Manchu Dynasty. Leading during the latter half of the 16th century, Nurhaci was the first Khan of the Jin Dynasty, which later came to be known as the Qing or Manchu Dynasty following his death. During his reign, Nurhaci set his people on a quest to overtake the rival Ming Dynasty of China and eventually the Choson Dynasty of Korea. Nurhaci is notably credited with the creation of the Eight Banners, an organizational system for his military that divided the troops into banner companies of varying size.

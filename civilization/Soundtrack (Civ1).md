@@ -1,0 +1,5 @@
+# Soundtrack (Civ1)
+
+The soundtrack of [Sid%20Meier%27s%20Civilization](the original "Civilization" game) was available in digital format. Most of original tunes were composed by [Jeff%20Briggs](Jeff Briggs), while others were taken from traditional or classic compositions, referring to each national culture ([Civilizations%20%28Civ1%29](civilization)) represented in the game. The same music used for the [Aztec%20%28Civ1%29](Aztecs) was also applied to the [Barbarian%20%28Civ1%29](Barbarians) whenever they invaded a [City%20%28Civ1%29](city).
+Tracks.
+Besides the main theme, sometimes known as "Civilization" Opening Theme", other tunes used in the game were [Ludwig%20van%20Beethoven](Beethoven)'s ' in the "[We%20Love%20the%20King%20Day%20%28Civ1%29](leader's day)" celebration in cities, as well as the '.

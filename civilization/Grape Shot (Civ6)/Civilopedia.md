@@ -1,0 +1,3 @@
+# Grape Shot (Civ6)/Civilopedia
+
+First used during the Hussite Wars in cannon and "hand-cannon" (clumsy pistols), grapeshot proved very effective against enemy infantry. In effect, grapeshot is a mass of small metal (or even stone) bits packed tightly in the barrel; when fired, the metal bits spread out like buckshot, although with far deadlier results. It was something new in warfare, for ancient artillery simply weren't capable of such a shotgun approach. At sea, grapeshot was used to clear the decks of enemy ships, although less effective than firing on a dense formation of soft targets in the open. In time, rather than just being shoveled in, the small bits were packed into special shells – canister shot – that broke open when fired.

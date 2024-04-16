@@ -1,0 +1,3 @@
+# Mint (Civ5)/Civilopedia
+
+A mint is an institution that creates a civilization's currency. In the past this would tend to be metal currency in the form of coins, but in modern times much of the world's currency is printed on paper. Mints are extremely important to a civilization's economic well-being. If a nation's currency is easily forged, it will be, and confidence in that nation's money supply will plummet, resulting in dangerous inflation (the perceived value of the currency declines) or worse. Modern money is printed with holograms, variable ink and security threads to deter counterfeiters, and no doubt additional features will be added as the forgers figure out how to copy those.

@@ -1,0 +1,3 @@
+# Camouflage (Civ6)/Civilopedia
+
+Stealth was always an advantage, especially for warriors fighting a more formidable foe. But the advent of the long-range musket and the Baker rifle made concealing oneself a survival necessity. During the French &amp; Indian War the rifle-armed Rogers’ Rangers wore gray and green uniforms, which blended in with the woodlands. During the Napoleonic Wars, the Portuguese Caçadores favored brown-jackets which helped conceal them. By the time of the First World War, all the major nations – save the French – had given up their red, white, and bright blue uniforms which made such lovely targets.

@@ -1,0 +1,5 @@
+# Colonial Offices (Civ6)
+
+Colonial Offices is a Diplomatic [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)". Prior to the [Civilization%20VI%20February%202021%20Update](February 2021 Update), it was an Economic Policy Card.
+Strategy.
+Colonial Offices is a good Diplomatic Policy to enact if you are an expansionist nation which likes to spread to faraway lands. A 15% growth boost isn't negligible, and could spur the growth of new [City%20%28Civ6%29](cities) considerably. But remember that this will be nearly useless without the proper infrastructure. Also keep in mind that the policy will act only for cities "not" on your original [Continent%20%28Civ6%29](continent), and not for all cities! Thus, if you are a small empire, and haven't had the chance to spawn near the fault line of two continents, Colonial Offices will be useless to you.

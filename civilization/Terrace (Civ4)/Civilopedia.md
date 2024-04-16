@@ -1,0 +1,4 @@
+# Terrace (Civ4)/Civilopedia
+
+Much of the Incan empire was located on the steep slopes of the Andes Mountains. Such terrain posed a significant challenge to agriculture, as constant soil erosion made the ground less fertile, and heavy rains were quite likely to wash away the current crops (as well as the soil they stood on). Very early on, the Incan farmers mastered the art of constructing terraces upon which to grow their crops. These terraces created much flatter ground upon which to farm, which resulted in less soil erosion and greatly increased production.
+Creation of farming terraces in such steep terrain required a good deal of engineering skill (to build the necessary retaining walls), as well as an abundance of cheap manual labor and a sophisticated knowledge of irrigation. They were well worth the effort, however, and with them the Incans were able to sustain thriving cities in locations that other civilizations would have found totally inhospitable.

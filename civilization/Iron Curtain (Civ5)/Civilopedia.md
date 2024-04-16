@@ -1,0 +1,3 @@
+# Iron Curtain (Civ5)/Civilopedia
+
+The Iron Curtain was the symbolic, ideological and physical boundary that separated the decadent West from the "orderly" Soviet Union from the end of World War II to the end of the Cold War. The term itself was first used in a speech by Winston Churchill in March 1946 expressing British dismay at the continued occupation and repression of various East European countries. Although initially derided, Churchill's view that the Iron Curtain served only to keep people in and information out came to be accepted, and the use of the metaphor for the European Communist bloc became universal.

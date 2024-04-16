@@ -1,0 +1,6 @@
+# Island1ExitBigMap14 (C-evo)
+
+"MIFUDD_Island1ExitBigMap" is the name of one of the [predesigned%20maps%20%28C-evo%29](predesigned maps) created in 2009 by "mifudd", most of which have been heavily edited to give the human player a discernible advantage. Playing at Hard [difficulty%20level%20%28C-evo%29](difficulty level) should give a hard-fought win. Even insane level may be successful.
+The icon displayed when you highlight the map in your map menu says "210% Size, 15 Players". You start on a small round continent that would be an island but for a strip of tiles joining it to a far larger continent, which stretches from Arctic to Antarctic. Your capital is a port. Mountains discourage invaders, and some mountains will reveal resources once you research [Science%20%28C-evo%29](Science). The author has marked good city sites with roads.
+Most of the other 16 possible starting positions are close to you. Explore and make friends! You may find other city sites that are edited to advantage whoever has a city there.
+If you edit the map so as to start somewhere else, good choices are the starting position to the north-west and the most isolated starting position in the north. Nations occupying the peninsula designed for you are likely to play distinctly less well than you would.

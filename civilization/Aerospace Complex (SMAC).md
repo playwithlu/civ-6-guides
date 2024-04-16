@@ -1,0 +1,7 @@
+# Aerospace Complex (SMAC)
+
+ is a [base%20facility%20%28SMAC%29](base facility) in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)".
+Strategy.
+Aerospace Complexes can be built with the advent of . s and s built at a base with an Aerospace Complex start off with +2 [Morale%20%28SMAC%29](morale), and any damaged air unit can be repaired in one turn at such a base as long as said base is not under artillery bombardment. In addition, land units in a base that has an Aerospace Complex have a +100% defensive modifier against air units, not unlike that of a [Perimeter%20Defense%20%28SMAC%29](Perimeter Defense) against land units.
+Aerospace Complexes are also required to launch space satellites, such as defensive satellites such as [Orbital%20Defense%20Pod%20%28SMAC%29](Orbital Defense Pod)s and resource-extraction systems such as [Sky%20Hydroponics%20Lab%20%28SMAC%29](Sky Hydroponics Labs), [Nessus%20Mining%20Station%20%28SMAC%29](Nessus Mining Stations), and [Orbital%20Power%20Transmitter%20%28SMAC%29](Orbital Power Transmitters), and only bases with Aerospace Complexes gain the full benefits of the latter three.
+In the expansion, a faction that possesses [The%20Cloudbase%20Academy%20%28SMAC%29](Cloudbase Academy) will have an Aerospace Complex at every base, free of maintenance costs.

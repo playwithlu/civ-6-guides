@@ -1,0 +1,3 @@
+# Fish (Civ6)/Civilopedia
+
+Rich in protein and oils and minerals, fish have been a staple in the diet of humans since the Paleolithic Age, some 40 thousand years ago. Shell middens, piles of fish bones, cave paintings, and analysis of the Tianyuan Man show that freshwater fish were regularly consumed by prehistoric primitives. As technology developed, especially in the realm of sea-going boats, fish and all things that came from them, became ever more available to civilizations. To the point now that overfishing the Earth’s oceans threatens to depopulate whole species.

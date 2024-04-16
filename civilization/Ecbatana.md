@@ -1,0 +1,4 @@
+# Ecbatana
+
+Ecbatana, also known as Agbatana, is a [Persian](Persian) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. In real life, it was an ancient city, which was first the capital of Media, and later was an important city in Persian, Seleucid, and Parthian empires in present-day Iran.
+In [scenario](scenario)s, it may appear as the [Median](Median) [capital](capital) in [Mesopotamia](Mesopotamia), the Persian capital in [Wonders%20of%20the%20Ancient%20World](Wonders of the Ancient World), and a [Sasanian](Sasanian) city in [Fall%20of%20Rome](Fall of Rome).

@@ -1,0 +1,6 @@
+# Wagon Trains (Civ5)
+
+Wagon Trains is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It was added in "[Brave%20New%20World](Brave New World)". It is part of the [Commerce%20%28Civ5%29](Commerce) tree.
+Keeping the transport infrastructure in good shape is paramount for good trade. But throughout the centuries few innovations have had a more beneficial effect on trade than establishment of organized wagon trains - large groups of cargo carts accompanied by replacement animals, guards and supply loads, which are able to stop at pre-established post stations to rest and resupply on-the-go. As a result, not only were trade caravans able to trade more effectively, but they also damaged the roads much less. 
+Strategy.
+This is a great opening Policy for this Tree, which substantially reduces costs for large empires (which generally have a larger road network). But besides the immediate increase in available cash, you will be able to benefit better from all your land s. There are few cons to adopting this as your first [Commerce%20%28Civ5%29](Commerce) Policy, unless you're in a war and could really use an interesting new unit such as the [Landsknecht%20%28Civ5%29](Landsknecht). 

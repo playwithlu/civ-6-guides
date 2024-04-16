@@ -1,0 +1,8 @@
+# Physics (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The evolution of theories to explain the nature of physical space and the relationships between objects led to many new ideas about the world and the way things work. The revelation of Isaac Newton's theories of Physics led to countless breakthroughs in science, and it's discovery in Call To Power II opens the door to myriad new .
+Great Library entry.
+The epochal book Philosophiae Naturalis Principia Mathematica (1687; Mathematical Principles of Natural Philosophy) was the culmination of Sir Isaac Newton's scientific work, and represented a landmark in the scientific revolution of the late 17th century. It solved the major problems in mechanics and in cosmology that many had grappled with. It provided a physical basis for Kepler's laws and asserted one set of laws for both celestial and terrestrial physics. Newton introduced the concept of force, and, through the establishment of his three laws of motion, was able to explain mechanical philosophy and the mathematics of nature.
+The problems and methods he established were the focus of astronomy and physics for more than a century. Newtonian physics explained nearly all phenomena at the macroscopic level, including the origin and nature of gravitational and electromagnetic forces. It also had a profound effect on the understanding of optics, acoustics, heat and the physical properties of matter. Newton's work influenced the entirety of mechanics study until well into the 20th century.

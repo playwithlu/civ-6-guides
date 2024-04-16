@@ -1,0 +1,2 @@
+# AI trait (Civ6)
+

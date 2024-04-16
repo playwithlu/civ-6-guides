@@ -1,0 +1,3 @@
+# Martyr (Civ6)/Civilopedia
+
+Every religion seems to have its (long) list of martyrs, those willing to suffer torture and death for their beliefs. Most of them – though not all – had profound effects on their faith, often engendering all sorts to follow their lead in dying for god or gods. Most of them – though not all – are considered “holy” only by those of their faith. After their death, all sorts of their belongings – sandals, nails, bones, cups, and other odd bits – are also considered holy. And all these relics get housed in temples, churches, and monasteries where the faithful can make pilgrimage to see them.

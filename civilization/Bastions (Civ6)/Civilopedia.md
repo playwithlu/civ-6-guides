@@ -1,0 +1,3 @@
+# Bastions (Civ6)/Civilopedia
+
+A bastion is an angular bulwark projecting out from a fortified wall, usually with two faces and two flanks; from the flanks missile fire could be directed along the wall against attackers that would otherwise be screened from above. Although more common in the Middle Ages, early examples can be found that were constructed during the Roman Empire. The Romans fortified their cities with massive, mortar-bound stone walls, and later – when those annoying barbarians started pushing past the borders – added bastions to several of these (such as the Aurelian walls of Rome and Theodosian walls of Constantinople).

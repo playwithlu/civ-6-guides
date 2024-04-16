@@ -1,0 +1,3 @@
+# Dai Viet (Civ5)/Civilopedia
+
+The Golden Age of the Dai Viet period of Vietnam started with the founding of the Ly dynasty in 1009 AD. It is here when the country gained a formal strategic vision and started to focus more on building a strong economy and completing civil works projects. Seeing such a valuable jewel on its borders, the Mongols attempted to invade the Dai Viet in 1257, 1284, and 1288, all unsuccessfully. The Dai Viet did what most other nations at the time could not - they avoided the superior Mongol forces in the open field and fought the horsemen only where they had the upper hand, securing the independence of their nation.

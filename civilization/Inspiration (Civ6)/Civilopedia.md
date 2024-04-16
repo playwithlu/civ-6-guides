@@ -1,0 +1,3 @@
+# Inspiration (Civ6)/Civilopedia
+
+Some new ideas come from trial and error; others, from inspiration (artistic, imaginative, or perhaps divine). Whatever the source, inspiration has brought about many notable advances in scientific knowledge and technology. Commonly known as the 'Eureka' moment (as any mad scientist knows), the term comes from a story about the Greek polymath Archimedes’ sudden epiphany c. 250 BC concerning how to prove whether a crown was pure gold or not. Inspiration cannot be called upon as desired; in fact, a recent study by Mareike Wieth and Rose Zacks suggests that insight and innovation are greatest when an individual is not at his/her best. So there’s hope for us yet.

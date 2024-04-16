@@ -1,0 +1,3 @@
+# Lighthouse (Civ5)/Civilopedia
+
+Since man has taken to the sea in ships, he has built beacons on the shore to guide returning vessels back to harbor and to warn their captains of perilous shoals and rocks. The earliest known lighthouse was the Pharos (Great Lighthouse) of Alexandria. Constructed on the small island of Pharos just off of the coast of Alexandria, it survived for over a thousand years, guiding countless thousands of vessels to Alexandria's safe harbor.

@@ -1,0 +1,3 @@
+# Scorched Earth (Civ5)/Civilopedia
+
+An ancient strategy, "scorched earth" refers to campaigns aimed at destroying everything that might be useful to the enemy, including civilian property. In the Civil War, faced with a war that had lasted long enough to prove increasingly unpopular on the home front, the United States initiated the policy, most famously during Sherman's march to the sea and Sheridan's campaign in the Shenandoah Valley.

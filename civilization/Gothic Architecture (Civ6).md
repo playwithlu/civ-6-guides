@@ -1,0 +1,5 @@
+# Gothic Architecture (Civ6)
+
+Gothic Architecture is an Economic [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Gothic Architecture replaces the earlier [Corv%C3%A9e%20%28Civ6%29](Corvée) as the Economic Policy boosting [Wonder%20%28Civ6%29](Wonder) construction for the [Medieval%20Era%20%28Civ6%29](Medieval) and [Renaissance%20Era%20%28Civ6%29](Renaissance Era). It is arguably much more useful simply because you have more Economic slots in later [Government%20%28Civ6%29](governments)...and consequently, more opportunities to use it. But even more importantly, Wonders from these [Era%20%28Civ6%29](eras) are some of the most powerful in the game, and include three of the four wonders which add extra slots in any government ([Alhambra%20%28Civ6%29](Alhambra) for a Military slot, [Forbidden%20City%20%28Civ6%29](Forbidden City) for a Wildcard slot, and the [Potala%20Palace%20%28Civ6%29](Potala Palace) for a Diplomatic one). So, you are well advised to use this Policy and try to build wonders at this point in the game.

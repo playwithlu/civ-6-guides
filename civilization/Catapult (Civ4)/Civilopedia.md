@@ -1,0 +1,3 @@
+# Catapult (Civ4)/Civilopedia
+
+The catapult was one of the earliest forms of artillery, with records indicating that they were in use by the Greeks as far back as 400 BC. It was a large mechanical arm that propelled heavy stones and other missiles from a great distance, battering down walls and inflicting damage on buildings and defenders. Catapults could easily launch projectiles 500 to 1000 feet with a surprising amount of force behind them. Though cumbersome and nearly useless on the battlefield, the catapult was an effective weapon for siege operations.

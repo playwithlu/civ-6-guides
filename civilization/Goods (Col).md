@@ -1,0 +1,6 @@
+# Goods (Col)
+
+In "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)", there are 16 different goods that can be produced or traded. Some are raw materials extracted from the land, while others must be manufactured in specialist [building%20%28Col%29](buildings) inside colonies.
+All goods may be bought and sold in [Europe](Europe). Cotton, Furs, Sugar, and Tobacco can also be bought from the [Indians%20%28Col%29](Indians). All manufactured goods, plus Trade Goods, may be sold to Indians, subject to demand. Trade Goods may only be purchased in Europe; you cannot make them yourself.
+FreeCol differences.
+[Grain](Grain) and [Fish](Fish) are considered goods in FreeCol. They are automatically converted into [Food](Food) when they are collected from their respective terrain tiles. Grain will feed [Horses%20%28Col%29](Horses); Fish will not. [Liberty%20bell](Liberty bell)s, [hammer%20%28Col%29](hammers) and [crosses%20%28Col%29](crosses) are also classified as goods in FreeCol, but they may not be bought or sold -- they can only be produced.

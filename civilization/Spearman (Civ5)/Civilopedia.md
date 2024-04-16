@@ -1,0 +1,3 @@
+# Spearman (Civ5)/Civilopedia
+
+The earliest spears were doubtless straight pieces of wood with crudely-sharpened ends; these would quickly break or become dull with service. The spear didn't become a reliable weapon until some early innovator discovered that he could harden the tip by lightly charring it over a fire. Eventually stone tips were employed, then of course metal. Spears are fairly simple weapons to learn, and they can be produced rapidly and cheaply, so they tend to be the backbone of early civilizations' armies.

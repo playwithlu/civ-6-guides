@@ -1,0 +1,3 @@
+# Flyer (Civ5)/Civilopedia
+
+They Flyer began as an inventor's novelty, one of the many results of the widespread participation in science brought on by the age of Steam. Advancements in propulsion had done wonders for land and sea vehicles: why not apply them in the pursuit of the eternal dream of human flight? The engine mounted on the fuselage was bulky, so every ounce of weight had to be save if the plane was to fly. Cloth was used instead of metal wherever possible. later, as technology advanced, weapons were mounted on it and liberties were taken with the original design.

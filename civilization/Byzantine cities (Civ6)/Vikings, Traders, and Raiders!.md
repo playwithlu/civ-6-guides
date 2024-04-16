@@ -1,0 +1,4 @@
+# Byzantine cities (Civ6)/Vikings, Traders, and Raiders!
+
+ are [City%20%28Civ6%29](cities) that can be founded by the [Byzantine%20%28Civ6%29/Vikings%2C%20Traders%2C%20and%20Raiders%21](Byzantine) [Civilizations%20%28Civ6%29](civilization) in the [Vikings%2C%20Traders%2C%20and%20Raiders%21%20%28Civ6%29](Vikings, Traders, and Raiders!) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". They cannot build [Settler%20%28Civ6%29](Settlers) to found cities, but they can still capture enemy settlers and start cities with them. The first city founded is the , and the names of future cities are chosen in the order they appear on the list below. After the foundation of all cities from the list, [German%20cities%20%28Civ6%29](German cities) and then [French%20cities%20%28Civ6%29](French cities) will be founded.
+The names listed are default names; players can change their cities' names if they choose.

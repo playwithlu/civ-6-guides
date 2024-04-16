@@ -1,0 +1,3 @@
+# Trapping (Civ5)/Civilopedia
+
+Humans have been trapping animals for millennia. It's a form of hunting that is nearly as old as man himself. Throughout history hunters have used a huge variety of traps to ensnare their prey - employing everything from covered pits to hidden nets to spring-jawed metal contraptions. In 17th-18th century North America, French-Canadian trappers would spend years in the wilderness trapping huge quantities of fur-bearing animals before bringing them to an eastern settlement for sale, with many of the valuable pelts ending up as hats and other garments adorning wealthy Europeans. Russian hunters did much the same in Siberia and other remote Eurasian territories.

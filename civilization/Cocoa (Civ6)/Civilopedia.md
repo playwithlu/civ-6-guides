@@ -1,0 +1,3 @@
+# Cocoa (Civ6)/Civilopedia
+
+Chocolate comes from cocoa beans, and cocoa beans come from the cacao tree, an evergreen native to Central and South America. Cultivation of the beans was extensive in early Mesoamerican civilizations; residue of chocolate drinks have been found in Olmec ruins dating back to c. 1750 BC. Introduced by the Spanish to Europe, by the mid-1700s cocoa was immensely popular there as a hot beverage, cooking ingredient, and even as a medicine.

@@ -1,0 +1,3 @@
+# Swordsman (Civ5)/Civilopedia
+
+First appearing during the Bronze Age, the earliest swords were little more than extra-large daggers. It wasn't until the development of iron forging (in approximately 1200 BC in Europe) that swords became viable combat weapons. The earliest swords were short and sharp, designed primarily for stabbing. Further advances in iron-work allowed bigger swords, and by the Middle Ages monstrously-long and heavy two-handed swords could cleave through all but the toughest armor.

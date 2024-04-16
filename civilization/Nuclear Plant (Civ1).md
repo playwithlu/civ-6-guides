@@ -1,0 +1,5 @@
+# Nuclear Plant (Civ1)
+
+A Nuclear Plant can be built before a or , but it will have no effect on production until one of those are built. There is a risk of [Disasters%20%28Civ1%29](meltdown) before is discovered, especially if there is civil disorder.
+Civilopedia entry.
+Nuclear Power Plants burn atomic fuels through the process of nuclear fission to generate the heat and steam needed to produce electricity. Because it doesn't cause the pollution problems associated with the burning of fossil fuels, Nuclear Power is being examined as a possible alternative to these "dirty" sources of energy. However, the extremely dangerous nature of Nuclear Fission creates its own hazards, including the risk of a meltdown of the nuclear reactor. While the future of Nuclear Power is unclear now, continuing research in Nuclear Fusion may result in a safe and cheap source of power.

@@ -1,0 +1,4 @@
+# Metal Casting (Civ5)/Civilopedia
+
+Metal casting is the process by which a craftsman can make one or more metal objects by pouring molten metal into a mold. One of the oldest methods of making a mold is the "lost wax" procedure, which dates back at least to the third millennium BC. In this process, the craftsman creates a wax duplicate of the object around which is built the mold; the wax is then melted and flows out of the mold and is replaced by molten metal. Once the metal cools the mold is opened and the object is removed.
+Historically, sand and clay have been popular materials from which to construct molds. In later times molds have been constructed out of plastics and latex-like substances.

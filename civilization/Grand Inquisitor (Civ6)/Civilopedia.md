@@ -1,0 +1,3 @@
+# Grand Inquisitor (Civ6)/Civilopedia
+
+A Grand Inquisitor is a religious inquisitor of especially high rank, or one who operates as a sort of appeals court for the judgements of the inquisitors. They may handle negotiations between secular and religious bodies as to jurisdiction over crimes with a religious component. It’s hard to imagine anyone expressing delight at being summoned before a grand inquisitor.

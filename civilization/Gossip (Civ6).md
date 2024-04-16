@@ -1,0 +1,2 @@
+# Gossip (Civ6)
+

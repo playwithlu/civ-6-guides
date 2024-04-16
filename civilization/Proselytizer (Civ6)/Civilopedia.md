@@ -1,0 +1,3 @@
+# Proselytizer (Civ6)/Civilopedia
+
+Proselytizing seeks to convert others to one's faith, or at least convince them it has some redeeming points. In the process, proselytizers also seek to eradicate or limit the influence of other religions. Most faiths have those who seek to attract new believers; in the Baha’i faith it is strongly emphasized, and every faithful Mormon goes on a mission proselytizing door-to-door. For many, however, such activity is considered disrespectful, insulting, or annoying. In some countries, in fact, such proselytizing is illegal, and in most it is not condoned in schools, government buildings, and workplaces.

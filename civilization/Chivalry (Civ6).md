@@ -1,0 +1,5 @@
+# Chivalry (Civ6)
+
+Chivalry is a Military [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+This Military Policy replaces the earlier [Maneuver%20%28Civ6%29](Maneuver), and has the same effect, but for more modern [Units%20%28Civ6%29](units): [Knight%20%28Civ6%29](Knights) and [Cavalry%20%28Civ6%29](Cavalry) (and [Courser%20%28Civ6%29](Coursers) and [Cuirassier%20%28Civ6%29](Cuirassiers) in ""), as well as their [Unique%20unit%20%28Civ6%29](unique) replacements. Note that if your [Technologies%20%28Civ6%29](technological) development hasn't kept up with your [Civics%20%28Civ6%29](civic) development, and you haven't yet unlocked these units, researching [Divine%20Right%20%28Civ6%29](Divine Right) (the Civic which enables Chivalry) will also make Maneuver obsolete, and may hinder you more than help you! However, Divine Right is a very important Civic for other reasons, so you may not have much choice. In this case, try to make good use of Maneuver before you finish researching Divine Right, and then try to unlock more modern cavalry ASAP.

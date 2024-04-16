@@ -1,0 +1,8 @@
+# Corporate Republic (advance) (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Corporate Republics are modern, efficient empires that are good for . A booming economy fuels a vibrant research community. People tend to be , the is healthy and are .
+Great Library entry.
+The late 20th century bore witness to the rise in power and influence of the private business corporation. Particularly in the United States and Western Europe, corporations rode a wave of government deregulation and erosion of anti-trust legislation to unprecedented economic power. Corporate campaign contributions to politicians began to steer legislators in the direction of preserving corporate interests at all costs, even at the expense of individual rights.
+Though many international free trade agreements were hailed as bold new measures for the proliferation of trade and the bolstering of commerce, they only served to enable multinational corporations to take their manufacturing operations to third-world countries filled with cheap, exploitable labor. Corporate control of all major media outlets, including network and cable television, radio, newspapers and magazines helped shield the public from their agenda. Because modern society relied so much on media sources such as nightly news reports, they often failed to get independent, impartial journalism about corporate conduct in politics. Despite sporadic outbreaks of civil unrest in early 2000, popular elections continued to be dominated by corporate-sponsored candidates who further advance the agenda of their private benefactors, and the gap between rich and poor continued to widen across the world.

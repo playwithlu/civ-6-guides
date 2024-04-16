@@ -1,0 +1,5 @@
+# Composites (Civ4)/Civilopedia
+
+The term "composite" refers to any object that is made up of more than one material. Composites were used quite early in human history; composite bows have been discovered dating back to 1300 BC. The composite technology refers to the late 20th century invention of various metal and plastic composites with greater strength, lightness, and other special properties than the base materials.
+Kevlar, the modern battle armor, is a composite material. Modern tanks are constructed of steel-boron nitride composites. Stealth airplanes use composite materials that are much more difficult to spot on radar. The tungsten-carbide composite is used in drill bits and wedding rings.
+Composite materials often demand extremely complex and precise manufacturing processes. However expensive the process may be, the resulting material may have superior qualities that make them more than worth the expense.

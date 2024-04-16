@@ -1,0 +1,3 @@
+# Eyjafjallajökull (Civ6)/Civilopedia
+
+Eyjafjallajökull is the name for both an Icelandic volcano and the ice cap plugging its caldera. Though the volcano has remained active for over a millennia, it was little known outside of Iceland until a minor eruption in 2010. Its subsequent ash cloud halted air traffic in Europe for nearly a week and spawned thousands of hours of breathless news reports. Eyjafjallajökull's eruptions have traditionally predicted even larger eruptions of the nearby Katla, a far more active subglacial volcano—much to the chagrin of European air traffic controllers.

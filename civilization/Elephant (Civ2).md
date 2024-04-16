@@ -1,0 +1,5 @@
+# Elephant (Civ2)
+
+The Elephant is a ground unit in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The elephant is the largest living land mammal, reaching a size of 10 to 13 feet in height depending on the species. Descended from the ancient mammoths and mastodons, elephants can be trained to serve humans in many fields of endeavor. One such use of elephants in ancient times was as beasts of war. Elephants were used in battle against Alexander the Great in 326 BC, and they were used both as pack animals and in battle by Hannibal of Carthage in his famous alpine crossing in 218 BC. Although generally impractical as mounts due to their slow speed, the mere mental impact of seeing such massive beasts included in the advancing enemy ranks could provide an attacker with the element of surprise.

@@ -1,0 +1,7 @@
+# Central Matter Decompiler (CTP2)
+
+The Central Matter Decompiler is a futuristic [Wonder%20%28CTP2%29](Wonder) that is possible to build in "[Call%20to%20Power%20II](Call to Power II)". It requires [Ecotopia%20%28advance%29%20%28CTP2%29](Ecotopia) Technology. It has not been built in real life so its nationality is universal.
+Gameplay.
+With the Central Matter Decompiler, the host civilization possesses a potent weapon against in the game. The net effect of this gargantuan nanotechnological wonder is akin to having a in every city.
+Great Library entry.
+The matter decompiler improvement helped cities reduced pollution and was a major boon to efforts to preserve the environment. By enabling people to decompile their solid waste into basic elements, matter decompilers simultaneously reduced pollution and provided raw materials that could be reused. Unfortunately, many cities could not afford the initial cost of building a matter decompiler. Pioneering nanotechnology expert David Ray conceived of a nationwide matter decompiler that would supply all cities with the technology. The Central Matter Decompiler would act as a source of nanites, delivering them to any city with a matter decompiler. This would dramatically reduce the cost of installation, as cities would be able to build a simpler "recipient" decompiler without having to worry about supplying nanites for the matter processing.

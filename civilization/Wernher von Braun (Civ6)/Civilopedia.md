@@ -1,0 +1,4 @@
+# Wernher von Braun (Civ6)/Civilopedia
+
+As a young man, Wernher Von Braun attended a lecture given by Auguste Piccard, a Swiss inventor who reached near-space in a hot air balloon. After the lecture, Wernher told Auguste of his lofty goal to one day travel to the Moon. Three decades later, Von Braun played a key role in the design of the Saturn V rocket; the rocket which propelled Apollo 11 and its crew to the moon.
+Von Braun was born in 1912. His passion for space travel was sparked at an early age with the gift of a telescope. This passion would remain a secondary interest as he developed military rocket technology for Nazi Germany. In 1945, he surrendered to the Americans. He was among many scientists to be exonerated of Nazi affiliation. The rest of his life would be dedicated to the pursuit of manned space travel, with the dream of landing on Mars.

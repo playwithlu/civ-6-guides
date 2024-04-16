@@ -1,0 +1,4 @@
+# Seville
+
+Seville, also known as Sevilla or by its historical names of Išbiliya or Hispalis, is a [Phoenician](Phoenician), [Roman](Roman), and [Spanish](Spanish) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)" and one of the [Territorial%20Cities%20%28Civ1%29](Territorial Cities) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". In real life, it is the capital of and largest city in the autonomous region of Andalusia in present-day Spain.
+In [scenario](scenario)s, it may appear as a [C%C3%B3rdoban](Cordovan) city in [The%20Middle%20Ages](The Middle Ages), a [Western%20Roman](Western Roman) city in [Fall%20of%20Rome](Fall of Rome), or an [Andalusian](Andalusian) city in [Vikings%2C%20Traders%2C%20and%20Raiders%21](Vikings, Traders, and Raiders!).

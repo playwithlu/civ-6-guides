@@ -1,0 +1,7 @@
+# Culture Bomb (Civ6)
+
+Culture Bomb is a special effect in "[Civilization%20VI](Civilization VI)" which instantly expands a [Civilizations%20%28Civ6%29](civilization's) [Territory%20%28Civ6%29](territory) into nearby neutral, or even foreign-owned territory. Culture bombing is the only way of taking non-neutral territory in the game, barring military conquest or diplomatic negotiations involving switching [City%20%28Civ6%29](cities).
+Mechanics.
+The Culture Bomb is triggered on a specific [Tile%20%28Civ6%29](tile) (usually by building a [Tile%20improvement%20%28Civ6%29](tile improvement) or [District%20%28Civ6%29](district)). The result is the immediate annexation of the six tiles surrounding the trigger tile, without districts or [Wonder%20%28Civ6%29](wonders) and falling within 3 [hex](hex)es of one of the owner's [City%20Center%20%28Civ6%29](City Centers). Tiles in which wonders or districts are being constructed are still flipped under the effect of a Culture Bomb, wiping out any unfinished construction in the process.
+A Culture Bomb may be triggered by a number of special sources within the game. Typically, it is the case of [Unique%20ability%20%28Civ6%29](civilization-specific abilities), such as: 
+Non-civilization-specific Culture Bombs can be unlocked via other means. Notably: 

@@ -1,0 +1,3 @@
+# Storytelling (Civ3)/Mesoamerica/Civilopedia
+
+Storytelling was an important cultural practice in Mesoamerican society. Unlike European societies, which developed the use of paper and book making, Mesoamerican cultures relied on stone-wrought hieroglyphics to convey their mythology. But this method was cumbersome and ultimately limiting. Therefore, families relied heavily on the verbal reckoning of kings and gods, and this practice help to connect one generation to another.

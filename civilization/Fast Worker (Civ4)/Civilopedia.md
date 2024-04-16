@@ -1,0 +1,3 @@
+# Fast Worker (Civ4)/Civilopedia
+
+The Indian people are remarkably sturdy and hard-working. Their compact, wiry frames can stand up to the most difficult labor in some of the world's most difficult climates - of which there is a remarkable abundance on the Indian subcontinent, including desert, jungle, and perilously high mountains. Yet across all of this terrain can be found temples, shrines, and fortresses - monuments to the strength and determination of the hardy Indian people.

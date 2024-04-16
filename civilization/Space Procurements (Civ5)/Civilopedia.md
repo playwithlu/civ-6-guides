@@ -1,0 +1,3 @@
+# Space Procurements (Civ5)/Civilopedia
+
+Most space programs have a procurement office, similar to NASA's Stennis Space Center Procurement Site, charged with the purchase of certain materials and services that are not economically viable for the government to supply - such as small tools, fuels and chemicals, foodstuffs and toiletries for space flights, computer components and the like. The procurement office will enforce regulations on purchasing, inspect materials, evaluate services, and often has separate branches for awarding contracts to major corporations and another to small businesses. Being a government agency, procedures are in place for budgetary review and regulation in an effort to make the space program affordable.

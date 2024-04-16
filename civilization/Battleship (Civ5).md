@@ -1,0 +1,8 @@
+# Battleship (Civ5)
+
+Game Info.
+Powerful ranged naval unit of the [Modern%20Era%20%28Civ5%29](Modern Era). Upgrades from the [Frigate%20%28Civ5%29](Frigate). Requires .
+Strategy.
+The Battleship is the main ship of the modern fleet, mighty both when attacking with its long-range cannons, and when defending in melee. Its batteries use the same principle as the [Artillery%20%28Civ5%29](Artillery), allowing it to launch shells 3 tiles away and to bombard far inland, as well as attack [City%20%28Civ5%29](cities) from outside their defensive perimeter. Also, its indirect fire ability allows it to bombard targets it cannot see (as long as other friendly units can see them). As such, the Battleship is your main damage-dealer in the seas until the [Information%20Era%20%28Civ5%29](Information Era).
+The Battleship is vulnerable to air and submarine attacks (although [Bomber%20%28Civ5%29](Bombers) that attack it do get a penalty versus naval units). These weaknesses may be minimized by accompanying the Battleships with [Submarine%20%28Civ5%29](Submarines) or [Destroyer%20%28Civ5%29](Destroyers), and a [Carrier%20%28Civ5%29](Carrier) loaded with [Fighter%20%28Civ5%29](Fighters). This practically creates a naval task force, very similar to real life.
+Use the Submarines and Destroyers to see and attack enemy subs (the Battleship can hit the submarines if they are seen by another unit, because of their Indirect Fire) and the Fighters to intercept enemy Bombers. Move the group to the enemy coast, then use the Battleships and Bombers to lay waste to its cities from a safe distance!

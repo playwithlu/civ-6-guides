@@ -1,0 +1,3 @@
+# Stealth (Civ4)/Civilopedia
+
+Throughout the majority of history, warriors have used primitive methods to avoid detection by their foes. But as surveillance technology grew more sophisticated with the invention of radar, new countermeasures became necessary to provide the sort of protection that the cloak of darkness once granted. Combining advances in the fields of composites, engineering and electronics, Stealth technology has made it possible for enormous machines to leave nary a blip on enemy radar. The B2, or "Stealth," Bomber uses a unique shape and radar-resistant materials to avoid detection. Similar techniques have been applied to ships like the French La Fayette frigate, making them near invisible to radar and easily overlooked whilst they prowl the seas.

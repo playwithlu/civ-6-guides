@@ -1,0 +1,5 @@
+# Robotics (Civ1)
+
+Robotics allows the building of [Artillery%20%28Civ1%29](artillery), [Mfg.%20Plant%20%28Civ1%29](manufacturing plants) and [SS%20Module%20%28Civ1%29](space ship modules), such as habitation pods, life support pods and solar panels.
+Civilopedia entry.
+Advances in Computer technology have made possible the new science of Robotics, which was previously the realm of science fiction. Robotics concerns the design and building of machines capable of mimicking some modicum of human action. These machines can sense changes in their environment and take limited action based on this information. Robots are essentially computer-controlled machine tools that can be programmed to perform tasks such as welding car parts. They are especially useful for tasks that are monotonous, dangerous, or tiring, where they are often more productive than their human counterparts.

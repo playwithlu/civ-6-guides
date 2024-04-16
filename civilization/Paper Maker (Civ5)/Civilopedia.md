@@ -1,0 +1,3 @@
+# Paper Maker (Civ5)/Civilopedia
+
+Paper was invented in China and dates as far back as 200 BC. As best as can be determined, it was originally used as a packing material, with the earliest surviving example of writing on paper dating to perhaps 8 BC. By 300 AD, writing paper was widespread in use across China. The Chinese Paper Maker workshops were highly advanced for their day, creating clean, sturdy paper for the Chinese educated classes, merchants, and the Imperial Court centuries before the first sheet reached the Arabic and European world.

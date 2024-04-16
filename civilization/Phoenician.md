@@ -1,0 +1,3 @@
+# Phoenician
+
+The Phoenician people represent Phoenicia, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)". Their [capital](capital) might be [Baalbek](Baalbek), [Carthage%20%28city%29](Carthage), or [Tyre](Tyre), and they can be led by [Atairangikaahu%20%28CTP1%29](Atairangikaahu), [Athaliah%20%28CTP2%29](Athaliah), [Dido](Dido), [Hiram%20I](Hiram I), or [King%20Rib-Addi%20%28CTP1%29](Rib-Addi).

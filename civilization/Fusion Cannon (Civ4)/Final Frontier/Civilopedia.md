@@ -1,0 +1,3 @@
+# Fusion Cannon (Civ4)/Final Frontier/Civilopedia
+
+The mythic tale of T. J. Symonds and his theft of MaKGarry Corp's top-secret fusion cannon remains controversial to this day. Some see him as a psychotic warmonger, disseminating humanity's most dangerous weapon far and wide, while others see him as a space-age Robin Hood, spreading the knowledge of a machine that could allow the meek to stand up against the mighty. How he evaded the predictive powers of MaKGarry Corp's Extended Range System shall never be known, but thanks to Symonds, the first class Battleships, the only vessel large enough to house the cannon, began rolling off the line throughout the universe.

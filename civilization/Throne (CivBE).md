@@ -1,0 +1,14 @@
+# Throne (CivBE)
+
+Game info.
+The Throne is a Harmony - Purity hybrid ultimate ranged unit. It is essentially a tankier Architect with enhanced strength manipulation abilities and levitation. While it is expensive and rather weak in the late game, it has superior strength powers, being able to reduce the of a unit by -40%, as well as bolster a unit's by +40%. If combined with a in Miasma, the Xeno Titan can reach an absurd 205 , which is enough to one-hit-kill any unit and most cities in the game. Thus, the Throne is better suited as a second-line utility unit as a cavalry alternative to Architects.
+Unit Upgrades.
+Tier 1.
+The Throne is one of the first ultimate units that can be unlocked in terms of tech and affinity progression and is thus one of the weaker ultimate units. However, it is still useful as a Ranged Cavalry and its reosurce cost is a lot more diverse than other typical ultimate units. It has a heavy utility function which can assist other units, including other Thrones. With a fleet of thrones your fleet can reach respectable 48 Ranged Strength, which is fairly high for the stage of the game. They are still quite frail (as frail as a Ranger) though so be sure to back them up with melee blocker units such as Immortals or Brawlers.
+Utility actions:
+Tier 2.
+Tier 2 Thrones are substantially more powerful than their Tier 1 brethren. They unlock at the beginning of the late game and have fairly respectable statistics, especially for a ranged cavalry competing with Tier 4 Missile Rovers. Their Production cost is fairly high, however as they provide strong utility this is justified. They can transition into long range bombardiers with a pure blend of Harmony-Purity, or can deal out energy shocks or heals using other perks. Their double effectiveness of their utility allows them to siphon -40% Strength, which is moderately powerful on enemies, but is very powerful when you buff a friendly unit with this bonus. Make sure the unit you are buffing is stronger than the Throne, or else it would be better to simply attack the unit the buffed friendly was going to attack. 
+Utility actions:
+Upgrades.
+When the Throne is able to upgrade, it receives +14 and +30 , increasing its total Combat Strength to 40/70. While this is rather poor for its cost and situation in the game, it also receives very powerful utility-based upgrades that allow players to heavily cripple hard-hitting melee units such as the Golem, Xeno Titan and Tier 3 Patrol Boats - they will only hit 60% of the damage they deal, depending on the upgrades chosen.
++100% effectiveness means that the support bonus is "doubled." So, if you combat inhibit an enemy they will lose 40% of their, and so on.

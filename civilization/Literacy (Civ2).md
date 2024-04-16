@@ -1,0 +1,5 @@
+# Literacy (Civ2)
+
+ Literacy is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+Writing was a powerful new tool for the advancement of knowledge, but, like all tools, it was only useful if employed. Literacy, the ability to read and understand a written language, was originally a skill limited to priests and scribes. Because of this, knowledge was still spread to the masses orally. Eventually, improving systems of education brought literacy to private citizens. Civilization in which a high percentage if the population was literate had faster technological and economic growth than those where literacy was less common. In the modern world, while industrialized nations still have illiteracy rates approaching 80 percent of their overall population. Illiteracy severely stunts the development of a country, even more so now than in the ancient world.

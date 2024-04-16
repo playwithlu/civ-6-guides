@@ -1,0 +1,3 @@
+# Naval Tactics (Civ3)/WWII in the Pacific/Civilopedia
+
+Prior to WWII, the overall strategy of the U.S. Navy was centered on the big guns of its impressive lineup of battleships. The Japanese surprise attack on Pearl Harbor sunk or heavily damaged most of the U.S. Pacific fleet's impressive array of big-gunned battleships in one fell swoop, forcing the U.S. Navy to quickly recognize the importance of the naval air arm and the weapon needed to deliver it -- the aircraft carrier. Virtually overnight the U.S. naval strategy changed from that of "big guns" to carrier-borne aircraft. As the war progressed naval tactics continued to evolve, and the navies of both sides demanded new ships, ships that were heavier armed and armored -- and faster -- than their predecessors.

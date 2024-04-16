@@ -1,0 +1,19 @@
+# Purity (CivBE)
+
+"For the Starships version of this affinity see [Purity%20%28Starships%29](Purity (Starships))"
+&lt;onlyinclude&gt;
+Purity is one of the three affinities in "". The Purity affinity desires to preserve and improve upon mankind as they are and seeks to convert the planet into a state similar to Old Earth before the Great Mistake, regardless of what happens to the local wildlife. The ultimate goal of a Purity purist is to eventually resettle much of the Earth's diaspora onto the planet and save that world from overpopulation and resource depletion. Purity military forces concentrate mostly on mechanical exoskeletons, energy weapons, and amphibious attacks, thanks to their armadas of LEV vehicles. Their chosen resource specialization is .&lt;/onlyinclude&gt;
+Purity appearance and traits.
+Since the whole idea of Purity is to preserve humanity in its current form, it isn't surprising that Purity aesthetics look much like we would expect of a space-oriented mankind in the near future. Architecture is characterized with solid, cubic shapes in gold and red which look a lot like modern cities; units appear mostly human-shaped, and tank-like. That is because Purity depends mostly on armored suits and exoskeletons to enhance traditional soldiers, or else on solid, massive machines commanded by soldiers. 
+Purity are the specialists of levitation. They discover technologies that allow the use of the floating stones on this planet for creation of extremely powerful anti-gravity fields, capable of keeping enormous payloads well into the thousands of tons in the air. Thus, all of their high-level special units levitate over the terrain, and can consequently overcome almost all obstacles. The second defining feature of Purity military composition is their concentration on ranged units - three of the four unique Purity units are ranged. Their ultimate unit, the LEV Destroyer, is practically a flying fortress which can move over any terrain variant without issue, withstand enormous amounts of firepower, and reciprocate in kind. This LEV Destroyer, before perks, is also the only unit which can deal 'splash' damage (that is, to damage not only its target, but also enemies in neighbor tiles). 
+Purity seems to employ laser-like, high-energy beam weapons with a distinct red color.
+Purity Strategy.
+With a wide range of LEV vehicle chassis to choose from, terrain isn't your problem while defending. It's recommended to settle down around a non-LEV accessible area that forces your enemy of either other affinity to lose their flanking bonus. Form a defensive line of Battlesuits, then pummel everything else to ashes with your ranged strength. 
+When on the offensive, be sure to take advantage of your LEV vehicles and approach enemy positions from unexpected angles. Use Water tiles to your advantage, since all other affinities may only move on water with ships, while you can also move with some other units early on! Again, use your ranged power to the maximum, while defending it with strong frontline units. One of the weaknesses of Purity army is its lack of fast units, and its overdependence on positioning. Take care to protect your ranged units from enemy aircraft and tanks! 
+Land units hovering over water will receive a 25% combat penalty, but can also occupy the same tile as a naval unit (untested as to which unit takes damage first). Use this to your advantage when attempting to seize cities and other key locations from the water.
+Purity Units.
+Unit Upgrade Names.
+Tier Two Purity Upgrades for units not on this list start with the term True.
+Hybrid Units.
+ Purity-Harmony
+ Purity-Supremacy

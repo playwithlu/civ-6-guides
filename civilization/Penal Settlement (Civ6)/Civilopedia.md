@@ -1,0 +1,3 @@
+# Penal Settlement (Civ6)/Civilopedia
+
+A nation with colonial aspirations, distant lands claimed in its name, and a creative approach to criminal justice could institute penal settlements. This system of indentured servitude sent prisoners to distant, harsh lands to do the grueling and dangerous work of colonial establishment. Commonly led by a governor who served as warden, the prisoners had nowhere to escape. However, there were incentives to work off their societal debt—ownership of what they had built.

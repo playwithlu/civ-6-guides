@@ -1,0 +1,7 @@
+# FAQ on land combat (Col)
+
+"This page is based on a section of . Comments on it should be on its talk page rather than on the blog."
+There are three possible opponents; fellow [European%20%28Col%29](European)s, [Indian%20%28Col%29](Indian)s and the [Expeditionary%20Force%20%28Col%29](Expeditionary Force).
+The computer AI is pretty dumb. A sound tactic is to move a combat unit into a high [defensive%20bonus%20%28Col%29](defensive bonus) square next to an enemy; the next turn, the AI is likely to attack that unit.
+With regard to the Expeditionary Force, there are SO many hostile units that attacking them becomes amazingly tedious. I find it's best simply to have a Fortress with 100% Liberty Bells and plenty of cannon; the computer launches attacks far more quickly than you can and rapidly gets through all their attacking units. It's much less hassle than trying to do your own attacks - and it saves you having to build up Dragoon forces. Just build cannon.
+Normal colonists are captured when they lose in combat. There are three exceptions to this; [scout%20%28Col%29](scout)s, [missionary%20%28Col%29](missionaries) and [pioneer%20%28Col%29](pioneer)s (expert or not) all die when they lose in combat. It's best to leave the pioneers to set up a colony and then attack them.

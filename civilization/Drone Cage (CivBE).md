@@ -1,0 +1,9 @@
+# Drone Cage (CivBE)
+
+Game info.
+The Drone Cage is a Purity - Supremacy hybrid unit consisting of a single human engineer and two remote repair drones that heals itself and allied troops adjacent to it for 10HP at the beginning of a player's upkeep. This makes Drone Cages a far earlier-to-acquire form of healing for the massed troop formations that Supremacy-oriented armies specialize in. They are also useful in continued attacks on aliens with Purity-based armies that suffer from a lack of sustainability. They require 1 to be built. Drone Cage healing also affects units of your allies, so you can use them to assist an ally.
+Unit Upgrades.
+Tier 1.
+Drone Cages are available early-game - they can be obtained even by rushing Computing and picking up two of the leaf technologies along the way (you will need robotics for the firaxite), which can be useful in many situations. Drone Cages require 1 up front which impedes their usefulness, but their Strength is fairly high for the time and they assist cheaper units such as Gunners and Marines greatly through their Aid drones. Be sure to scatter them about an army to ensure your army remains durable and resilient.
+Tier 2.
+Tier 2 Drone Cages come with no extra gadgets, however their perks are still quite useful. You can double the effectiveness of Deploy Aid Drones to 20HP per turn, which dedicates them into Combat Medics, or you can double them as frontline attackers with bonus mobility or ranged defense. While their resource cost is the same as a CNDR which is arguably better as a defensive unit, the Drone Cage has plenty of utility that allows it to strive well into the late game.

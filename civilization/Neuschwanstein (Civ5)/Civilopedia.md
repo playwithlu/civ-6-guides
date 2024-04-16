@@ -1,0 +1,3 @@
+# Neuschwanstein (Civ5)/Civilopedia
+
+Commissioned by the "Mad King" Ludwig II of Bavaria in the late 19th century, the Neuschwanstein Castle has since become the symbol of iconic "fairy tale" castles commonly found in children's literature and fables. Built into a hillside near the town of Füssen in Germany, Ludwig had intended the castle to be his retreat from public view, as he was known for his reclusive nature. Following his death, the castle became a popular tourist attraction, and eventually served as the inspiration for the famous Sleeping Beauty Castle created by Walt Disney.

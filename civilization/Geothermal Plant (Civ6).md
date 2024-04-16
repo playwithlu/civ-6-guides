@@ -1,0 +1,6 @@
+# Geothermal Plant (Civ6)
+
+The Geothermal Plant is a standard [Tile%20improvement%20%28Civ6%29](tile improvement) in "". It is used to supply  to the [City%20%28Civ6%29](city) from a renewable source.
+Strategy.
+The Geothermal Plant is the second renewable supplier which becomes available after the [Hydroelectric%20Dam%20%28Civ6%29](Hydroelectric Dam), and the most powerful among the -supplying tile improvements. Unfortunately, it may only be constructed on a special terrain feature: the [Geothermal%20Fissure%20%28Civ6%29](Geothermal Fissure). These are quite rare, and are usually found next to [Mountains%20%28Civ6%29](Mountains), [Volcano%20%28Civ6%29](Volcanoes), and near [Continent%20%28Civ6%29](continent) splits. Since this improvement is the only one that can improve this specific terrain feature, its use should be a no-brainer in most situations.
+[Governor%20%28Civ6%29](City Governor) [Reyna%20%28Financier%29%20%28Civ6%29](Reyna's) [Renewable%20Subsidizer%20%28Civ6%29](Renewable Subsidizer) title can boost the yield from this improvement by +2 and +2 .

@@ -1,0 +1,3 @@
+# Military Base (Civ5)/Civilopedia
+
+A military base is a series of structures and parade grounds holding one or more major military units - a legion, division, corps, fleet, or other, depending upon the military organization in question. A military base will contain everything needed to keep the military unit in fighting trim, including training grounds, officers' quarters and enlisted barracks, prisons, armories, hospitals, supply depots, transport equipment, and so forth. These bases are usually heavily protected and sited on defensible terrain. Barring treachery from within, it would take an enemy army to capture or destroy a military base.

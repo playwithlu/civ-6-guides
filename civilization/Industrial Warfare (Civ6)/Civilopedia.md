@@ -1,0 +1,3 @@
+# Industrial Warfare (Civ6)/Civilopedia
+
+In total war, all the resources of the state are put in service of the war aims. In an industrial society, this means a total reworking of the industrial infrastructure into creating weaponry, training swaths of the population under arms for mass conscription, and directing the economy through overt political tools. It can transform the society in ways that redound long after the conflict ends.

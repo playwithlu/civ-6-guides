@@ -1,0 +1,3 @@
+# Colony Ship (Civ4)/Final Frontier/Civilopedia
+
+The Colony Ship is the unit which colonizes Stars and extends the control of a civilization. Carrying hardy adventurers, these ships are expected to turn a previously uninhabited Star System into a productive bastion of humanity. Incapable of defending themselves, the Colony Ships' role is highly specialized but vital to the survival and success of any civilization. These ships became a common sight during the colonization boom of the 23rd century, but their great expense and government ownership meant most were stationed at the PDE Earth headquarters, and were not seen from following the loss of contact. They represent the hope in a brighter future for all of mankind.

@@ -1,0 +1,3 @@
+# Diplomatic League (Civ6)/Civilopedia
+
+The ancient Greeks were enamored of diplomatic leagues – loose and limited alliances between city-states, cobbled together for a variety of purposes. In the Archaic Period, the Amphictyonic League was a religious association of tribes. By the end of the 7th Century BC, Sparta was the most powerful city-state in the Peloponnese; to counter its influence some 150+ cities formed the Delian League in 477 BC under the leadership of Athens. It spent most of its existence fighting off Persian invasions. Around 338 BC, Philip II of Macedonia formed the Hellenic League … and Alexander conquered (briefly) the known world with it. The Achaean League existed between 280 and 146 BC, formed to resist the Romans. Didn’t help.

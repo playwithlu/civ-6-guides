@@ -1,0 +1,38 @@
+# Culture (Civ6)
+
+ Culture is one of the main statistics in "[Civilization%20VI](Civilization VI)". It represents a [Civilizations%20%28Civ6%29](civilization's) progress in the arts and crafts. Its role has been greatly enhanced since "[Civilization%20V](Civilization V)": besides fueling [Borders%20%28Civ6%29](border) expansion at the [City%20%28Civ6%29](city) level, it is now used to research developments in the brand new [List%20of%20civics%20in%20Civ6](civics tree).
+Mechanics.
+ Culture functions on two levels: first, your total Culture output (plus eventual lump sums) is applied on the empire level to progress through the civics tree (similar to how is used to progress through the [List%20of%20technologies%20in%20Civ6](technology tree)). This is an automatic process which starts the moment you found your first city and doesn't stop until the end of the game.
+Second, local Culture output of each [City%20%28Civ6%29](city) is applied towards its (and by extension your empire's) border expansion. This process is also automatic - the player can't even control which [Tile%20%28Civ6%29](tile) will the city claim next. Tiles acquired this way generally favor tiles with resources, will always be the one of the closest available tiles, and can be as far as 5 tiles away from the city center. Of course, border expansion can be controlled in other ways (buying tiles with ).
+Although Culture is "not" the main stat required to win a [Victory%20%28Civ6%29%23Culture](Cultural Victory) (this is reserved for , as it was in ""), Culture is indispensable when pursuing one, as it grants your civilization faster progress in the Civics tree and more ways to quicken the expansion of your .
+Also, Culture is the key to "defending against" a Cultural Victory! Accumulating large amounts of Culture attracts domestic tourists in your civilization, which forces other civilizations pursuing a Cultural Victory to attract more visiting tourists, thus slowing down their progress.
+Sources.
+ Culture may be earned through a variety of ways, though it rarely comes from [Terrain%20%28Civ6%29](terrain). Like , each Citizen in your cities produces Culture; however, the amount (0.3) is not nearly enough for good progress. This could make for a sluggish start to your cultural development, and in this game this means not only slower acquisition of new [Policy%20Cards%20%28Civ6%29](Policy Cards), but also many other hindrances.
+Buildings.
+The first and most obvious source of Culture is the [Monument%20%28Civ6%29](Monument) building, which is available to every [City%20Center%20%28Civ6%29](City Center) right away. For a time, this is also the most readily accessible source of Culture apart from [Resources%20%28Civ6%29%23Luxury](Luxury Resources) (detailed below).
+The main source of Culture in the game, however, is the [District%20%28Civ6%29](district) and its many [Buildings%20%28Civ6%29](buildings). These include:
+Furthermore, the adjacency bonus of the district nets additional Culture (although it's not easy to activate it), and each Specialist Citizen working in the [Theater%20Square%20%28Civ6%29](Theater Square) garners +2 Culture. Finally, [Theater%20Square%20%28Civ6%29](Theater Square) buildings are the main source of slots for [Great%20Work%20%28Civ6%29](Great Works), which are also a serious source of Culture.
+If you have attracted and activated the Great Engineer , [Workshop%20%28Civ6%29](Workshops) in all [Industrial%20Zone%20%28Civ6%29](Industrial Zones) also provide +3 Culture.
+Cultural [City-state%20%28Civ6%29](city-states) may grant up to +4 Culture in every Theater Square district (+2 Culture for each Amphitheater or Museum instead of base district in "Rise and Fall"), depending on the number of s assigned to that particular city-state, plus an additional +2 Culture in the . 
+With the [Ethiopia%20Pack%20%28Civ6%29](Ethiopia Pack) and the new [Diplomatic%20Quarter%20%28Civ6%29](Diplomatic Quarter), cultural [City-state%20%28Civ6%29](city-states) may now grant up to +6 Culture in every Theater Square district (+1 Culture for each Amphitheater, +2 Culture for each Museum and +3 Culture for each Broadcast Center), depending on the number of s assigned to that particular city-state, plus an additional +1 Culture in the .
+Great Works.
+[Great%20Writer%20%28Civ6%29](Great Writers), [Great%20Artist%20%28Civ6%29](Great Artists), [Great%20Musician%20%28Civ6%29](Great Musicians), and the [Sun%20Tzu%20%28Civ6%29](Sun Tzu) create [Great%20Work%20%28Civ6%29](Great Works) that give major boosts to both Culture and . Most types of Great Works grant Culture, along with their main bonus, when placed in their respective slots in your buildings. The only exception is the [Great%20Work%20%28Civ6%29%23Relics](Relic), which grants instead.
+The combination of the building bonuses and Great Work bonuses usually provides enough Culture for rapid progress through the Civics tree. However, keep in mind that Great Works take some time to appear - you will need to attract , and it takes time to build up their relevant GPP outputs. Thus, Great Works only aid cultural progression towards the middle and late game.
+Resources.
+Several [Resource%20%28Civ6%29%23Luxury](luxury resources) grant bonus Culture, including:
+All of these bonuses are available right away, and can be invaluable at the start of the game. Look to settle near these resources if you want rapid cultural progression in the beginning.
+Religious Beliefs.
+A small handful of [Beliefs%20%28Civ6%29](Beliefs) and [Pantheon%20%28Civ6%29](Pantheons) grant bonus Culture when their conditions are met:
+Note that God of the Open Sky and Goddess of Festivals will be active in all your cities (being [List%20of%20pantheons%20in%20Civ6](Pantheon Beliefs), which cannot be overridden) as soon as you adopt your Pantheon. Furthermore, the relevant Resources are abundant which makes these Pantheons a reliable source of Culture in the early game. World Church is always active (being applied on the empire level), but it will take time to spread your Religion sufficiently for it to make any real difference. Lay Ministry will only work if the city with the [Theater%20Square%20%28Civ6%29](Theater Square) is following the relevant Religion.
+Policy Cards.
+Many [Policy%20card%20%28Civ6%29](Policies) grant bonus Culture once their conditions are met:
+These Policies are available early in the middle game, so they can be used well for advancement through the Civics tree.
+Wonders.
+Many [Wonder%20%28Civ6%29](Wonders) grant substantial Culture boosts. These include:
+Other [Wonder%20%28Civ6%29](Wonders) contain [Great%20Work%20%28Civ6%29](Great Work) slots, which may also grant Culture when filled:
+ Culture bonuses can also be obtained through [Natural%20wonder%20%28Civ6%29](natural wonders):
+Others.
+Cultural [City-state%20%28Civ6%29](city-states) grant substantial Culture bonuses, when you have enough s in them. All of them will grant +2 Culture to your at 1 , and further Culture to every city with a [Theater%20Square%20%28Civ6%29](Theater Square) (+2 at 3 s, and a further +2 at 6 s). Note that you don't have to be the Suzerain of the city-state to gain these bonuses!
+Finally, Culture may be earned through trade - all you need to do is send an international to a city which has culture-oriented activity.
+Unique Bonuses.
+Many unique pieces of infrastructure and [Unique%20ability%20%28Civ6%29](civ/leader abilities) grant special Culture bonuses:

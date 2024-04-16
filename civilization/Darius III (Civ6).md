@@ -1,0 +1,3 @@
+# Darius III (Civ6)
+
+Darius III is a non-playable [Leaders%20%28Civ6%29](leader) from the [Conquests%20of%20Alexander%20%28Civ6%29](Conquests of Alexander) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". He leads the [Persian%20%28Civ6%29](Persians), and his [Unique%20ability%20%28Civ6%29](leader ability) is "Postal Service Qualification," which allows his [Builder%20%28Civ6%29](Builders) to build one extra [Tile%20improvement%20%28Civ6%29](tile improvement).

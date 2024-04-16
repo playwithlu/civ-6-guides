@@ -1,0 +1,9 @@
+# Power Plant (Civ2)
+
+The Power Plant is an in "[Civilization%20II](Civilization II)", available with the . It supplies its host city with , increasing base output by 50% when a and/or is present; it requires at least one of these improvements to be built.
+Strategy.
+The Power Plant is the earliest available model, and the cheapest to construct alongside the . Contrary to popular belief, the Power Plant does not create itself; rather, it is the only plant that does not mitigate pollution from total production. For this reason, it is advisable to replace Power Plants with newer models as they become available to counteract pollution ramp-up from technological development.
+Conversely, in s where on-map pollution is disabled, the Power Plant's main disadvantage is eliminated, although nuclear plants may still be preferable due to lower costs.
+Power Plants have the lowest and are superseded by all other models. Note that older plants must be manually to avoid superfluous upkeep.
+Civilopedia entry.
+Power plants burn coal and other fossil fuels to produce the heat and steam necessary to run generators that produce electrical power. When electricity became widely and cheaply available, it meant that industries could convert from steam to electrical power to run their machinery. One central power plant could supply the electrical needs of a relatively large geographic area. However, increasing demands for electricity, by both consumer and commercial customers, led to a rise in the number of power plants. This, in turn, led to problems with air pollution. As more plants went on line, more fossil fuels were burned to generate power. Because modern society depends so heavily on electricity, researchers are constantly searching for alternate forms of energy to satisfy ever-increasing demands.

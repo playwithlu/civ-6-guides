@@ -1,0 +1,3 @@
+# Grand Opera (Civ6)/Civilopedia
+
+As if opera isn’t enough (and it certainly is for many folks), for a period from the late 1820s through the 1850s “grand opera” was all the rage in France. The genre was marked by four or five acts, large casts and orchestras, lavish costumes and stage effects, with plots based on dramatic historical events. The first of these monumental productions was La Muette de Portici by Daniel Auber; set in 1647 revolutionary Naples, it ends with the eruption of Mount Vesuvius and the heroine throwing herself into it. There was not a dry eye in the theater after it premiered, and for nearly two generations European audiences flocked to grand operas.

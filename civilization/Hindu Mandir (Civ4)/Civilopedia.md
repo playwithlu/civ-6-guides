@@ -1,0 +1,4 @@
+# Hindu Mandir (Civ4)/Civilopedia
+
+In "Civilization IV", a cathedral is defined as an especially large and ornate religious building where the faithful worship. Only the most prosperous cities can afford to create cathedrals, as they require huge amounts of raw material and years of dedicated labor by skilled craftsmen. For example, the Notre Dame Cathedral in Paris, France, took over two centuries to complete.
+A "mandir" is the name used to describe all Hindu places of worship; used here it refers only to the larger and more important temples. Typically, a mandir is dedicated to a primary Hindu deity and other deities associated with that particular god, though in the US many different gods are worshiped in each mandir. The earliest mention of a mandir appears in the fifth century BC. The Angkor Wat, a Hindu temple built in the 12th century AD, is one of the finest surviving Hindu mandirs in the world.

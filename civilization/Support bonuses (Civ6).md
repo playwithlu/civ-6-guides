@@ -1,0 +1,2 @@
+# Support bonuses (Civ6)
+

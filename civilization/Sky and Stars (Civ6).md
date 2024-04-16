@@ -1,0 +1,5 @@
+# Sky and Stars (Civ6)
+
+Sky and Stars is a [Golden%20Age%20%28Civ6%29](Golden Age) [Policy%20card%20%28Civ6%29](Policy Card) from the [Dramatic%20Ages%20%28Civ6%29](Dramatic Ages) [Game%20mode%20%28Civ6%29](game mode) in "[Civilization%20VI](Civilization VI)". It is available from the [Atomic%20Era%20%28Civ6%29](Atomic Era) to the [Information%20Era%20%28Civ6%29](Information Era) ([Future%20Era%20%28Civ6%29](Future Era) in "") and uses a Wildcard slot.
+Strategy.
+Sky and Stars is extremely valuable when trying to win a [Victory%20%28Civ6%29%23Science](Science Victory). It can greatly decrease completion times for [Spaceport%20%28Civ6%29](Spaceports) and the Space Race [Project%20%28Civ6%29](projects), especially in [City%20%28Civ6%29](cities) that already have high . When not trying to win a Science Victory, it becomes much less favorable and less preferred compared to other Golden Age Policy Cards.

@@ -1,0 +1,3 @@
+# Carthaginian
+
+The Carthaginian people, also known as the Punic people or Western Phoenicians, represent Ancient Carthage, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. Their [capital](capital) is [Carthage%20%28city%29](Carthage), and they can be led by [Dido](Dido), [Hannibal%20Barca](Hannibal Barca), or [Hanno](Hanno).

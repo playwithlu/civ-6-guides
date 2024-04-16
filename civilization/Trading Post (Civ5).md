@@ -1,0 +1,8 @@
+# Trading Post (Civ5)
+
+Game Info.
+Advanced trading improvement. Requires [Trapping%20%28Civ5%29](Trapping) ([Guilds%20%28Civ5%29](Guilds) in ' and ').
+Strategy.
+The Trading Post is an excellent improvement to build when you need to bolster your empire's economy. While [Farm%20%28Civ5%29](Farms) are generally preferable for Growth (leading to ), if it isn't possible to support a larger due to a lack of good tiles or , they may not prove useful. Using the tiles to produce instead is a good idea.
+If your empire has a lot of [Jungle%20%28Civ5%29](Jungle) tiles within its [Borders%20%28Civ5%29](borders), it's a great idea to build these improvements in the Jungles instead of cutting them down. Your [Worker%20%28Civ5%29](Workers) won't have to remove the Jungles to construct Trading Posts, and the Jungle tiles will give you once you have [University%20%28Civ5%29](Universities). With the bonuses from the [Commerce%20%28Civ5%29](Commerce) finisher and the [Free%20Thought%20%28Civ5%29](Free Thought) [Social%20policies%20%28Civ5%29](social policy), Trading Posts can be incredibly effective when combined with Jungles. Note that while Trading Posts can be built without cutting down Jungles, they cannot be built on tiles that contain .
+In the [expansion%20pack](expansion pack)s, the prerequisite [List%20of%20technologies%20in%20Civ5](technology) for Trading Posts changes from Trapping to Guilds, a [Medieval%20Era%20%28Civ5%29](Medieval Era) tech.

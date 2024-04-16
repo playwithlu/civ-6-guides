@@ -1,0 +1,3 @@
+# Portuguese
+
+The Portuguese people represent Portugal, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)", "[Call%20to%20Power%20games](Call to Power)", and "[Colonization%20%28game%29](Colonization)" games. Their [capital](capital) is [Lisbon](Lisbon), and they can be led by [Catherine%20of%20Austria](Catherine of Austria), [Jo%C3%A3o%20II](João II), [Jo%C3%A3o%20III](João III), [Maria%20I](Maria I), [Maria%20II](Maria II), [Maria%20Pia](Maria Pia), [Prince%20Henry%20the%20Navigator](Prince Henry the Navigator), or [Vasco%20da%20Gama](Vasco da Gama).

@@ -1,0 +1,3 @@
+# Elite Forces (Civ5)/Civilopedia
+
+Since the Hittite and Assyrian kings formed palace guards, every army has included Elite Forces, specialized military units trained to conduct unconventional, high-risk combat missions. Elite units came to prominence in World War II, especially in the totalitarian nations; Germany employed the likes of the Brandenburger Regiment and Skorzeny's SS Jager Battalion to devastating effect, while Fascist Italy had several specialized naval units. Since the war, units such as the Russian Spetsnaz and American Seals have carried on that tradition of ruthless efficiency.

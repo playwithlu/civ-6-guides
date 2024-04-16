@@ -1,0 +1,3 @@
+# Conquistador (Civ5)/Civilopedia
+
+The Conquistadors were the Spanish soldiers and explorers who conquered much of the New World in the 16th and 17th centuries. Having recently driven the Moors from Spain in the famous Reconquista, the Conquistadors were seasoned veteran light cavalrymen. Their ability to traverse difficult terrain on horseback made them especially effective against the natives of the New World, who lacked horses altogether and were unable to outrun their terrifying opponents.

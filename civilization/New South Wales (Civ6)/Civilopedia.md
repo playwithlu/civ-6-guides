@@ -1,0 +1,4 @@
+# New South Wales (Civ6)/Civilopedia
+
+The colonial British foothold in eastern Australia first took root with the founding of Sydney in 1788. From its humble beginnings as a penal colony to its transformation into a free society, New South Wales has always been (or felt it should be) at the forefront of Australian affairs.
+The discovery of gold in 1851 did much to make New South Wales as powerful economically as it was politically. Upon Australia’s transition from colonies to Commonwealth, rivalry between New South Wales and Victoria for the national capital led to compromise: the city of Canberra would be built in an empty area between Sydney and Melbourne, then promptly overlooked by most Australians.

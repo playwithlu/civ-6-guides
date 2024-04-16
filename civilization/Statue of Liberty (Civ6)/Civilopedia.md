@@ -1,0 +1,4 @@
+# Statue of Liberty (Civ6)/Civilopedia
+
+Perhaps nothing is more iconic to America than the giant green woman standing in New York Harbor. Professor Edouard de Laboulaye and sculptor Frederic-Auguste Bartholdi didn’t hold back when creating the towering copper statue. It took twenty-one years for Laboulaye’s vision of Lady Liberty to come to life. Though ten years too late for America’s centennial, the people didn’t mind the delay—any present that arrives in 214 boxes must be a fantastic gift.
+Even before its final assembly in 1886, it earned the nickname “the New Colossus” thanks to poet Emma Lazarus. The statue quickly became a symbol of freedom and hope; her beacon acting as a lighthouse for the tired and poor, beckoning people to the shores of the United States with the promise of shelter and a new beginning.

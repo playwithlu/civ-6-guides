@@ -1,0 +1,3 @@
+# Δ Scout (Civ4)/Final Frontier/Civilopedia
+
+The Scout Ship is designed to explore the unknown quadrants of the universe and unlock their secrets. Craft of this type were the first human ships to be sent into space, and early versions were typically unmanned and very primitive. However, as technology improved the purpose of Scout ships expanded to include a military function, serving as the eyes and ears of the fleet. With more powerful engines and advanced sensors, Scouts could perform the vital task of both exploration and intelligence-gathering. While the sight and speed of these ships is impressive, their weaponry remains distinctly sub-par, and Scouts should never be relied upon in a battle of any significance.

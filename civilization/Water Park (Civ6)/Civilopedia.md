@@ -1,0 +1,3 @@
+# Water Park (Civ6)/Civilopedia
+
+Throughout history, one of the most popular activities in a city has been to leave it when the summer gets hot. As public transportation offered cooler options to a broader range of people during the Industrial Revolution, beach resort towns saw a boom in their popularity, and expanded their range of offerings to include amenities like boardwalks and amusement park rides in addition to the beach (or lake, or big river, or whatever local water feature… featured) and boating. What was once the domain of only the rich and powerful is now available to millions, and as the sun rises, the water park opens to keep people entertained and cool against the summer sun.

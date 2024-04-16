@@ -1,0 +1,5 @@
+# Hacienda (Civ6)/Civilopedia
+
+Somewhere between a farm and a factory, the hacienda in Latin America was a large estate, held by a wealthy patron, that became the dominant mode of land ownership during the 19th century. Being located more inland than a plantation, and without the ready access to the sea, haciendas had to be agriculturally self-sufficient in addition to producing crops for export. In Gran Colombia, these crops could be coffee, coca, sugar, tobacco, or others.
+The hacienda system was by its very nature exploitative. While the enslavement of African-descended people was more dominant in coastal plantations, the inland haciendas relied upon the dispossession of indigenous peoples. These people often labored unpaid and, in exchange for their labor, “permitted” to remain on hacienda land – land that had been, in many cases, taken from them or from their ancestors in the first place.
+With the abolition of slavery, and with social and labor reforms in much of Latin America, the hacienda system has ended, although nostalgia-tinged farms or estates might still use the name.

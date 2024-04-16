@@ -1,0 +1,3 @@
+# Liang (Surveyor) (Civ6)/Civilopedia
+
+There's an old joke that says: "Invest in land; they've stopped making it." The truth is that effective use of land is an important job, and efficient use of space begins with understanding what you have through surveys and mapping. Surveying is another trade that goes back to antiquity, and which enjoyed considerable support from those who understand the value of land.

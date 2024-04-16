@@ -1,0 +1,4 @@
+# Lukas von Reuther (Civ4)/Final Frontier/Civilopedia
+
+Lukas von Reuther is the charismatic leader of the Brotherhood. One of its founding members, he is primarily responsible for organizing and transforming the group into an efficient tool with which to resist the PDE on Phyrus. Famed for being ruthless towards those who oppose him, he is also known to be staunchly loyal to those who prove themselves worthy of his trust.
+Von Reuther's primary aims are to ensure the liberty and security of his Colony. As one of the original political prisoners sent to Phyrus, his experience dealing with the PDE and years of suffering their exploitation has brought him to the conclusion that the evils in this world can only be vanquished in bloody conflict where one side must be destroyed.

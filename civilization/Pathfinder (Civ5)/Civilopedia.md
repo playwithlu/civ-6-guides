@@ -1,0 +1,3 @@
+# Pathfinder (Civ5)/Civilopedia
+
+Among the Native American tribes of the Great Plains and Rocky Mountains, some members were trusted as superior scouts, relied upon to carry out critical duties for the nomads. Called by a variety of titles, these "pathfinders" tracked game and enemies, scouted routes for migration, spied on foes and interlopers, and protected the winter encampments. So skilled were they that the armies of the major powers hired them as scouts and advisors, beginning as early as the Pequot War (1637-1638 AD) when the English colonists of Massachusetts Bay were aided by scouts of the Narragansett and Mohegan tribes. However, with the end of the frontier and the confinement of Native American tribes to reservations, the role of the pathfinder faded.

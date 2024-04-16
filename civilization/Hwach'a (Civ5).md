@@ -1,0 +1,7 @@
+# Hwach'a (Civ5)
+
+Game Info.
+[Unique%20unit%20%28Civ5%29](Unique) ranged unit of the [Korean%20%28Civ5%29](Korean) [Civilizations%20%28Civ5%29](civilization). Replaces the [Trebuchet%20%28Civ5%29](Trebuchet).
+Strategy.
+The Hwach'a is a lot stronger than the Trebuchet it replaces, but unlike other siege units, it doesn't get a combat bonus when attacking [City%20%28Civ5%29](cities). So this is in fact not a siege weapon, but effectively a powerful ranged one with normal sight ability, best used against melee troops. It is a great weapon for defending cities.
+It is important to note that the Hwach'a is the most powerful ranged unit of the [Medieval%20Era%20%28Civ5%29](Medieval Era), but does not spawn with the Bonus vs Cities (200) [Promotions%20%28Civ5%29](promotion) despite being a siege unit. Prior to the release of a patch on 21 September 2012, this could be bypassed by upgrading a [Catapult%20%28Civ5%29](Catapult), leaving the Bonus vs Cities (200) promotion and gaining the Hwach'a's immense strength. However, upgrading a Catapult to a Hwach'a now transfers the Catapult's reduced sight radius without transferring its city attack bonus. This makes it preferable to build Hwach'a as soon as they become available rather than building and upgrading Catapults, unless you have other units to spot for your Hwach'a or you plan to use them only within your own [Borders%20%28Civ5%29](borders).

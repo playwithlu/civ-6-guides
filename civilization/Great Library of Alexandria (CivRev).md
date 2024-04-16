@@ -1,0 +1,5 @@
+# Great Library of Alexandria (CivRev)
+
+The Great Library of Alexandria is a [Wonder%20%28CivRev%29](wonder) in "[Civilization%20Revolution](Civilization Revolution)".
+The Great Library of Alexandria can be built when the player discovers the [Writing%20%28CivRev%29](Writing) [List%20of%20technologies%20in%20CivRev](technology). Its benefit is that it gives the player any technologies that at least two other [List%20of%20civilizations%20in%20CivRev](civilizations) know. This wonder's benefit is cancelled when any civilization discovers the [University%20%28technology%29%20%28CivRev%29](University) technology. For example, if the [English%20%28CivRev%29](English) and the [Zulu%20%28CivRev%29](Zulus) have both discovered the [Navigation%20%28CivRev%29](Navigation) technology, the player will then be given it without having to research it.
+Note that the rate at which the wonder grants technologies is limited to 1 per turn. Also please note that the wonder can potentially give you multiple technologies and is not limited to just one.

@@ -1,0 +1,4 @@
+# Bowman (Civ5)/Civilopedia
+
+We have a fairly accurate picture of the extraordinary Babylonian archer units, thanks to a beautiful Assyrian mosaic showing them marching off to battle. The Babylon archers are dressed in colorful padded robes and carry four-foot long bows, as well as a quiver of arrows slung on their backs. The archers also carry spears or daggers, doubtless for personal defense if enemy units get close enough for hand-to-hand combat.
+Separate units carrying large, man-height shields would accompany the bowman, providing in effect, a movable fortress. The bowmen were an integral part of the Babylonian infantry, as their numbers were easier to train and replace than the more expensive cavalry. Bowmen also helped man the famed [Walls%20of%20Babylon%20%28Civ5%29](Walls) of Babylon, taking up positions in the many turrets dotting its line.

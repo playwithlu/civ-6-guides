@@ -1,0 +1,3 @@
+# Linguist (Civ6)/Civilopedia
+
+For both espionage and counterespionage, being fluent in several languages is a boon. It helps in all sorts of missions, from surveillance to infiltration. While early spies were often recruited solely because of their facility with a language, by the opening salvos of World War II, most intelligence agencies had their own schools to train agents in the language(s) of the enemy. And linguistic complexities made it difficult for some nations to be spied upon, as with the Japanese and Chinese. During the Cold War, both the CIA and the KGB even established institutes to study linguistics seeking to overcome such challenges.

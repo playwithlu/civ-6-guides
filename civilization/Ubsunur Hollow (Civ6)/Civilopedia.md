@@ -1,0 +1,4 @@
+# Ubsunur Hollow (Civ6)/Civilopedia
+
+The land of Ubsunur Hollow (or “Uvs Nuur Basin”) is a pocket in time. Few signs of human life mark this Eastern Siberian region, but for the barrows dug for the ancient dead, massive stones erected as ceremonial monuments, and the haunting sounds of Tuvan throat singing.
+The basin, just smaller than Puerto Rico, spans multiple biomes. All manner of unique species find a home in the Hollow’s deserts, marshes, tundra, and saltwater lakes. One such animal is the endangered snow leopard, once hunted to near-extinction. Now that the area is a protected reserve, the leopards can repopulate without fear of natural predators (beyond the occasional farmer concerned about their livestock).

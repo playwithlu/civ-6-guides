@@ -1,0 +1,5 @@
+# Lasers (Civ6)
+
+Lasers is an [Information%20Era%20%28Civ6%29](Information Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)." In "", it can be hurried by building 2 [Drone%20%28Civ6%29](Drones). 
+Strategy.
+Lasers allow unparalleled precision in many activities, both in everyday life and in war. Of course, they are too dangerous to be left lying around in our houses, so engineers decide to build new weapons with them. Thus the new generation air fighter and the ultimate military vessel - the [Jet%20Fighter%20%28Civ6%29](Jet Fighter) and the [Missile%20Cruiser%20%28Civ6%29](Missile Cruiser), respectively - roll out onto the battlefield. Their laser-guided precision weapons are literally capable of hitting a fly from kilometers away. Which some modern armies sometimes do.

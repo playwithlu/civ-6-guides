@@ -1,0 +1,3 @@
+# Artists' Guild (Civ3)/Civilopedia
+
+In the Renaissance, centers of culture and art developed in many cities in Europe. Florence, birthplace of the Renaissance, is the best example with its enclave of artists, sculptors, and architects that flourished from the 14th Century on. The later High Renaissance, centered in Rome and commencing at the same time as the Age of Discovery, included the works of such notables as Leonardo da Vinci, Michelangelo, and Raphael. Other centers of culture soon sprang up around Europe, such as the Flemish artists (Dutch Masters) of the 1400 and 1500s, the literature and drama of Elizabethan England (Shakespeare, Marlowe), the chateaux built in the Loire Valley of France, and in Spain where Cervantes wrote his masterpiece 'Don Quixote'.

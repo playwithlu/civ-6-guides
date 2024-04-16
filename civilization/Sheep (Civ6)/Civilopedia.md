@@ -1,0 +1,3 @@
+# Sheep (Civ6)/Civilopedia
+
+Domestic sheep are likely descendants of wild mouflon breeds found scattered across Europe and Asia. Sheepherding is the oldest documented occupation, commencing some 5000 years ago in Asia Minor. Men and their dogs kept the sheep safe from predators so the village could enjoy the wool and the mutton, both essential to the rise of the ancient Mesopotamian civilizations. The practice spread across Europe, North Africa, and the Middle East. There are today over 200 breeds of sheep in existence, each bred for a specific quality: hardiness, size, quantity and quality of fleece, milk production … and tastiness.

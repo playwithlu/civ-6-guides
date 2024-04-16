@@ -1,0 +1,3 @@
+# Explorer (Civ5)/Civilopedia
+
+Although the coasts of Africa had been explored for three centuries, it was not until the early 19th Century AD that the European powers began a concerted effort to explore the hinterlands of the continent. Beginning from coastal trading posts, missions and colonial settlements, Western explorers pushed inland in small expeditions seeking legendary wonders, "lost" native civilizations, and scientific knowledge. Some, like David Livingston, were medical missionaries; some, like Pietro di Brazza, sought adventure; and others, such as MacGregor Laird, were merchants seeking new opportunities for profit. Whatever their motivations, the European explorers figure prominently in the history of Africa.

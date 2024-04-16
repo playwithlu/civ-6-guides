@@ -1,0 +1,5 @@
+# Conscription (Civ6)
+
+Conscription is a Military [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+This is one of the Policies that could be called "permanent," because it is always useful in any game situation. It works by reducing the effective maintenance fee of each [Units%20%28Civ6%29](unit) you've got by 1. Since maintenance is an automatic expense, this Policy reduces or even eliminates this expense - units up to the [Renaissance%20Era%20%28Civ6%29](Renaissance Era) only have a maintenance of 1, which means that they will become free! The resulting savings may be utilized any way you decide, and that's what makes this Policy so ubiquitously useful. Usually you should have it in a Military slot at all times, unless you have other overriding goals at the moment, such as the need to enlarge your army or fight off enemy invasions.

@@ -1,0 +1,3 @@
+# Project
+
+In the "[Civilization%20%28series%29](Civilization)" games, a project is a special task that can be undertaken in a [city](city) to provide either a temporary or permanent benefit. Like [unit](unit)s, [building](building)s, and [Great%20Wonder](wonders), projects require a certain amount of [production](production) to complete, but some projects can be undertaken by multiple [civilizations](civilizations).

@@ -1,0 +1,8 @@
+# Range (Civ6)
+
+ Range is a property of [Unit%20%28Civ6%29](units) with ranged attacks in "[Civilization%20VI](Civilization VI)". It determines how far away the unit can attack. When Range is 1, the unit can only attack targets on the six [hex](hex)es that are immediately next to it. With a Range of 2, the unit can attack any of the 18 nearest hexes. Units that have a Range of 3 can cover a total of 36 hexes.
+ Range is limited by the attacker's , which is affected by [Terrain%20%28Civ6%29](terrain) and features on the [Tile%20%28Civ6%29](tiles) the attacker and defender occupy: [Hills%20%28Civ6%29](Hills), [Woods%20%28Civ6%29](Woods), and [Rainforest%20%28Civ6%29](Rainforests) all impose terrain penalties to Range, and the penalties are cumulative. For example, an [Archer%20%28Civ6%29](Archer) on a [Plains%20%28Civ6%29](Plains) tile will not be able to target a unit on another Plains tile if there are Hills between them, nor will an Archer on a Hills tile be able to target a unit if there is a wooded Hills tile between them. For more information, see [Sight%20%28Civ6%29](this article).
+When a ranged unit uses its ranged attack, it is safe from any harm in that battle. This means that the unit or [City%20%28Civ6%29](city) being attacked cannot do damage to the unit using a ranged attack.
+Cities have a Range of 2. This means that units that have a Range of 3 can attack cities without exposing themselves to retaliation.
+Range bonuses.
+There are a few ways to increase the Range of units:

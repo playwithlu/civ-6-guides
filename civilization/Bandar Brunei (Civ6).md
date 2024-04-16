@@ -1,0 +1,5 @@
+# Bandar Brunei (Civ6)
+
+Bandar Brunei is a trade [City-state%20%28Civ6%29](city-state) in "[Civilization%20VI](Civilization VI)". It replaced [Jakarta%20%28Civ6%29](Jakarta) under all rulesets in the [Khmer%20and%20Indonesia%20Civilization%20%26amp%3B%20Scenario%20Pack%20%28Civ6%29](Khmer and Indonesia Civilization &amp; Scenario Pack).
+Strategy.
+Bandar Brunei's [Suzerain%20%28Civ6%29](Suzerain) bonus increases the output of s, but is far less useful than the bonuses of city-states such as [Venice%20%28Civ6%29](Venice)/[Amsterdam%20%28Civ6%29](Amsterdam) and [Hunza%20%28Civ6%29](Hunza). can easily be obtained in large quantities from multiple sources, so a bonus that grants a paltry amount of per and takes time and careful attention to leverage is definitely not worth the trouble. Becoming Suzerain of Bandar Brunei should be low on players' priority lists, because there are many other ways to earn extra that don't involve checking to see which [City%20%28Civ6%29](cities) have s.

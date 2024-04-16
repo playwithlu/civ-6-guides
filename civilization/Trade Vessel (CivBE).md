@@ -1,0 +1,10 @@
+# Trade Vessel (CivBE)
+
+Trade Vessel. Removed in "Rising Tide".
+Technology: 
+Game Info.
+Naval Trade Unit. Used to establish Trade Routes by sea between your cities and other cities, outposts, or stations. Trade Routes generate yields or increase growth rate for the trading partners, but trade units are vulnerable to attack and their routes must be protected by military units.
+History.
+Once the settlers began to map the lakes and seas and understand the dangers of deep waters on this alien world, colonial officials and merchants began constructing trade vessels to carry trade over the waves to distant ports. In appearance, the colonial ships are not much different from the merchant ships of the past few centuries on Old Earth, being container and tanker vessels festooned with cranes, derricks and pipes. Only the cargo has changed, as energy is the currency of this new world. Thus, besides holds for physical goods, many of the colonial trade vessels carry massive storage devices for loading and offloading electrical, chemical and mechanical energy.
+Real information for the game.
+Naval Trade Unit. Used to establish Trade Routes by sea between your cities and other cities, outposts, or stations. Trade Routes generate production, food, energy, culture, science, or a strategic resource. The increase food you gain can really help a new colony increase in size quicker. Building your first [Ultrasonic%20Fence%20%28CivBE%29](Ultrasonic Fence) gives you the quest choice to protect all trade units with it, so they are safe from any possible alien attack. If you do not do this, then you'd have to micromanage moving military units on their route to keep it clear of any aliens, which isn't really possible when you see how many trade routes you have and the distance, and how much faster the trade units move than any military unit.

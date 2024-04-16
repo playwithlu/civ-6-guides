@@ -1,0 +1,3 @@
+# Traveling Monks (Civ6)/Civilopedia
+
+Whereas most Christian monks lived in stable, monastic communities, the mendicant orders adopted a lifestyle of poverty, itinerant travelling, evangelization, and ministry, especially to the commoners. As such, since they had no lands or trade, these “travelling monks” depended on the goodwill of those to whom they preached for their well-being, though it didn't always work.

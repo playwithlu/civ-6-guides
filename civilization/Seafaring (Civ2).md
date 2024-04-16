@@ -1,0 +1,5 @@
+# Seafaring (Civ2)
+
+ Seafaring is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+As empires grew and trade expanded to new areas, travel by sea became increasingly important to the civilizations of the world. Experienced sailors passed down their lore and techniques to new generations who sailed to increasingly distant lands. Originally, these long voyages were trade-oriented. But the ability to travel great distances led to a new breed of adventurers whose goal was primarily one of exploration. The Vikings were some of the earliest and most successful explorers in history. Their knowledge of the sea and experience with long ocean voyages allowed explorers such as Leif Ericson to successfully cross the Atlantic and land in the Americas more than 500 years before Columbus. The pioneering spirit of these early ocean travelers formed the basis for the seafaring traditions of generations to come.

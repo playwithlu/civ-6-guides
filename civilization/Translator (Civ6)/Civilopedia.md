@@ -1,0 +1,3 @@
+# Translator (Civ6)/Civilopedia
+
+Whether a priest, missionary, or even a prophet, it helps to speak the language of one’s flock. Training missionaries in the local tongue (as for instance, the Catholic Church did with missionaries to the Norsemen) and converting holy texts so the locals could read the holy texts themselves has had an enormous impact on the success of all that preaching. Indeed, there is even a patron saint of translation (there are saints for just about everything), one Jerome of Stridon who translated the Hebrew Bible into Latin. But, as the Buddhist monks who translated Indian sutras into Chinese did, sometimes the holy word got adjusted to take account of cultural sensibilities.

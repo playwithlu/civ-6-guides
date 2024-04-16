@@ -1,0 +1,3 @@
+# Merchant of Venice (Civ5)/Civilopedia
+
+The merchants operating out of Venice in the 13th through 16th centuries were more than just traders; they were explorers, diplomats, geographers and authors. Besides bringing wealth to the Venetian Republic, they brought back knowledge and culture, and set them down in writing. The exploits of individuals such as Marco Polo, Gasparo Balbi and Ambrogio Contarini not only made Venice rich, but famous as well.

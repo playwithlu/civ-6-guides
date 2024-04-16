@@ -1,0 +1,2 @@
+# Infantries (Civ6)
+

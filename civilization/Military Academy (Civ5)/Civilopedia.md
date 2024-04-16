@@ -1,0 +1,3 @@
+# Military Academy (Civ5)/Civilopedia
+
+A military academy is an institution of higher education dedicated to training a country's officer corps. Military academies offer the finest higher education available combined with rigorous physical training and courses in command, strategy, logistics and other military subjects. Generally the best and the brightest - or at least the best connected - of a nation's children attend its military academies.

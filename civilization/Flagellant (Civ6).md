@@ -1,0 +1,5 @@
+# Flagellant (Civ6)
+
+The Flagellant is a [Medieval%20Era%20%28Civ6%29](Medieval Era) [List%20of%20units%20in%20Civ6/By%20class%23Civilian](civilian unit) from [The%20Black%20Death%20%28Civ6%29](The Black Death), a [Scenario%20%28Civ6%29](scenario) in "". It can gain , , and [Loyalty%20%28Civ6%29](Loyalty) from plague-stricken [City%20%28Civ6%29](cities).
+Strategy.
+Upon completion of the [Public%20Servants%20%28Civ6%29](Public Servants) [Civic%20%28Civ6%29](civic) (which "also" reduces costs of civilian units by half), the Flagellant can become a useful exploit for a quick way to complete all civics (thereby attaining [Victory%20%28Civ6%29](victory)). The player simply has to use 35 to purchase a Flagellant in all plague-stricken cities, wait until the next turn, then activate the Flagellants to recover 50 and also gain 10 and 30 Loyalty. This becomes even quicker when playing as [Castilian%20%28Civ6%29](Castile), which can spend 10 to restore the of a newly purchased unit.

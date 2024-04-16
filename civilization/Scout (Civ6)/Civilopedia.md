@@ -1,0 +1,3 @@
+# Scout (Civ6)/Civilopedia
+
+Over the centuries many people have been termed "scouts" (including teenagers in neat uniforms camping out and earning "merit badges"). But fleet-footed warriors adept at wandering the wilderness and spying on the enemy have existed since the days of hunter-gathers. These "specialists" were the eyes and ears of early civilizations, spreading out from settlements, exploring new lands, and seeking the enemy. In time, they became ever more specialized, and are an inherent and vital part - even today - of any military formation. Knowing where the opponent is and what he is up to is still vital to avoid getting slaughtered.

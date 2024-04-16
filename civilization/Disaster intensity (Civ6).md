@@ -1,0 +1,2 @@
+# Disaster intensity (Civ6)
+

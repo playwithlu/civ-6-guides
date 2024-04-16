@@ -1,0 +1,4 @@
+# Particle Beam Siege Cannon (Civ6)/Civilopedia
+
+Long the dream of science fiction authors and military technologists, and finally made possible with the advent of portable ultra-high energy reactors, the particle beam cannon is one of the signature weapons of the Gunnery Deployment Rig. As well as the particle accelerator, the system also includes extensive stabilization (holding the beam steady greatly increases its efficacy) and sometimes also includes a "boring laser" which is intended to remove interfering particulate matter along the beam's projected trajectory.
+Contrary to urban myth, you cannot defeat a particle beam cannon by covering the target in mirrors or by hiding behind a smokescreen.

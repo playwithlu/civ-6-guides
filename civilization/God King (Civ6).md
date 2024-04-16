@@ -1,0 +1,5 @@
+# God King (Civ6)
+
+God King is an Economic [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+God King is one of the starting choices for your Economy Policy slot. The usefulness of this policy is dependent on your 's starting [Tile%20%28Civ6%29](tiles), and the general geographic situation of the particular game. If there's ample potential in the [Terrain%20%28Civ6%29](terrain), God King can be used to get extra and a [Pantheon%20%28Civ6%29](pantheon) quickly. However, if an early source of and/or is found - such as a nearby religious [City-state%20%28Civ6%29](city-state), certain [Resource%20%28Civ6%29%23Luxury](luxury resources), or fortuitous [Tribal%20Village%20%28Civ6%29](Tribal Village) discoveries - it may be better to rely on [Urban%20Planning%20%28Civ6%29](Urban Planning) for the boost. In either case, God King will rapidly lose its luster once trade networks are established and [Holy%20Site%20%28Civ6%29](Holy Sites) are built and should generally be slotted out once a pantheon is discovered.

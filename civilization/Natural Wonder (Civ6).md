@@ -1,0 +1,2 @@
+# Natural Wonder (Civ6)
+

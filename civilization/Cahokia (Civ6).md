@@ -1,0 +1,5 @@
+# Cahokia (Civ6)
+
+Cahokia is a trade [City-state%20%28Civ6%29](city-state) in "".
+Strategy.
+Cahokia's [Suzerain%20%28Civ6%29](Suzerain) gains access to the [Cahokia%20Mounds%20%28Civ6%29](Cahokia Mounds), a very solid [Tile%20improvement%20%28Civ6%29](tile improvement) that grants 1 per improvement right from the get-go yet has no placement restrictions (other than not being able to be built next to one another). The Cahokia Mounds are even stronger than [Armagh%20%28Civ6%29](Armagh's) [Monastery%20%28Civ6%29](Monastery), since their other bonuses (, , and ) have a much wider scope of applicability than the Monastery's bonus. A fantastic improvement that grants all the essentials to an early empire, the Cahokia Mounds are the reason why you should definitely devote your power to Cahokia - the earlier, the better. But be forewarned: since , , , and are what everyone needs, the competition for Cahokia's Suzerainty will be tough, especially when you don't spawn right next to it.

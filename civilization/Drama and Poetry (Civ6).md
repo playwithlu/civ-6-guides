@@ -1,0 +1,5 @@
+# Drama and Poetry (Civ6)
+
+Drama and Poetry is a [Classical%20Era%20%28Civ6%29](Classical Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by building a [Wonder%20%28Civ6%29](wonder). 
+Strategy.
+The development of Drama and Poetry as the earliest forms of culture is a milestone for any [Civilizations%20%28Civ6%29](civilization) with minimal self-respect. It opens up a society to the value of culture and its pursuit. As a result, a brand new , the [Theater%20Square%20%28Civ6%29](Theater Square), is developed, and in its first [Building%20%28Civ6%29](building), the [Amphitheater%20%28Civ6%29](Amphitheater), citizens may enjoy the first fruits of their culture, [Great%20Work%20%28Civ6%29](Great Works of Writing). Also, another [Policy%20card%20%28Civ6%29](Wildcard Policy) is unlocked for helping to attract [Great%20Writer%20%28Civ6%29](Great Writers).

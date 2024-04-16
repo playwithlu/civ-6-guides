@@ -1,0 +1,4 @@
+# Longhouse (Civ5)/Civilopedia
+
+For much of their history, many of the Iroquois people lived in villages containing one or more "Longhouses," communal buildings constructed of wood saplings sheathed in elm bark. In fact, the Iroquois call themselves "Hodenosaunee," which translates into "People of the Longhouse." The longhouses ranged from 12 to 120 meters (40 to 400 feet) in length and some 8 meters (25 feet) wide. They were divided into compartments by inner partitions, each connected by an open center aisle. Several compartments would share a cooking fire in the center aisle, with an opening in the roof above acting as a chimney.
+Longhouses are efficient structures, cheaper to construct and heat than individual dwellings, thus requiring fewer natural resources than other types of homes. They are representative of the Iroquois' cultural desire to survive and thrive in harmony with the environment around them.

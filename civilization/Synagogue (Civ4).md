@@ -1,0 +1,2 @@
+# Synagogue (Civ4)
+

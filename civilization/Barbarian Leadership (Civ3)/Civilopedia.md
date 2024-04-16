@@ -1,0 +1,3 @@
+# Barbarian Leadership (Civ3)/Civilopedia
+
+All great periods in the history of the barbarians who brought down the Roman Empire started with the rise to power of a charismatic leader: Attila for the Huns, Theodoric for the Ostrogoths, Alaric for the Visigoths, Gaiseric for the Vandals, and Clovis for the Franks. Once this level of leadership had been achieved, then a barbarian nation could attempt to rise to dominant status across Europe, becoming the Scourge of God.

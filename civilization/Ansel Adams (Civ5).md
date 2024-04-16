@@ -1,0 +1,2 @@
+# Ansel Adams (Civ5)
+

@@ -1,0 +1,5 @@
+# Fundamentalism (advance) (Civ2)
+
+ Fundamentalism is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+Fundamentalism is a governing system whose laws and doctrines are rooted in the extremist and controversial views of religion. Fundamentalists believe in the absolute truth and infallibility of their religion, accepting nothing short of a literal interpretation of the scriptures of their faith. Their views are sometimes so radical as to put them at odds with even the most devout traditionalists of the religion in question. Fundamentalist movements have appeared from time to time throughout the world, including a widespread movement of Christian fundamentalism in the U.S. in the early 20th century. In some cases, most notable in areas of the Middle East, these movements are so widespread that entire nations fall under Fundamentalist rule. Such governments, backed by a fanatical military force, can be a serious threat to any country that opposes their radical views.

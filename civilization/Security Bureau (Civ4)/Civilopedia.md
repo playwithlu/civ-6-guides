@@ -1,0 +1,3 @@
+# Security Bureau (Civ4)/Civilopedia
+
+As long as there has been espionage, there has been a need for counter-espionage. This is the realm of the Security Bureau. Bureaus like the American FBI or the British MI5 make sure that sensitive intelligence is protected from outside sources. While espionage is an ancient practice, most Security Bureaus are less than one hundred years old. MI5 has only been in existence since 1909, organized originally to fight against German spies before World War I. The FBI began its expansion in the 1930s thanks to J. Edgar Hoover, the Bureau's first director.

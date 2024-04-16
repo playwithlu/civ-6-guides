@@ -1,0 +1,6 @@
+# Total War (Civ6)
+
+Total War is a Military [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)". In the [Civilization%20VI%20February%202019%20Update](February 2019 Update), it was updated to provide bonus yields from coastal raids and plundering s.
+Strategy.
+Total War is a helpful policy to adopt when playing as a domination-focused [Leaders%20%28Civ6%29](leader). Being at war with opponents prevents you from sending s to their [City%20%28Civ6%29](cities) and gives them the opportunity to plunder any s that pass by their [Unit%20%28Civ6%29](units), but increased rewards for pillaging s and [Tile%20improvement%20%28Civ6%29](tile improvements) and plundering your opponents' s (which you'll have lots of opportunities to do as you send your military into foreign lands) will help keep your economy in order even when you're fighting wars on multiple fronts.
+Note that since the [Civilization%20VI%20April%202019%20Update](April 2019 Update) went live, you'll receive only additional or from pillaging and plundering unless you're playing as [Harald%20Hardrada%20%28Civ6%29](Harald Hardrada), whose [Unique%20ability%20%28Civ6%29](leader ability) allows him to gain and in addition to the standard rewards for pillaging and coastal raids.

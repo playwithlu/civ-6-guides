@@ -1,0 +1,4 @@
+# Ancestral Hall (Civ6)/Civilopedia
+
+The Ancestral Hall is a building associated with veneration of ancestors, and the best examples of these come to us from China (although variants on the concept have been built elsewhere throughout history). They exist to serve as a place where the living might demonstrate their respect and honor for the previous generations in their lineage, and to conduct important familial ceremonies, such as marriage and funerals.
+As the seat of a lineage, they serve as an important locus in the identity of a family. No matter how far away a family may move, they know that they can return to their ancestral hall and reconnect in an important way to their place of origin. This grounding of identity is a source of strength for these people, making them feel like part of an unbroken chain of human effort and achievement.

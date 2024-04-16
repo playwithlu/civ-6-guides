@@ -1,0 +1,10 @@
+# Destroyer (Civ5)
+
+Game Info.
+Powerful naval melee unit of the [Modern%20Era%20%28Civ5%29](Modern Era). Upgrades from the [Ironclad%20%28Civ5%29](Ironclad) and the [Privateer%20%28Civ5%29](Privateer).
+Strategy.
+The Destroyer is a Modern Era multipurpose naval melee unit designed to defend your fleet from all new dangers of modern combat. It is small and agile, but at the same time it packs quite a punch in naval melee combat. It is especially useful against submarines thanks to its sonar systems, which allow it to detect them from afar; and its depth charges, which can destroy them even though they're under the water. It also has radar systems that allow it to effectively intercept airplanes, although the interception range is not as big as land-based units.
+It often acts as an escort to [Embarkation%20%28Civ5%29](embarked) units, [Battleship%20%28Civ5%29](Battleships) and [Carrier%20%28Civ5%29](Carriers) when in range of enemy planes and subs. It is quick, giving it a [Promotions%20%28Civ5%29](promotion) that gives it a good chance to withdraw to the rear before an enemy naval melee attack can occur.
+The Destroyer is a vital counter to the new Modern Era naval weapon - the [Submarine%20%28Civ5%29](Submarine) - and should be unlocked ASAP (via [Combustion%20%28Civ5%29](Combustion)) when your [Civilizations%20%28Civ5%29](civilization) is in danger of entering hostilities with a naval power. Its main use is to patrol the seas, using its fast movement to uncover and attack submarines, and to escort your main fleet of Battleships and Carriers (and later [Missile%20Cruiser%20%28Civ5%29](Missile Cruisers)), passively defending them against air attacks. It is also the only naval unit in the late game capable of melee naval combat, and thus capturing [City%20%28Civ5%29](cities).
+See also.
+[[ru:Эсминец (Civ5)]

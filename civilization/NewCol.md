@@ -1,0 +1,12 @@
+# NewCol
+
+NewCol is a free, volunteer-run spin-off of "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)", developed in France from January 2007, which has progressed remarkably fast for games of its type. The main developer is [Fr%C3%A9d%C3%A9ric%20Vernier](Frédéric Vernier), a "Professor Assistant and researcher in Computer Science teaching at South-Paris University".
+"Version 0.3.1 : Win32-MinGW[zip 17.9 MB] and MacOsX[dmg 19.4 MB] (October the 26th 2008)"; "XCode for Mac OS X, CodeBlocks-MinGW and VisualC++ for Windows". (That was still the latest downloadable version in August 2013.) It is in translated English. The website gives no indication of how anyone may help to put it into proper English, though there is (on the Copyright page) an email address for the developer. Players may be a little amused at the idea of using a Statesman or a Fur Trader.
+The site acknowledges that some of its graphics have been reworked from other "free" games, notably "[FreeCol](FreeCol)".
+The website seems to give no UI guidance. The "Rules" page tells you to move your ship to the New World, but there is no hint of how. Download may produce what looks like a very small part of the world (e.g., English Channel) with no easy way to scroll or to see the whole world.
+The project is, in effect, on hold. In August 2013 the latest group of "news" items was dated "2011 January 21th", and the previous item was 15 months earlier, so the lengthening gaps may suggest that there is no more development. An email to its developer in August 2013 produced a reply that included the following:
+Differences.
+The game differs from the original in many ways.
+There are 90 different [building](building)s (though some are just stages 2 and 3 of basic buildings, as in "Colonization"). They include a [Well](Well) and a Town Statue.
+There are more types of [unit](unit) (and the mounted ones are recognizable instead of being just "[Scouts%20%28Col%29](scout)" or "[Dragoons%20%28Col%29](dragoon)"). Examples are Tailor, Alchemist, and Cowboy. Being a specialist in one field gives you great advantage in that activity, as in "Colonization", but also some advantage in related activities.
+Products and industries are more diverse. For example, [cotton](cotton) becomes [cloth](cloth) as in "Colonization" but can then become a garment; [gold](gold) and [silver](silver) can be turned into jewelry.

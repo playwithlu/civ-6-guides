@@ -1,0 +1,3 @@
+# Ivory (Civ5)/Civilopedia
+
+Ivory is a material harvested from the teeth and tusks of animals, including elephants, whales, hippopotamuses, narwhals, and so forth. Ivory is highly valued for its durability and its attractiveness. Historically it has been used for billiard balls, piano keys, clothing structural supports, utensil handles, etc. In the modern era plastics have been invented that are perfectly adequate substitutes for the precious material, but nothing yet made can match its beauty and allure - which is unfortunate for the many endangered animals illegally slaughtered each year for their ivory.

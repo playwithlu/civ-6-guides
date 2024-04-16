@@ -1,0 +1,3 @@
+# Public School (Civ5)/Civilopedia
+
+A public school provides free pre-university education to a civilization's children. This is a fairly advanced concept. First, the civilization must believe that education is important, and that educating the poor is not a threat to the ruling class. Second, the civilization must be wealthy enough so that the children of the poor do not need to work to fend off starvation. And finally, the civilization must be enlightened enough to be willing to expend some of its public revenue providing the education. Most countries in the world today provide some level of public education for their young. The first American public grade schools opened during the Colonial era. The first public high school was opened in Boston in 1821.

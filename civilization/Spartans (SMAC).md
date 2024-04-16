@@ -1,0 +1,2 @@
+# Spartans (SMAC)
+

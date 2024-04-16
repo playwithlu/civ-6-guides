@@ -1,0 +1,5 @@
+# Gobustan (Civ6)/Civilopedia
+
+The Gobustan National Park in Azerbaijan is home to a rich assortment of ancient artifacts – some of which are natural, and others left by people lost to history. Beyond the rock carvings of hunters and their prey, and past the Gaval Dash – a unique stone that can be used to produce music – visitors can find hundreds of mud volcanoes.
+Mud volcanoes, unlike traditional volcanoes, spew only mud, water, and gases. As their activity is free of magma, mud volcanoes tend to be quite cold. Though these are typically not dangerous – aside from the strong smell of methane – mud volcanoes may occasionally erupt in toxic gas or flame.
+Visitors to the Gobustan National Park may leave a bit muddier than when they arrived, but they receive a rare view of the lives of prehistoric people as well as some marvels of nature.

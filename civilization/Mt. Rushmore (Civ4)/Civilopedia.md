@@ -1,0 +1,5 @@
+# Mt. Rushmore (Civ4)/Civilopedia
+
+Mount Rushmore stands as one of the largest sculpted structures in modern human history. Mount Rushmore displays in granite the heads of four great US presidents: George Washington, Thomas Jefferson, Abraham Lincoln, and Theodore Roosevelt. Each head stands approximately 60 feet in height.
+Mount Rushmore was the vision of Doane Robinson, the superintendent of the South Dakota Historical Society. He engaged the famous American sculptor Gutzon Borglum to take charge of the project. For fourteen years Borglum and a team of 400 local miners blasted, chiseled, scraped and polished the granite mountain until the work was finally completed in 1941. Most remarkably, no one was killed during construction.
+Mount Rushmore has been called the "American Shrine." Each year thousands journey to the rugged mountains of South Dakota to look upon their four great leaders.

@@ -1,0 +1,2 @@
+# Monumentality (dedication) (Civ6)
+

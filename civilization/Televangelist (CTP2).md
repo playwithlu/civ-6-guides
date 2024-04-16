@@ -1,0 +1,7 @@
+# Televangelist (CTP2)
+
+The Televangelist is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The Televangelist combines the evangelical zeal of the [Cleric%20%28CTP2%29](Cleric) with the power of [Mass%20Media%20%28CTP2%29](Mass Media). Taking his message to the living rooms of the world, the Televangelist can Convert Cities to his particular faith, extracting [Gold%20%28currency%29%20%28CTP2%29](Gold) from their citizens, eager for salvation. He can perform Faith Healings, which raises [Happiness%20%28CTP2%29](Happiness) in exchange for Gold. He can also Soothsay, predicting the impending Armageddon and thereby causing [Unhappiness%20%28CTP2%29](Unhappiness).
+Great Library entry.
+Mass media, especially radio and, later, television, offered religious institutions a powerful new way to reach their audiences. Although religiously-themed radio shows and radio preachers were prevalent through the 1940s, 50s and 60s, the rise of cable television in the 1980s spawned a new generation of charismatic, firebrand preachers who staged elaborate shows to attract and keep their viewers' attention. Although the primary purpose of televangelists was to spread their gospel, perform faith healings and reach their audience, their relentless pleas for donations often portended a more sinister purpose.

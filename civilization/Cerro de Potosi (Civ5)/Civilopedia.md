@@ -1,0 +1,3 @@
+# Cerro de Potosi (Civ5)/Civilopedia
+
+Located in southern Bolivia, the mountain of Potosi produced nearly all of the silver mined by the Spanish during their imperial days. Once removed from the mountain, it was taken by llama and mule to the coast where it was then loaded onto treasure ships sailing back to Europe. Nearly 41,000 tons of pure silver were mined over the course of 200 years, 8,200 of which went directly to the Spanish crown. After 1800, the main silver mines were depleted, but the mining of Potosi still continues today - some for silver but now mostly for tin.

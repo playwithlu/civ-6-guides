@@ -1,0 +1,5 @@
+# Crusaders (Civ2)
+
+The Crusader is a ground unit in [Civilization%20II](Civilization II).
+Civilopedia entry.
+Between 1095 and 1270, European Christians waged a series of wars known as the Crusades. These holy wars, sanctioned by the Pope, were fought to free the Christian Holy Lands from Muslim control. The crusaders themselves were a mixed lot, with many different backgrounds and reasons for fighting. However, most of them joined the ranks out of religious fervor, and a feeling that their personal salvation was guaranteed when fighting for such a holy cause. Despite the fact that the crusaders fought with all the strength of their religious conviction, the Crusades accomplished very little in a military sense; however, the European economy and desire for exploration was greatly increased.

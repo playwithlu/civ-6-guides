@@ -1,0 +1,3 @@
+# Mount Everest (Civ6)/Civilopedia
+
+Mount Everest - called in Tibetan "holy mother," or Qomolangma, is the world’s tallest mountain, standing 8848 meters (29029 feet) above sea level, and part of the Himalaya range. It is one of the “hidden valleys of refuge” designated by the 9th Century Buddhist savant Padmasambhava, and killer of over 250 would-be conquerors since 1922. In 1802 AD, the British launched the Great Trigonometric Survey of India using giant theodolites to determine the highest peaks in the world. A half-century later, in 1858, the Surveyor General of India, Andrew Waugh, announced conclusively that Peak XV (that is, Everest) was the highest. And adventurers have been trying to climb it ever since... “Because it’s there.”

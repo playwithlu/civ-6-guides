@@ -1,0 +1,3 @@
+# Stone (Civ6)/Civilopedia
+
+According to geologists, stone is “a naturally occurring solid aggregate of one or more minerals or mineraloids.” Granite, for instance, is a mix of feldspar, biotite and quartz. The entire outer layer of the Earth’s crust is composed of rock. So, it isn’t surprising that “civilized” man has been using stone for constructions, tools, weapons, decorations, and paperweights since the – well – Stone Age.

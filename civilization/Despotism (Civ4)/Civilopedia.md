@@ -1,0 +1,4 @@
+# Despotism (Civ4)/Civilopedia
+
+Despotism is a form of government characterized by a ruler who wields absolute power over his people. Despite the word's negative connotations, a leader doesn't necessarily have to be a corrupt, evil megalomaniac to be a despot; it is possible to be a benevolent despot, though history records few cases of such.
+The strength of this form of government is that the ruler can easily implement his decisions; he does not need to compromise, cajole, or bribe anyone to get the job done. The weakness in this form of government is that the ruler can implement bad decisions just as easily as good ones; with no checks and balances, how can he be stopped? Also, there is a lot of truth in the old saying, "Power corrupts; absolute power corrupts absolutely." And though as said before, despots don't need to be corrupt, evil megalomaniacs, many of them end up that way.

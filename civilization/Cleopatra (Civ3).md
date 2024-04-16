@@ -1,0 +1,3 @@
+# Cleopatra (Civ3)
+
+Cleopatra VII Philopator (69 – 12 August 30 BC) was the last active of . Seeking to maintain Egypt's independence at a time of increased [Roman](Roman) expansionism, she aligned herself with powerful Roman generals such as [Julius%20Caesar](Julius Caesar) and , and thus became a key figure in the that led to the end of the and the start of the . She leads the [Egyptian%20%28Civ3%29](Egyptians) in "[Civilization%20III](Civilization III)".

@@ -1,0 +1,3 @@
+# Field Commander (Civ6)/Civilopedia
+
+A field commander is an officer responsible for a huge portion of his nation’s military, usually along an entire front. He must understand both the operational plan of his army and be willing to adapt these as changes warrant in the course of the war. Although he works through subordinate commanders and is advised by the general staff, the success or failure of the army rests on his judgement.

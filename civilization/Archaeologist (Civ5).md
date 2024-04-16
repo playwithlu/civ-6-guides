@@ -1,0 +1,6 @@
+# Archaeologist (Civ5)
+
+Game Info.
+Special civilian unit for archaeological discoveries. May only be trained in cities with a [University%20%28Civ5%29](University).
+Strategy.
+The Archaeologist is the means by which you use the new [Archaeology%20%28concept%29%20%28Civ5%29](archaeological system) in "". They are a civilian unit that becomes available pretty late in the game. On top of that, they may only be trained in cities with a [University%20%28Civ5%29](University) and may not be purchased with . They are pretty mobile (4 ), and their job is to go to an [Antiquity%20Site%20%28Civ5%29](Antiquity Site) and dig it up, creating an Archaeological Dig. This consumes the Archaeologist, but allows you to either create a [Landmark%20%28Civ5%29](Landmark) improvement or extract an Artifact to fill in a Great Work of Art slot in a [Museum%20%28Civ5%29](Museum), [Palace%20%28Civ5%29](Palace), [Hermitage%20%28Civ5%29](Hermitage), or certain wonders. It is worth noting that an Archaeological Dig can be constructed anywhere your Archaeologist can go (rival territory if you have an Open Borders agreement), and thus artifacts can be obtained from Antiquity Sites outside your borders.

@@ -1,0 +1,4 @@
+# Immortal (Civ6)/Civilopedia
+
+The elite heavy infantry of the ancient Persian Empire has a fearsome reputation, but much that is known of them comes from the writings of Herodotus, whose accounts were widely read but not necessarily accurate. For example, the very name by which they are known—the Immortals—was of Greek origin, not Persian.
+According to Herodotus, they were said to maintain a force of exactly 10,000 soldiers who, upon injury or death, were immediately replaced so they would never be anything less than full strength. As elite troops they were afforded special luxuries, such as their own food kept separately from the rest of the army. Their clothes were vibrant, covering coats made of armored metal scales, and they carried a variety of armaments such as short spears, swords, and powerful bows. Whatever their actual disposition, they were respected (and feared) by their contemporaries.

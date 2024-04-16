@@ -1,0 +1,4 @@
+# Hul'che (Civ6)/Civilopedia
+
+The hul’che, a Mayan weapon for throwing a dart or arrow, seems at first to be quite simple. It is a long wooden shaft with a notch at the end, where an arrow sits. Used by an experienced marksman, the hul’che greatly increases the force of a throw, throwing a dart at over three hundred miles per hour (150 meters per second). Against lightly armored Mesoamerican soldiers, the hul’che would have been deadly. It was used in many ancient societies: the Aztec called it the atlatl, Australian aboriginal groups called theirs a woomera, and archaeological evidence for similar devices exists across Europe.
+Both Maya men and women were trained in the use of the hul’che. Mayan battles would begin with an exchange of hul’che darts, wounding opponents before individual melee fighters rushed in in a search for individual glory.

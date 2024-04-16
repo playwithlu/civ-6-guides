@@ -1,0 +1,4 @@
+# Monarchy (government) (CivRev)
+
+Monarchy is a form of [Government%20%28CivRev%29](government) in "[Civilization%20Revolution](Civilization Revolution)". It can be adopted after researching [Monarchy%20%28technology%29%20%28CivRev%29](the technology of the same name).
+Monarchy doubles the [Culture%20%28CivRev%29](culture) provided by the [Palace%20%28CivRev%29](Palace). It is useful for protecting [City%20%28CivRev%29](cities) against culture flipping early on in the game. [Elizabeth%20I%20%28CivRev%29](Elizabeth), the [English%20%28CivRev%29](English) [Leaders%20%28CivRev%29](leader), begins the game with this technology and form of government.

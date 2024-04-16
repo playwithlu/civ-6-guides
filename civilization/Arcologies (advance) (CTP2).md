@@ -1,0 +1,8 @@
+# Arcologies (advance) (CTP2)
+
+Arcologies is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)". It unlocks [Arcologies%20%28building%29%20%28CTP2%29](Arcologies).
+Gameplay.
+Capable of housing large amounts of people, are huge, sky scraping structures that enable an increase in a city's maximum size. They are self-contained multi-function housing structures, with services, shopping, security and entertainment. The denizens of these behemoths have little reason to venture out of their , which alleviates .
+Great Library entry.
+In 1969, one of the most well-known utopian city planners of the 20th century, Italian-born American architect Paolo Soleri introduced the concept of arcologies as a potential alternative to the sprawling cities of late-20th century America. Coined from the words "architecture" and "ecology," arcologies were megastructures designed to conserve natural surroundings and spatially condense the human activities of working and living. In his book Arcology: The City in the Image of Man, he envisioned giant urban centers that extended vertically into the sky, rather than horizontally along the ground.
+It was not until the middle of the 21st century that the overcrowding of cities reached such heights that arcologies became necessary. Many beleaguered metropolises erected these towering structures within city limits, and, although Soleri's original vision of conserved nature was often sacrificed, arcologies enabled cities to house and serve increasing numbers of people. Many arcology dwellers spent much of their lives within their own complex, for they wanted for little that the arcology could not provide.

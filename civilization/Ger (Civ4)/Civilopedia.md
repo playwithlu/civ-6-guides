@@ -1,0 +1,4 @@
+# Ger (Civ4)/Civilopedia
+
+As nomadic tribesmen (and later as cavalry-based conquerors), the Mongolians' survival was dependent upon the quality of their horses and the skill of their riders.
+A warhorse must be extensively trained if it is to be successfully used in battle. In their natural state, most horses quite sensibly seek to run away from dangerous situations - say, when surrounded by screaming men armed with sharp objects. A cavalryman's horse, on the other hand, needs to be able to suppress this instinct and instead instantly carry out any order given it by its rider - no matter how suicidal. Such training takes time and skill - for both mount and rider. Mongolian stables provide such training.

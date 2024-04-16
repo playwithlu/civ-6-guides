@@ -1,0 +1,4 @@
+# Astronomy (Civ4)
+
+Strategy.
+Astronomy allows access to the [Galleon%20%28Civ4%29](Galleon), as well as the [Frigate%20%28Civ4%29](Frigate) and the [Privateer%20%28Civ4%29](Privateer) (with [Chemistry%20%28Civ4%29](Chemistry)) and the [Ship%20of%20the%20Line%20%28Civ4%29](Ship of the Line) (with [Military%20Science%20%28Civ4%29](Military Science)). It enables trading on the ocean and lets you build [Observatory%20%28Civ4%29](Observatories). It obsoletes the [Colossus%20%28Civ4%29](Colossus) and [Stonehenge%20%28Civ4%29](Stonehenge) [Wonder%20%28Civ4%29](Wonders) and the [Monument%20%28Civ4%29](Monument) building.

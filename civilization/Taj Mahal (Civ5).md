@@ -1,0 +1,5 @@
+# Taj Mahal (Civ5)
+
+Strategy.
+Perhaps the Taj Mahal is not a remarkable wonder, but the it starts is not to be underestimated, especially if you managed to build the [Chichen%20Itza%20%28Civ5%29](Chichen Itza) or are playing a relevant [Civilizations%20%28Civ5%29](civilization) such as [Brazilian%20%28Civ5%29](Brazil) or [Persian%20%28Civ5%29](Persia). Either way, this is a very good wonder to spend a [Great%20Engineer%20%28Civ5%29](Great Engineer) on, particularly if all the superior wonders have been built, and if you are playing a wide empire and are looking for more on top of the .
+If the [City%20%28Civ5%29](city) containing the Taj Mahal is captured (and either annexed or puppeted), then the capturing civilization will also get a (10 turns in Normal [Speed%20%28Civ5%29](speed) games) once the city leaves the resistance phase.

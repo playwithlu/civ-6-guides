@@ -1,0 +1,5 @@
+# Master Carpenters (Col)
+
+The Master Carpenter is one of the most important units in "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)". The Master Carpenter doubles the rate of [Hammer%20%28Col%29](Hammer) production in a [Carpenter%27s%20Shop%20%28Col%29](Carpenter's Shop) or [Lumber%20mill%20%28Col%29](Lumber mill).
+Carpentry "cannot" be learned from [Indians%20%28Col%29](Indian tribes) or through work experience. Master Carpenters may be trained in [Europe](Europe) for 1000 [gold%20%28Col%29](gold), and they may teach their skills in a [Schoolhouse%20%28Col%29](Schoolhouse), [College%20%28Col%29](College) or [University%20%28Col%29](University). (They are the only indoor worker who can teach in a Schoolhouse.)
+In [FreeCol](FreeCol), a Master Carpenter appears as one of the first three units in the migrant pool in Europe.

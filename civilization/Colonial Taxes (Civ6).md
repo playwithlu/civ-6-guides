@@ -1,0 +1,5 @@
+# Colonial Taxes (Civ6)
+
+Colonial Taxes is a Diplomatic [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)". Prior to the [Civilization%20VI%20February%202021%20Update](February 2021 Update), it was an Economic Policy Card.
+Strategy.
+Colonial Taxes will provide [City%20%28Civ6%29](cities) that aren't on the same [Continent%20%28Civ6%29](continent) as your original with a sizable bonus (and a smaller bonus in ' and '). [Victoria%20%28Civ6%29](Victoria), the [Spanish%20%28Civ6%29](Spanish), and the [Phoenician%20%28Civ6%29](Phoenicians) will reap the greatest benefits from it, since their unique components and abilities give them incentives to expand their empires all over the [Map%20%28Civ6%29](map). Also, it has very good synergy with the [Casa%20de%20Contrataci%C3%B3n%20%28Civ6%29](Casa de Contratación), for a total of +40% , +25% , and +10% in cities with [Governor%20%28Civ6%29](Governors).

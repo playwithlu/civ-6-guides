@@ -1,0 +1,6 @@
+# Civil Service (Civ6)
+
+Civil Service is a [Medieval%20Era%20%28Civ6%29](Medieval Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by having a [City%20%28Civ6%29](city) of at least 10 Population. 
+Strategy.
+A widening state has thousands of things to take care of each single day. A necessary step towards strengthening the state machine is thus to establish a bureaucracy of special clerks who do this work and answer directly to their superiors from the government hierarchy. Unlike armies at the time, the civil service is comprised of full-time learned employees, many of whom engage in these activities until their deaths. Of course, such a thing creates the perfect conditions for corruption, but this is another matter entirely.
+The presence of an efficient state service allows for the necessary paperwork to establish and maintain s with other friendly [Civilizations%20%28Civ6%29](civilizations). It also unlocks important [Policy%20card%20%28Civ6%29](Economic Policies).

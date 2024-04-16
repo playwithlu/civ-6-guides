@@ -1,0 +1,6 @@
+# Harbor (Civ2)
+
+ A Harbor is a [List%20of%20buildings%20in%20Civ2](building) in "[Civilization%20II](Civilization II)" that adds one extra unit of to all tiles in the 's radius.
+Like the , , and , this improvement cannot be built unless the city is adjacent to at least one ocean tile. A city that is not adjacent to an ocean tile, but includes ocean tiles in its radius, cannot build any of the littoral improvements.
+Civilopedia entry.
+Just because a city is built in a coastal region doesn't guarantee that the city is readily accessible by ship. In order for a port city to establish a steady trade, fishing, or other shipping industry, the city must have a harbor. A harbor is a protected body of water that opens into an ocean or lake that shelters ships from waves and high winds. Although some coastal cities are established in areas where a natural harbor exists, most seaports are forced either to improve the existing natural harbor, or to build a man-made harbor to shelter ships and provide channels deep enough to accommodate large vessels.

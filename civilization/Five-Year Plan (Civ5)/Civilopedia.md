@@ -1,0 +1,3 @@
+# Five-Year Plan (Civ5)/Civilopedia
+
+The Five-Years Plans of Soviet Russia were a series of economic development guidelines devised by a state planning committee appointed by the Communist Party; the first was initiated in 1928 AD, and the last was in operation when the Soviet Union dissolved in 1991. Fulfilling the plan became the primary motivating factor for the Soviet bureaucracy that became unwieldy attempting to do so. However, the initial successes of the early plans motivated other communist nations, such as Mao's China, and even some capitalist states to adopt this method of promoting and coordinating economic development.

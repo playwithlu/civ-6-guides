@@ -1,0 +1,5 @@
+# Bronze Working (Civ1)
+
+Bronze Working allows the building of the [Phalanx%20%28Civ1%29](Phalanx) unit, the cheapest unit to have a defensive strength of 2. It also allows the construction of the trade boosting [Colossus%20%28Civ1%29](Colossus) wonder. It is a prerequisite of [Iron%20Working%20%28Civ1%29](iron working) and [Currency%20%28Civ1%29](currency).
+Civilopedia entry.
+Bronze is an alloy of copper and other metals, mainly tin. Bronze Working technology grew out of experiments with copper ore, which was often found pure enough in ancient times to be worked into metal objects. Experiments with the distinctive greenish copper ore led to mixtures of metals into Bronze. The new metal proved much more useful than copper because it was harder, less brittle, and could hold a sharper edge. It made better, less costly tools, and was very useful for making weapons and armor. The first societies possessing Bronze weapons had a distinct advantage over those armed with stone or copper.

@@ -1,0 +1,3 @@
+# Integrated Space Cell (Civ6)/Civilopedia
+
+The 2007 anti-satellite test by China, in which it shot down one of its own aging weather satellites, sent shock waves through the Indian government. Even though both the United States and Russia had the capability to shot down satellites in orbit, India now faced a doomsday scenario, for it depended heavily on its satellite systems for military, commercial, and public services. This led India to proclaim the Integrated Space Cell operational in June 2010 (although it may have been in place long before), the largest constellation of remote-sensing satellites – 11 operational thus far – in a “defense architecture” for a space war.

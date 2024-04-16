@@ -1,0 +1,6 @@
+# Archaeology (Civ5)/Civilopedia
+
+Archaeology is the study of the remnants of ancient people to learn about their culture, art, architecture, and history. Archaeologists study building ruins, burial mounds, trash heaps, ancient carvings hidden in caves, and long drowned ships on the bottom of the ocean.
+Although people have no doubt been interested in the lives of those who came before them for as long as there have been people, archaeology as a science began in 15th century Renaissance Europe, when people began to study and emulate the art and architecture of Ancient Greece and Rome and the wealthy nobility of Italy - popes, merchants and heads of state - began to collect antiquities. As these became more scarce, they sponsored excavations to find more loot.
+Archaeology was put on a more scientific basis in the 19th century through the efforts of German scholars like Heinrich Schliemann, who examined early Greek civilization in Troy and Mycenae.
+Today archaeologists are studying every aspect of ancient humanity, from our earliest ancestor almost up to our great-great grandparents. Their tools are incredibly sophisticated, allowing ever more insight into the lives of our forebears.

@@ -1,0 +1,4 @@
+# Caste System (Civ4)/Civilopedia
+
+The caste system is one where one's parentage determines one's place in society. If your parents are street-cleaners, then so are you. If your parents are merchants, that's what you are. If your parents are nobility, then you are as well. Your status is determined at birth, and there's nothing you can do to better it. One may advance within one's caste, but that's as far as it goes. Marriages between castes are taboo.
+There is little advantage to the caste system, except to the people whose parents are on the top of the heap. Merit and initiative are useless: if the most intelligent and wise person in the culture happens to be born a street-cleaner, then he'll be an intelligent and wise street-cleaner. He'll never have a chance to become a priest, philosopher, or leader.

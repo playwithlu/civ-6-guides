@@ -1,0 +1,12 @@
+# Power Plant (Civ6)
+
+The Power Plant is an advanced [Production%20%28Civ6%29](production) [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the [Industrial%20Zone%20%28Civ6%29](Industrial Zone) [District%20%28Civ6%29](district) and requires a [Factory%20%28Civ6%29](Factory) (or one of its replacements).
+This building is only available in the [vanilla](vanilla) version and in '. In ', it is replaced with three different types of Power Plant that players can choose from: [Coal%20Power%20Plant%20%28Civ6%29](Coal Power Plant), [Oil%20Power%20Plant%20%28Civ6%29](Oil Power Plant) and [Nuclear%20Power%20Plant%20%28Civ6%29](Nuclear Power Plant).
+Strategy.
+The ultimate booster in the game, the Power Plant has the same special ability as the Factory: to extend its bonus to other [City%20%28Civ6%29](cities). So, the earlier you manage to build it in your strategically placed Industrial Zones, the better!
+"Gathering Storm".
+In the "Gathering Storm" expansion, the Power Plant building is split now into three new buildings: the Coal Power Plant, the Oil Power Plant, and the Nuclear Power Plant. They are all constructed in the Industrial Zone as a Tier 3 building, in the place of the old generic Power Plant, and are one of the main ingredients of the new system.
+Multiple Power Plants.
+Each district may contain only one type of Power Plant at any given time. However, there are now special city [Project%20%28Civ6%29](projects) via which the existing Power Plant in the city may be switched to another type.
+Some Power Plants can extend their and bonuses to nearby City Centers. When multiple Power Plants are within range of a City Center, the highest bonus in that City Center takes precedence.
+For example, suppose City A has a Coal Power Plant which gives +6 due to its Industrial Zone having +6 adjacency bonus and City A is also in range of a Nuclear Power Plant of City B, which gives +4 and +3 . In this case, the higher bonuses take precedence. Thus City A receives +6 and +3 from Power Plants while City B receives +4 and +3 . Bonuses from the two Power Plants do not stack unless [Magnus%20%28Steward%29%20%28Civ6%29](Magnus) with [Vertical%20Integration%20%28Civ6%29](the appropriate title) is present.

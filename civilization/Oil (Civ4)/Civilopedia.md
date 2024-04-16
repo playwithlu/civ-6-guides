@@ -1,0 +1,3 @@
+# Oil (Civ4)/Civilopedia
+
+Humans have known oil since ancient times. Oil deposits found on the surface were used for centuries for waterproofing and fuel purposes. But it was not until the coming of the Industrial Revolution that civilizations began to have a dependence on petroleum products. The widespread use of oil for fuel, lubrication, and other purposes has led to a constant search for ever larger deposits. In the mid-1800s, the first oil wells were drilled in Pennsylvania, marking the beginning of a tremendously important and profitable industry. Today, with the world's oil supplies dwindling and the demand for oil constantly rising, oil is a more valuable resource than ever.

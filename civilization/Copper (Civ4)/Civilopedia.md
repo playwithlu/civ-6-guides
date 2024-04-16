@@ -1,0 +1,4 @@
+# Copper (Civ4)/Civilopedia
+
+Copper is a metal that has been used by humanity for over five millennia. Copper is a soft metal and in its natural state unsuited for lengthy use - copper swords and daggers become dull very quickly, for instance. It is attractive, however, and was commonly used for pendants, bracelets and other decorative artifacts. By around 3000 BC, it was discovered that melting a bit of zinc or tin with the copper produced a much harder and more useful product: bronze. Within a short period bronze weapons, armor, and tools were in widespread use, and thus the Bronze Age was born.
+Interestingly, bronze is actually a tougher metal than iron. The Bronze Age was succeeded by the Iron Age not because iron was a better metal, but because tin and zinc had become scarce.

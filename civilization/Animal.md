@@ -1,0 +1,3 @@
+# Animal
+
+Animals are present in some form or another in all of the "[Civilization%20%28series%29](Civilization)", "[Call%20to%20Power%20games](Call to Power)", and "[Colonization%20%28game%29](Colonization)" games. They include [Alligator](Alligator)s, [Bear](Bear)s, [Beaver](Beaver)s, [Bison](Bison), [Caribou](Caribou), [Cattle](Cattle), [Crab](Crab)s, [Deer](Deer), [Elephant](Elephant)s, [Fish](Fish), [Game](Game), [Giant%20Squid](Giant Squid), [Horses](Horses), [Oxen](Oxen), [Sheep](Sheep), and [Whales](Whales).

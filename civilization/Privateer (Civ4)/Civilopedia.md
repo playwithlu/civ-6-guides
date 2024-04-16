@@ -1,0 +1,4 @@
+# Privateer (Civ4)/Civilopedia
+
+Privateers were government-sanctioned pirate ships prominent from the seventeenth century until the nineteenth century. Pillaging for their lords in the shipping lanes of Europe or in the seas of the New World, Privateers bore no marking of their affiliation, making it impossible to trace their employer short of the "Letter of Marque" commissioning them.
+Successful Privateers, such as Sir Francis Drake in the employ of Queen Elisabeth I or Barbarossa under Sultan Suleiman I, wreaked havoc among the merchant vessels of rival nations, securing for themselves and their sovereigns significant, if second-hand, wealth. In the cases of both Barbarossa and Drake, the disruptive effect these naval bandits had upon the enemies of their lords helped ensure the naval supremacy of both the Ottoman Empire and England in their respective ages.

@@ -1,0 +1,6 @@
+# Ideology (Civ6)
+
+Ideology is a [Modern%20Era%20%28Civ6%29](Modern Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+With thousands of years of history and scores of philosophers thinking on the world, and with the technological means to bring this out to everyone, it is inevitable that a link between ideas and politics will be established and that the result will become known not only to the select few (as in previous centuries), but to everyone. So, these ideas grow legs and start running. At the turn of the 20th century there are several complete systems worked out about how humans should organize their states and live their lives, for the "betterment of all." And, of course, each of these "ideologies" is the only true one. Thus religion is often (though not always) replaced completely, as a belief system defining a state, and a new "raison d'etre" is found for state oppression.
+Nevertheless, Ideology is the key to the continued civic development of your civilization. It unlocks all further civics, and opens the way to modern government forms. It also enables another important Diplomatic Policy and the ability to train an additional [Spy%20%28Civ6%29](Spy).

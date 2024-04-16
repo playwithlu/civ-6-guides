@@ -1,0 +1,3 @@
+# Cobalt (C-evo)
+
+[Cobalt%20%28C-evo%29](Cobalt) is a [Modern%20resource%20%28C-evo%29](Modern resource) in "[C-evo](C-evo)". It appears as a pinkish-brown crystalline "flower" and is used in the [Colony%20Ship%20Component%20%28C-evo%29](Colony Ship Component), which requires [Transstellar%20Colonization%20%28C-evo%29](Transstellar Colonization) and costs 240 resources; six are needed, i.e. total cost 1440 resources.

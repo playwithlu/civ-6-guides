@@ -1,0 +1,8 @@
+# Destroyer (CTP2)
+
+The Destroyer is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The Destroyer is a well-rounded naval assault unit. Equally gifted in Attack, Ranged Attack and Defense, the Destroyer can Bombard naval targets and, more importantly, provide Anti-Air Support for naval sorties.
+Great Library entry.
+In the 1890s, the term destroyer referred to 250-ton vessels deployed to protect battleships from torpedo boats. By World War I, torpedo-boat destroyers became advanced torpedo boats themselves, and were often deployed ahead of battle fleets to scout for the enemy fleet, attack the destroyers with cannon fire and then launch torpedoes against battleships and cruisers. When submarines became the main torpedo-launching vessel, shipbuilders outfitted destroyers with hydrophones and depth charges to protect battle fleets and merchant-ship convoys against this new tactic. By World War II, however, the invention of radar and antiaircraft guns added the role of air defense to this already formidable escort ship.
+After World War II, the destroyer's dual role of antiaircraft and antisubmarine became even more powerful with the advent of guided missiles. Modern destroyers commonly carried surface-to-air missiles, antisubmarine torpedoes, anti-ship missiles and 4 to 5 inch caliber guns. Some carried small helicopters to aid in sub-hunting, and a few carried cruise missiles. With a crew of 300, speed capability of 30 knots and a displacement of from 4,000 to 7,000 tons, destroyers were one of the best naval attack craft of the modern age.

@@ -1,0 +1,7 @@
+# Chariot (Civ1)
+
+The Chariot is a powerful early unit.
+Strategy.
+The Chariot is one of the most powerful units in Civilization I, although expensive for its era its quite devastating on the offensive. The combination of early availability (requiring only [Wheel%20%28Civ1%29](The Wheel)) against opponents who likely haven't or cannot build [City%20Walls%20%28Civ1%29](City Walls) and their two movement points means they are exceedingly effective at early rushes especially against lone Settlers. Even when encountering [Phalanx%20%28Civ1%29](Phalanxes) and [Musketeers%20%28Civ1%29](Musketeers) they are more than able to make short work of them on open ground.
+Civilopedia entry.
+The Chariot was the first true fighting vehicle. It was used by the armies of antiquity to transport archers and other troops to the battlefield, where they would then disembark to actually fight. The Chariot was turned into a fearsome offensive weapon by the Assyrians, whose archers and spearmen fought from the car of the chariot itself. Few enemy armies were able to withstand the onslaught of a host of Assyrian chariots, and this devastating weapon was soon adopted by many of the Assyrians' enemies, and used against them with good effect.

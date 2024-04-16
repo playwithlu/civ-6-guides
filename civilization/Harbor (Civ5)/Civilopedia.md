@@ -1,0 +1,3 @@
+# Harbor (Civ5)/Civilopedia
+
+A harbor is a sheltered body of water that provides protection from the elements for boats and ships at anchor within. Where there are some "natural" harbors, most have required some degree of dredging, the construction of breakwaters and windbreaks, and the like. In addition, harbors also possess docks and jetties for loading and unloading cargo as well as warehouses to store the goods passing through.

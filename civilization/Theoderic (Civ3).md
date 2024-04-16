@@ -1,0 +1,3 @@
+# Theoderic (Civ3)
+
+Theoderic (or Theodoric) the Great (454 – 30 August 526), also called Theodoric the Amal, was king of the Ostrogoths (475–526), and ruler of the independent Ostrogothic Kingdom of Italy between 493 and 526, regent of the [Visigothic](Visigoths) (511–526), and a patrician of the [Byzantine](Eastern Roman Empire). A reused , he leads the s in the [List%20of%20scenarios%20in%20Civ3](scenario) in "".

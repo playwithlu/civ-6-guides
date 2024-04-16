@@ -1,0 +1,4 @@
+# Chivalry (Civ5)/Civilopedia
+
+Chivalry describes the honorable behavior expected of "knights" - the armed nobility of a culture. It is very roughly akin to "bushido" (way of the warrior) code of conduct of Japanese samurai. The chivalric code was at its height in the 12th century, fueled by the Crusades, in which the knights believed that they were doing God's work by smiting the unbelievers in the Middle East. To earn God's favor one must act in a godly manner; unchivalrous behavior might very well result in failure, death, and damnation. The Muslim knights opposing the Christians had even more "civilized" codes. One example being Saladin.
+Some form of chivalric code is crucial in a civilization where one privileged class has access to weapons that lower classes are denied. Otherwise the people with the weapons may lean too hard on the lower classes, resulting in oppression, escalating civil unrest and potentially devastating revolution.

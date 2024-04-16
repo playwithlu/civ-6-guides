@@ -1,0 +1,3 @@
+# Choke Points (Civ6)/Civilopedia
+
+In military terms, a "choke point" is the tactical use of places where the terrain limits the paths by which the enemy can reach a unit's position – narrow tracks in the woods, narrow valleys in the hills, bridges or fords at rivers, dry spots in marshland, and so forth. Recognizing the choke points is a skill possessed by great and capable officers. By narrowing the enemy's approach, an army can dictate the course of battle; military history abounds with examples: Leonidas's defense of the pass at Thermopylae, Godwinson at the battle of Stamford Bridge, Wallace at Stirling Bridge, and, of course, Agincourt where the French were forced to attack through a narrow gap in the woods.

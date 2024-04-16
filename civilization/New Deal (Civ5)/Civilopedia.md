@@ -1,0 +1,3 @@
+# New Deal (Civ5)/Civilopedia
+
+The New Deal was a series of economic programs enacted, either by executive order or by law, by the United States government between 1933 and 1936 to counter the effects of the Great Depression. Rather than nationalize banks and key industries as some leaders did, President Franklin Roosevelt hoped to offer relief to those destitute, to bring about economic recovery through federally funded construction and work programs, and to bring about financial reforms. History has judged the New Deal largely successful, and other countries have undertaken a similar approach in recent economic crises.

@@ -1,0 +1,3 @@
+# Their Finest Hour (Civ6)/Civilopedia
+
+On 18 June 1940, Prime Minister Churchill addressed Parliament on the state of the war against Nazi Germany, given over in large part to praising the Royal Air Force’s battle against the Luftwaffe. Although the phrase “their finest hour” did not refer specifically to the RAF, it has come to be most closely associated with its pilots. Churchill noted, “it is a very great pity that we have not got an Air Force at least equal to that of the most powerful enemy within striking distance of these shores.” While Churchill did not call for increased investment, this speech served as the impetus for the British government to devote most of its production and training resources to planes and pilots for a year.

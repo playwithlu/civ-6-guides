@@ -1,0 +1,3 @@
+# Mummification (Civ3)/Civilopedia
+
+Preserving the bodies of nobles and kings in the afterlife was an important aspect of Mesoamerican culture, particularly for the Incas, whose mummification practices were quite extensive. The Incas would wrap the body tightly in a “bundle.” With the addition of other materials, such as gold, maize, weapons, and guinea pig skins, these bundles could weigh as much as 300 pounds. Once buried, family members would visit the gravesite frequently to pay their respects.

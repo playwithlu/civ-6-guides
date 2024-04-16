@@ -1,0 +1,4 @@
+# Hammam (Civ4)/Civilopedia
+
+Cleanliness was extremely important in Ottoman culture. Before modern plumbing, the Ottomans constructed communal steam baths ("hammams") throughout their major cities. In early times many of these were attached to mosques - ritual cleanliness played an important part in the Ottoman religious beliefs - in later periods they evolved into separate buildings and eventually, into enormous complexes of buildings.
+The Ottoman hammams were largely modeled on their Roman and Byzantine predecessors. They contained three main areas: a hot room, a moderate room and a cool room. Both men and women could attend hammams, but they bathed in separate areas.

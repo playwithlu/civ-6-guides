@@ -1,0 +1,3 @@
+# Monument (Civ5)/Civilopedia
+
+A monument is a structure built to commemorate an important person, event, deity, or concept. The more important monuments are usually constructed near the center of the city, by the ruler's palace, or near the city's main gates. Monuments come in all shapes and sizes, from the Great Sphinx of Giza, Egypt, to the [Statue%20of%20Liberty](Statue of Liberty) in New York City, USA, to Nelson's Column in London, England. The best of them imbue the city's inhabitants with a great feeling of civic and national pride.

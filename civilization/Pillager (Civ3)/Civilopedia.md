@@ -1,0 +1,3 @@
+# Pillager (Civ3)/Civilopedia
+
+The pillager is the third level of barbarian in Fall of Rome. They represent the barbarians of the early 5th Century, epitomized by the Visigoths under Alaric who sacked Rome in 410 AD. The barbarians of this period had reached a new level of ambition and daring. They did not hesitate to move directly against the greatest symbol of Roman power and prestige to force the Romans into paying tribute.

@@ -1,0 +1,4 @@
+# Drone Air Defense (Civ6)/Civilopedia
+
+The Gunnery Deployment Rig relies on a system of semi-autonomous remote platforms-drones-to monitor the environment near it for potential threats. These give the GDR a horizon-to-horizon detection capability, allowing it to identify fast-moving incoming threats in time for the crew to respond with evasive action. Early GDR models proved to be susceptible to air attack from cruise missiles and attack aircraft. The drone air defense network has proven extremely effective in reducing GDR destruction by aircraft.
+Common GDR air defense architectures used today include the flexible and sensitive RQN-119 "Bat" system developed in America, the robust and reliable Russian "Orb/Plate" network, and the aggressive "Obsidian Butterfly" system of the Aztecs.

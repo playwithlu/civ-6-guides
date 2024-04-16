@@ -1,0 +1,8 @@
+# Armor (C-evo)
+
+An armor [module%20%28C-evo%29](module) is the design feature of a "[C-evo](C-evo)" [unit%20%28C-evo%29](unit) that gives it defensive strength.
+The basic value/strength of an armor module depends on the knowledge of relevant [technologies%20%28C-evo%29](technologies) and is proportionally reduced if the unit's [health%20%28C-evo%29](health) is below 100%. For units in a city, defensive strength is halved for [naval%20unit%20%28C-evo%29](naval unit)s and zero for [air%20unit%20%28C-evo%29](air unit)s. Factors that may increase strength come from [buildings%20%28C-evo%29](buildings) and [terrain%20%28C-evo%29](terrain).
+Every new unit design must incorporate at least one armor module. Players can add more, up to specified limits, depending on the [weight%20%28C-evo%29](weight) limit and (again) the knowledge of relevant [technologies%20%28C-evo%29](technologies).
+[Ground%20unit%20%28C-evo%29](Ground unit)s are allowed a total of three armor modules after the discovery of [Steel%20%28C-evo%29](Steel) but only two before that. The exception is for an [Overweight%20%28C-evo%29](Overweight) unit, a unit that is restricted in movement but is allowed one more weapons unit and one more armor unit than the standard maximum. 
+[Naval%20unit%20%28C-evo%29](Naval unit)s are allowed a total of four armor modules after the discovery of [Steel%20%28C-evo%29](Steel) but only three before that.
+[Air%20unit%20%28C-evo%29](Air unit)s have no specified maxima.

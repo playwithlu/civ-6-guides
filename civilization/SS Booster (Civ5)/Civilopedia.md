@@ -1,0 +1,3 @@
+# SS Booster (Civ5)/Civilopedia
+
+The spaceship's boosters are used to propel the craft off of Earth and into a stable orbit. They are similar to (but much larger than) the simple but reliable and powerful boosters the Russians have been using to put their ships into space for decades. The boosters are ejected during the launch, falling harmlessly into the ocean where they can be retrieved by waiting cargo vessels.

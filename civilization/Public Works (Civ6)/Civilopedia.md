@@ -1,0 +1,3 @@
+# Public Works (Civ6)/Civilopedia
+
+Public works encompass public buildings (schools, hospitals, museums, and so forth), public transport facilities (everything from roads to airports), public spaces (all those parks and squares), public services (sewers, dams, the electrical grids), and anything else (often pork barrel projects) the government might be willing to finance and construct for the “greater” good. In ancient Rome, the Opera publica oversaw construction of projects to benefit the community … all those lovely aqueducts for instance. American politicians took the lead in reviving that idea; in 1791 AD Pennsylvania launched the first comprehensive publicly financed road system, and in 1801 Philadelphia built the first public water system.

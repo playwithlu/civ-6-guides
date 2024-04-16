@@ -1,0 +1,4 @@
+# Persepolis
+
+Persepolis, also known as Pārsa, is the [Persian](Persian) [capital](capital) in most of the "[Civilization%20%28series%29](Civilization)" games and the [Apolyton%20Edition%20%28CTP2%29](Apolyton Edition) [Mods%20%28CTP2%29](mod) for "[Call%20to%20Power%20II](Call to Power II)" and a Persian [city](city) in others and the [Call%20to%20Power%20games]("Call to Power" games). In real life, it was the ceremonial capital of the Achaemenid Empire, now a ruined city in present-day , and home to the [Apadana](Apadana).
+In [scenario](scenario)s, it may appear as a [Sasanian](Sasanian) city in [Fall%20of%20Rome](Fall of Rome).

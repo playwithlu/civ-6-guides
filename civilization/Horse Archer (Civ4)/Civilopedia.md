@@ -1,0 +1,6 @@
+# Horse Archer (Civ4)/Civilopedia
+
+A horse archer (or horsed archer or mounted archer) is a cavalryman armed with a bow. Because using a bow requires a horseman to let go of the reins with both hands, horse archers need superb equestrian skills. Horse archery is typically associated with steppe nomads. 
+The weapon of choice for horse archers was the recurve bow, because it was compact enough to shoot from a horse and retained sufficient range and penetrating power. The most serious threat to horse archers was arrows, and they could wheel away out of bowshot after every attack. Mounted archers therefore needed little or no armor and could ride light, fast mounts such as ponies. This made them cheap to equip and increased their strategic mobility. 
+A drawback of horse archers was that the movements of a running horse disturbed the accuracy of the shot. After the invention of the stirrup, horse archers would stand up in their stirrups to absorb the motion of the horse. Another method to facilitate accurate shooting was to time shots between the strides of the horse. 
+Horse archers were eventually made obsolete by the development of modern firearms.

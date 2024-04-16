@@ -1,0 +1,11 @@
+# Immortal (CivBE)
+
+Game info.
+The Immortal is a Harmony - Purity hybrid melee unit that functions as a hard-hitting, early game alternative to [Marine%20%28CivBE%29](Marines), like the [Battlesuit%20%28CivBE%29](Battlesuit). It requires 1 to be built. Due to its high durability in comparison to Marines as well as ignoring terrain penalties, it excels at clearing Alien Nests, which can be bolstered further using an [Architect%20%28CivBE%29](Architect). When upgraded, it has a generic upgrade which allows it to heal 15HP when not embarked, which essentially renders them literally immortal in combat one-on-one (unless up against a unit that is significantly stronger than it).
+Unit Upgrades.
+Tier 1.
+Immortals are present in the early game and can be reached quickly if they are rushed. Their Strength is superior to most other units in the game at this time, besides Colossal Aliens. Even then, multiple Immortals and perhaps an Architect can take down a Siege Worm quickly. Immortals at this point may be difficult to build in swarm due to their Xenomass cost, but their Production value is tolerable. They excel in mobility on the natural landscape.
+Tier 2.
+Tier 2 Immortals appear at the end of the mid-game and bring with them their namesake - Perk Choice A provides +15HP heal per turn in combat unless embarked. Their superior regeneration capabilities nullifies typical statements about melee units - they are able to keep attacking without having to withdraw. The enemy must take precaution against these units by annihilating them quickly within the turn they begin, or they will keep coming back.
+Trivia.
+In comparison to [Battlesuit%20%28CivBE%29](Battlesuits) which is typically the other Purity-based alternative (and relatively cheaper), the Immortal has 12 more . Battlesuits have 66 when attacking but an effective 86 when defending, making them better frontline-units. If you choose the 40% bonus when alone perk for both the Immortal and Battlesuit, the Battlesuit still has superior defensive . It is usually better to get the +15HP heal upgrade though as Immortals are generally worse at defending than other frontline units. So you should use Immortals to assault, and Battlesuits to fortify.

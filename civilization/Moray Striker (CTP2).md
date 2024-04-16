@@ -1,0 +1,10 @@
+# Moray Striker (CTP2)
+
+The Moray Striker is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Summary.
+Anti-Naval .
+Gameplay.
+The Moray Striker's three-pronged combination of speed, maneuverability and wide vision scope makes it ideally suited to underwater surveillance and reconnaissance operations. It is also a capable defender, with the ability to actively defend against naval units.
+Great Library entry.
+In the early days of genetics, the primary focus of research was related to unlocking the secrets of cloning. It was not until much later that scientists began to approach genetics from the perspective of systems analysis. The noted geneticist Benjamin D. Hagerty was the first to put forth the notion that, by studying the ways in which organic systems, such as the nervous or circulatory system, operated, scientists could gain insight into the nature of systems themselves. Furthermore, studying the way in which systems with the same function varied from species to species, they could also uncover the ways in which systems evolved. His research garnered him the 2029 Nobel Prize for Genetics and pioneered a completely new field of genetics research.
+The first military application of organic systems design culminated in the development of the highly classified underwater scout craft called the Moray Striker. By analyzing the genetic composition of sharks, geneticists uncovered many of the ways in which sharks operated as hunters. The Moray Striker's control systems were designed to mimic the complex web of internal and external feedback systems sharks employ to seek food, navigate, fight, scout and avoid threats. Unlike a shark, the Moray Striker is primarily a reconnaissance craft. Its superb sensors and wide range of vision make it ideally suited to fast, silent, wide-eyed operation.

@@ -1,0 +1,4 @@
+# Polish (Civ6)/Jadwiga's Legacy/Civilopedia
+
+The long-lived Polish nobility often have humble beginnings, but the ascent of Poland's star has allowed them to expand their holdings and prove their commitment to the Crown, time and time again. As they gain prestige, so do the families acquire their wealth.
+More than a few Polish families have been elevated to the rank of magnates. Nobility bestowed can ruffle feathers—but covetous whispers notwithstanding, many such families have proven to be stalwart defenders of the Crown. Their approach in court is much as it is in war—look right into your opponent's eyes, give them no room to maneuver, and never back down.

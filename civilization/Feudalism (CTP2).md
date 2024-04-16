@@ -1,0 +1,10 @@
+# Feudalism (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Feudal societies rely on a strict hierarchy to maintain social order.
+The is the enforcer of this social order - a mounted unit ideally suited to attack and defense. The is the intrepid footsoldier of lords and their manors. With his 18-foot spiked pole, he is a fantastic defender, particularly against mounted units.
+The decreases and increases in the closest to it.
+Great Library entry.
+Feudalism is a social system based on land ownership, in which vassals held land in fief from lords to whom they were obliged, by personal relationship or service. What also distinguished feudalism was that those who performed official duties, whether civil or military, did not do it for the state or for public service. Rather, they fulfilled them in service of personal relationships with landowners in exchange for fiefs, hereditarily held estates from which they could make money. This decentralized public authority, and the manorial system, in which peasants served landlords with few rights or freedoms, gave lords wide-ranging power over the fiscal, judicial and constabulary systems.
+Feudalism flourished in societies with closed agricultural economies, particularly in Western Europe during the High Middle Ages, in Japan from the 12th to the 19th century and in the Latin Kingdom of Jerusalem from 1099 until 1291. War was common in feudal periods. The Sengoku period of Japanese history marked a nearly hundred-year-long conflict between rival daimyo (Japanese, "great holders of private land") who continually fought each other for power following the collapse of central authority in the 15th century. As samurai served daimyo in feudal Japan, knights served lords in feudal Western Europe. They were the warrior class, many of them vassals who enjoyed tremendous respect and power.

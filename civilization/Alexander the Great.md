@@ -1,0 +1,3 @@
+# Alexander the Great
+
+Alexander the Great, also known as Alexander III, is a [Greek](Greek) and [Macedonian](Macedonian) [Leaders](leader), [Great%20People](Great Person), and [unit](unit) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and the son of [Philip%20II%20of%20Macedon](Philip II of Macedon) and [Olympias](Olympias). He appears in every game in the main series, including both [Civilization%20Revolution%20games]("Civilization Revolution" games).

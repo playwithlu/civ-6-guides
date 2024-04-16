@@ -1,0 +1,4 @@
+# East Indiaman (Civ4)/Civilopedia
+
+The term "East Indiaman" describes a vessel designed to transport goods between Europe, India, Indonesia and China during the eighteenth and nineteenth centuries. The East Indiaman was an armed merchantman; although primarily designed for the transport of goods and passengers, it was nevertheless outfitted with cannon in order to protect itself against pirates or to open up hostile ports of call. In fact, the East Indiamen were among the most heavily armed ships of their time, and were sometimes acquired by state navies for use as warships.
+Because the East Indiaman was designed to carry cannon, the East Indiaman was inevitably slower than its descendants: the Ship of the Line and the Frigate. Yet the strengths of the East Indiamen ensured that the European trade companies that employed them could protect their profitable monopolies on all trade between Europe, the Americas, Africa and India.

@@ -1,0 +1,3 @@
+# Hittite (Civ5)/Civilopedia
+
+Reaching the height of power around 1500 BC, the empire of the Hittites spanned large swaths of land in Anatolia (Asia Minor) and parts of Syria bordering the Egyptian kingdom. Thought to have been founded by Hattusili I c. 1700 BC, the Hittites would face an ebb and flow of military successes and defeats for over 500 years. Known for their successful use of chariots, the Hittites conquered a number of neighboring rivals only to reach a stalemate with the Egyptians at the renowned Battle of Kadesh, possibly the largest Chariot battle in history.

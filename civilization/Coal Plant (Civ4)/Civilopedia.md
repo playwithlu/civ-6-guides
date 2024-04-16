@@ -1,0 +1,3 @@
+# Coal Plant (Civ4)/Civilopedia
+
+Coal has been used sporadically as a fuel since ancient times, but it was not until the Industrial Revolution that the industrial applications of coal became understood. Most early factories used coal as a power supply, burning the fossil fuel to release the energy needed to drive the plant's machines. Coal power provided much more energy than relying on the strength of humans or animals, at the cost of releasing large amounts of toxic pollution into the atmosphere. Despite the environmental hazards associated with coal plants, they remain common today.

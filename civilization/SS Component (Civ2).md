@@ -1,0 +1,8 @@
+# SS Component (Civ2)
+
+Strategy.
+The SS Component (SSC) has two parts to it: Propulsion and Fuel. Therefore, building an SSC allows the player to choose if it is a Propulsion or Fuel Unit. In the completed spaceship, the number of Propulsion and Fuel units must be identical. For instance, to build a SpaceShip with 6 Components requires 12 SSC's to be constructed by your cities: 6 Propulsion Units and 6 Fuel Units.
+By the time that SSCs can be built, your civilization should have cities with the industrial capacity to produce an 80 or 100 shield unit in a few turns. Invest the higher productive cities' time with SSC and SS Modules while the lower productive ones build the SS Structurals. SSC units directly influence the speed with which a spaceship travels. A viable ship with many other units and few SSCs can take decades to reach Alpha Centauri. However, it is possible to build a ship that will take under 6 years to arrive. This can be achieved with enough SS Structurals to hold the ship together. 
+Each Spaceship can have a maximum of 8 fuel and 8 propulsion components. 
+Civilopedia entry.
+Spaceship Components provide the motive power of a spaceship. There are two types: propulsion and fuel. Propulsion components are the spaceship engines, and each fuel component provides enough fuel to run one engine. Every propulsion component requires a fuel component in order to function. At minimum, a spaceship requires one of each type of component. The more engines a spaceship possesses, the faster it will arrive at its destination. 

@@ -1,0 +1,4 @@
+# Sid's Sushi Co. (Civ4)/Civilopedia
+
+Sushi is an ancient form of food preservation that originated in Southeast Asia in the fourth century BC. This technique of wrapping fish in vinegar-soaked rice spread throughout Asia, making its way to China in the thirteenth century and later to Japan.
+In Japan, the dish became extremely popular in the early nineteenth century, when a sushi stall owner in Edo began placing bits of extremely fresh and even raw fish within or atop the classic bed of vinegar rice. It was here that modern sushi was born. Sushi has since become Japan's signature dish, and from the 1980s onward has become a popular delicacy throughout the world.

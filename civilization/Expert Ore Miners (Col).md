@@ -1,0 +1,5 @@
+# Expert Ore Miners (Col)
+
+An Expert Ore Miner is one of the non-military [List%20of%20units%20in%20Colonization%20%281994%29](units) in "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)". This unit increases the production of [Ore%20%28Col%29](Ore).
+Expert Ore Miners may be trained in [Europe%20%28Col%29](Europe) for 600 gold. As with all outdoor workers, there is also a chance that a [Free%20Colonists%20%28Col%29](Free Colonist) mining Ore may spontaneously become an Expert Ore Miner. Certain [Indians%20%28Col%29](Indian tribes) may also teach this skill to visitors. Expert Ore Miners may teach their skill in a [Schoolhouse%20%28Col%29](Schoolhouse), [College%20%28Col%29](College) or [University%20%28Col%29](University).
+At 600 gold, the Expert Ore Miner is the cheapest trainable unit. After a sufficiently large number of colonists have emigrated due to [Crosses%20%28Col%29](Crosses), it becomes cheaper to train miners and clear their specialty (converting them to [Free%20Colonists%20%28Col%29](Free Colonists)) than to recruit Free Colonists from the docks.

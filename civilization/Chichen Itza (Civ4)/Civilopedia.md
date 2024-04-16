@@ -1,0 +1,6 @@
+# Chichen Itza (Civ4)/Civilopedia
+
+Chichen Itza is an extraordinary city of stone built in the Yucatán, Mexico. Some of the oldest buildings and pyramids date back to 1500 years ago and are of Toltec and Mayan origin.
+Chichen Itza consists of buildings, temples and courtyards of stone. A large "pok tap ok" or ceremonial ball court stands off to one side. (Ceremonial ball is that most interesting of games in which two sides seek to pass the ball through hoops at each end of the court. The captain of the winning team was then beheaded as a sacrifice to the gods.) Though the city is much ravaged by time (and looters), there still remain many beautiful stone carvings and statues.
+At the center of the city stands the mighty stepped pyramid of Kukulcan, also known as "El Castillo." Constructed around the 13th century, El Castillo is approximately 180 feet square at the base and 78 feet in height. As was the Mayan practice, Kukulcan was constructed atop an older and smaller pyramid.
+Chichen Itza was a thriving city until the 13th century, when revolt and civil war broke out among the Mayans, at which point the city went into a steep decline from which it never recovered. The center of the city was largely abandoned and in ruins by the time of the Spanish Conquest of the Yucatán in the 16th century.

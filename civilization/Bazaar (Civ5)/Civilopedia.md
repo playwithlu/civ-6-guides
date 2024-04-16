@@ -1,0 +1,3 @@
+# Bazaar (Civ5)/Civilopedia
+
+A bazaar is a public market district found in an Arabic or other Eastern Mediterranean town. The classic Arabian bazaar is a bustling warren of small shops and stalls, selling all manner of goods - from food, to spices, rugs and software. Some bazaars are open-air, while others have been roofed over to protect the merchandise and customers from the elements. Many still survive today, a cheerful and noisy alternative to the West's antiseptic shopping malls.

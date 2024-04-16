@@ -1,0 +1,7 @@
+# Barricade (Civ6)
+
+The Barricade is a special [Tile%20improvement%20%28Civ6%29](tile improvement) in "[Civilization%20VI](Civilization VI)". It is exclusive to the [Zombie%20Defense%20%28Civ6%29](Zombie Defense) [Game%20mode%20%28Civ6%29](game mode), introduced in the [Portugal%20Pack%20%28Civ6%29](Portugal Pack). It can be built by a [Builder%20%28Civ6%29](Builder) inside your own or neutral [Territory%20%28Civ6%29](territory).
+Strategy.
+The Barricade is one of the two early defenses used in the Zombie Defense game mode. In contrast with the [Trap%20%28Civ6%29](Trap), which does higher damage to a single [Tile%20%28Civ6%29](tile), the Barricade does light damage to all tiles around it. 
+Barricades are generally more useful than traps in wide-open areas, as enemies will often walk around traps or spawn on s closer to your [City%20Center%20%28Civ6%29](City Center). Their small damage is negligible compared to a ranged strike by a city with [Walls%20%28Civ6%29](defenses), but they can attack numerous enemies at once. Overall, you will often find that the space and Builder needed for this improvement can be better used elsewhere.
+The upgraded version of this improvement is the [Reinforced%20Barricade%20%28Civ6%29](Reinforced Barricade).

@@ -1,0 +1,4 @@
+# Fascism (government) (Civ3)
+
+ is a in "".
+You rule as dictator of a fascist state, appealing to strong feelings of national identity and the promise of a glorious future (or return to an idealized past). Your nation views itself as entitled to anything it can take from weaker or less worthy civilizations, so war weariness is not an issue, and nationalist fervor for public works means that your Workers do their jobs faster. However, your brutal methods and suspicious attitude towards business and enterprise mean you must use forced labor to build improvements. Your cities lose population points upon a change to fascist government, newly conquered cities also lose population, and do not generate culture until a popular majority has been assimilated.

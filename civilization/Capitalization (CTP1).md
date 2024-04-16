@@ -1,0 +1,5 @@
+# Capitalization (CTP1)
+
+Capitalization converts into within the city. The government type determines the conversion rate. This improvement remains a build item until it is replaced with another item. Capitalization requires .
+Great Library entry.
+Capitalization is a concept that describes the investing of assets into new businesses to create a wealthier economy. Entrepreneurs with viable business ideas don't always have the funds to start their businesses. However, if these entrepreneurs can find investors, they can form a partnership and start a business. The money invested serves as capital, which returns a profit if the business is successful. Stock exchanges developed around the world to serve as institutions where people could invest capital in emerging or expanding businesses. The London Stock Exchange has origins dating back to 17th century coffee houses, while the New York Stock Exchange traces it roots back to 1792. The Tokyo Stock Exchange traded stock for capital in 1878, 12 years before Hong Kong first traded securities.

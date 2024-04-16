@@ -1,0 +1,8 @@
+# Hall of Fame (Civ6)
+
+The Hall of Fame in "[Civilization%20VI](Civilization VI)" is a listing of the best games since you last retired or completed a game. It can be found under "Additional Content" on the game's main menu and is divided into two sections, both of which display information for each ruleset ([vanilla](vanilla), ', and '), [List%20of%20scenarios%20in%20Civ6](scenario), and [Challenge%20of%20the%20month%20%28Civ6%29](challenge).
+## Overview
+
+This section lists the total number of times you've won [Victory%20%28Civ6%29%23Culture](Culture), [Victory%20%28Civ6%29%23Diplomacy](Diplomatic), [Victory%20%28Civ6%29%23Domination](Domination), [Victory%20%28Civ6%29%23Religion](Religious), [Victory%20%28Civ6%29%23Science](Science), and [Victory%20%28Civ6%29%23Score/Time](Score Victories). It also lists the total number of games you've played and won with each [Leaders%20%28Civ6%29](leader) and some statistics related to [Combat%20%28Civ6%29](Combat), [Diplomacy%20%28Civ6%29](Diplomacy), [Exploration](Discovery), Prosperity, and [Religion%20%28Civ6%29](Religion).
+History.
+This section lists details about your last several games. It includes information about the leader and [Civilizations%20%28Civ6%29](civilization) you used, whether the game ended in victory or defeat, which leader achieved which victory condition, the [Speed%20%28Civ6%29](game speed), the [Map%20%28Civ6%29%23Map%20size](map size), how many [turn](turn)s the game lasted, the starting [Era%20%28Civ6%29](era), and the last day and time you played that particular game.

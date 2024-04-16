@@ -1,0 +1,3 @@
+# Sky Fortress (unit) (Civ5)/Civilopedia
+
+The majestic Sky Fortress is quite a sight to behold. Much larger than the airship, it casts a wide shadow on the ground below that strikes fear into the hearts of foes. It is outfitted with heavy weaponry, but kept aloft through advanced applications of aetherium's lift properties. Inside the ship's body are a variety of accommodations: war rooms used by generals above the battlefield, a small hangar which can host a squadron of Flyers, and even parlors for recreation. The Sky Fortress became the centerpiece of airship fleets, a mobile command center that could rain death on the land below and blow enemy airships out of the sky.

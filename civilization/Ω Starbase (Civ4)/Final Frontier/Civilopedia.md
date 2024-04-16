@@ -1,0 +1,3 @@
+# Ω Starbase (Civ4)/Final Frontier/Civilopedia
+
+The Starbase is more like a miniature Star System than a vessel. It possesses great firepower and defenses, but remains a static platform once built, and as such can be vulnerable to attack from more mobile opponents. The Starbase's indirect attack capability is impressive - the base is equipped with a powerful main cannon, automatically manufactures Missiles and is able to serve as a base for Fighter and Bomber Squadrons. Additionally, the Starbase heals units and has a formidable visibility range. To destroy a Starbase requires isolating it from any fleet which might assist in its defense.

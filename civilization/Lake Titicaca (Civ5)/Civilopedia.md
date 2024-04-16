@@ -1,0 +1,3 @@
+# Lake Titicaca (Civ5)/Civilopedia
+
+Located on the border between Peru and Bolivia, Lake Titicaca is the largest lake in South America. At 12,000 ft in elevation, it's also one of the highest lakes in the world. Measuring 120 miles by 50 at its greatest extent, the lake has a surface area of some 3,000 square miles and holds perhaps 200 cubic miles of water. Possessing shockingly blue waters, this "lake in the sky" is one of the most beautiful (if chilly) places in the world.

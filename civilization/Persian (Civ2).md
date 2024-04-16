@@ -1,0 +1,18 @@
+# Persian (Civ2)
+
+The Persian people represent Persia, a [List%20of%20civilizations%20in%20Civ2](default civilization) in "[Civilization%20II](Civilization II)".
+Color.
+The Persians are a [List%20of%20civilizations%20in%20Civ2](teal civilization). A game including the Persians will not involve the s, [Arabian%20%28Civ2%29](Arabs), or .
+Leaders.
+The default male leader of the Persians is [Xerxes](Xerxes) ("zerk-SEEZ"). Xerxes I (519–465 BC) was the 5th emperor of . He began the conquest of the s contemplated by his father but turned the [Sparta](Sparta)ns at into martyrs, was lured into an naval ambush , and finally lost his main army at . He successfully crushed subsequent revolts in [Egyptian%20%28Civ2%29](Egypt) and [Babylonian%20%28Civ2%29](Babylonia) but was eventually assassinated by .
+The default female leader is [Scheherazade](Scheherezade) ("shuh-HAIR-uh-ZAHD"), the heroine storyteller of the medieval Persian romance "". In the story, a king kills each of his virgin brides after a single night in order to avoid infidelity. Scheherezade arranges for her sister to be called in to ask for a story, which she draws out to a cliffhanger just as the sun is rising. She continues this until she has completely exhausted her knowledge of stories, but the king has fallen in love and takes her as his queen.
+Persian leaders use the default titles of various , except for [Monarchy%20%28government%29%20%28Civ2%29](monarchy) and [Fundamentalism%20%28government%29%20%28Civ2%29](fundamentalism). A Persian king or queen is known as a ". A Persian high priest or priestess, like an Arab one, is known as an ".
+Personality.
+The Persian [AI](AI) is perfectionist.
+City list.
+The default list of Persian cities contains entries in Latin and Turkish from the territory of the , less [Egyptian](Egypt), [Babylonian](Iraq), and [Macedonian](Macedonia). It includes cities in Persia, [Turkish](Turkey), Syria, [Hebrew](Israel), and Armenia.
+When this list is completed, the game continues with the names in the [City%20%28Civ2%29%23Extra%20list](extra cities list). When that list is completed, the game cycles back to the top of this list with "Persepolis" again.
+Damascus, Shiraz, and Tripoli also appear on the [Arab%20%28Civ2%29%23City%20list](Arab list); the medieval Persian cities and (as "Qum") appear on the Arab list but not here. The Persian city appears on the [Mongol%20%28Civ2%29%23City%20list](Mongol list) but not here. The Persian city appears in the list of extra cities, but not here. Tyre (as "Tyrus") and Gordium (as "Gordion") appear on the [Roman%20%28Civ2%29%23City%20list](Roman list). The Turkish name of Iconium (in keeping with the rest of the list) is .
+Scenarios.
+In [The%20Rise%20of%20Rome%20%28Civ2%29](The Rise of Rome), Persia has been overrun by the s and its empire divided between the [The%20Rise%20of%20Rome%20%28Civ2%29/Celts](Celts), [The%20Rise%20of%20Rome%20%28Civ2%29/Independent%20Greeks%20and%20Allies](Ind. Greeks and Allies), [The%20Rise%20of%20Rome%20%28Civ2%29/Macedonian%20Greeks](Macedonian Greeks), [The%20Rise%20of%20Rome%20%28Civ2%29/Seleucid%20Greeks](Seleucid Greeks), and [The%20Rise%20of%20Rome%20%28Civ2%29/Ptolemaic%20Greeks](Ptolemaic Greeks).
+In the [World%20War%20II%20%28Civ2%29](World War II scenario), Persia is reduced to the city of Tehran, part of the [World%20War%20II%20%28Civ2%29/Neutrals](Neutrals) led by the aptly-named Shah Neutral Leader.

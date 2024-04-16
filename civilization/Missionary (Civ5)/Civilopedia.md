@@ -1,0 +1,3 @@
+# Missionary (Civ5)/Civilopedia
+
+Missionaries are members of a religious group or sect sent abroad to spread the message of their chosen religion. While their primary goal is to share their religious views and hopefully gain new followers, missionaries typically provide other beneficial services to the areas they visit. By setting up clinics, schools, and other social welfare programs, missionaries help those in need while also serving in their evangelical role.

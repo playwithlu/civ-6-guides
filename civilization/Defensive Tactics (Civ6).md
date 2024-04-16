@@ -1,0 +1,6 @@
+# Defensive Tactics (Civ6)
+
+Defensive Tactics is a [Classical%20Era%20%28Civ6%29](Classical Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by receiving a Declaration of War.
+Strategy.
+An integral part of having a state is learning how to defend it. Even the greatest aggressors need to defend against attacks by vengeful neighbors sometimes, and so it becomes necessary to develop specific procedures to improve the defensive capabilities of a nation.
+Two new defense-oriented Military [Policy%20Cards%20%28Civ6%29](Policies) become available with this Civic. In the expansions, it also unlocks the [Casus%20Belli%20%28Civ6%29%23Reconquest%20War](Reconquest War) and [Casus%20Belli%20%28Civ6%29%23Protectorate%20War](Protectorate War) Casus Belli and awards a Governor Title. Perhaps most valuably of all, this civic unlocks the [Mausoleum%20at%20Halicarnassus%20%28Civ6%29](Mausoleum at Halicarnassus) - arguably one of the most potent wonders in the game, especially for maritime and/or scientific civs!

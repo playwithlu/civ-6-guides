@@ -1,0 +1,3 @@
+# Monument (Civ4)/Civilopedia
+
+A monument is a structure that reminds people of an important event that occurred in the area, or an important person - a famous general or leader, perhaps. Different cultures have constructed monuments out of varied materials - wood, stone, or even precious metals. Generally, the only ancient monuments remaining today are those made out of stone; over time the wooden monuments have decayed, and the ones constructed of precious metals have been looted and destroyed.

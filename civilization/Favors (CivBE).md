@@ -1,0 +1,5 @@
+# Favors (CivBE)
+
+Favors are the "diplomatic currency" of "[Beyond%20Earth](Beyond Earth)". In essence, a leader may offer you a Favor in exchange for some trade if they have nothing else, or you may ask or give one too. You may later spend the Favors they owe you for or some goods, or you may even be able to use a Favor to insist the other party joins your war!
+Most favors can be redeemed from the AI for about 100 (regardless of game speed), or an equivalent amount of e/turn or strategic resources. 
+Possible bug: From time to time other factions may request resources from you and offer you favors in exchange. If you grant these requests they will eventually end like any normal trade deal. Frequently, however, the AI will contact you wanting to renew the deal. When this happens there's an excellent chance that you can modify the deal to be massively in your favor: change the deal so that instead of you offering something and the AI offering you a favor you are trying to cash in the favor. You can get exchange rates for the favor that are significantly better than you would normally get if you just contacted the AI out of the blue and wanted to cash in a favor.

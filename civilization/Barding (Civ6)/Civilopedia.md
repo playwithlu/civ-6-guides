@@ -1,0 +1,3 @@
+# Barding (Civ6)/Civilopedia
+
+As history turned from the Dark Ages to the Middle Ages in Europe, the padded armor of caparison was replaced with the barding of plate armor for the noble steeds of the knights. Caparisons didn’t stand up to the increased effectiveness of crossbows, longbows, and pikes, and the horses became primary targets (rather than the well-armored riders). Barding from chest protectors to the full harness of plate armor developed first in the armories of Lombardy. Complete barding consisted of five main pieces: chanfron (face), crinière (neck), croupier (hind quarters), flanchard (flanks) and peytral (chest). Destriers, thus accoutered, would dominate European warfare for three centuries.

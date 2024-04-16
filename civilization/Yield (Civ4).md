@@ -1,0 +1,4 @@
+# Yield (Civ4)
+
+A yield is one of the numerical statistics provided to a [City%20%28Civ4%29](city) when it [Work%20%28Civ4%29](works) a [Tile%20%28Civ4%29](tile) in "[Civilization%20IV](Civilization IV)" and its expansions. Yields include [Food%20%28Civ4%29](Food), [Production%20%28Civ4%29](Production), and [Commerce%20%28Civ4%29](Commerce), the last of which is converted into [Culture%20%28Civ4%29](Culture), [Gold%20%28currency%29%20%28Civ4%29](Gold), [Science%20%28Civ4%29](Science), and [Espionage%20%28Civ4%29](Espionage) (in "") each [turn](turn).
+The following city attributes can also affect a city's yields:

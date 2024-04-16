@@ -1,0 +1,3 @@
+# Cotton (Civ6)/Civilopedia
+
+Cultivated since the early Indus Valley civilization some seven millennia ago, the cotton plant produces a soft fiber that ripens in a boll and can be easily harvested. Spun into yarn, the fiber results in a soft, pliable, light fabric, perfect for hot climes. It remains useful, with around 27.5 million tons produced annually. And cotton helped spur the Industrial Revolution, once mechanized spinning machines and the cotton gin were invented in the late 1700s.

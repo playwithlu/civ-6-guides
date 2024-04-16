@@ -1,0 +1,5 @@
+# Meenakshi Temple (Civ6)/Civilopedia
+
+The Meenakshi Amman Temple dates back to the first century and is one of the oldest temples in India, still receiving thousands of visitors daily. Devoted to the goddess Meenakshi, a representation of love and fertility, this colorful complex spans 14 acres and is composed of tall walls, various shrines, 14 Gopurams (ornate gatehouse towers), and several Manapams (pillared halls).
+Brightly painted ceilings and stone carvings can be throughout the complex, but it is perhaps the thousands of vibrant stone statues lining the towers that have become most iconic. These small sculptures depict moments from Hindu stories – gods, demons, heroes, and animals. Every twelve years, these works are repainted and repaired.
+The Temple is host to private prayer and meditation, as well as monthly festivals throughout the year.

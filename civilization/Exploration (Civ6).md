@@ -1,0 +1,6 @@
+# Exploration (Civ6)
+
+Exploration is a [Renaissance%20Era%20%28Civ6%29](Renaissance Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by building 2 [Caravel%20%28Civ6%29](Caravels).
+Strategy.
+The drive to explore the world is necessary for a [Civilizations%20%28Civ6%29](civilization) which wishes to know more about it. It turns out, it is also very good for trade and [Diplomacy%20%28Civ6%29](diplomacy), since you always know more distant places and people who don't have bad history with you. Thus, Exploration offers major advancements for a civilization, although it isn't actually required for further civic advancement.
+First, it replaces many outdated [Policy%20card%20%28Civ6%29](policy cards) from ancient times with advanced ones. Second, it improves the workings for one of the basic [Tile%20improvement%20%28Civ6%29](improvements), the [Pasture%20%28Civ6%29](Pasture), by finding more useful animals to domesticate. But most importantly, it unlocks access to the next type of [Government%20%28Civ6%29](government), [Merchant%20Republic%20%28Civ6%29](Merchant Republic) - the government for the commerce-oriented civilization.

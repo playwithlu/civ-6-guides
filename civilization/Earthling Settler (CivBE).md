@@ -1,0 +1,4 @@
+# Earthling Settler (CivBE)
+
+Used only for the "[Victory%20%28CivBE%29%23Promised%20Land%20.28%20Purity.29.C2.A0](Promised Land)" victory, the Earthling Settler has only one movement point. Earthling Settler units are summoned through the Exodus Gate and must be settled in Earthling Settlements, which can hold up to six each. Twenty Settlers must be housed for victory. To summon Earthling Settlers, click on the Exodus Gate and use its ability button. Only one Earthling Settler can be summoned per turn.
+Similar to outposts, Earthling Settlements can not be created with in 3 hexes of cities or outposts. However, they can be created with in 2 hexes of stations.

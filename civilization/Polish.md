@@ -1,0 +1,3 @@
+# Polish
+
+The Polish people, also known as the Poles, represent Poland, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. Their [capital](capital) might be [Krak%C3%B3w](Kraków), [Pozna%C5%84](Poznań), or [Warsaw](Warsaw), and they can be led by [Casimir%20I](Casimir I), [Casimir%20III](Casimir III), [Jadwiga](Jadwiga), , or [Stanis%C5%82aw%20Potocki](Stanisław Potocki).

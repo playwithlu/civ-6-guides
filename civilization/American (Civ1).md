@@ -1,0 +1,5 @@
+# American (Civ1)
+
+The American people represent a [Civilizations%20%28Civ1%29](civilization) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Their [Leaders%20%28Civ1%29](leader) is [Abe%20Lincoln%20%28Civ1%29](Abe Lincoln), their [Capital%20%28Civ1%29](capital) is [Washington%20%28city%29](Washington), and their color is cyan (which they share with the [Chinese%20%28Civ1%29](Chinese)).
+On the standard [Earth%20%28map%29%20%28Civ1%29](Earth map), they start in the fertile south-east of the U.S.A., with the whole of [South%20America](South America) and east [Asia](Asia) vacant and only a 50% chance that there will be [Aztec%20%28Civ1%29](Aztecs) in [Central%20America](Central America).
+When played by an [AI](AI), Abraham Lincoln and the Americans are most likely to become a [Democracy%20%28government%29%20%28Civ1%29](democracy) and, while they look to expand, they are not overly aggressive.

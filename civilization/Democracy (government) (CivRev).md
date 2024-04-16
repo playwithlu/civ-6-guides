@@ -1,0 +1,5 @@
+# Democracy (government) (CivRev)
+
+Democracy is a form of [Government%20%28CivRev%29](government) in "[Civilization%20Revolution](Civilization Revolution)". It may be adopted after researching [Democracy%20%28technology%29%20%28CivRev%29](the technology of the same name).
+Democracy provides a bonus of 50% to [Gold%20%28CivRev%29](gold) and [Science%20%28CivRev%29](science) production, but prevents the [Civilizations%20%28CivRev%29](civilization) from declaring war or declining peace treaties. It also disables the use of [ICBM%20%28CivRev%29](nuclear weapons). [Alexander%20the%20Great%20%28CivRev%29](Alexander), the [Greek%20%28CivRev%29](Greek) [Leaders%20%28CivRev%29](leader), starts the game with this technology and form of government.
+Democratic leaders are referred to in-game as "President" (e.g., "President Montezuma of the Aztecs").

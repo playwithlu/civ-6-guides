@@ -1,0 +1,5 @@
+# Chichen Itza (Civ5)
+
+Strategy.
+The bonus of Chichen Itza combines an important main bonus (the extension of s) and good yield bonuses. [AI](AI) players are prone to rushing it. If you want to be able to construct it, you should rush [Civil%20Service%20%28Civ5%29](Civil Service), which is not easy - it requires three [Classical%20Era%20%28Civ5%29](Classical Era) [List%20of%20technologies%20in%20Civ5](technologies) which themselves aren't easy to rush. Keep in mind that if you finish this wonder on the same turn that a starts, it will not extend that .
+This wonder is especially recommended for [Civilizations%20%28Civ5%29](civilizations) whose [Unique%20ability%20%28Civ5%29](unique abilities) depend on s, such as the [Persian%20%28Civ5%29](Persians) and [Brazilian%20%28Civ5%29](Brazilians). It's also important to note that often stagnates during the [Medieval%20Era%20%28Civ5%29](Medieval) and [Renaissance%20Era%20%28Civ5%29](Renaissance Eras), and this wonder (as well as [Notre%20Dame%20%28Civ5%29](Notre Dame)) is effective in increasing it.

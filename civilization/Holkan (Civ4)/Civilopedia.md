@@ -1,0 +1,3 @@
+# Holkan (Civ4)/Civilopedia
+
+Warfare among the Mayans was a bloody and constant affair, serving both economic and religious purposes. Most leaders demanded tribute from conquered city-states in order to increase their own standing. Yet equally important was the capture of victims for sacrifice. This was the domain of the dreaded Holkan. Elite warriors armed with slingshots, stones and razor-sharp spears, the Holkans were trained specifically to capture enemies alive, to provide fodder for ever-hungry sacrificial altars.

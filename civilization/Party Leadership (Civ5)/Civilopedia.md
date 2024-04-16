@@ -1,0 +1,3 @@
+# Party Leadership (Civ5)/Civilopedia
+
+In an orderly proletarian socialist state, the people have the power; however, even Marx realized that some form of party hierarchy would be necessary for efficient operation of state services and to insure that the proletarian order itself was preserved. For that reason, the Bolsheviks argued in 1917 that a vanguard party of bureaucrats would head a centralized political party that administered the new Soviet Russia. In time, with the spread of the communist revolution throughout the industrial world, the need for a party leadership would wither and it would be dissolved; history proved otherwise.

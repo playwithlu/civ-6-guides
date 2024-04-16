@@ -1,0 +1,3 @@
+# Berserker (Civ6)/Civilopedia
+
+According to a number of Old Norse sources, the berserkers (Ulfhednir or “Odin’s special warriors”) were Vikings who fought in “an uncontrollable, trance-like fury.” Other sagas note they forsook armor and went into battle bare-chested wearing wolf pelts, and were “mad as hounds, bit their shields … they slew men but neither fire nor iron had effect upon them.” Pretty impressive, even to the other fun-loving Norsemen. King Harald Fairhair supposedly used them as shock troops in the front ranks of his army c. 800 AD, and other Norse kings kept some as royal bodyguards, depending on their fierce reputation to keep the unruly in line. As the pious Christians said, “From the fury of the Norsemen, good Lord, deliver us.”

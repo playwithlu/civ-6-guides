@@ -1,0 +1,3 @@
+# Constitution (Civ5)/Civilopedia
+
+A constitution is a set of rules which outlines how the government will operate. It lists the powers and obligations of the rulers and it describes how elections are to be held (if the state has elections). Many countries have written constitutions but others do not. The United Kingdom famously has an "unwritten" constitution which is derived from the statutes, court judgments and royal prerogatives which determine how the country is governed.

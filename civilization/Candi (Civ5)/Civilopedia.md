@@ -1,0 +1,3 @@
+# Candi (Civ5)/Civilopedia
+
+Candi refers to an Indonesian stone structure based on the Hindu single shrine, with a pyramidal tower above it and an ornamented portico, built primarily between the 8th and 15th centuries. Incorporating mandala designs, the candi was designed to mimic Meru, the holy mountain that was the abode of the gods. The Javanese, notably the Khmer, developed a somewhat different architecture for their candi, making use of pillars around a central solid mass, but retaining the basic form. The largest, and most famous, candi is Borobudur, the 9th century Buddhist temple with seven terraces.

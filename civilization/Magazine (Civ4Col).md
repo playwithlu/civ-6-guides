@@ -1,0 +1,2 @@
+# Magazine (Civ4Col)
+

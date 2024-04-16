@@ -1,0 +1,3 @@
+# Silk (Civ5)/Civilopedia
+
+Silk is a fiber which is made from the cocoons of silkworms. Silk fabric was first developed in ancient [Chinese%20%28Civ5%29](China), according to legend by the empress Lei Zu. Originally reserved for the Chinese nobility, over time it spread throughout China, and via the famous Silk Road of antiquity, into Europe and across the planet. (The earliest record of silk in Europe dates to [Egyptian%20%28Civ5%29](Egypt) in approximately 1000 BC.)

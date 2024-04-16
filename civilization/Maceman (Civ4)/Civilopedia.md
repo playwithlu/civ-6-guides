@@ -1,0 +1,5 @@
+# Maceman (Civ4)/Civilopedia
+
+A maceman is a medieval infantryman armed with a heavy club called a "mace." The mace is usually constructed of wood and metal. The head of the mace is faced with spikes, spines or knobs, allowing the weapon to more easily penetrate armor. 
+The mace was a weapon of the feudal ages. The weapon is brutally powerful but also heavy and unwieldy, making it perfect for taking on slow-moving, heavily-armored targets such as knights and armored infantry. 
+Like so many other medieval warriors, the maceman was made obsolete by the advent of gunpowder. The armor of the day was unable to stop musket balls from penetrating it and simply slowed the wearers down, making them easier targets. Once soldiers began removing their armor, the mace was replaced by lighter melee weapons or the macemen were retrained as musketmen themselves.

@@ -1,0 +1,3 @@
+# Roland Rizzo
+
+Roland Rizzo (born July 31, 1957) is an American composer and sound designer who has worked for [Firaxis%20Games](Firaxis Games). He is known for composing (or helping to compose) the [soundtrack](soundtrack)s for "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)", "[Civilization%20II](Civilization II)" and its expansions, ', "[Civilization%20Revolution](Civilization Revolution)", "[Civilization%20V](Civilization V)" (and the ' expansion), and "[Civilization%20VI](Civilization VI)".

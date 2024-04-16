@@ -1,0 +1,4 @@
+# Cattle (Civ3)/Civilopedia
+
+ 
+Descendants of the buffalo and bison, cattle fulfilled many uses in man’s past and present. Originally wild herds of these beasts roamed vast stretches of Asia, Africa and Europe. Their early contributions to mankind were those of labor, goods and food, though the horse soon replaced them as the preferred beast of burden. The Romans were the first people to attempt to breed cattle to promote specific traits over others. Their ability to survive in arid areas unsuitable for farming became a premier benefit of these new breeds. In 1521 Spaniards introduced them to Mexico and the New World, leading to extensive cattle ranching throughout Texas and other neighboring regions. Today there are over 100 million head of cattle in the United States alone.

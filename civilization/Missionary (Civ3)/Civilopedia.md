@@ -1,0 +1,3 @@
+# Missionary (Civ3)/Civilopedia
+
+Missionaries of all faiths looked at the native populations of the New World as potential converts. The Jesuits obviously took a leading role, but the other Catholic orders (Franciscan, Benedictine) and Protestant faiths had missionary efforts of their own. Progress in converting the natives was slow at first, but once the missionaries had learned the native languages, convertions of thousands of indigenous Americans to Christianity soon followed.

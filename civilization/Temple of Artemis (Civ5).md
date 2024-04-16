@@ -1,0 +1,4 @@
+# Temple of Artemis (Civ5)
+
+Strategy.
+The Temple of Artemis is the earliest wonder available in the game. Contrary to its description, it provides +10% total instead of excess Growth - for example, in a [City%20%28Civ5%29](city) of 5 with 3 excess , it would provide 1.3 (10% of the 13 total ) rather than 0.3 (10% of the 3 for growth). Due to this, the Temple of Artemis is a great wonder for small empires, which both get a boost to growth and are able to more rapidly build ranged units to defend themselves. Furthermore, this wonder is low on the priority list of the [AI](AI), making it much more preferable to other good wonders of the same [Era%20%28Civ5%29](era) like the [Great%20Library%20%28Civ5%29](Great Library) and [Stonehenge%20%28Civ5%29](Stonehenge).

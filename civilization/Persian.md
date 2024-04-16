@@ -1,0 +1,3 @@
+# Persian
+
+The Persian people represent the Persian Empire, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)". Their [capital](capital) might be [Ecbatana](Ecbatana), [Hyrcania](Hyrcania), [Mashhad](Mashhad), [Pasargadae](Pasargadae), or [Persepolis](Persepolis), and they can be led by [Cambyses%20II](Cambyses II), [Cyrus](Cyrus), [Darius%20I](Darius I), [Darius%20III](Darius III), [Nader%20Shah](Nader Shah), [Scheherazade](Scheherazade), or [Xerxes](Xerxes).

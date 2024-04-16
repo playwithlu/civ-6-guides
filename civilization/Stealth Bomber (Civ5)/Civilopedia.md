@@ -1,0 +1,3 @@
+# Stealth Bomber (Civ5)/Civilopedia
+
+As anti-aircraft missile technology has evolved, so has the design of strategic and tactical bombers. One way to avoid being shot down by an enemy is to remain invisible to the enemy's radar and other tracking devices. The modern stealth bomber is built of strong composite materials specially coated with anti-radar materials and is shaped as to deflect enemy radar. Stealth bombers can carry nuclear or standard bombs. While quite effective, stealth bombers are also staggeringly expensive, with each American B-2 stealth bomber costing approximately one billion US dollars, more than enough to break the bank of nearly any non-super power in the world.

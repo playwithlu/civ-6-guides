@@ -1,0 +1,8 @@
+# Star Ladder (CTP1)
+
+The Star Ladder is a wonder in "". It provides a free space city and one free space launch per turn in the city that builds it.
+Note that this wonder only requires smart material technology (one step before the actual space colony technology) in order to build so it is possible to have a space colony without the required tech. However, should the player do so the city will not be able to grow because tiles near the building cannot be improved without the actual technology.
+Gameplay.
+The Star Ladder creates a above the in which the Wonder is built. Units have unlimited access between these cities and without any effect on . Easily the greatest of the World, the Star Ladder is the largest structure ever built by man, a testament to man's desire to reach for the stars.
+Great Library entry.
+In the late 22nd century advances in Smart Materials opened a new route to space, the Star Ladder. The Star Ladder, a "ladder" which connects ground cities to orbital cities, revolutionized space travel. Beginning as a carbon strand spun down from an orbital city, the Star Ladder was reinforced with electrically conductive "muscles" capable of flexing to meet sudden gusts of wind and changing temperatures. Up until the Star Ladder, though mankind had entered into space, the cost of launching was immense. The Star Ladder changed all this by providing a cheap and pollution free method of "launching" cargo into space.

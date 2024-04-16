@@ -1,0 +1,5 @@
+# Buddhism (Civ4)/Civilopedia
+
+Buddhism is one of the world's major religions, with more than 350 million followers. Buddhism originated in India and has since spread throughout the subcontinent and into central and southeast Asia.
+Buddhism follows the teachings of Siddhartha Gautama, the Buddha. Gautama lived from 620 to 540 BC. The Buddha ("enlightened one") sought to teach his followers to search for "Dharma," the truth. By doing so, they too would become enlightened and thus achieve "Nirvana," the perfect peace that would free one's soul from the unending cycle of death and rebirth that all men suffer.
+Three major schools of Buddhism survive today. Vajrayana believes that people can "speed up" enlightenment through "tantric" techniques such as yoga, mantras (chants), and various other rituals. Theravada and Mahayana are sutric schools that believe that one achieves enlightenment primarily through study of the Buddha's teachings.

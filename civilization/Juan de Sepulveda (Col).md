@@ -1,0 +1,3 @@
+# Juan de Sepulveda (Col)
+
+[Spanish%20%28Col%29](Spanish) philosopher and "humanist" who argued for harsh treatment of the [Indians%20%28Col%29](natives). He based his reasoning on the proposition that the Natives were incapable of ruling themselves because of their savagery; this was proved by their inability to resist Spanish invasion...

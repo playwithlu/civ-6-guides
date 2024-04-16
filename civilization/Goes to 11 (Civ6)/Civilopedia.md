@@ -1,0 +1,3 @@
+# Goes to 11 (Civ6)/Civilopedia
+
+This catchphrase originates from one of the greatest works of documentary cinema on the life of a rock band created during the middle-to-late Twentieth Century. It appears to have two meanings. In the first, it refers to an extraordinary volume of sound. In the other, less commonly used meaning, it appears to be a sardonic reflection on the nature of claims of supremacy and the gullibility of the unsuspecting towards these claims.

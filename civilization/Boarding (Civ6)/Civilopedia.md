@@ -1,0 +1,3 @@
+# Boarding (Civ6)/Civilopedia
+
+Since – unlike naval ships – sinking an opponent ship brought no profit, pirates and privateers relied on heavily armed and vicious oaring parties to storm the upper decks and so secure the (hopefully) precious cargo. In olden days before the wonder of gunpowder, boarding actions were the primary form of naval combat (far fewer were sunk by ramming) and battles were won on the decks. Boarding parties were armed with a variety of weapons, ever more lethal as time passed: cutlasses and swords, blunderbusses and flintlock pistols, belaying pins and just about anything sharp or blunt. But with the development in the early 16th century of cannon gunports and deckguns, the use of boarding tactics gradually came to an end.

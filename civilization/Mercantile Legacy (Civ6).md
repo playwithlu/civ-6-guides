@@ -1,0 +1,2 @@
+# Mercantile Legacy (Civ6)
+

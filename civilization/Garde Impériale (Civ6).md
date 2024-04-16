@@ -1,0 +1,7 @@
+# Garde Impériale (Civ6)
+
+The Garde Impériale is a [Unique%20unit%20%28Civ6%29](unique) [List%20of%20units%20in%20Civ6/By%20class%23Melee](melee unit) of the [French%20%28Civ6%29](French) [Civilizations%20%28Civ6%29](civilization) in "[Civilization%20VI](Civilization VI)". It replaces the [Line%20Infantry%20%28Civ6%29](Line Infantry).
+In the "" expansion, the Garde Impériale requires 10 to train.
+Strategy.
+France is a -driven civilization, and as everyone knows you have to be able to defend yourself to win. Since the Garde Impériale gets a combat bonus when fighting on your home continent, it makes an amazing defensive troop. The best strategy for these guys is to make one for each [City%20%28Civ6%29](city) and a few extra as support. If anyone tries to attack you, spread out your extra troops to the areas most in need of help and make sure your is well defended. Every time you successfully kill an enemy, you will gain points which will allow you to recruit a [Great%20General%20%28Civ6%29](Great General) to aid you in defense.
+Of course, the Garde Impériale's special combat bonus is active not only in your lands, but on your entire home continent. This gives the French player some...interesting opportunities for expansion. An aggressive neighbor aspiring to smash the weak culturally-oriented civ that only thinks about [Wonder%20%28Civ6%29](wonders) and [Great%20Work%20%28Civ6%29](Great Works) will hardly expect a devastating retaliatory strike with a newly-earned Great General!

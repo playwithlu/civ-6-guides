@@ -1,0 +1,8 @@
+# Dutch (Civ3)
+
+The Dutch are a playable [List%20of%20civilizations%20in%20Civ3](civilization) in the "" expansion of "[Civilization%20III](Civilization III)". They are led by [William%20of%20Orange%20%28Civ3%29](William of Orange).
+Civilopedia entry.
+In "Civilization III: Conquests", the Dutch are considered to be a seafaring and agricultural civilization. They start the game with Pottery and Alphabet and build the Swiss Mercenaries instead of Pikeman.
+Unique Unit: the Swiss Mercenary.
+Mercenaries first came to prominence in Europe in the 14th century, when soldiers from the Hundred Years' War preferred to continue fighting for a living rather than learn peacetime trades. Swiss soldiers in particular enjoyed an especially high reputation for loyalty and professionalism, and several European nations incorporated Swiss mercenary regiments into their armies. The Netherlands, in particular, employed huge numbers of mercenaries, since the strength of the Dutch nation was commerce and wealth. This allowed Dutch princes and stadtholders to pay mercenaries well and regularly, which led to extremely effective fighters. The most famous assignment of Swiss mercenaries is the personal safety of the Pope; a special unit of Swiss soldiers, the Swiss Guard, has pledged to protect the Pope and the Vatican for the last 500 years.
+The Dutch Swiss Mercenary is an excellent defender that boasts an even better defense strength than the formidable Pikeman. A Dutch city must have Iron in its Strategic Resource box to build a Swiss Mercenary.

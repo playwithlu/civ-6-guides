@@ -1,0 +1,3 @@
+# Priest (Civ6)/Civilopedia
+
+A priest is a religious leader, often one who has undergone special preparation for their role. The term is derived from the Latin "presbyter," meaning "elder," but is generally recognized to encompass the role played in many religions today and throughout history. The job of priest may be one of the oldest human occupations, appearing in the archaeological and cultural record almost contemporaneously with the development of agriculture. Priests are called upon to serve as intermediaries between people and their deity, offer sacrifice, and provide rituals marking critical life events. A priest may observe special obligations and restrictions as part of their role, or receive their title in addition to their role in society.

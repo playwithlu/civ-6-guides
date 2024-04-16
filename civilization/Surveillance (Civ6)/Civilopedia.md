@@ -1,0 +1,3 @@
+# Surveillance (Civ6)/Civilopedia
+
+Surveillance is the art and practice of methodically observing a target. Teams of trained observers trade off watching their targets, often using hidden microphones, telescopic photography, and other nefarious recording methods. While agents are sometimes trained in counter-surveillance techniques, it can be difficult for any agent to completely escape observation once they are captured in a surveillance net. An agent should assume that if they can see a surveillance team, that team wants the agent to know they are there.

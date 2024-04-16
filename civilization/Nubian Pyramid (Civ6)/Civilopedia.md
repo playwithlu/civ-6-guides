@@ -1,0 +1,4 @@
+# Nubian Pyramid (Civ6)/Civilopedia
+
+During their on-again/off-again periods of mutual conflict, Nubia found its culture influenced by the powerful Egyptian dynasties further down the Nile. Nubian burial customs would eventually come to resemble those of Egypt. Nubia’s Kingdom of Kush began burying its kings and queens in pyramids sometime in the First Millennium BCE.
+Nubia took a vastly different approach to its pyramids than Egypt. Rather than build immense tomb complexes that bankrupted their state, they opted for a more practical method: smaller pyramids with no more than a 26 ft (8 m) wide base, steep sides that rose at a sharp angle in the air, and an ornate entry chamber that extended from the pyramid tomb. Though treasure hunters plundered most of these pyramids since Nubia's fall, the pyramids remain a powerful testament to Nubia's legacy.

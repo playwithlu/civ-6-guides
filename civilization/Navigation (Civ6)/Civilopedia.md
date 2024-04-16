@@ -1,0 +1,3 @@
+# Navigation (Civ6)/Civilopedia
+
+Early “navigators” plotted their course by the stars; although hardly an exact science, by the European Medieval Age navigation had been elevated to one of the “seven mechanical arts.” This was due in part to a few inventions to help mariners keep from going astray (although they tended not to leave sight of land). Since estimating speed and direction by the seaweed going by was rather inaccurate, the Han Chinese devised the mariner’s compass around 206 BC. The next great advance came in the Middle Ages when Arabic sailors improved the kamal, used for celestial navigation, into the astrolabe. Once mariners began keeping detailed records, the first nautical charts – portolan charts – were drawn … and finding home got more assured.

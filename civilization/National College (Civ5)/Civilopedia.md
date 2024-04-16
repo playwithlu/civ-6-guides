@@ -1,0 +1,3 @@
+# National College (Civ5)/Civilopedia
+
+A national college is a state-run institute of higher learning. The modern college can be traced back to medieval Islamic madrasah, institutes of law and theology usually associated with mosques. Most countries in the world now have public college and university systems. The University of Tokyo in Japan is one such public institution. According to the Russian Global Universities Ranking, the University of Tokyo is the most prestigious university in Asia and third in the world.

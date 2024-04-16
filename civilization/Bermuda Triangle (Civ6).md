@@ -1,0 +1,8 @@
+# Bermuda Triangle (Civ6)
+
+The Bermuda Triangle is a three-tile passable in "[Civilization%20VI](Civilization VI)" that was added in the [Maya%20%26amp%3B%20Gran%20Colombia%20Pack%20%28Civ6%29](Maya &amp; Gran Colombia Pack). Each wonder [Tile%20%28Civ6%29](tile) provides +5 to adjacent tiles.
+A [Naval%20unit%20%28Civ6%29](naval unit) that moves into the Bermuda Triangle receives the Mysterious Currents ability, which grants it a permanent, one-time bonus of +1 . It is also immediately teleported to an [Ocean%20%28Civ6%29](Ocean) tile on the other side of the world (calculated as the location exactly half of the length and height of the [Map%20%28Civ6%29](map) away from the point of entry). Embarked units can be teleported as well without gaining the extra .
+In "", discovering the Bermuda Triangle grants +1 [Era%20Score%20%28Civ6%29](Era Score), or +3 Score if the player is the first to do so.
+Strategy.
+Due to the unpredictable nature of the Bermuda Triangle, there's not much strategy on how to play around it. The Mysterious Currents ability is cool, but refrain from triggering it on maps that contain many isolated bodies of water (most notably Seven Seas and Inland Sea) or have a high degree of randomness (like Shuffle, Fractal, and Splintered Fractal), since your naval units can easily get stuck in a body of Ocean that is surrounded by land. Most of the time, the extra bonus isn't even worth the risk of making your naval units completely helpless.
+Despite spawning only on Ocean tiles, the Bermuda Triangle will sometimes spawn on tiles close enough to the [Coast%20%28Civ6%29](Coast) to be worked by a nearby [Coastal%20%28Civ6%29](coastal) [City%20%28Civ6%29](city). Thus, if you are extremely lucky, it's possible to benefit from its huge yield.

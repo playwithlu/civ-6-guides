@@ -1,0 +1,3 @@
+# Advanced Piracy (Civ5)/Civilopedia
+
+The "Golden Age of Piracy" spanned, roughly, the years from 1650 to 1730 AD as the likes of Henry Morgan, Bartholomew Roberts and Calico Jack Rackham sailed the Spanish Main. It was brought about by both the incredible riches being shipped to Europe from the New World and by advances in shipbuilding, allowing fast and nimble sloops, brigantines and schooners to carry heavier weaponry and larger crews.

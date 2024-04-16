@@ -1,0 +1,3 @@
+# Naval Academy (Civ3)/Napoleonic Europe/Civilopedia
+
+Teaching a nation's aspiring young men the art of navigation and how to become a professional naval officer is the job of the Naval Academy. In Britain, a Royal Naval Academy was established at Portsmouth in 1733. Upon opening, it intended to instruct 40 "young gentlemen" between ages thirteen and sixteen the ways of the Royal Navy. Another "Royal Naval Academy" was established in Fiume, along the Adriatic coast -- an important port of the Austro-Hungarian Empire. Istanbul, Turkey, is home to yet another Royal Naval Academy, this one established in 1776.

@@ -1,0 +1,5 @@
+# Tobacco (Civ6)
+
+ Tobacco is a [Resource%20%28Civ6%29%23Luxury](luxury resource) in "[Civilization%20VI](Civilization VI)". It is fairly common, and can be found on [Grassland%20%28Civ6%29](Grassland) and [Plains%20%28Civ6%29](Plains) [Tile%20%28Civ6%29](tiles), and also in both [Woods%20%28Civ6%29](Woods) and [Rainforest%20%28Civ6%29](Rainforests).
+Strategy.
+ Tobacco is one of the few resources that grants yield for its tile without any [Technology%20%28Civ6%29](technological requirements) (the Pipe of Peace anyone?), and this alone makes it very useful. A [Civilizations%20%28Civ6%29](civilization) that has sources of Tobacco nearby will be able to found a [Pantheon%20%28Civ6%29](pantheon) early without even having to use the [God%20King%20%28Civ6%29](God King) [Policy%20card%20%28Civ6%29](policy card), and regardless of chance encounters with Religious [City-state%20%28Civ6%29](City-States) and [Tribal%20Village%20%28Civ6%29](Tribal Villages). Be sure to assign Citizens to work the Tobacco tile, at least until you grab that pantheon.

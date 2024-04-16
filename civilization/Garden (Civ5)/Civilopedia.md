@@ -1,0 +1,3 @@
+# Garden (Civ5)/Civilopedia
+
+A garden is a place where plants are cultivated, either for food, shelter, or energy, or as locations for rest and recreation. The earliest known garden plan is Egyptian and dates back to 1400 BC, but virtually all cultures - ancient and modern - have created and celebrated their gardens. The Japanese have been creating subtle and beautiful gardens for most of their history. The Ryoan-ji Temple in Kyoto is famous for its Zen garden, which consists of some 15 rocks set on a bed of white gravel and surrounded by low walls. Although simple - austere, perhaps by some standards - the garden has inspired and moved people for centuries.

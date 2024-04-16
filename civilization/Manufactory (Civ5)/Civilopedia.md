@@ -1,0 +1,3 @@
+# Manufactory (Civ5)/Civilopedia
+
+A Manufactory is a plant consisting of one or more buildings in which things are built. The buildings might be foundries, factories, assembly lines, and so forth, usually all working on related items - the foundry creates the steel that the factory rolls into sheets which the workers on the assembly line make into cans, and so forth. A well-run Manufactory can be incredibly productive.

@@ -1,0 +1,4 @@
+# Rafael Urdaneta (Civ6)/Civilopedia
+
+Rafael Urdaneta was a general in Bolívar’s “Admirable Campaign” against Spanish rule in Venezuela, and became a senior statesman after independence. Fiercely loyal to Bolívar, who referred to Urdaneta as “the Brilliant,” Urdaneta sought to protect him from threats internal and external.
+After independence, Urdaneta clashed with Francisco de Paula Santander, another confidante of Bolívar who advocated for constitutional rule (rather than a more authoritarian, personality-centered rule by Bolívar himself). Santander attempted to move troops loyal to Bolívar away from the capital, but in so doing provoked a fight between Santander-loyal groups and those loyal to Bolívar. With Santander gone, Urdaneta took control of Colombia and tried to persuade an old and frail Bolívar to return to power. When Bolívar refused, Urdaneta was deposed by pro-Santander forces.

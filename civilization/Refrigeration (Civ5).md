@@ -1,0 +1,5 @@
+# Refrigeration (Civ5)
+
+Game Info.
+Refrigeration makes preservation of food possible for extended periods of time, and in environments which wouldn't normally allow it. Besides its use in civil life, this technology proves most useful in the sea, making it possible for men to survive for prolonged periods of time without any contact with the outside world.
+With Refrigeration, you can build the [Submarine%20%28Civ5%29](Submarine), a highly specialized and dangerous sea craft, and your [Work%20Boat%20%28Civ5%29](Work Boats) can construct [Offshore%20Platform%20%28Civ5%29](Offshore Platforms) to extract from the deep sea. You can also build the ultimate entertainment [Building%20%28Civ5%29](building), the [Stadium%20%28Civ5%29](Stadium); and the first -enhancing building, the [Hotel%20%28Civ5%29](Hotel).  

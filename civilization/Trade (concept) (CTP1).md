@@ -1,0 +1,6 @@
+# Trade (concept) (CTP1)
+
+Trade is a key to a successful Civilization by dramatically increasing its income of . The goal of trade is to collect as many of the same as possible in a single city, thus creating a very valuable monopoly. The greater the monopoly, the more gold the city earns. In the trade system, a ruler can do one of three primary actions. A ruler can send a good from one of his cities to another by employing a . He can also buy and sell goods with foreign Civilizations. A ruler must be wary of . A ruler can access trade through the trade advisor. 
+s of the same type increase in value when in the same . A city can support 4 incoming and 4 outgoing s.
+Great Library entry.
+By the second millennium BC, trade had become a critical aspect of any successful civilization. Trade created gold for ancient governments and encouraged the rise of artisans and craftsmen. Moreover, Trade spread knowledge. As caravans crossed the deserts of the world, they carried with them the insights of distant Civilizations that often took root and flourished in new lands.

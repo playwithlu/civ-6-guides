@@ -1,0 +1,3 @@
+# Futurism (Civ5)/Civilopedia
+
+Originating as an artistic movement in the early 20th century in Italy, Futurism evolved into a social movement in the 1920s and 1930s. Futurism emphasized contemporary concepts of the future such as youth violence, technology, industrialism, and rapid modes of transportation such as the automobile and airplane. Although primarily a philosophical and artistic movement, it came to have a political aspect as many futurists embraced Italian Fascism in the hopes of modernizing what they viewed as an archaic, rural, backward world. Although futurism reached its highest expression in Italy, it spawned parallel movements in England, France, and especially Russia as well.

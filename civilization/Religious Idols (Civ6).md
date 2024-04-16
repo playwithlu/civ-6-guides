@@ -1,0 +1,6 @@
+# Religious Idols (Civ6)
+
+Religious Idols is a [Pantheon%20%28Civ6%29](Pantheon) in "[Civilization%20VI](Civilization VI)". It provides +2 to [Mine%20%28Civ6%29](Mine) [Tile%20improvement%20%28Civ6%29](improvements) built over [Resource%20%28Civ6%29%23Luxury](Luxury) and [Resource%20%28Civ6%29%23Bonus](Bonus resources).
+Strategy.
+Religious Idols is a relatively useful pantheon for [Nubian%20%28Civ6%29](Nubia), and even more so for [Malian%20%28Civ6%29](Mali). The extra that they receive from Mines over luxury and bonus resources can be used to purchase [Building%20%28Civ6%29](buildings) in their [Suguba%20%28Civ6%29](Sugubas), providing them with more s and additional that they can use to purchase [Unit%20%28Civ6%29](units) and buildings for their [Holy%20Site%20%28Civ6%29](Holy Sites) and other key s.
+That being said, these two [Civilizations%20%28Civ6%29](civilizations) are often better off choosing [Desert%20Folklore%20%28Civ6%29](Desert Folklore), which increases the yields of a greater number of (unimproved) [Tile%20%28Civ6%29](tiles). For other civs, [Stone%20Circles%20%28Civ6%29](Stone Circles) is usually a more efficient pantheon than Religious Idols, especially for players who aren't serial harvesters of all available .

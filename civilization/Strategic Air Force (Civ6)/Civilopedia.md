@@ -1,0 +1,3 @@
+# Strategic Air Force (Civ6)/Civilopedia
+
+In order to protect itself and its allies from the “Red Menace,” the United States merged several of the Army air forces in March 1946 AD, forming the Strategic Air Command. Establishing its headquarters on Offutt Air Force Base (near Omaha, about as far from Soviet bombers as could be found), SAC was responsible for the land-based strategic bombers that would rain nuclear destruction down in the much anticipated Armageddon. SAC initially totaled 37 thousand military personnel, but continued to grow as its Soviet counterpart – in 1980, the largest air force the world – did throughout the Cold War. And as its Soviet counterpart had, SAC was put in charge of the ICBM arsenal as well.

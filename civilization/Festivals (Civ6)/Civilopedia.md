@@ -1,0 +1,3 @@
+# Festivals (Civ6)/Civilopedia
+
+In the wake of the Protestant Reformation, and the mishmash of denominations across Germany, arose the 'simultaneum mixtum' (or Simultankirche), a church in which two or more differing groups (Lutheran, Congregational, Calvinist, and so forth) practice services. Each denomination worshiped at different times and with different clergy, and tolerated the other faiths sharing their space. Although, given its tenets as the “true church” (and all the bloodshed of the religious wars), Roman Catholicism did not generally engage in simultaneum … although a Catholic and Evangelical one operated for some 200 years until 1850 AD in Goldenstedt.

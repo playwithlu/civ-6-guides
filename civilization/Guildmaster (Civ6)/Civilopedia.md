@@ -1,0 +1,3 @@
+# Guildmaster (Civ6)/Civilopedia
+
+The guildmaster is the head of an artisan’s guild. A guildmaster is responsible for maintaining the importance of the guild in the political and economic life of the city, and for ensuring the smooth transmission of guild secrets and practices from masters to apprentices. Most guildmasters are elected by their peers, and so it is a position of great prestige and civic importance.

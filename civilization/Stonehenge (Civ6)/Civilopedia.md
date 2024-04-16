@@ -1,0 +1,3 @@
+# Stonehenge (Civ6)/Civilopedia
+
+A circle of fifty-ton slabs of rock, arranged in orientation to the stars and sun, Stonehenge is an observatory and temple in one. Begun in Southern England some 5000 years ago, Stonehenge was concentric circles of stones surrounded by a moat (or “henge”). After the henge was in place, about a thousand years later an inner ring of “bluestones” were set in place, followed by an outer ring of larger, upright “sarsen” stones some 500 years after that. The 80 bluestones, coming in at about four tons each, were transported from a quarry over 240 miles away; the sarsen stones were cut and transported about 20 miles to the site. However done, for whatever purpose, Stonehenge remains a “wondrous” achievement even after a few millennia.

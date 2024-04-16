@@ -1,0 +1,2 @@
+# Democracy (government) (Civ6)
+

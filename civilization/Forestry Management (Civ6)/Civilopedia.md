@@ -1,0 +1,3 @@
+# Forestry Management (Civ6)/Civilopedia
+
+Since the Industrial Revolution and the clearcutting of forests for timber and wood, human beings have rediscovered the ancient principle that perhaps forests are a more sustainable resource if not clear-cut and replanted haphazardly. Forestry management today encompasses a wide range of disciplines but emphasizes careful, sustainable extraction of natural resources from a forest while minimizing or mitigating the environmental damage as best as possible.

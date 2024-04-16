@@ -1,0 +1,4 @@
+# Chinese (Civ1)
+
+The Chinese are a playable [List%20of%20civilizations%20in%20Civ1](civilization) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Their [Leaders%20%28Civ1%29](leader) is [Mao%20Tse%20Tung%20%28Civ1%29](Mao Tse Tung), their [Capital%20%28Civ1%29](capital) is [Beijing](Peking), and their color is cyan (which they share with the [American%20%28Civ1%29](Americans)).
+On the standard "[Earth%20%28map%29%20%28Civ1%29](Earth)" [Map%20%28Civ1%29](map) they are almost surrounded by [Plains%20%28Civ1%29](plains) and [Ocean%20%28Civ1%29](ocean) and can therefore easily get stuck at population 2 or 3 with no growth and no net resource production. [Irrigation%20%28Civ1%29](Irrigation) is the key, after which there are many good [City%20%28Civ1%29](city) sites north and south and eventually inland, with no enemies nearby.

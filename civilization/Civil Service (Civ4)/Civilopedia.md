@@ -1,0 +1,5 @@
+# Civil Service (Civ4)/Civilopedia
+
+Civil Service is the technology of bureaucracy - organizing and running a government. A successful civil service requires standard procedures, division of responsibility, hierarchy, and advancement through merit. Clearly record-keeping is crucial to the successful management of a government, as well. While some early cultures kept records on clay or wax or stone tablets, the advent of paper was a boon to the advance of bureaucracy and a civil service.
+One of the oldest known civil services is found in China, during the Tang dynasty (600-900 AD). This was created largely in response to the Confucian demands for honest government. Among other innovations, the Tang civil servants were hired based upon the results of a written examination, rather than through the more common methods of bribery and patronage, and thus had fewer ties to the wealthy and powerful nobility.
+The English followed the Chinese civil service model when they created a bureaucracy to manage their growing colonies. Though successful, the practice did not spread to Europe until the mid-18th century.

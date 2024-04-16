@@ -1,0 +1,3 @@
+# Fish (CivRev)
+
+Fish is a [List%20of%20resources%20in%20CivRev](resource) in "[Civilization%20Revolution](Civilization Revolution)". It becomes available after researching [Bronze%20Working%20%28CivRev%29](Bronze Working) and provides two food. It is recommended to build a [Harbor%20%28CivRev%29](Harbor), providing three food in a city that has access to Fish, especially when playing as the [Japanese%20%28CivRev%29](Japanese).

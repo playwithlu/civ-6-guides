@@ -1,0 +1,7 @@
+# E-Bank (CTP2)
+
+ is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+E-Banks automate almost all financial transactions, making shopping, banking and conducting business fast and safe. Citizens use a card that is encrypted with their financial information. This availability of easy-to-use banking increases the efficiency, and therefore the bottom line, of .
+Great Library entry.
+As the power and speed of microprocessors increased in the late 20th and early 21st centuries, crackers were finding it easier to crack complex encryption schemes. The gradual decline of paper and coin currencies required a new level of security for financial data. In response, businesses and government entities sunk millions of dollars into cryptography schemes that could guarantee the security of sensitive information over the Internet, such as financial transactions, medical records and government documents. Employing an evolving asymmetric encryption scheme, the major financial institutions began to establish electronic banks in which money could be stored with little to no risk of theft. Customers used cards encoded with their financial information to transact business both in person and online. Although the malicious intrusions of crackers kept system administrators busy, the new e-bank system increased the safety and efficiency of commerce.

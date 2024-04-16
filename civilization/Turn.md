@@ -1,0 +1,4 @@
+# Turn
+
+A turn is a time period during which one or more of the players in a game is allowed to act (issue commands to [unit](unit)s, construct [building](building)s, engage in [diplomacy](diplomacy), etc.). All of the "[Civilization%20%28series%29](Civilization)", "[Call%20to%20Power%20games](Call to Power)", and "[Colonization%20%28game%29](Colonization)" games and "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)" are [turn-based%20strategy](turn-based strategy) games, meaning that they use turns to measure the passage of time.
+In [multiplayer](multiplayer) games that include both human and [AI](AI) players, the humans take their turns first. Multiplayer games may also allow the host to toggle simultaneous turns on or off and set a turn timer, which limits the amount of time players have to think and act before the game progresses.

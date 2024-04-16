@@ -1,0 +1,2 @@
+# Freydis Eiriksdottir (Civ6)
+

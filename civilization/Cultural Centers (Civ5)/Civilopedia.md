@@ -1,0 +1,3 @@
+# Cultural Centers (Civ5)/Civilopedia
+
+A Cultural Center is any building, complex or institution that promotes the arts. In some cases, this means the sponsorship of museums and art galleries open to all. In some cases, cultural centers may offer donations to encourage the construction or operation of privately-owned venues for performance art, and may help in acquiring talent for civic orchestras, theaters, dance ensembles, and vocal groups.

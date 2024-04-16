@@ -1,0 +1,3 @@
+# Plantation (Civ5)/Civilopedia
+
+A plantation is a fancy name for a farm. It is generally applied to large estates located in semi-tropical or tropical locations, and especially those which grow crops for export rather than for local consumption. The term has acquired an unsavory flavor because of its association with slavery in the United States and the Caribbean, but there's nothing inherently evil about a well-run plantation which employs free workers.

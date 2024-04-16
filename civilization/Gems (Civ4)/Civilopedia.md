@@ -1,0 +1,3 @@
+# Gems (Civ4)/Civilopedia
+
+Gemstones, treasured throughout time for their beauty and value, have always been a sought-after commodity. Most gemstones, such as diamonds, are mined in various areas throughout the world, most notably Africa. Some of the most notable gem deposits, however, have been found in archaeological digs. The ruins of ancient civilizations in the jungles of Central and South America have sometimes been found to hide large quantities of precious and semi-precious gems, as well as gold and other items of value. The discovery of such a site can lead to an increase in trade in the areas surrounding the dig, as both professional and amateur treasure hunters swarm to the region to seek their fortune.

@@ -1,0 +1,3 @@
+# Ball Games (Civ3)/Mesoamerica/Civilopedia
+
+The Mesoamericans were great sports fans, and they loved their ball games. One very popular game, [Pok-a-tok], was played throughout the region. The object of this game was to hit a hard rubber ball through a ring by using only elbows, wrists, or hips. Once this was achieved, the game was over. The winners of these games were showered with praise and riches; the losers were often decapitated.

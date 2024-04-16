@@ -1,0 +1,3 @@
+# Salt (Civ5)/Civilopedia
+
+One of the necessities of human life, salt, is found throughout the world in both natural and man-made environments. Used for thousands of years as a means of preserving meat, salt was crucial in efforts to store food prior to the invention of artificial refrigeration. A common method of producing and harvesting salt for consumption is through the use of evaporation. By creating large ponds or pools of saltwater, over time the natural evaporation process will remove the water and leave behind the salt residue for collection.

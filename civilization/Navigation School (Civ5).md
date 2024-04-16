@@ -1,0 +1,7 @@
+# Navigation School (Civ5)
+
+Navigation School is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It was added in "[Brave%20New%20World](Brave New World)". It is part of the [Exploration%20%28Civ5%29](Exploration) tree and requires [Naval%20Tradition%20%28Civ5%29](Naval Tradition).
+Establishing a specialist Navigation School (usually in a nation's capital) ensures that the best captains and admirals are serving in your navy. All of them possess the latest knowledge concerning navigation, battle maneuvers, map reading skills, etc., ensuring your nation's supremacy at sea. At the same time the state provides generous payment for all admirals of its navy, which encourages more and more young people to pursue naval careers.
+Strategy.
+This is another in the series of Policies upgrading [Great%20People%20%28Civ5%29](Great People). In "[Civilization%20V](Civilization V)" it is not easy to earn a [Great%20Admiral%20%28Civ5%29](Great Admiral) - naval action is not that frequent, especially in the earlier eras, and this Policy greatly facilitates earning Admirals. The movement bonus, on the other hand, allows them to keep up with modern ships' speed, thus greatly increasing the general speed a fleet can move with. 
+However, if you're not a particularly aggressive nation, this Policy becomes a bit useless. Without military action, you don't need Great Admirals (which will just sit there, costing you , without doing anything, really). In that case, it's better to adopt the other level 2 Policy in the tree first.

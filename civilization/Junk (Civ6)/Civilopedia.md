@@ -1,0 +1,3 @@
+# Junk (Civ6)/Civilopedia
+
+The Junk is any one of a number of traditional Chinese seagoing ship with recognizable and common design features: Full-battened square sails, high sterncastles, a flat bottom, and massive rudders which also serve as keels. Junks were some of the first vessels to feature partitioned and watertight holds, which contributed to their great hull strength. The term may derive from the Portuguese "junco," or the Malay "jong," which is a dialectal variation of the Chinese "chuan."

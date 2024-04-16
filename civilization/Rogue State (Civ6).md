@@ -1,0 +1,5 @@
+# Rogue State (Civ6)
+
+Rogue State is a [Dark%20Age%20%28Civ6%29](Dark Age) [Policy%20card%20%28Civ6%29](Policy Card) in "". It is available from the [Atomic%20Era%20%28Civ6%29](Atomic Era) to the [Information%20Era%20%28Civ6%29](Information Era) and uses a Wildcard slot.
+Strategy.
+When all other options fail, [Nuclear%20weapons%20%28Civ6%29](nuclear weapons) will prevail. That, at least, is the philosophy behind Rogue State, which gives bonus toward the [Manhattan%20Project%20%28Civ6%29](Manhattan Project), [Operation%20Ivy%20%28Civ6%29](Operation Ivy), s, and s. With access to , well-placed [Missile%20Silo%20%28Civ6%29](Missile Silos), and a few bombers and [Nuclear%20Submarine%20%28Civ6%29](Nuclear Submarines) on hand, you can build a devastating nuclear arsenal and be ready to unleash it on a target of your choice in short order.

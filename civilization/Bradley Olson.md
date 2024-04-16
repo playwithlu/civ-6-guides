@@ -1,0 +1,4 @@
+# Bradley Olson
+
+Bradley Olson is a video game programmer and engineer who currently works for [Firaxis%20Games](Firaxis Games). He is known for being the lead [multiplayer](multiplayer) engineer for "[Civilization%20VI](Civilization VI)", leading the development of multiplayer in ' and its ' expansion, and assisting with the development of multiplayer in "". He also did some engineering work on "XCOM: Enemy Unknown".
+One of Olson's April Fools' jokes inspired the creation of [Red%20Death%20%28Civ6%29](Red Death), a multiplayer battle royale [scenario](scenario) for "Civilization VI" that was introduced in the [Civilization%20VI%20September%202019%20Update](September 2019 Update).

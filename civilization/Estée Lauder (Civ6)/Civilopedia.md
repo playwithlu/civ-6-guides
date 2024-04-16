@@ -1,0 +1,5 @@
+# Estée Lauder (Civ6)/Civilopedia
+
+Born Josephine Esther Mentzer, Lauder grew up in an apartment above her father's store in New York with her parents and eight brothers and sisters. The addition of her uncle to the household made living space smaller, but he introduced her to the wonders of chemistry. It was under his tutelage that she learned to create her own skin-care products.
+Lauder eventually moved to Manhattan, continuing to experiment and improve her cosmetics. Enjoying modest success, her breakthrough came after Saks Fifth Avenue made a purchase of her products and they sold out in two days. Her fragrance, Youth Dew, would go on to sell 150 million bottles.
+She was a working mother, successful entrepreneur, and philanthropist. Her business genius built a cosmetics empire that would continue to support her family even after passing at the age of 97.

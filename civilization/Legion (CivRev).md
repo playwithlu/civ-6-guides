@@ -1,0 +1,8 @@
+# Legion (CivRev)
+
+The Legion is a [Ground%20unit%20%28CivRev%29](ground unit) in "[Civilization%20Revolution](Civilization Revolution)".
+The Legion is the most cost-efficient unit throughout the entire [Ancient%20Era%20%28CivRev%29](Ancient Era). It can be upgraded from its humble predecessor, the [Warrior%20%28CivRev%29](Warrior). Though very similar to the Warrior, the Legion is more powerful and effective in battle and can stand up to several waves of Ancient Era attackers when formed into an [Army%20%28CivRev%29](Army). It's only when all of the civilizations enter the [Medieval%20Era%20%28CivRev%29](Medieval Era) that the Legion will start to become less dominant in battles. As time goes on, other units such as [Catapult%20%28CivRev%29](Catapults) and [Knight%20%28CivRev%29](Knights) may start winning battles against the Legion. This is when a change in tactics is needed.
+Technical Costs.
+The Legion can be purchased fairly early on in the game - normally around the time when the Warrior unit is starting to feel a little too useless against [City%20%28CivRev%29](cities). However, the [Iron%20Working%20%28CivRev%29](Iron Working) [List%20of%20technologies%20in%20CivRev](technology) must be researched before the Legion can be built, so you will have to make good use of Warriors until then.
+Attacking, Defending and Moving.
+The Legion can move along all flat ground like all other ground units. They can only move one tile per turn, just like their predecessor the Warrior. The Legion can also form Armies to maximize power and numbers.

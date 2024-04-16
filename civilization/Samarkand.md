@@ -1,0 +1,3 @@
+# Samarkand
+
+Samarkand, also known as Samarqand, Maracanda, and Marakanda, is the [Mongol](Mongol)ian [capital](capital) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)" and a Mongolian and [Persian](Persian) [city](city) in other "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games, and also appears as a [city-state](city-state). In real life, it is a city in present-day Uzbekistan.

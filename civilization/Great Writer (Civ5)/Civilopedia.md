@@ -1,0 +1,3 @@
+# Great Writer (Civ5)/Civilopedia
+
+"Great Writers" are those gifted men and women who express our desires, insights, fancies, foibles, fears and joys in the written word. Whether in poetry, in novels and stories, for the stage or screen, these are the artists who have defined their civilizations and cultures. Some write prose and poetry about imaginary worlds; others write tracts of philosophy, politics, religion and science about how our world is or should be. Their words echo through time, binding us all together.

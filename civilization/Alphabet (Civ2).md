@@ -1,0 +1,5 @@
+# Alphabet (Civ2)
+
+ Alphabet is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The ancestors of modern alphabets were the iconographic and ideographic symbols developed by ancient man, such as cuneiform and hieroglyphics. The first known alphabet, a combination of a number of early pictographic symbols known as North Semetic, was developed between 1700 and 1500 BC. Four other alphabets, South Semetic, Canaanite, Aramaic, and Greek had evolved from the North Semetic alphabet by 1000 BC. The Roman alphabet, used by all languages of western Europe including English, was derived from the Greek alphabet sometime after 500 BC. The Roman alphabet become one of the most widespread due to the extensive use of the Latin Language during the reign of the Roman Empire. The development of alphabets was significant in the development of advanced civilizations because it allowed history and ideas to be written down, rather than memorized and passed along orally.

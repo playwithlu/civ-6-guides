@@ -1,0 +1,3 @@
+# Battlecry (Civ6)/Civilopedia
+
+The first recorded account of a battle cry is found in the epic Iliad of Homer, but warriors have been screaming into battle since long before. Meant to intimidate the enemy, or perhaps bolster their own courage, many soldiers of civilizations have developed distinctive cries and yells. Among the most famous echoing through history: the 'Alala' of Athens, the several Kipchak shouts, the Mongol cry to urge their horses to battle, 'Vive l’Empereur,' and “Remember the Alamo.” War is a noisy business, it seems.

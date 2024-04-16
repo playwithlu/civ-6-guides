@@ -1,0 +1,3 @@
+# Rafael Kayanan
+
+Rafael Kayanan (born September 13, 1962) is a Filipino American comics artist and Filipino martial arts master. He illustrated "", a graphic novel based on "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)" and its "[Sid%20Meier%27s%20Alien%20Crossfire](Alien Crossfire)" expansion. He has also illustrated numerous comic books and graphic novels for many publishers, including DC, Marvel, and Vertigo Comics.

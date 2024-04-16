@@ -1,0 +1,37 @@
+# Science (Civ6)
+
+ Science is one of the main statistics in "[Civilization%20VI](Civilization VI)". It epitomizes your empire's progress in technological and practical matters, and is used solely to research developments in the [Technology%20%28Civ6%29](technology) tree.
+Mechanics.
+ Science is a very streamlined statistic: it has the singular purpose to power your progress through the Technology tree. Each turn your raw Science output, plus eventual lump sums of Science earned during gameplay, are gathered empire-wide and applied towards the technology you are currently researching. Since this is a fully automatic process (tech research starts automatically the moment you found your first [City%20%28Civ6%29](city), and doesn't stop until the end of the game), there is very little the player has to do when it comes to Science.
+Note that the raw Science output of your empire is not the only way to progress scientifically, but it is still essential!
+Sources.
+ Science is mainly earned from Population and the [Campus%20%28Civ6%29](Campus) district. As of the [Civilization%20VI%20February%207%2C%202018%20Update](February 7, 2018 Update), each Citizen of a city yields 0.5 Science (with or without the Campus), which makes for relatively good early progress as long as your Population grows fast. Later, however, you will have to develop additional means for scientific endeavors if you want to keep pace with your opponents.
+Buildings, improvements, and the Campus district.
+The center of scientific development is the [Campus%20%28Civ6%29](Campus), which is also one of the first s unlocked in the game. Its [Adjacency%20bonus%20%28Civ6%29](adjacency bonuses) provide additional Science, as do [Specialists%20%28Civ6%29](Specialist) Citizens placed in it (+2 each). Its [Building%20%28Civ6%29](buildings) — [Library%20%28Civ6%29](Libraries), [University%20%28Civ6%29](Universities), and [Research%20Lab%20%28Civ6%29](Research Labs) — yield +2, +4, and +5 Science respectively and provide major contribution to your scientific growth.
+Furthermore, scientific [City-state%20%28Civ6%29](city-states) will grant massive amounts of Science (up to +4 Science in every Campus, and an additional +2 in the ) based on the number of s assigned to that city-state.
+With the [Ethiopia%20Pack%20%28Civ6%29](Ethiopia Pack) and the new [Diplomatic%20Quarter%20%28Civ6%29](Diplomatic Quarter), scientific [City-state%20%28Civ6%29](city-states) may now grant up to +6 Science in every Campus district (+1 Science for each Library, +2 Science for each University and +3 Science for each Research Lab), depending on the number of s assigned to that particular city-state, plus an additional +1 Science in the .
+Most of the time, several well-placed Campuses along with clever playing (for s) will ensure your technological advancement is more than enough. But there are many more additional ways to earn raw Science.
+The [Zoo%20%28Civ6%29](Zoo) adds +1 Science to each [Rainforest%20%28Civ6%29](Rainforest) and [Marsh%20%28Civ6%29](Marsh) tile in its home city. In the expansions, the [Aquarium%20%28Civ6%29](Aquarium) (a mid-level building for the [Water%20Park%20%28Civ6%29](Water Park)) provides +1 Science for each sea resource, , and [Reef%20%28Civ6%29](Reef) within its city's [Borders%20%28Civ6%29](borders). In "", the [Geothermal%20Plant%20%28Civ6%29](Geothermal Plant) is introduced as the only non-unique improvement so far that grants Science. It is built on the [Geothermal%20Fissure%20%28Civ6%29](Geothermal Fissure), a tile feature which also provides Science.
+Resources.
+These [Resource%20%28Civ6%29%23Strategic](strategic) and [Resource%20%28Civ6%29%23Luxury](luxury resources) each add +1 Science yield:
+Of these resources, and are revealed at the start (being Luxuries), while is revealed soon after that. Cities which happen to have these resources close by in the early game will significantly boost your early scientific endeavors.
+City-states.
+All scientific city-states provide additional Science in the Campus and its buildings, and some unique [Suzerain%20%28Civ6%29](Suzerain) bonuses also provide Science:
+Policy cards.
+Several [Policy%20card%20%28Civ6%29](policy cards) also grant additional Science boosts once their conditions are met. These include:
+However, most of these policies become available only in the middle and late game, making them a good option for a player going for a [Victory%20%28Civ6%29%23Science](Scientific Victory) rather than for general development.
+Wonders.
+Only two [Wonder%20%28Civ6%29](wonders) grant Science bonuses in [vanilla](vanilla) "Civilization VI": the [Great%20Library%20%28Civ6%29](Great Library) (which grants +2 Science) and [Oxford%20University%20%28Civ6%29](Oxford University) (which grants 20% bonus Science in its city). Both also provide s; the Great Library boosts all [Ancient%20Era%20%28Civ6%29](Ancient) and [Classical%20Era%20%28Civ6%29](Classical Era) techs, and Oxford boosts 2 random techs.
+In "Rise and Fall", the [Amundsen-Scott%20Research%20Station%20%28Civ6%29](Amundsen-Scott Research Station) grants 20% Science bonus to all cities; this bonus goes up to 40% if the city has 5 or more [Snow%20%28Civ6%29](Snow) or [Snow%20%28Hills%29%20%28Civ6%29](Snow Hills) tiles.
+In "Gathering Storm", the [University%20of%20Sankore%20%28Civ6%29](University of Sankore) grants 3 Science to its city and more Science from s.
+In "", 2 Science-producing Wonders are added. The [Biosph%C3%A8re%20%28Civ6%29](Biosphère), from the [Byzantium%20%26amp%3B%20Gaul%20Pack%20%28Civ6%29](Byzantium &amp; Gaul Pack), generates a burst of 100 Science upon completion for each [Marsh%20%28Civ6%29](Marsh), [Rainforest%20%28Civ6%29](Rainforest), and [Woods%20%28Civ6%29](Woods) tile in its home city (only in vanilla and "Rise and Fall"), and [Etemenanki%20%28Civ6%29](Etemenanki), from the [Portugal%20Pack%20%28Civ6%29](Portugal Pack), adds Science to every Marsh in its home [Civilizations%20%28Civ6%29](civilization) and every [Floodplains%20%28Civ6%29](Floodplains) in its home city.
+ Science can also be obtained through several [Natural%20wonder%20%28Civ6%29](natural wonders):
+Great Scientists.
+Many [Great%20Scientist%20%28Civ6%29](Great Scientists) grant Science bonuses (not to be confused with technology boosts, which are provided by other Great Scientists):
+Of course, these benefits are quite difficult to obtain - plan well if you want to get these Scientists, and keep a constant eye on the Great People screen.
+Other.
+Besides the above, international s may yield additional Science, when connecting to cities with Campus districts, or with certain Policies. Specialists assigned in [Harbor%20%28Civ6%29](Harbor) districts also grant +1 Science each. And of course, we have the various ways to activate technology boosts, which will cut the time needed to research in half (see below).
+Unique bonuses.
+Many unique pieces of infrastructure and [Unique%20ability%20%28Civ6%29](civ/leader abilities) grant special Science bonuses:
+Scientific progress.
+As mentioned above, raw Science is not the only way to progress technologically. There are now many gameplay elements which can help you progress, even though your raw Science output is not that great.

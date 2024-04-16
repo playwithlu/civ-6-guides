@@ -1,0 +1,3 @@
+# Glam Rock (Civ6)/Civilopedia
+
+As if the transgressions of rock music were not bad enough by themselves, certain rock practitioners intentionally choose elaborate and dramatic stage personas, costumes, sets, and figures, blurring the boundaries between cultural signifiers and a sardonic, postmodern deconstruction of these signifiers, creating a synthetic “glamor” that is self-consciously self-mocking, yet insistent on its own majesty. Even though there are some musicians who do credit to powdered wigs and beauty spots, and have some clear creativity with stage makeup, it's clear the entire process debases the culture as a whole.

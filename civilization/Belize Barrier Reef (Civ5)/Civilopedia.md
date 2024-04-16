@@ -1,0 +1,3 @@
+# Belize Barrier Reef (Civ5)/Civilopedia
+
+The Belize Barrier Reef is a 190-mile long section of the Mesoamerican Reef System, home to over 100 coral species and 500 species of fish. The third largest natural barrier reef in the world, it was designated a World Heritage Site in 1996 AD; it is endangered due to pollution and uncontrolled tourism, fishing and shipping with a 48% reduction in live coral observed over the past decade.

@@ -1,0 +1,3 @@
+# Frankish (Civ6)
+
+The Frankish people (or Franks) represent Francia, a non-playable [Civilizations%20%28Civ6%29](civilization) from the [Vikings%2C%20Traders%2C%20and%20Raiders%21%20%28Civ6%29](Vikings, Traders, and Raiders!) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". They are led by [Charlemagne%20%28Civ6%29](Charlemagne), and their [Unique%20ability%20%28Civ6%29](civilization ability) is "Frankish," which allows them to start with the [Mont%20St.%20Michel%20%28Civ6%29](Mont St. Michel) [Wonder%20%28Civ6%29](wonder) in Rouen.

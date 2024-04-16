@@ -1,0 +1,3 @@
+# Zombie Horde (Civ6)
+
+The Zombie Horde is a [List%20of%20units%20in%20Civ6/By%20class%23Melee](melee unit) from the [Red%20Death%20%28Civ6%29](Red Death) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)", added in the [Civilization%20VI%20June%202020%20Update](June 2020 Update). It is the [Zombies%20%28Civ6%29](Zombie) faction's [Unique%20unit%20%28Civ6%29](unique unit), and can be also spawned by the [Barbarian%20%28Civ6%29](Barbarians).

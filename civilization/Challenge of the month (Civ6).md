@@ -1,0 +1,4 @@
+# Challenge of the month (Civ6)
+
+ is a set of temporary challenges in "[Civilization%20VI](Civilization VI)" that were introduced in the [Civilization%20VI%20November%202023%20Update](November 2023 Update). For a limited time, each of these challenges will afford you an opportunity to test your skills as a specific [Leaders%20%28Civ6%29](leader) in a unique scenario. The first time you successfully complete each challenge, you'll earn yourself a new in-game [Hall%20of%20Fame%20%28Civ6%29](Hall of Fame) Badge.
+Note that if you don't own any of the [DLC%20%28Civ6%29](DLC) featured in the challenge, you will be granted free trial access to it for use in the challenge so you don't miss out.

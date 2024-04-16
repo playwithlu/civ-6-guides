@@ -1,0 +1,3 @@
+# Wine (Civ6)/Civilopedia
+
+'In vino, veritas.' In wine, truth. Wine is an alcoholic beverage made from fruit, honey, rice, and just about anything else that can be fermented. Archaeological evidence shows that wine was being produced from grapes as long ago as the Neolithic Age in the Zagros Mountains. Wine was so highly thought of that it became the staple in many religious ceremonies, national celebrations, and the dinner parties of effete snobs throughout history.

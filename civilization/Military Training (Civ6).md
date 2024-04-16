@@ -1,0 +1,6 @@
+# Military Training (Civ6)
+
+Military Training is a [Classical%20Era%20%28Civ6%29](Classical Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by building an [Encampment%20%28Civ6%29](Encampment).
+Strategy.
+Building on the military traditions, further progress for a warlike [Civilizations%20%28Civ6%29](civilization) requires a full-blown approach to warrior capabilities. Not satisfied anymore with voluntary exercising (you know, because "everyone does this"), the concept of military training requires youths to go through a structured program of weapons training, discipline building, and knowledge of general tactics. Encampment s, as centers of military learning, become very important in this process.
+All this allows a society to develop a near-professional military as early as the Classical Era. Thus, a new [Wonder%20%28Civ6%29](wonder) becomes available: the [Statue%20of%20Zeus%20%28Civ6%29](Statue of Zeus), which speeds up the training of [List%20of%20units%20in%20Civ6/By%20class%23Anti-cavalry](anti-cavalry units). It also impresses other civilizations, thus awarding you 1 .

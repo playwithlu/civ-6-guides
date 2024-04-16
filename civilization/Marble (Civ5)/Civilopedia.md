@@ -1,0 +1,3 @@
+# Marble (Civ5)/Civilopedia
+
+Marble is a beautiful rock highly prized as a building material and by artists for sculpting. Marble comes in a variety of colors and shades, sometimes mono-colored and sometimes with veins and pockets of many different colors within. Many of the most beautiful structures in the world - including the Taj Mahal, for one - are constructed of marble, as are the greatest sculptures of antiquity.

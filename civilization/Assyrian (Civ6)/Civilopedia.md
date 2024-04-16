@@ -1,0 +1,4 @@
+# Assyrian (Civ6)/Civilopedia
+
+Assyrian and Egyptian interests often clashed, particularly over control of Canaan. To the Assyrians, the Egyptians were foreign meddlers who sought to interfere in their territories. The Egyptians saw the Assyrians as a compact but deadly kingdom with imperial aspirations. Both were right.
+Over the centuries, the two regional powers engaged in proxy conflicts, diplomatic chicanery, and a substantial amount of khopesh-rattling, but it was not until 671 BCE that everything came to a head. Egypt, then ruled by the Nubian Kingdom of Kush, was in turn conquered by the Assyrian king Esarhaddon. Egypt would remain Assyria’s vassal for the next 50 years.

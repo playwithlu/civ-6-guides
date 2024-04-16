@@ -1,0 +1,2 @@
+# Wanderers Leader (Civ6)
+

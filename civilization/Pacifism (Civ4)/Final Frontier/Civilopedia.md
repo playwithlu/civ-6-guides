@@ -1,0 +1,3 @@
+# Pacifism (Civ4)/Final Frontier/Civilopedia
+
+Drawing their teachings from ancient twentieth-century philosophers such as Mohandas Gandhi and Martin Luther King the Second, Pacifist principalities have effectively cut the military from their industrial complexes, making for sleeker and more agile economies. As a result, these nations are able to produce consumer and industrial goods at a far greater pace than their bellicose brethren, but lack the infrastructure to properly support military starships, incurring added costs for those which are constructed.

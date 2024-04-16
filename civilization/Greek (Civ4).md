@@ -1,0 +1,25 @@
+# Greek (Civ4)
+
+The Greek people represent a [List%20of%20civilizations%20in%20Civ4](civilization) in "[Civilization%20IV](Civilization IV)".
+Unit Dialogue.
+The Greek units speak Modern Greek. In "", they speak Ancient Greek and are voiced by [%C3%89mile%20Khordoc](Émile Khordoc). Corresponding English dialogue appears in parentheses.
+GreeceSelect-000: διαταξτε / Diatakste (Pronounced "diatakste," meaning "order [us, or me].")
+GreeceSelect-001: στις διαταγες σας / Stis diatages sas (Pronounced "stis diatayes sas," meaning "at your service" or literally "at your orders.")
+GreeceSelect-002: πιτε μου τι να κανω / Pite mou ti na kano (Pronounced "pite mu ti na kano," meaning "tell me what to do.")
+GreeceSelect-003: περιμενω οδηγιες / Perimeno odigies (Pronounced "perimeno odiyee-es," meaning "I'm waiting for orders.")
+GreeceSelect-004: ετοιμοι για δραση / Etoimoi gia drasi (Pronounced "etimi yia drasi," meaning "ready for action" like other languages.)
+GreeceSelect-005: ποιο ειναι το σχεδιο / Poio einai to schedio (Pronounced "pio ine to shedio," meaning "what is the plan?" For anyone actually pronouncing these, "shedio" is not pronounced with a "sh" sound, as Greek doesn't really have "sh" sounds. The "s" and the "h" are pronounced separately.)
+GreeceSelect-006: ναι / Nai; (The ";" signifies it is being asked, as a question. Pronounced "neh," literally meaning "yes?" Interestingly, "neh" is less formal than Greek "oriste", which also means "yes?")
+GreeceSelect-007: τι διαταζετε / Ti diatazete (Pronounced "ti diatazete," literally meaning "what are you ordering," but you wouldn't hear it being used in a restaurant. These kinds of orders are διαταγες, not restaurant orders. So it roughly translates to "your orders?" like the other languages.)
+GreeceSelect-008: τι χρειαζεστε / Ti chreiazeste (Pronounced "ti hriazeste," literally meaning "what do you need.")
+GreeceSelect-009: ολοι παρωντες και ετοιμοι / Oli parontes kai etoimoi (Pronounced "oli parontεs ke etimi," meaning "all present and ready.")
+GreeceOrder-000: Οπως διαταξτε / Opos diatakste (Pronounced "opos diatakste," meaning "however you order.")
+GreeceOrder-001: φυγε / Fyge (Pronounced "fiye," meaning "go" or literally "leave.")
+GreeceOrder-002: βεβαιως / Vevaios (Pronounced "veveos," meaning "of course.")
+GreeceOrder-003: αφηστε το πανω 'μας / Afiste to pano mas (Pronounced "afiste to pano mas," literally meaning "leave it on top of us," figuratively meaning "leave it to us.")
+GreeceOrder-004: κανενα προβλημα / Kanena provlima (Pronounced "kanena provlima," meaning "no problem.")
+GreeceOrder-005: πειτε οτι εγινε / Peite oti egine (Pronounced "piteh oti eyineh," meaning "say [to others] that it has been done.")
+GreeceOrder-006: πολυ καλα / Poly kala (Pronounced "poli kala," meaning "very good.")
+GreeceOrder-007: φυγαμε / Fygame (Pronounced "figame," literally meaning "we left" or "we're gone.")
+GreeceOrder-008: ας ξεκινησουμε / As ksekinisoume (Pronounced "ahs ksekinisume," meaning "let's get going.")
+GreeceOrder-009: Μπορείτε να βασιστείτε πάνω μας / Boreíte na vasisteíte páno mas (Pronounced "Borite na vasistite pano mas," meaning "You can rely on us.")

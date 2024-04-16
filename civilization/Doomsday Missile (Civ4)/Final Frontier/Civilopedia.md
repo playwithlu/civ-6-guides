@@ -1,0 +1,3 @@
+# Doomsday Missile (Civ4)/Final Frontier/Civilopedia
+
+The so-called "Doomsday Missile" is the culmination of the Missile's development. When technologies were developed which allowed the use of Anti-Ship Missiles in space combat, it was not long before innovative nuclear versions entered into production. Containing even thicker armor, more powerful shields and the fastest rocket engines available, everything about this weapon is designed to ensure the warhead reaches its target and, once there, unleashes lethal damage. While extremely effective, the cost of the payload coupled with the systems required to ensure its proper delivery makes these weapons also extremely expensive.

@@ -1,0 +1,3 @@
+# Convoy (Civ6)/Civilopedia
+
+Naval convoys have been around since at least since the 12th century, when classes of warships became distinct and different sorts had different, coordinated roles to play in an engagement. During the age of colonization, Spain and Portugal sent military escorts with their lumbering treasure ships to ward off pirates and privateers. Convoy tactics figured prominently during the Napoleonic War, as Britain sought to interdict French grain fleets; several battles – Ushant, Dogger Bank and the Glorious First of June – swirled around convoys. During World War I, a convoy system was instituted by the British Admiralty to counter the threat of German submarines, a policy carried over to the far deadlier Battle of the Atlantic in the next great war.

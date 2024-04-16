@@ -1,0 +1,3 @@
+# Banana (Civ4)/Civilopedia
+
+The banana is mentioned for the first time in history in Buddhist texts in 600 BC. Alexander the Great discovered the taste of the banana in the valleys of India in 327 BC. The existence of organized plantations that harvested bananas can found in China in the year 200 AD. Arab merchants, after Islamic conquerors brought the banana to Palestine in 650 AD, eventually spread the bananas over much of Africa. In 1502, Portuguese colonists started the first banana plantations in the Caribbean and in Central America.

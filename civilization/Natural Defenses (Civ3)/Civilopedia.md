@@ -1,0 +1,3 @@
+# Natural Defenses (Civ3)/Civilopedia
+
+The environment of Mesoamerica provided natural defenses to help protect cities from hostile forces, and the Mesoamericans knew how to use these defense to great effect. The Aztec cities of Tenochtitlan and Tlatelolco were built on an island in Lake Tetzcoco; Mayan cities, though large sprawling centers with open-air plazas, had the benefit of the thick jungles; and the Inca, high atop the Andean Mountains, used sheer rock faces and walls to protect their glorious gold (i.e., the lost city of Machu Pichu).

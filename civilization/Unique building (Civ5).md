@@ -1,0 +1,3 @@
+# Unique building (Civ5)
+
+In "[Civilization%20V](Civilization V)" and its expansions, a unique building (UB) is a special [Building%20%28Civ5%29](building) that can be built by only one of the [Civilizations%20%28Civ5%29](civilizations) in the game. A unique building always replaces a standard building, and civilizations that don't have one will have a [Unique%20improvement%20%28Civ5%29](unique improvement) or a second [Unique%20unit%20%28Civ5%29](unique unit) instead.

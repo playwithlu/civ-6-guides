@@ -1,0 +1,3 @@
+# Gems (Civ5)/Civilopedia
+
+A gem is a beautiful but rare mineral. Once cut and polished, gems possess vibrant colors and/or are extremely shiny. There are two major classifications of gems: precious, like diamonds, rubies and emeralds, and semi-precious, such as amethyst, turquoise, and so forth. Gems have been highly prized throughout history; they are commonly used to adorn jewelry and the household items of the rich and powerful.

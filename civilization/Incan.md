@@ -1,0 +1,4 @@
+# Incan
+
+The Incan people, also known as the Inca or Incas, represent a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and a [Native%20American](Native American) tribe in the "[Colonization%20%28game%29](Colonization)" games. Their [capital](capital) is [Cusco](Cusco), and they can be led by [Atahualpa](Atahualpa), [Huayna%20Capac](Huayna Capac), [Mama%20Cocha](Mama Cocha), [Pachacuti](Pachacuti), or [Viracocha](Viracocha).
+The Inca Empire began in 1438 and ceased to exist when it was conquered by the [Spanish](Spanish) [conquistador](conquistador) [Francisco%20Pizarro](Francisco Pizarro) in 1533. At its greatest extent, it stretched from Ecuador to Central Chile and was the largest empire that pre-Columbian [South%20America](South America) had ever seen. Descendants of the people who were ruled by the Inca still live in Colombia, Ecuador, Peru, Bolivia, and Argentina today.

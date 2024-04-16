@@ -1,0 +1,4 @@
+# Cologne
+
+Cologne, also known as Köln or by its original Latin name of Colonia Claudia Ara Agrippinensium, or Agrippina and Colonia Agrippina for short, is a [German](German) and [Roman](Roman) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games, and also appears as a [city-state](city-state). In real life, it is the largest city of the German western state of North Rhine-Westphalia and the fourth-most populous city in present-day Germany.
+In [scenario](scenario)s, it may appear as a [Burgundian](Burgundian) city in [Middle%20Ages](Middle Ages) and a [Frankish](Frankish), [Hunnic](Hunnic), and [Western%20Roman](Western Roman) city in [Fall%20of%20Rome](Fall of Rome).

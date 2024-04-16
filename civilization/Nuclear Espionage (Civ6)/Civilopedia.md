@@ -1,0 +1,3 @@
+# Nuclear Espionage (Civ6)/Civilopedia
+
+Nuclear weapons tremendously shift the balance of power in favor of the countries that possess them. Nuclear espionage is the unauthorized trading of any confidential information relating to nuclear weapons - such as design and production methods. Even as the first nuclear weapon was being developed by America, this form of espionage was present. Klaus Fuchs, a theoritical physicist who worked at Los Alamos during the Manhattan Project, was caught delivering nuclear secrets to the Soviet Union. The delivery systems of these weapons advanced and so too did the methods of securing those advancements - and yet the sale of nuclear secrets continues, allowing smaller nations to covertly affect their standing in the balance of power.

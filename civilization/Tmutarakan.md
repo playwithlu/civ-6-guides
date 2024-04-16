@@ -1,0 +1,3 @@
+# Tmutarakan
+
+Tmutarakan, also known as Tmutorokan, Tamantarkhan, or Tamatarcha, is a [Kievan%20Rus%27](Kievan Rus') [city](city) in the "[Civilization%20%28series%29](Civilization)" games, and also appears as a [city-state](city-state). To date, it has appeared only in [scenario](scenario)s. In real life, it was a medieval principality of Kievan Rus' and trading town that controlled the Cimmerian Bosporus, the passage from the Black Sea to the Sea of Azov. Its site was the ancient Greek colony of Hermonassa, situated on the Taman peninsula, in Krasnodar Krai in present-day [Russian](Russia), roughly opposite Kerch.

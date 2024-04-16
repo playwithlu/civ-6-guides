@@ -1,0 +1,5 @@
+# Marketplace (Civ1)
+
+A Marketplace is a [List%20of%20buildings%20in%20Civ1](building) in "[Sid%20Meier%27s%20Civilization](Civilization)" that increases es and by 50%. It is required before a can be built.
+Civilopedia entry.
+As cities grew and prospered, trade between the farmers, artisans and craftsmen who lived in the vicinity contributed to the economic health of the city. It soon became apparent that the best means for conducting such activities was to have a central location, or Marketplace, where those persons offering goods and services for sale, or seeking to find them, could meet. Here, among the tumult and bustle of the tents and stalls, people, wares, and livestock would all be gathered for display, trade and sale. As the Marketplace grew in importance, so grew the economic vitality of the city itself.

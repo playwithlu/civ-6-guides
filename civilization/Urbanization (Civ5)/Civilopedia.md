@@ -1,0 +1,3 @@
+# Urbanization (Civ5)/Civilopedia
+
+Urbanization, or "urban draft," is the physical growth of cities as a result of rural migration or suburban concentration into cities. Urbanization is closely linked with industrialization, modernization and sociological rationalization, all movements that began during the course of the Industrial Age and have accelerated into the Information Age. The United Nations has stated that roughly half the world's population lived in urban areas at the end of 2006 AD, and projects that by 2050 as much as 85% of humanity will be urbanized.

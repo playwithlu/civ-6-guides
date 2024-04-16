@@ -1,0 +1,5 @@
+# Rifling (Civ4)/Civilopedia
+
+"Rifling" is the term describing the practice of putting helical grooves in the barrel of a "long gun" to impart a spin to the projectile. This spin greatly increases the bullet's accuracy at distance.
+Muskets, the original long guns, were "smoothbores"; these lacked rifling and the bullets were significantly smaller than the barrels of the weapons. When fired, the projectile would bounce against the sides of the weapon's barrel, giving it an uncertain direction upon exiting the barrel.
+Experimentation with muskets with grooved barrels and tighter-fitting projectiles began as early as the 15th century, but mass-produced rifled muskets did not appear in great numbers until the mid-1800s. The rifled musket was the standard infantry weapon during the American Civil War; some cavalrymen were armed with breech-loading rifles, the weapons' accuracy and rate of firing giving them a powerful advantage in combat.

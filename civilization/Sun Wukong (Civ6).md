@@ -1,0 +1,7 @@
+# Sun Wukong (Civ6)
+
+Sun Wukong is a [Heroes%20%26amp%3B%20Legends%20%28Civ6%29%23Heroes](Hero) in "[Civilization%20VI](Civilization VI)". He is exclusive to the [Heroes%20%26amp%3B%20Legends%20%28Civ6%29](Heroes &amp; Legends) [Game%20Mode%20%28Civ6%29](game mode), introduced in the [Babylon%20Pack%20%28Civ6%29](Babylon Pack).
+Strategy.
+Like all Hero units, Sun Wukong's Strength increases with the progression of the [Era%20%28Civ6%29](eras), as shown in the table below.
+Sun Wukong is incredibly good at [Combat%20%28Civ6%29%23Pillaging](pillaging), and unlike a [List%20of%20units%20in%20Civ6/By%20class%23Naval%20raider](naval raider unit), he can target all land [Tile%20%28Civ6%29](tiles). This benefit is coupled with his 6 and ability to ignore [Terrain%20%28Civ6%29](terrain) penalties, allowing him to move from [Farm%20%28Civ6%29](Farm) to Farm, from [Mine%20%28Civ6%29](Mine) to Mine, and so on, pillage, heal, and then attack a [City%20%28Civ6%29](city) or unit. If you become the [Suzerain%20%28Civ6%29](Suzerain) of [Wolin%20%28Civ6%29](Wolin), he can rapidly earn points and propel you toward a [Victory%20%28Civ6%29%23Domination](Domination Victory).
+In addition, Sun Wukong's [Unit%20%28Civ6%29%23Stealth%20units](stealth) mechanic makes it very difficult for your opponents to see him, even while deep in their [Territory%20%28Civ6%29](territory), unless they have a unit right next to him. On top of his 50-turn Lifespan and capability of killing enemies swiftly, this makes him one of the most deceptive and long-lasting Heroes of the batch.

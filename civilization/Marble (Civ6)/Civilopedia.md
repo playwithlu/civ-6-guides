@@ -1,0 +1,3 @@
+# Marble (Civ6)/Civilopedia
+
+The ancients found marble as a building material durable and beautiful, more lasting than sandstone and easier to quarry than granite. Categorized by color and location, marble became a cultural standard of tradition and taste. Highly prized by the Greeks and Romans, marble was used by sculptors and engineers for those things meant to stand the test of time. Now they use concrete … less enduring but a lot cheaper.

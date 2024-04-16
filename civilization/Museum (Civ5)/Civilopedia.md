@@ -1,0 +1,3 @@
+# Museum (Civ5)/Civilopedia
+
+A museum is a building or series of buildings designed to hold a civilization's most treasured possessions for public display. There are museums that contain collections of art, there are museums which contain fossils, items of historical interest, as well as museums holding costumes, jewels, ancient weapons, or virtually anything else which might be of value and interest. The Hermitage art museum in Saint Petersburg was founded in 1764 by Catherine the Great. Open to the public since 1852, it is one of the oldest and largest museums in the world.

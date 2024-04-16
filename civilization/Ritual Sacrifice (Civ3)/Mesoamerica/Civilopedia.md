@@ -1,0 +1,3 @@
+# Ritual Sacrifice (Civ3)/Mesoamerica/Civilopedia
+
+Mesoamerican rulers believed that ritual sacrifice helped them maintain a connection with the spirit world. They often sacrificed human beings to dedicate new temples or to celebrate important events. A typical method of human sacrifice was to lead a captured enemy soldier up the long steps of a temple to the top. The captive would then be laid out on a sacrificial altar. A priest would then thrust a knife into the victim’s chest, then reach in and rip out his heart.

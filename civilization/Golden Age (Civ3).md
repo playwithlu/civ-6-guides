@@ -1,0 +1,10 @@
+# Golden Age (Civ3)
+
+Every civilization can experience a Golden Age, a 20-turn period in which every citizen laborer in the empire is more productive, producing one extra shield and/or commerce if already producing at least one. There can only be one golden age per civilization, even if you meet the requirements for it multiple times. A civilization's Golden Age is triggered in one of two ways:
+Unique Unit Victory.
+Each civilization has a [Unique%20unit%20%28Civ3%29](unique military unit) - one that only it can build. A civilization's Golden Age can begin when its unique military unit is victorious in battle.
+Great Wonders.
+Each [List%20of%20wonders%20in%20Civ3](Great Wonder) is associated with one or more civilization strengths. If a civilization builds a Great Wonder (or Wonders) that corresponds to both its unique [List%20of%20strengths%20in%20Civ3](Strengths), its Golden Age can be triggered.
+For example, if the [Egyptian%20%28Civ3%29](Egyptians) (industrious and religious) build [The%20Pyramids%20%28Civ3%29](The Pyramids) (which is both a feat of construction and a place of worship), Egypt's Golden Age could begin. Or if the [Babylonian%20%28Civ3%29](Babylonians) (scientific and religious) build [The%20Great%20Library%20%28Civ3%29](The Great Library) (scientific) and [The%20Oracle%20%28Civ3%29](The Oracle) (religious) Babylon's Golden Age could begin.
+Scientific Golden Age.
+This feature is broken in all commercial versions of civilization 3 and was never officially patched. Theoretically, a Golden Age of Science is triggered by a Scientific [Leader%20%28Civ3%29](Great Leader) that provides a 25% boost to all research output for 20 turns. This boost is reflected in the UI but does not actually affect the research as it's calculated differently. It is therefore a waste of time to use this ability and should be disregarded.

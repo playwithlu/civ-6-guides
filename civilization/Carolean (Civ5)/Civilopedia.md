@@ -1,0 +1,3 @@
+# Carolean (Civ5)/Civilopedia
+
+An elite army of Swedish soldiers, these soldiers served the Swedish crown from roughly 1660–1718. Arguably the most effective soldiers of their time, the Caroleans were a small group, but made up for their fewer numbers with innovative tactics and staunch discipline. The Caroleans were strictly offensive troops, and never practiced nor drilled any kind of retreat maneuver. They would charge towards the enemy lines, only responding with their own fire once they were close enough to be sure to hit. The raging, all out charge demoralized many an army, and the Caroleans caused many lines of enemy troops to break and flee.

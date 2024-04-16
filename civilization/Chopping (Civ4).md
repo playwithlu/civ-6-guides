@@ -1,0 +1,7 @@
+# Chopping (Civ4)
+
+Chopping is a [List%20of%20units%20in%20Civ4](unit) command in "[Civilization%20IV](Civilization IV)" and its expansions. [Worker%20%28Civ4%29](Workers) gain the ability to clear [Forest%20%28Civ4%29](forests) and [Jungle%20%28Civ4%29](jungles) from [Tile%20%28Civ4%29](tiles) upon the discovery of [Bronze%20Working%20%28Civ4%29](Bronze Working) and [Iron%20Working%20%28Civ4%29](Iron Working) (respectively).
+In addition to removing the forest and allowing more useful [Tile%20improvement%20%28Civ4%29](improvements) on the tile (such as [Cottage%20%28Civ4%29](Cottages), [Farm%20%28Civ4%29](Farms), or [Mine%20%28Civ4%29](Mines)), the clearing of the tile provides a yield of [Production%20%28Civ4%29](Production) to a nearby [City%20%28Civ4%29](city). A wood chop is useful for rushing the production of the city with an immediate boost towards whatever it's building. The clearing of jungle, however, yields no additional Production like forests; it merely improves the yield of the tile with additional [Food%20%28Civ4%29](Food).
+The total amount provided is modified by whatever productivity modifiers the city enjoys, so a city with a [Forge%20%28Civ4%29](Forge) will get an additional 25% out of a nearby woodchop. A city building a [Heroic%20Epic%20%28Civ4%29](Heroic Epic) with access to [Marble%20%28Civ4%29](Marble) will get double Production from the same woodchop due to this bonus.
+Woodchop yields.
+Woodchops that take place outside of [Borders%20%28Civ4%29](cultural boundaries) only provide half as much.

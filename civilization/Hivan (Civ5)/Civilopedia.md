@@ -1,0 +1,6 @@
+# Hivan (Civ5)/Civilopedia
+
+In their native language, the Hiva are called "The Land of Men." The Marquesas Islands are part of French Polynesia, at the Eastern edge of Polynesia.
+These rough volcanic islands are geologically young, made of the hard basaltic hearts of extinct volcanoes. The weather is mild throughout the year, with one wet season, and makes the author wish he were there right now.
+The Marquesas were probably settled around 100 AD by the Polynesians, and linguistic and anthropological evidence points to the settlers coming from Tonga and Samoa.
+Hiva has the dubious honor of having been claimed and annexed multiple times by Western powers. They were first discovered and claimed by the Spanish explorer Alvaro de Mendana de Neira in 1595 (he named the Marquesas Islands for his patron), then Hiva was variously claimed by the Americans (who named them the Washington Islands) and the French in 1870. Hiva suffered the greatest population loss to disease of any Polynesian island group.

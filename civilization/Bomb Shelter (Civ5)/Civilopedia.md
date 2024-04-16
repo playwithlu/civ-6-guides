@@ -1,0 +1,3 @@
+# Bomb Shelter (Civ5)/Civilopedia
+
+As the name implies, a bomb shelter is a structure designed to withstand damage from bombs and other explosive weapons. While some bomb shelters were meant for protection from aerial bombardment, others were constructed underground in the hopes of surviving a nuclear attack. Depending on the intended purpose of the shelter, various materials could be used, with the most common component being reinforced concrete.

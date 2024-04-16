@@ -1,0 +1,4 @@
+# Great Person (CivWorld)
+
+A Great Person is a type of secondary [Resource%20%28CivWorld%29](resource) in the [Facebook](Facebook) [MMOG](MMOG) "[CivWorld](CivWorld)". Players can earn Great People by completing [Quest%20%28CivWorld%29](Quests) or accumulating Culture (whether by generating it naturally, buying it from the [Market%20%28CivWorld%29](Market), or winning it through the [Great%20Art%20Puzzle%20%28CivWorld%29](Great Art Puzzle)). Great People can also be bought and sold in the Market. Once earned, a Great Person can either be kept to provide a passive bonus to the output of one resource, or combined with other Great People to build [Wonder%20%28CivWorld%29](Wonders).
+Much of the information on this page comes from IGN's "CivWorld" Guide.

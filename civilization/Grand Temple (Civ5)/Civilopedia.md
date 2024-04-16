@@ -1,0 +1,3 @@
+# Grand Temple (Civ5)/Civilopedia
+
+A Grand Temple is a revered holy site held sacred among the followers of a given religion. These temples often feature grand architecture and ornate inscriptions that stand for centuries as a testament to the faith of the religion's adherents. Although there is no clear consensus as to which of the many temples found throughout the world today is the oldest, many believe the Göbekli Tepe - found in modern Turkey and assembled over 12,000 years ago - to be the earliest man-made religious structure ever discovered.

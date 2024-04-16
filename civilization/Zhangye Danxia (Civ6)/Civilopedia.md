@@ -1,0 +1,4 @@
+# Zhangye Danxia (Civ6)/Civilopedia
+
+The ragged sandstone mountains of Zhangye Danxia span over 120 square miles near the heart of modern China, in the foothills of the Qilian Mountains. Seemingly painted across its rugged landscape are bands of red, blue, green, and gold—a result of naturally occurring chemical reactions, erosion, and tectonic shifts between the Indian and Eurasian plates.
+The colors of the “Rainbow Mountains” are so vibrant that photographs of the region can appear digitally filtered. The available light can further alter the coloration, making Zhangye Danxia a true wonder to behold at any time of day.

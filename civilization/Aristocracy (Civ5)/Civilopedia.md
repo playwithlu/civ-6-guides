@@ -1,0 +1,3 @@
+# Aristocracy (Civ5)/Civilopedia
+
+Aristocracy is a form of government in which a group of the most prominent citizens rule. Membership to this group may be hereditary, or it may be through merit or wealth or all three. The term is derived from the Greek word "aristokratia", meaning "the rule of the best." There is a very thin line between an aristocracy and an oligarchy, and which form a government actually is might very well depend upon one's point of view: the rulers might consider themselves aristocrats, while everybody else sees them as oligarchs.

@@ -1,0 +1,3 @@
+# Starting bias (Civ5)
+
+Many [Civilizations%20%28Civ5%29](civilizations) in "[Civilization%20V](Civilization V)" and its expansions have a starting bias which affects their spawn location. Often, this helps the civilization make better use of its [Unique%20ability%20%28Civ5%29](unique ability), [Unique%20unit%20%28Civ5%29](units), and/or infrastructure (i.e., [Unique%20building%20%28Civ5%29](buildings) and [Unique%20improvement%20%28Civ5%29](tile improvements)) that can get benefits from certain tiles. The bias is usually based on historical data. Starting biases can be disabled in the advanced options screen when [Starting%20a%20new%20game%20%28Civ5%29](setting up a new game).

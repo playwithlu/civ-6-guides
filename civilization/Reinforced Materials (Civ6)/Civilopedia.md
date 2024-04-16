@@ -1,0 +1,3 @@
+# Reinforced Materials (Civ6)/Civilopedia
+
+There is a reason building codes exist. Usually it is because before the code, something went wrong and someone got hurt, died, or lost a lot of money, and the survivors decided that it would be a great idea if that particular disaster didn't happen again. Reinforcing infrastructure can be a valuable return on investment, as hardened structures rebound more easily after a disaster, or—best of all—never fail in the first place.

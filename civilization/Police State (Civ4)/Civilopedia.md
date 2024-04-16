@@ -1,0 +1,4 @@
+# Police State (Civ4)/Civilopedia
+
+Under a police state the government maintains strict control over its populace by means of a police force (and often a "secret" police force). Civil liberties are denied and those who voice opinions contrary to the government are subject to punishments ranging from imprisonment to death.
+The strength of police states lies in their ability to control the population in bad times, forcing them to do what's necessary no matter what their personal opinions of the matter may be. It has been argued, for example, that Stalin's Soviet Union would not have survived the German assault in World War II if he didn't have the entire power of the state under his dictatorial control. The weakness of the police state comes from its tendency to crush individual initiative and inventiveness. Police states are often subject to excesses of paranoia; they see everyone as against them and constantly implement more repressive policies to remain in power.

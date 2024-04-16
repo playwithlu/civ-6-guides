@@ -1,0 +1,3 @@
+# Colony (Civ3)
+
+Colonies are built and maintained by a [worker%20%28Civ3%29](worker) and enable exploitation of [Diplomacy%20%28Civ3%29](tradable) [List%20of%20resources%20in%20Civ3](resources) that lie outside your territory. As with all tradable resources (strategic and luxury), you need a [Road%20%28Civ3%29](road) connecting the colony to one of your [City%20%28Civ3%29](cities) to get the benefits of the resource. It is advised to protect a colony with a military unit, as [Barbarian%20%28Civ3%29](barbarians) and hostile civilizations can destroy a colony easily.

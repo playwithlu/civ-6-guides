@@ -1,0 +1,4 @@
+# Clam (Civ4)/Civilopedia
+
+Clams are shelled marine or freshwater mollusks that live up to 150 years old. They can be eaten raw, steamed, boiled, baked or fried. In the shallow coral reefs of the South Pacific and Indian oceans, giant clams, traditionally called pa'ua, can grow to a weight of 440 pounds and measure as much as 1.5 meters across. These giant clams are the largest living bivalve mollusks.
+Historically, the giant clam was also known as killer clam or man-eating clam and reputed to cause deaths. Today, it is generally acknowledged that the giant clam is neither aggressive nor particularly dangerous.

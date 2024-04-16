@@ -1,0 +1,5 @@
+# Gunship (Civ4)/Civilopedia
+
+A gunship is an armed helicopter. They are the cavalry of the modern army, designed to reconnoiter enemy positions, deploy special forces deep behind enemy lines, and so forth. However, modern gunships are armed with armor-piercing missiles and heavy, quick-firing machine guns; with these, a gunship can wreak havoc on enemy tanks and troops.
+Gunships first saw extensive service in the Vietnam War. The Soviet Union employed gunships in Afghanistan, and the US has used them to great effect in all its recent conflicts.
+Ground troops defend themselves from gunships with SAMs (surface-to-air missiles). When the CIA supplied Afghan guerrillas with such weapons during the Afghanistan war the Afghans used the SAMs with such devastating effect that they virtually crippled the Soviet war effort.

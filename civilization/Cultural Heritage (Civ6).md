@@ -1,0 +1,5 @@
+# Cultural Heritage (Civ6)
+
+Cultural Heritage is an [Atomic%20Era%20%28Civ6%29](Atomic Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by having a [Theming%20bonus%20%28Civ6%29](themed Museum).
+Strategy.
+The history of a culture is one of the most modern ideas in the world. While the ancients were just happy to be alive, a more forward-thinking people also love to think back, and learn as much about their history as possible. Thus, a new, underwater is revealed, as people discover artifacts exist underwater as well in the form of s. In addition, a modernized culture earns the admiration of the smaller nations, and so it awards 3 s. It also unlocks the [Sydney%20Opera%20House%20%28Civ6%29](Sydney Opera House), a good [Wonder%20%28Civ6%29](wonder) for any cultural player.

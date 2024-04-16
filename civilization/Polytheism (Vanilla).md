@@ -1,0 +1,2 @@
+# Polytheism (Vanilla)
+

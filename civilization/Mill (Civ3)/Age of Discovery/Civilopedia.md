@@ -1,0 +1,3 @@
+# Mill (Civ3)/Age of Discovery/Civilopedia
+
+From the Middle Ages until the dawn of the Industrial Revolution, mills served as the principal mechanism for grinding grains into flour and meal. Using either water or wind power to turn a large top millstone over a stationary bottom stone, mills would grind enough cereals to feed entire nations. It is estimated that in England alone over 10,000 windmills were in simultaneous use during the High Middle Ages. The development of sawmills, used to cut of lumber into boards, lagged that of the grain mill, but was also well underway during this period.

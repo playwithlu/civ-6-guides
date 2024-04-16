@@ -1,0 +1,2 @@
+# Hungarian cities (Civ3)
+

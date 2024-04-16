@@ -1,0 +1,3 @@
+# Campus (Civ6)/Civilopedia
+
+The term "campus" is the Latin word for "field," and was first applied to the grounds of what would become Princeton University founded in 1746 AD; the word has since come to be applied to the usually landscaped setting of any institution of higher learning (and, sometimes, to pretentious corporate office complexes). The tradition of the campus as a special district devoted to learning has its roots in 12th century European schools where instructors and students lived together in a self-regulating, cloistered settlement. Those early campuses with their collective rights and legal privileges were often guaranteed by charters from princes or prelates, with the land "donated" by the town in which they were located.

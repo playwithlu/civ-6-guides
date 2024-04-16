@@ -1,0 +1,7 @@
+# Publishing (Civ5)/Civilopedia
+
+Historically, publishing is the activity of printing books and periodicals for mass consumption, although lately its definition has expanded to include the publication of information, music and visual material on the Internet as well.
+Before it could exist, publishing required the invention of writing, paper and printing, as well as the spread of literacy and the generation of a certain amount of surplus wealth. These things came together in Europe in the middle of the 15th century, when Johannes Gutenberg created a printing press with movable type. The earliest uses for the press were to print bibles and religious tracts and paraphernalia.
+Printing came into its own in the 18th and 19th centuries, with the publication of newspapers, magazines and books on all manner of subjects and aimed at a variety of audiences.
+By the early twentieth century publishers - especially those who published newspapers and other periodicals - were among the most powerful and important men in Western society. Many believed that American publishing magnate William Randolph Hearst used his periodicals to whip up anti-Spanish sentiment and provoke the Spanish-American War of 1898 - just to sell more newspapers.
+At the beginning of the 21st century publishers have lost much of their power as new media - radio, television, and the Internet - have provided alternate means of delivering information to the once all-powerful printed word.

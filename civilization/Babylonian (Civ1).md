@@ -1,0 +1,4 @@
+# Babylonian (Civ1)
+
+The Babylonian people represent a [Civilizations%20%28Civ1%29](civilization) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Their [Leaders%20%28Civ1%29](leader) is [Hammurabi%20%28Civ1%29](Hammurabi), their [Capital%20%28Civ1%29](capital) is [Babylon%20%28city%29](Babylon), and their color is green (which they share with the [Zulu%20%28Civ1%29](Zulus) and the [Japanese%20%28Civ1%29](Japanese)).
+As [NPC](NPC)s they are generally more concerned with building and growing, rather than continual expansion. Their friendly and insular nature makes them easy neighbors in the early and mid stages of the game.

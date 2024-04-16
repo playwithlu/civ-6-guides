@@ -1,0 +1,8 @@
+# Ecology (CivBE)
+
+Game Info.
+Ecology is a [Primary%20Tech%20%28CivBE%29](Primary Tech) in tier 1 of the [Tech_Web_%28CivBE%29](Tech Web). This technology allows construction of [Miasmic%20Repulsor%20%20%28CivBE%29](Miasmic Repulsor satellites), the[Ultrasonic%20Fence%20%28CivBE%29](Ultrasonic Fence)and [Vivarium%20%28CivBE%29](Vivarium) building.
+There is no affinity linked to this technology
+In Universe Information.
+Ecology traces its roots back to the 1700s in the works of diverse scholars such as Alexander von Humboldt, Jean-Baptiste Lamarck and James Hutton. Evolving as an inter-disciplinary science, Ecology didn't really come to the forefront of human knowledge until the late 1800s and the ever more serious damage human activity caused to the environment. Ever more polluted natural systems, disappearing species, serious climate changes and human overcrowding quickly turned Ecology into an important science, as people and governments realized they will have to deal with their own activities if they don't want to turn our planet into a waste. And then the Great Mistake came...
+The decades that followed pushed Ecology to the forefront of all sciences, as governments struggled to save whatever they can from an unbelievably damaged ecosystem. The Seeding included scores of ecological specialists in every single ship, and what's more - they were regarded on an equal footing with physicists, engineers, genetics specialists and astronavigational specialists. It was evident that this time humanity had learned from its mistakes and intended to prevent them from happening on their new homes. 

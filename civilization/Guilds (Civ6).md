@@ -1,0 +1,6 @@
+# Guilds (Civ6)
+
+Guilds is a [Medieval%20Era%20%28Civ6%29](Medieval Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by building 2 [Market%20%28Civ6%29](Markets).
+Strategy.
+With increasingly specialized economic system, where entire generations of family members follow the same trade, it is no wonder that in time same-type craftsmen (or merchants) became organized. The guilds system formalizes these organizations, enacting rules for their functioning and what they can and cannot do. This prepares the ground for some of the more advanced social organizations of the future, such as [Diplomatic%20Service%20%28Civ6%29](Diplomatic Service). It also enables new and useful Economic [Policy%20card%20%28Civ6%29](Policies), as well as a new Wildcard Policy for attracting [Great%20Merchant%20%28Civ6%29](Great Merchants). Finally, both the [Australian%20%28Civ6%29](Australians) and the [Dutch%20%28Civ6%29](Dutch) receive their unique [Tile%20improvement%20%28Civ6%29](improvements) with this civic, which are invaluable progression tools.
+Discovering Guilds triggers the for [Banking%20%28Civ6%29](Banking).

@@ -1,0 +1,3 @@
+# Collective Rule (Civ5)/Civilopedia
+
+Collective rule is the policy in which every member (or every adult member, or every adult male member) of the society takes part in the governing process, voting directly upon decisions rather than through a representative (as in a republic). While perhaps an effective form of government for tribes or small villages, collective rule becomes increasingly more difficult and unwieldy as the polity increases in size. If half of the citizens of a tribe of 100 each wanted to speak for one minute at a meeting, they could do so in under an hour. If half of the citizens of New York City each wanted to speak for one minute, they would need some 66,000 hours (plus a really huge meeting hall).

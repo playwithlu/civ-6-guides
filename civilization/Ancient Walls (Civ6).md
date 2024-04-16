@@ -1,0 +1,9 @@
+# Ancient Walls (Civ6)
+
+The Ancient Walls are a basic defensive [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". They are built in the and require [Masonry%20%28Civ6%29](Masonry).
+Strategy.
+Ancient Walls are the first defense available in the game, good against the first regular weapons carried by the likes of the [Warrior%20%28Civ6%29](Warrior) and the [Spearman%20%28Civ6%29](Spearman). However, siege equipment quickly makes them [obsolete](obsolete).
+The new rules of [City%20combat%20%28Civ6%29](city combat) make Walls much more important than in "[Civilization%20V](Civilization V)". Try to build them as soon as possible to greatly fortify your city against potential destruction, especially if you're facing an early war or invasion threat. As Outer Defense strength ensures the ranged strike ability and greatly reduces damage from non-siege weapons, it is vital to ensure that all of your cities have built some Walls. As you progress further into the game, Ancient Walls are required to build [Medieval%20Walls%20%28Civ6%29](Medieval Walls) and beyond.
+Ancient Walls cannot be purchased with , only built with . While the [Suzerain%20%28Civ6%29](Suzerain) of [Valletta%20%28Civ6%29](Valletta), they can be purchased with 160 .
+As of the [Civilization%20VI%20Summer%202017%20Update](Summer 2017 Update), Ancient Walls provide once [Conservation%20%28Civ6%29](Conservation) is unlocked, and have no maintenance cost.
+As of the "" expansion, [City-state%20%28Civ6%29](city-states) will begin the game with Ancient Walls while playing on Immortal or Deity [Difficulty%20level%20%28Civ6%29](difficulty).

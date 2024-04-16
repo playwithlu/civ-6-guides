@@ -1,0 +1,3 @@
+# Hoover Dam (Civ3)
+
+The Hoover Dam a [List%20of%20wonders%20in%20Civ3](Great Wonder) in "[Civilization%20III](Civilization III)". It requires and it requries the city to have a river within its radius. It puts a [Hydro%20Plant%20%28Civ3%29](Hydro Plant) in every [City%20%28Civ3%29](city) on the same continent. This Great Wonder can become a [tourist%20attraction%20%28Civ3%29](tourist attraction) and may trigger [Golden%20Age%20%28Civ3%29](Golden Age) for and civilizations.

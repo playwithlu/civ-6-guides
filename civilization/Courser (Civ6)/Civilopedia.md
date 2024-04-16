@@ -1,0 +1,4 @@
+# Courser (Civ6)/Civilopedia
+
+At various points in history, different cultures have found a need for a cavalry that was lighter than the fully-armored knight. Some—like the Huns and Mongols—made effective use of the horse archer to fill this role, where other cultures adopted more of a melee approach, or a mix of melee and bow, such as the turcopoles, sipahi, akindji, or the border reivers of Scotland. The term “courser” here refers to such cavalry that emphasize mobility, range, and flexibility, fighting with a mix of melee and ranged weapons, although the term would apply most specifically to the kind of horse they ride.
+In general, coursers would operate with some independence from the rest of the army, conducting deep raids into the enemy heartland, with the intention to pillage, plunder, and generally make a nuisance of themselves. They would be equipped with lighter armor than the best-equipped knights, and armed with spears, swords, and occasionally bows.

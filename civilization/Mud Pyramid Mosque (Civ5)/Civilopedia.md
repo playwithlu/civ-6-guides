@@ -1,0 +1,3 @@
+# Mud Pyramid Mosque (Civ5)/Civilopedia
+
+The Mud Pyramid Mosque is a complex of buildings found in the city of Gao. It consists of a tomb, two mosques, a cemetery, and an assembly ground. According to legend, it is the burial site of [Askia%20%28Civ5%29](Askia Mohammad I), one of the greatest of Songhai Emperors. Although not as grand as the Mosque of Gao, other similar structures have been found across Western Africa, testaments to the religious dedication and engineering skills of the Songhai people.

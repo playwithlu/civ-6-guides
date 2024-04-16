@@ -1,0 +1,3 @@
+# Windmill (Civ5)/Civilopedia
+
+Windmills are buildings which use the energy from wind to perform a variety of tasks. Historically, they've been used to power mills for grinding grain, but they have also been employed to run sawmills and to pump water for wells. Wind-powered machines have been in existence for at least 2000 years. The earliest known is a wind organ, constructed by Heron of Alexandria in the first century, AD. Wind-powered mills for grinding grain were probably invented in Central Asia sometime around the eighth century AD.

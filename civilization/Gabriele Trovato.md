@@ -1,0 +1,4 @@
+# Gabriele Trovato
+
+Gabriele Trovato, known as "Rhye" in the gaming community, is an Italian game designer who is known for creating two popular [mods](mods): [Rhye%27s%20of%20Civilization%20%28Civ3%29](Rhye's of Civilization) for "[Civilization%20III](Civilization III)", and [Rhye%27s%20and%20Fall%20of%20Civilization%20%28Civ4%29](Rhye's and Fall of Civilization) for "[Civilization%20IV](Civilization IV)". He was also a design consultant and playtester for "".
+Trovato has a Doctorate in Biorobotics from Waseda University in [Tokyo](Tokyo), and previously taught at the Pontifical Catholic University of Peru in Lima. As of December 2022, he is an associate professor at the Shibaura Institute of Technology and a visiting researcher at Waseda University.

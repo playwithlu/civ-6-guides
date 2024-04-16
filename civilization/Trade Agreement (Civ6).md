@@ -1,0 +1,2 @@
+# Trade Agreement (Civ6)
+

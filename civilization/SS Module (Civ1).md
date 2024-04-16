@@ -1,0 +1,5 @@
+# SS Module (Civ1)
+
+Habitation and Life Support Modules have a mass of 1600 tons and Solar Panel Modules have a mass of 400 tons. A [Spaceship%20%28Civ1%29](Spaceship) may include a maximum of four Modules of each type.
+Civilopedia entry.
+The Modules are the central features of your spaceship. There are three types: Habitation, Life Support, and Solar Panels. The Habitation Modules each provide living space for 10,000 colonists. The Life Support Modules each provide food and other requirements for the colonists carried in one Habitation Module. One Solar Power Module provides enough energy to run two other Modules. At the minimum, a successful spaceship must contain one of each type of Module. To transport more than the minimum number of colonists possible you must build additional sets of Modules.

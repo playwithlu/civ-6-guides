@@ -1,0 +1,2 @@
+# Digital Sentience (SMAC)
+

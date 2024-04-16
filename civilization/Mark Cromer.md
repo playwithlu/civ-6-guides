@@ -1,0 +1,3 @@
+# Mark Cromer
+
+Mark Cromer is an American composer and sound designer who has worked for [MicroProse](MicroProse) and [Firaxis%20Games](Firaxis Games). He is known for composing (or helping to compose) the [soundtrack](soundtrack)s and prepare sound effects for "[Civilization%20III](Civilization III)" (and its ' expansion), "[Civilization%20IV](Civilization IV)" (and its ' and ' expansions), ', "[Railroads%21](Railroads!)", "[Civilization%20Revolution](Civilization Revolution)", "", and "[Civilization%20Revolution%202](Civilization Revolution 2)". Since October 2021, he has worked for Oros Gaming.

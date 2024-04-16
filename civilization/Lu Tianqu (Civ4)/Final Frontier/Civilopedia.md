@@ -1,0 +1,3 @@
+# Lu Tianqu (Civ4)/Final Frontier/Civilopedia
+
+Lu Tianqu is currently the appointed head of the RC-1 administrative units secretariat division, entrusted with overall day-to-day colonial operations. His term as Administrator began in 2296 AD, six years prior to contact being lost with Earth. Known for his relatively relaxed attitude, Tianqu is famed for his amiable personality and ability to get his way without much of a fight. The Avowers and RC-1 have enjoyed great success under his leadership thus far, but some question his ability to deal with the serious problems associated with a harsh existence removed from the Earth.

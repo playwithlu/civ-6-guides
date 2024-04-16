@@ -1,0 +1,3 @@
+# Steam achievements in Civ6
+
+The base "[Civilization%20VI](Civilization VI)" features 129 Steam achievements that can be obtained through gameplay. [DLC%20%28Civ6%29](DLC) has, as of the [Rulers%20of%20England%20Pack%20%28Civ6%29](Rulers of England Pack), added 103 additional achievements, and the ' and ' [expansion%20pack](expansion pack)s have added 38 and 50 new achievements respectively, bringing the total number to 320.

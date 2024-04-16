@@ -1,0 +1,3 @@
+# Tercio (Civ5)/Civilopedia
+
+The Tercio is a brilliant military innovation consisting of a mixed formation of pikemen and arquebusiers (soldiers armed with extremely primitive firearms), created in the early 16th century by the Spanish general Gonzalo Fernández de Córdoba. The tercio (also known as the “Spanish square”) was deployed in a checkerboard formation, with pikemen and arquebusiers set in alternating supporting blocks. The advantages of this arrangement are obvious: the arquebusiers can attack the enemy at distance, and the pikemen can take over in close combat. This formation would come to dominate Renaissance warfare for more than a century.

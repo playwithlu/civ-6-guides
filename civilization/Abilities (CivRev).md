@@ -1,0 +1,3 @@
+# Abilities (CivRev)
+
+Abilities are special skills available to [Elite%20%28CivRev%29](elite) [List%20of%20units%20in%20CivRev](units) in "[Civilization%20Revolution](Civilization Revolution)". There are nine different abilities, up to six of which a single unit can acquire. Units learn their first ability upon becoming elite (i.e., after winning three battles as [Veteran%20%28CivRev%29](veterans)) and learn an additional ability each time they win three battles or defeat an enemy unit of equal or greater strength.

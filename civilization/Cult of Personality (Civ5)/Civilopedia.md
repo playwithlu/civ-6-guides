@@ -1,0 +1,3 @@
+# Cult of Personality (Civ5)/Civilopedia
+
+A Cult of Personality arises when an individual consciously uses media, propaganda and other means to create an idealized, heroic and/or god-like public image. Sociologist Max Weber developed a tripartite classification of authority, in which the Cult of Personality figures prominently as one form of authority. Autocratic rulers from the absolute monarchs of the Enlightenment to modern totalitarian dictators have sought to foster obedience and devotion in their subjects through the manipulation of the news and entertainment industries - some more successfully than others.

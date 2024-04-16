@@ -1,0 +1,3 @@
+# Wat (Civ5)/Civilopedia
+
+A "Wat" is a Buddhist monastery temple found in Cambodia, Thailand, or Laos. The literal translation of "wat" is "school", and indeed the Siamese wats were both places of worship and of learning. A wat consists of a temple containing statues of the Buddha, a prayer room, a room containing religious texts, a pavilion for relaxation, a library, study hall, bell towers, and living quarters. It may be a single building or a collection of structures- a town in itself. Constructed in the 12th century, the [Angkor%20Wat%20%28Civ5%29](Angkor Wat) in Angkor, Cambodia, is one of the largest and best-preserved wats in Southeast Asia.

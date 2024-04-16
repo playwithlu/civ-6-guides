@@ -1,0 +1,18 @@
+# Representation (Civ5)
+
+Representation is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Liberty%20%28Civ5%29](Liberty) tree and requires [Citizenship%20%28Civ5%29](Citizenship).
+The establishment of a Representation system, such as a Parliament or a Senate institution whose members are directly elected by the people, is a necessary step for preparing your empire for enlargement. It greatly increases the efficacy of newly-established local governments, which facilitates acquiring new [Social%20policies%20%28Civ5%29](Social Policies). The effect is such that your empire immediately enters a Golden Age.
+Value.
+Without Representation, each city in the civilization (except for the , [Conquered%20cities%20%28Civ5%29](puppet cities and cities being razed)) increases the [Social%20policies%20%28Civ5%29%23Cost](cost of social policies) by 5-10% (additively), depending on [Map%20%28Civ5%29%23Map%20size](map size). With Representation, this becomes 3.35-6.7% per city.
+For example, with six cities (including the ) on a Large map, social policies cost an additional formula_1 without Representation. With representation, this decreases to an additional formula_2, which is a formula_3 decrease in overall policy cost.
+The benefit of this policy may be obscured by the increase in policy costs which occurs when a non-free policy is adopted.
+Strategy.
+N.B. Adopting Representation does not refund already spent on policies. However, the reduced cost of policies does apply to cities which have already been founded, and to annexed cities not owned by their founder, as well as to cities founded following the policy's adoption.
+The best time to adopt Representation depends on your reason for adopting the policy. For instance, if you plan to adopt Representation in order to maximize the saved throughout the game through reduced policy cost, it is best adopted early (or sometimes not at all); however, if expecting a quick return on investment, and if your output rises in line with the increasing cost of policies, it can be worth delaying this policy's adoption.
+Reduced policy cost.
+Purely in terms of the reduced policy cost, the best time to adopt Representation is a compromise between two competing effects. Adopt too late, and you will not adopt enough policies afterwards to benefit much from their reduced cost; adopt too early, however, and you will have to adopt more policies after Representation before you see a return on investment.
+The more cities you have, the sooner you should adopt Representation. On its own, the reduced cost of social policies may not be enough to justify adopting Representation if you expect to have fewer than about 6 cities (so about 9 on a Large map, or 12 on a Huge map). For more detail regarding the return on investment of due to reduced policy cost, consult the tables provided.
+Golden Age.
+The second benefit of Representation is the resulting . The timing of this is, again, a compromise - specifically, between delaying till , and yields are high, and taking the benefit early to avoid opportunity cost. Though the same amount of , or is worth more earlier in the game, you may wish to wait, for instance till you have -yielding [Luxury%20resource%20%28Civ5%29](luxury resources), preferably with the respective [Tile%20improvement%20%28Civ5%29](tile improvements).
+Liberty tree.
+The final benefit of Representation is the Great Person awarded if the policy is adopted alongside all the others in the Liberty tree.

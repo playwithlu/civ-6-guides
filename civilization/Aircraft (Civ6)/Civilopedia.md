@@ -1,0 +1,3 @@
+# Aircraft (Civ6)/Civilopedia
+
+At the start of the First World War, aviation was still in its infancy, and aircraft were expensive and unreliable machines for reconnaissance. By the end of the war, they were a staple of every major military on the planet and employed for tactical attacks and strategic bombing, having undergone rapid evolution in the crucible of the war. Research and development was so expensive that much of it was done through state sponsorship or public-private partnership.

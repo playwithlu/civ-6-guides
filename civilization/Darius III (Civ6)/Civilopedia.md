@@ -1,0 +1,4 @@
+# Darius III (Civ6)/Civilopedia
+
+Darius III came to power when the Achaemenid Empire was the functional equivalent of a fully-laden chariot at a cliff’s edge, horses long since fled in separate directions, balanced upon its one remaining wheel. It was left to Darius to reconcile the highly independent (and occasionally openly rebellious) satraps who used their distance from Persepolis to flaunt their independence.
+Unfortunately for him, Alexander the Great arrived to relieve the chariot of anything valuable and give what remained a good, swift kick. After a series of humiliating defeats, Darius eventually fell victim to a coup and was left for dead on an ox-cart.

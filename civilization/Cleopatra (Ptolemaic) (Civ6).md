@@ -1,0 +1,2 @@
+# Cleopatra (Ptolemaic) (Civ6)
+

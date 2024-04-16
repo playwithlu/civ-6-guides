@@ -1,0 +1,3 @@
+# University (Civ5)/Civilopedia
+
+A university is an institute of research and higher education, serving children from the ages of 18 to about 24 (adults also attend universities, but the majority of the students are in the age range stated above). Formally, a university is a state-accredited institution which grants academic degrees in any number of subjects. The oldest continuously-operating university in the world is the University of Al-Karaouine, in Fes, Morocco, which was founded in 859 AD.

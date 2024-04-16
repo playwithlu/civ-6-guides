@@ -1,0 +1,7 @@
+# Education (Civ6)
+
+Education is a [Medieval%20Era%20%28Civ6%29](Medieval Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by earning a [Great%20Scientist%20%28Civ6%29](Great Scientist).
+Strategy.
+Education unlocks only one [Building%20%28Civ6%29](building): the [University%20%28Civ6%29](University). Of course, the importance of the mid-tier [Campus%20%28Civ6%29](Campus) building for your technological development can hardly be overstated (especially after the changes to [City-state%20%28Civ6%29](city-state) bonuses in "") and is certainly worth its own tech which doesn't do anything else - that is, if you can say that unlocking half the [List%20of%20technologies%20in%20Civ6](tech tree) of the [Renaissance%20Era%20%28Civ6%29](Renaissance Era) is "not doing anything else."
+Still, the techs unlocked by Education are mostly economy-oriented, and a militaristic [Civilizations%20%28Civ6%29](civilization) might want to research [Stirrups%20%28Civ6%29](Stirrups) and then [Gunpowder%20%28Civ6%29](Gunpowder) in order to boost its attack capabilities. But eventually you will need Education, if only to get to [Banking%20%28Civ6%29](Banking) and its additional income.
+In the "" expansion, the [Hagia%20Sophia%20%28Civ6%29](Hagia Sophia) is unlocked with [Buttress%20%28Civ6%29](Buttress).

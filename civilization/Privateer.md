@@ -1,0 +1,3 @@
+# Privateer
+
+The Privateer is a [naval%20unit](naval unit) in the "[Civilization%20%28series%29](Civilization)" and "[Colonization%20%28game%29](Colonization)" games. It allows you to steal gold from your opponents and attack their sea units without declaring a war. The nationallity of a Privateer is hidden from everyone except the creator (as it flies the famous Jolly Roger). This makes it a possible target for everyone, especially a powerful AI.

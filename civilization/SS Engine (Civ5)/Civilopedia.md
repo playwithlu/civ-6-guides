@@ -1,0 +1,3 @@
+# SS Engine (Civ5)/Civilopedia
+
+The engine for the spaceship is a modified ion drive. Once the boosters have propelled the ship into Earth's orbit, the engines will kick in, driving the ship into deep space. The vessel will accelerate slowly but steadily for the first eight years of its journey, then coast for most of the trip. As it approaches Alpha Centauri, the ship will rotate 180 degrees and the engines will fire in the opposite direction for the last eight years, slowing the ship until it is in orbit around the target planet.

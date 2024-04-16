@@ -1,0 +1,20 @@
+# Carrier (CivBE)
+
+Game info.
+The Carrier acts as a mobile base for aircraft. This means that aircraft can be rebased to and from Carriers within range, and perform combat missions from Carriers.
+A Carrier can hold only one aircraft at start, but can be upgraded to hold two, or three with the appropriate perks. Carriers are generally the first unit players can unlock to make aircraft more mobile and used in assault and they also require no resources, unlike the [Aquilon%20%28CivBE%29](Aquilon).
+Unit Upgrades.
+Tier 1 (Non Affinity).
+Carriers are the primary unit used for aircraft transportation. Being very fragile and unable to engage in combat directly they require constant maintenance and protection from especially Gunboats and Submarines.
+Tier 2 (Affinity).
+Carriers take on the appearance of their sponsor's Affinity into the end of the mid-game, but carry with them powerful perks. Able to carry up to potentially three aircraft now, carriers are specialised to provide regenerative, strength or range based benefits, depending on Affinity. They have also become slightly more durable and are able to handle a few additional hits from potential threats.
+Strategy.
+The Carrier offers unparalleled range power projection. Between its own movement and the range of its aircraft, a Carrier has a maximum single-turn striking range of between 7 and 16 tiles depending on upgrades, perks, and quest choices. Of course, this all comes at a cost---a fully upgraded and loaded Carrier has cost comparable to end-game Wonders!
+Though slightly more durable than the , the Carrier is slower and still quite vulnerable to direct attack. A picket of Gunboats, and perhaps hovering units in the later game, will help detect and intercept enemies before they can spot your Carrier. Enemy aircraft cannot be intercepted in this way; against these, the Carrier must rely on its own aircraft for defense.
+The building quest offers a global +2 for all naval units. This is a great advantage in both getting to the combat zone quickly and in ensuring you get the first shot. (This is only the case for the base game, as this building quest bonus is unavailable in [Rising%20Tide](Rising Tide).)
+Outside of combat, the Carrier can aid in transferring aircraft between cities, either by ferrying them or by acting as a stepping-stone.
+It is worth noting however, that if you choose to pursue Supremacy and build [Gunboat%20%28CivBE%29](Vindicators) (which have a perk choice of being able to carry aircraft), then the number of vessels required to escort the carrier will be able to carry the aircraft themselves, therefore reducing the need for the carrier.
+In Universe information.
+Because of the great expenditure in resources and effort required to built a Carrier, these large ships were absent for considerable time from colonial navies. After all, survival and economical development were paramount in the infant days of each colony.
+But once the basics were covered, and colonies started to extend their territory, the need for power projection was felt acutely, and all military commanders know that few combat machines project power the way aircraft do. Thus the first Carriers were constructed. These were very similar to their cousins from Old Earth - projected for horizontal flight aircraft, with a length of 150 – 250 meters, and displacing between 9800 and 20000 tons. A variety of light weapons were included, but none sufficiently powerful for anything more than defensive action.
+As colonial technology developed, and new, different models of aircraft were adopted, Carriers also changed. Their plans now included SVTOL operations, and this led to multiple novel configurations, including pontoon platforms, or double-hull models driven by nuclear hydro-pulsejets. These new Carriers prove very effective for projecting power far beyond the fringes of the colony, both against alien targets and against other colonies.

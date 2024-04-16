@@ -1,0 +1,7 @@
+# Television (CTP2)
+
+ is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Television is the most powerful medium of the . It is one of the cheapest forms of entertainment around, as well as being a powerful tool for advertising and swaying public opinion. Any city with the Television has an increase in and . However, it make enemy s twice as effective when they attack.
+Great Library entry.
+Although radio was a primary source of news and entertainment for much of the civilized world, the television became the overwhelmingly dominant medium in the late 20th century. The first two decades of the 20th century saw developments in picture tube technology, methods of amplifying electronic signals and the theoretical formulation of the electronic-scanning principle. These advancements later became the basis of the modern television. In 1932, the Radio Corporation of America employed a camera tube called an iconoscope and a cathode-ray tube in the receiver of one of the first all-electronic televisions. By the 1950s, there were separate color and black-and-white signals broadcast. Televisions became a standard fixture in the living rooms of America, supplanting radio as the dominant source of entertainment. By the 1960s, television had reached many other nations and, by the end of the 20th century had affected virtually every aspect of the societies in which it was used, from politics and culture to art and entertainment.

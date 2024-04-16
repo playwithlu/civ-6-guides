@@ -1,0 +1,3 @@
+# Montezuma
+
+Montezuma, also known as Moctezuma, is an [Aztec](Aztec) and [Nicaraguan](Nicaraguan) [Leaders](leader) and [unit](unit) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. The name may refer to either Montezuma I or his grandson Montezuma II; collectively, they appear in every game in the main series, including both [Civilization%20Revolution%20games]("Civilization Revolution" games).

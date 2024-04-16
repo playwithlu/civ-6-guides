@@ -1,0 +1,3 @@
+# Anti-Tank (Civ4)/Civilopedia
+
+Since its introduction at the tail-end of WWI, the tank has completely recast the modern battlefield. Being heavily armored, tanks are almost invulnerable to the small arms carried by standard infantry. To combat this new force, Anti-Tank Infantry units were developed by world militaries. These units employed high-velocity cannons capable of penetrating a tank's thick armor, turning once unstoppable war machines into oversized, mobile targets.

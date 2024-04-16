@@ -1,0 +1,3 @@
+# Fortification (Civ3)/Age of Discovery/Civilopedia
+
+The rapid rise of gunpowder weapons, particularly cannon, dictated similar evolution in the defense of cities, ports, and economic outposts. Fortifications had to be self-sufficient, to hold out against enemy harassment or blockade for months at a time if necessary, and be able to service allied ships when they came to dock. Inland forts usually served as supply stations and rest areas for caravans and convoys into wilder areas.

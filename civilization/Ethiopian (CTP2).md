@@ -1,0 +1,3 @@
+# Ethiopian (CTP2)
+
+The Ethiopian people represent a [List%20of%20civilizations%20in%20CTP2](civilization) in "[Call%20to%20Power%20II](Call to Power II)". Their default leader names are [Haile%20Selassie](Haile Selassie I) (or Meles Zenawi in [Apolyton%20Edition%20%28CTP2%29](Apolyton Edition)) for a male and Zauditu for a female, and their [Capital%20%28CTP2%29](capital) is [Addis%20Ababa](Addis Ababa).

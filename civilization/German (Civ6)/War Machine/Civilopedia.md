@@ -1,0 +1,5 @@
+# German (Civ6)/War Machine/Civilopedia
+
+A generation before the outbreak of World War I, the Prussian army had handed France its greatest military defeat since the end of the Napoleonic Era, and in the aftermath had formed the modern nation of Germany. German politicians were clear-eyed about how the terms extracted from the French were contributing the seeds to the next potential conflict—and then went about preparing for the next war. 
+The signing of the Triple Entente—the military alliance of France, Great Britain, and Russia—put Germany in a precarious military position, as it was now surrounded by military adversaries to the east and west. The grand strategy formulated prior to World War I was to deliver a single, massive knockout blow to France in the west before Russia would have a chance to bring its enormous manpower advantage to bear in the east. This became the driving political goal of the Schlieffen Plan.
+On the eve of World War I, there were few armies in the world that were as well-trained and as prepared as the German military forces. And yet preparation and training were not enough to bring about the quick end the planners had envisioned.

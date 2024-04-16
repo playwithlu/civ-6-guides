@@ -1,0 +1,4 @@
+# Military Science (Civ4)/Civilopedia
+
+While truly masterful works on war by men like Sun Tzu and Machiavelli have remained valuable since their creation, the acknowledgement of Military Science as a field of study separate from war itself only began in the seventeenth century. During the next two hundred years, numerous treatises on contemporary warfare surfaced. Two of the most influential military scientists of their times, Carl von Clausewitz and Antoine Henri-Jomini, birthed a rivalry that continues to this day, focused in large part on their major works, Clausewitz's "On War" and Jomini's "The Art of War."
+In the modern era, Military Science has found a field of fresh minds with the establishment of military academies across the globe. West Point in the United States, Sandhurst in Great Britain and Saint-Cyr in France remain among the most renowned institution of learning in the world.

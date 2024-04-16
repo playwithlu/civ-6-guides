@@ -1,0 +1,6 @@
+# Stockade (Col)
+
+In [Sid%20Meier%27s%20Colonization](Sid Meier's Colonization), the Stockade functions like a city wall. It increases defense of the units inside the colony by 100%. A colony must have a population of 3 or more to build a Stockade. It costs 64 [Hammer%20%28Col%29](Hammers). A Stockade may be upgraded to a [Fort%20%28Col%29](Fort), and a Fort may be upgraded to a [Fortress%20%28Col%29](Fortress).
+A stockade is a low wooden barricade made of poles, sharpened at the top, with loop holes for firing muskets, and crude inside shelves for gunners.
+The construction of a stockade around a settlement represents a significant effort from the community and is a symbol of a willingness to stay for a while. Construction of a stockade may be started when the colony is still quite small (population 3). Once the stockade is completed, the population of the colony may not voluntarily be reduced to less than 3.
+Recruiting the [Founding%20Fathers%20%28Col%29](Founding Father) [Sieur%20de%20La%20Salle%20%28Col%29](Sieur de La Salle) will give all existing and future colonies a free stockade upon reaching a population of 3.

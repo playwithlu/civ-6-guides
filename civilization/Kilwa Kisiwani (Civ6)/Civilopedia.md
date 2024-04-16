@@ -1,0 +1,4 @@
+# Kilwa Kisiwani (Civ6)/Civilopedia
+
+The East African city-state Kilwa Kisiwani was once a major destination for trade in the Indian Ocean. Ivory, gold, and perfumes flowed through its markets. At its height, Kilwa Kisiwani contained some of the finest architecture in East Africa: the Great Mosque (which remained the world’s largest mosque until the 16th Century) and Husuni Kubwa (a classy palace), both of which survived to the modern day.
+Kilwa Kisiwani flourished as a major trade city until the Portuguese arrived in 1498 to “make improvements” to the city’s infrastructure (if extorting tribute can be considered an improvement). Over the centuries, a series of foreign conquerors wrestled control of the city from one another, until it was abandoned in 1840.

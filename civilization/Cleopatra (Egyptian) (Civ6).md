@@ -1,0 +1,2 @@
+# Cleopatra (Egyptian) (Civ6)
+

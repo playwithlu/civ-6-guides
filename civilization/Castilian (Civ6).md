@@ -1,0 +1,3 @@
+# Castilian (Civ6)
+
+The Castilian people represent Castile, a playable [Civilizations%20%28Civ6%29](civilization) from [The%20Black%20Death%20%28Civ6%29](The Black Death), a [List%20of%20scenarios%20in%20Civ6](scenario) in "". They are led by [Alfonso%20XI%20%28Civ6%29](Alfonso XI), and their [Unique%20ability%20%28Civ6%29](civilization ability) is "Sword of Faith," which allows all their [Units%20%28Civ6%29](units) to use the Holy Fervor command (once per turn, may spend to restore moves and attacks).

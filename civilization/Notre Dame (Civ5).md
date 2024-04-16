@@ -1,0 +1,5 @@
+# Notre Dame (Civ5)
+
+Strategy.
+Notre Dame is a very important wonder for your empire, standing proud with an extra 10 . Keeping your empire happy is the key to growth, so it is strongly suggested you get this wonder before someone else does! To do this, however, you will have to rush [Physics%20%28Civ5%29](Physics), a relatively useless [List%20of%20technologies%20in%20Civ5](technology). Warmongers whose [Unique%20unit%20%28Civ5%29](unique units) require the research of Physics, like the [Ottoman%20%28Civ5%29](Ottomans), [American%20%28Civ5%29](America), or [Polish%20%28Civ5%29](Poland), may want to grab this wonder.
+On higher [Difficulty%20level%20%28Civ5%29](difficulty levels), an enemy [City%20%28Civ5%29](city) with this wonder makes an excellent target, as capturing it can be -neutral or even increase your own .

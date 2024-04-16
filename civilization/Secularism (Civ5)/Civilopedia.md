@@ -1,0 +1,3 @@
+# Secularism (Civ5)/Civilopedia
+
+Secularism is the belief that government should be separate from religion and religious faiths. Religions should not be taught in schools, nor should one's religion determine whether he or she can work in the government or serve in the military. Secularists don't necessarily disbelieve in a Supreme Being; they just think that mixing religion and government is ultimately bad for both institutions. The United States is largely a secular country, although traces of its early inhabitants' dominant religion can still be found on the country's money, its leaders' oaths of office, in its judicial system, and so forth, often to the dismay of the citizens who do not belong to that religion.

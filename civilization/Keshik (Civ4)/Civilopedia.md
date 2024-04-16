@@ -1,0 +1,3 @@
+# Keshik (Civ4)/Civilopedia
+
+The equestrian skill of a Mongol was notoriously keen. Having been taught to ride on horseback from the age of three, and by five given bow and arrows to use from horseback for hunting and war, it was a natural way for the Mongols to conduct war. The Mongols' harsh, nomadic lifestyle prepared them well for the rigors of war; they often thrived in conditions that would be considered intolerable by any other troops of its time. When the need arose, Mongol horsemen could go up to ten days at a time without cooking food, during which they would sustain themselves by drinking the blood and milk of their horses.

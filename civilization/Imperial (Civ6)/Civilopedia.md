@@ -1,0 +1,3 @@
+# Imperial (Civ6)/Civilopedia
+
+The greatest political body in Central Europe at the time of the Black Death was a polyglot, multiethnic collection of kingdoms, principalities, bishoprics, duchies, free cities, contested lands, baronies, and parishes, all notionally under the secular rule of the Emperor. Powerful ruling families and the Pope were often vying for effective control or autonomy for their own territories.

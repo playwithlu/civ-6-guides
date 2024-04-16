@@ -1,0 +1,3 @@
+# Trireme (Civ5)/Civilopedia
+
+The trireme was a warship used by ancient navies in the Mediterranean. Although equipped with a sail, under combat it was powered by three rows of oars. When powered by trained and motivated oarsmen, it was surprisingly quick and agile. Triremes were generally equipped with a sharp beak (ram) at the prow, and the primary tactic was to attempt to ram and sink the enemy ship. Some triremes also carried archers for ranged combat, while others carried lots of infantry. Those vessels would come alongside an enemy ship and the infantry would board and attempt to capture her. Triremes remained important military vessels until they were made obsolete by cannon and advances in ship construction and sail-rigging.

@@ -1,0 +1,3 @@
+# Assur
+
+Assur, also known as Ashur, is the [Assyrian](Assyrian) [capital](capital) and a [Babylonian](Babylonian) [city](city) in the "[Civilization%20%28series%29](Civilization)" games, an Assyrian and [Persian](Persian) city in the [Call%20to%20Power%20games]("Call to Power" games). In real life, it was a city in present-day that served as the capital of the Old Assyrian, Middle Assyrian, and Neo-Assyrian Empires.

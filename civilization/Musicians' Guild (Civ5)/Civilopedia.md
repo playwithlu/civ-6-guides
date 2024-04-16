@@ -1,0 +1,3 @@
+# Musicians' Guild (Civ5)/Civilopedia
+
+The musicians' guilds that briefly flourished during the Renaissance had their roots in the bands of court musicians under the patronage and protection of the nobility and royalty. During the Renaissance, as music came to cater to the tastes of the growing merchant and middle classes, musicians without patrons joined together guarantee wages and work. Beginning with the rise of the modern orchestra in the 17th century, towns and cities sponsored composers and conductors, allowing for ever more elaborate performances. This move towards "civic music" largely obviated the need for formal musicians' guilds. Not until the boom in popular music in the early 20th century would musicians again formally organize, this time into unions.

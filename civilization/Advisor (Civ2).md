@@ -1,0 +1,14 @@
+# Advisor (Civ2)
+
+In "[Civilization%20II](Civilization II)", an advisor is a personification of one of the departments of a [Civilizations%20%28Civ2%29](civilization's) . In addition to providing statistical reports and commentary, advisors offer help and suggestions for and choices. A special interface, the High Council, provides advisor-specific appraisal of the general state of the civilization through full-motion videos.
+Advisor list.
+The Advisors menu is accessed from the top bar on the game screen. Individual advisor windows can also be accessed directly by keyboard shortcuts:
+If "Instant Advice" is enabled in , the city production menu will feature recommendations by a "Military Advisor" and "Domestic Advisor", likely representing the Defense Minister and Trade Advisor, respectively.
+High Council.
+The High Council is a special interface where the player can solicit specific advisors' feedback as full-motion videos. In addition to addressing the player, they will also respond to each other, supporting or dismissing recommendations based on their own priorities. Their costumes and personalities change with the [Era%20%28Civ2%29](eras), appearing as [Roman](Roman) senators in the , Renaissance [Italian](Italian)s ([French](French) for Attitude) in the and Eras, and contemporary [American](American)s ([Russian](Russian) for Foreign) in the .
+If enabled in , popups will invite the player to consult the High Council periodically throughout the game. The Council can also be convened at any time via "Consult High Council" in the Advisors menu. It requires either the game CD to be present in the disk drive, or the video folder to be copied into the main game directory.
+During , the High Council will open with all advisors briefly arguing over each other, before their screens are replaced by a .
+Modding.
+Titles for the Advisors menu are defined under in . Advisor names in their report screens are defined on lines 336–341 in the section of . Advisors are also used as the titles to various popup messages in .
+Scripting for High Council messages and video sequences are defined in three files: , , and . Their behavior is not documented, and third-party is generally limited to changing the display text.
+Activating enables the key-code ++, opening the "Council Cheat", a developer tool for playtesting a customized High Council report. Each advisor's "rating" specifies the subject of their video segment and responses to peers' advice; valid inputs are numbers 1–7 (1–6 for Attitude), with the corresponding subject varying by advisor. Pressing "OK" prompts a choice for era variant (0: Classical, 1: Renaissance, 2: Modern). "Anarchy" ignores individual ratings, only prompting an era.

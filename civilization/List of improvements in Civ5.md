@@ -1,0 +1,17 @@
+# List of improvements in Civ5
+
+Tile improvements are buildings or installations constructed in [Terrain%20%28Civ5%29](terrain) outside of [City%20%28Civ5%29](cities), generally by [Worker%20%28Civ5%29](Workers). Each improvement changes the properties of the tile where it's built, usually adding potential such as tile yields to it. Improvements are unlocked via certain [List%20of%20technologies%20in%20Civ5](technologies).
+Improvements built on certain strategic and luxury [Resources%20%28Civ5%29](resources) are required for an empire to access the resources' special properties.
+Mechanics.
+With the exception of Great Tile Improvements, most improvements can be built by a Worker (or a [Work%20Boat%20%28Civ5%29](Work Boat) at sea), given the appropriate technology and provided that the tile meets the requirements. Improvements remove [Forest%20%28Civ5%29](Forests) and [Jungle%20%28Civ5%29](Jungles) unless otherwise specified (notably the [Trading%20Post%20%28Civ5%29](Trading Post) and [Camp%20%28Civ5%29](Camp)). Building with a Worker requires several turns, while the Work Boat finishes the improvement instantaneously.
+Improvements are susceptible to pillaging by enemies, including [Barbarian%20%28Civ5%29](Barbarians). When any improvement is pillaged, it will be inactive until repaired by a Worker (including Great Tile Improvements).
+Improvement yields, which include both relevant increases depending on the resource as well as bonuses from appropriate technologies such as [Fertilizer%20%28Civ5%29](Fertilizer), will be added to the base terrain yield combined with increased yields from the resource itself (yields provided when worked by a city).
+There are some improvements only available to certain [Civilizations%20%28Civ5%29](civilizations). And finally, there are certain improvements that can only be built by using [Great%20People%20%28Civ5%29](Great People). This article lists all improvements in "[Civilization%20V](Civilization V)".
+Standard Improvements.
+These improvements are available to all civilizations after researching the technologies that unlock them.
+Transportation Improvements.
+These improvements can be built on any passable land tile, including outside your own [Territory%20%28Civ5%29](territory). They can be built alongside any other improvement, and do not remove Forests or Jungles.
+Great Tile Improvements.
+These improvements are built by [Great%20People%20%28Civ5%29](Great People), with the exception of the [Landmark%20%28Civ5%29](Landmark) in "". All great tile improvements can be built on any passable land terrain type (except [Oasis%20%28Civ5%29](Oases)). With regard to resources, they will only connect any strategic resources on the tile. While they get additional bonus yield from technology, they do not get an increase from the type of strategic resource. They do not have any effect on luxuries nor bonus resources.
+Unique Improvements.
+These improvements are available only to certain civilizations. Unlike [Unique%20building%20%28Civ5%29](unique buildings) and [Unique%20unit%20%28Civ5%29](unique units), they never replace standard improvements, and civilizations that don't have one will have a unique building or a second unique unit instead. Unique improvements cannot be used to connect resources (e.g., a [Brazilwood%20Camp%20%28Civ5%29](Brazilwood Camp) cannot be built on a tile with ), and any civilization that [Work%20%28Civ5%29](works) a unique improvement's tile can benefit from its effects.

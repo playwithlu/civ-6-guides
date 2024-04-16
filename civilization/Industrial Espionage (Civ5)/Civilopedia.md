@@ -1,0 +1,3 @@
+# Industrial Espionage (Civ5)/Civilopedia
+
+Conducted for economic purposes rather than purely national security reasons, Industrial Espionage refers to the efforts of corporations to discover secrets and confidential information about other corporations, usually competitors. Industrial espionage had its modern beginnings in the 1820s when France initiated state-sponsored efforts to surreptitiously steal British manufacturing inventions and processes, seeking to match England's explosive industrialization. This form of "spying" is usually undertaken when a nation faces a severe disadvantage in commercial economic development, such as the well-documented Soviet industrial espionage in the West until the 1980s.

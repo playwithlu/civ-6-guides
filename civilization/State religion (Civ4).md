@@ -1,0 +1,2 @@
+# State religion (Civ4)
+

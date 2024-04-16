@@ -1,0 +1,3 @@
+# Rorik of Dorestad (Civ6)/Civilopedia
+
+For aiding Lothar I in the struggle against his father Louis the Pious, several minor Viking lords were granted bits of dead Louis’s lands in Frisia in 841, including one named Hrorik. There he established an island base on Wieringen for raiding. His reign extended to Dorestad … or so he claimed. In 850 AD Hrorek made it official, seizing and holding Dorestad and Utrecht. Since the Viking was willing to swear fealty and collect taxes, Lothar acknowledged him as ruler of Friesland. Dorestad’s importance as a commercial port had already begun to decline, so it was no great sacrifice. When Hrorek died in 882 his lands were given to the “Sea-King” Godfried.

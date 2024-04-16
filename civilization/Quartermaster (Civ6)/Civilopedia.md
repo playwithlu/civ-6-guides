@@ -1,0 +1,3 @@
+# Quartermaster (Civ6)/Civilopedia
+
+Who can resist nifty little gadgets? Certainly not those in the field of espionage. Since the first spies used “invisible” ink and hidden weapons, the quartermasters of the world’s intelligence agencies have had an ever-expanding inventory of inventions to help in the craft of stealing or protecting secrets. While the list of devices may not be as long as in the James Bond series, the British Secret Intelligence Service – better known as MI6 – supposedly maintains an extensive (and deadly) collection at its headquarters at 85 Vauxhall Cross. But, of course, no one is quite sure what these might be.

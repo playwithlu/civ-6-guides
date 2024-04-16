@@ -1,0 +1,3 @@
+# Spices (Civ5)/Civilopedia
+
+Spices are plant-derived substances used to preserve and enhance the flavor, color or texture of food. Some spices have religious significance as well, and some are purported to have medicinal benefits. Common spices include pepper, mustard, cinnamon, saffron, and ginger. Generally, spices must be dried and ground before being applied to food; this distinguishes them from herbs like sage or oregano, which are green and leafy and which may be used fresh or dried.

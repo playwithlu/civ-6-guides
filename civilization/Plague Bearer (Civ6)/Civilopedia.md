@@ -1,0 +1,3 @@
+# Plague Bearer (Civ6)/Civilopedia
+
+Groups that anticipate the end of times sometimes take action to bring it about. Plague was used as a biological weapon in the middle ages, most significantly during the siege of Caffa, where besieging troops launched infected bodies into the city, causing an outbreak. But we do not need to go so far back - as recently as 1995, the doomsday cult Aum Shinrikyo sought to bring about a new era when it attacked the Tokyo subway with sarin gas.

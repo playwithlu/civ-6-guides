@@ -1,0 +1,7 @@
+# Castles (Civ6)
+
+Castles is a [Medieval%20Era%20%28Civ6%29](Medieval Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by adopting any government with 6 policy slots.
+Strategy.
+The castle is the signature building of the Medieval Age: strong, hard, unyielding, unwavering. It elevates [City%20%28Civ6%29](city) defenses to a new level, but in fact it does more than this - it marks the peak of medieval thinking, with its notion that the ways of the past are the best, and need to be kept at all costs. Of course, the future will soon prove this notion wrong.
+Castles is a surprisingly useful military tech: it unlocks the [Medieval%20Walls%20%28Civ6%29](Medieval Walls) for defensive purposes and (in "") the [Courser%20%28Civ6%29](Courser) for offensive purposes. Finally, it unlocks the [Alhambra%20%28Civ6%29](Alhambra), the first [Wonder%20%28Civ6%29](wonder) which adds a [Policy%20card%20%28Civ6%29](policy card) slot to its owner's [Government%20%28Civ6%29](government). Granted, it's a Military slot, but the strategic diversity of Military cards ensures that even non-militaristic [Civilizations%20%28Civ6%29](civilizations) can always find some use for an extra one.
+Castles is relatively easy to beeline once you hit [Construction%20%28Civ6%29](Construction) in the [Classical%20Era%20%28Civ6%29](Classical Era). This often makes Castles the first Medieval tech players research.

@@ -1,0 +1,3 @@
+# Writing (Civ4)/Civilopedia
+
+The development of writing is considered one of the most important advances of civilization. The earliest forms of writing were simple symbols and marks, used to keep accounts and inventories. Some cultures developed pictographic symbols to tell stories and record events. Eventually, complete systems of writing were developed, capable of conveying any thought that can be expressed orally. At this point, scribes replaced the oral historian as the chief keepers of records. Writing allowed the presentation of information in a form that could be reliably transmitted from person to person and made it possible for ideas, history, and knowledge to be stored permanently and passed between cultures and more reliably than oral recitation.

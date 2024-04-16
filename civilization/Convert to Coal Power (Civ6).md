@@ -1,0 +1,4 @@
+# Convert to Coal Power (Civ6)
+
+Convert to Coal Power is a [Project%20%28Civ6%29](project) in "". It becomes available after building an [Industrial%20Zone%20%28Civ6%29](Industrial Zone) [District%20%28Civ6%29](district) (or one of its replacements) and researching [Industrialization%20%28Civ6%29](Industrialization).
+A [City%20%28Civ6%29](city) must have an [Oil%20Power%20Plant%20%28Civ6%29](Oil Power Plant) or a [Nuclear%20Power%20Plant%20%28Civ6%29](Nuclear Power Plant) to undertake this project. When completed, it removes the existing Power Plant and replaces it with a [Coal%20Power%20Plant%20%28Civ6%29](Coal Power Plant).

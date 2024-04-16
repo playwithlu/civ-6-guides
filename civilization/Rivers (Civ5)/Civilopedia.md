@@ -1,0 +1,3 @@
+# Rivers (Civ5)/Civilopedia
+
+Rivers are sources of fresh water, allowing the construction of farms on adjacent hills and tundra. Farms next to fresh water receive an additional +1 food when the [Civil%20Service%20%28Civ5%29](Civil Service) technology is researched. Units expend all of their movement points when crossing rivers. This is true even if the tiles are connected by roads, until the civilization learns the [Engineering%20%28Civ5%29](Engineering) technology. Finally, units receive a -20% penalty when they are attacking across a river.

@@ -1,0 +1,3 @@
+# Menelik II (Civ5)/Civilopedia
+
+Upon the death of Yohannes IV in combat against the dervishes in March 1889, Menelik (often called the "father of modern Ethiopia") proclaimed himself emperor. Not long after, in a dispute over interpretation of a treaty, Italy invaded Ethiopia in 1895; Menelik led the stout defense - inflicting defeats on the Italians in the battles of Amba Alagi, Mekele and Adwa - which forced the Italians to sign a treaty recognizing the absolute sovereign independence of Ethiopia.

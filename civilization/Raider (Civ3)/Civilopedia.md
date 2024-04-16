@@ -1,0 +1,3 @@
+# Raider (Civ3)/Civilopedia
+
+The raider is the initial level of barbarian in Fall of Rome. They represent the early units that harrassed the fringes of the Roman Empire in the 4th Century without causing major disruptions. A good historical example of raiders are the Angle, Saxon, and Jute tribesmen that harrassed the eastern shore of Britain and forced the Romans to build the Saxon Shore fortifications along that sea coast.

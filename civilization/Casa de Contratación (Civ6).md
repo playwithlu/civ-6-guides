@@ -1,0 +1,6 @@
+# Casa de Contratación (Civ6)
+
+The Casa de Contratación is a in "". It must be built adjacent to a [Government%20Plaza%20%28Civ6%29](Government Plaza).
+Strategy.
+The perfect wonder for intercontinental empires, the Casa de Contratación is a great fit for civs who wish to expand to all continents such as [English%20%28Civ6%29](England) and [Spanish%20%28Civ6%29](Spain). The boosts granted to non-home continent cities can be further boosted by policy cards such as [Colonial%20Taxes%20%28Civ6%29](Colonial Taxes) and [Colonial%20Offices%20%28Civ6%29](Colonial Offices). Even if one does not have any cities on foreign continents, the wonder may still be worth building due to its granting of points and otherwise-scarce Governor Titles.
+It is worth noting that when playing as the [Phoenician%20%28Civ6%29](Phoenicians), this wonder will "not" react to the usage of your [Move%20Capital%20%28Civ6%29](Move Capital) project. Instead, the location of your home continent will be recorded when the wonder is completed, and that is the continent that it will not boost for the rest of the game. This is not to say it is useless for the Phoenicians, however; anything but, for a civilization that is so incentivized to settle as wide as possible. Simply try to choose judiciously where to put it.

@@ -1,0 +1,9 @@
+# Archaeological Museum (Civ6)
+
+The Archaeological Museum is an advanced [Culture%20%28Civ6%29](cultural) [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the and requires an (or one of its replacements).
+Strategy.
+The Museum works quite differently from "". First, it has been split into two different buildings - the Archaeological Museum, which is dedicated exclusively to displaying Artifacts, being one of them. That means that its slots cannot hold any other type of [Great%20Work%20%28Civ6%29](Great Works), such as Portraits or Sculptures.
+What's more, the [Archaeologist%20%28Civ6%29](Archaeologist) unit is now tied directly to this Museum type - only [City%20%28Civ6%29](cities) with it may build this unit, and only while there are free slots in the Museum! The Artifacts themselves may not be moved out of a Museum until it is full (all slots are taken). Afterwards, they may be rearranged between your other Archaeological Museums, or traded away.
+Activating the [Theming%20bonus%20%28Civ6%29](theming bonus) of the Museum requires different Artifacts from the same [Era%20%28Civ6%29](era), but different [Civilizations%20%28Civ6%29](civilizations) (or [City-state%20%28Civ6%29](city-states)). This is easier than it sounds, and is certainly much easier than activating the respective bonus of the [Art%20Museum%20%28Civ6%29](Art Museum) - you just need some luck when excavating the Artifacts. Try to excavate them from faraway places in the world - this increases the chance they will belong to a different civilization.
+[English%20%28Civ6%29](England's) British Museum [List%20of%20civilization%20abilities%20in%20Civ6](ability) makes it easier for them to theme their Archaeological Museums - each one has 6 Artifact slots, and the theming bonus automatically activates when all six slots are filled.
+In "", each cultural city-state with 6 or more s gives an additional +2 in each Archaeological Museum.

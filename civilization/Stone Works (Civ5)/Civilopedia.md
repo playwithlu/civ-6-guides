@@ -1,0 +1,3 @@
+# Stone Works (Civ5)/Civilopedia
+
+The stone works serves as the workshop for stonemasons, who shape and process various types of stone to create both artistic and structural elements during the construction process. The art of stonemasonry is one of the world's oldest professions, encompassing everything from the extraction of stone from quarries, to the actual carving of geometric shapes and the fitment of these stones at the building site. Historically, stonemasons have worked with everything from Limestone, which was primarily used in building massive structures, to Granite and Marble which were more commonly found in statues and monuments.

@@ -1,0 +1,3 @@
+# Statue of Zeus (Civ5)/Civilopedia
+
+Standing over 40 feet tall (12m), the Statue of Zeus found in the Temple of Zeus at Olympia, Greece was another of the Seven Wonders of the Ancient World. Known to have been constructed by the Greek sculptor Phidias c. 440 BC, even with Zeus seated on a golden throne, the enormous statue could barely be contained by the temple itself. The statue is thought to have been destroyed no later than 425 AD, when the temple of Zeus was burned. Whether the statue was still present at that time is the subject of much debate.

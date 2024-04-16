@@ -1,0 +1,3 @@
+# Wine (Civ5)/Civilopedia
+
+Wine is an alcoholic beverage made of fermented grapes. Humans have been happily creating wine for some 8,000 years. The practice is believed to have originated in the area near the modern Iranian-Georgian border. In many cultures, wine is believed to have mystical powers and is used in countless religious ceremonies. France is the (self-proclaimed) center of wine production on the planet, but she is facing stiff competition from other countries in Europe, as well as the USA, South Africa, South America, and Australia.

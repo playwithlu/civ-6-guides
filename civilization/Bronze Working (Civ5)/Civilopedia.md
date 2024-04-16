@@ -1,0 +1,3 @@
+# Bronze Working (Civ5)/Civilopedia
+
+Bronze is a metal "alloy" (mixture) of copper and tin. The resulting material is harder and tougher than either of the original metals and it is easier to melt and cast (e.g., pour into molds to make spear tips and other useful items). Copper was probably first used in Egypt before 5,000 BC. The first evidence of bronze appears some 1,300 years later in the form of a bronze rod found in a pyramid dating from 3700 BC. Bronze appeared in Asia much later, around 1,500 BC, and in the Americas later still, between 100-200 AD.

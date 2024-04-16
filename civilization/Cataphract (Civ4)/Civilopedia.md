@@ -1,0 +1,3 @@
+# Cataphract (Civ4)/Civilopedia
+
+While not a Byzantine invention, heavy cavalry reached a new level of perfection under Byzantine command. Until the sixth century AD, Byzantium had relied on Teutonic and Hunnish mercenary cavalry, but under Emperor Nicephorus II - known as "The Pale Death" - native heavy cavalry, the Cataphracts, became the cornerstone of Byzantine warfare. The heaviest cavalry of its age, the Cataphract shielded both rider and mount with thick protective armor, making them a terror on the battlefield. The effectiveness of the Byzantine heavy cavalry made the Cataphracts one of the key models for later European knights.

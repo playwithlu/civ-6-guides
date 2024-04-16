@@ -1,0 +1,3 @@
+# Foreign Investor (Civ6)/Civilopedia
+
+The old saying goes: "His cash is as good as the next guy's." Foreign investors can sometimes be brought in to provide capital on projects that are relevant to their interests but perhaps not as attractive to local investors. Also, foreign investors can be charmingly unaware of the investee's previous history (if unpleasant) or the difficulty of the proposal (if profound).

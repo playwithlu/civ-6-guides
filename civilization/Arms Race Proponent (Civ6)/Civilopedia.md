@@ -1,0 +1,3 @@
+# Arms Race Proponent (Civ6)/Civilopedia
+
+An arms race is usually seen as an expensive, undesirable, dangerous matter for states to engage in, as it can quickly overwhelm the treasury and potentially cause accidental wars. But there are some political philosophers who point out that the last nation standing in an arms race comes out the winner, and if you can bankrupt your opponent along the way, so much the better. This has led to things like the battleship arms race before the First World War, and the Strategic Defense Initiative of the Cold War, which in retrospect seem like they were not the wisest use of everyone’s tax dollars.

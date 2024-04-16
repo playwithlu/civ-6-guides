@@ -1,0 +1,3 @@
+# Orthodox Church (Civ6)
+
+The Orthodox Church is an advanced [Religion%20%28Civ6%29](religious) [Building%20%28Civ6%29](building) from the [Jadwiga%27s%20Legacy%20%28Civ6%29](Jadwiga's Legacy) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". It is built in the [Holy%20Site%20%28Civ6%29](Holy Site) [District%20%28Civ6%29](district) and requires a . It may also be purchased with .

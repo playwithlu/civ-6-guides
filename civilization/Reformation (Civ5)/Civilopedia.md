@@ -1,0 +1,3 @@
+# Reformation (Civ5)/Civilopedia
+
+Reformation refers to a great movement to reform a religious organization or belief system that is seen to have become corrupt or to have strayed from its guiding principles. The "Protestant Reformation" was a movement to reform the Roman Catholic Church. Begun in 1517 when Martin Luther published "The Ninety-Five Theses" listing the Church's transgressions as he saw them; the movement sparked some 130 years of horrible, bloody religious warfare across Europe and in the New World. As a result, Christianity was permanently fractured into various different organizations and civil authority gained ultimate primacy over religious life.

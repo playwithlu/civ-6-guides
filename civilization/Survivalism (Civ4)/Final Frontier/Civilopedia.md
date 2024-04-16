@@ -1,0 +1,3 @@
+# Survivalism (Civ4)/Final Frontier/Civilopedia
+
+Life for early space Colonists was a long series of travails. Poor planning, malfunctioning equipment or lack of knowledgeable crew members could turn any expedition into a fight for survival. But the successes of those that managed to stave off famine and suffocation were enough to keep a steady stream of Colonists venturing skyward. The development of Interplanetary Beacons allowed for more reliable communication with the "outside world," and building the first Alpha class Fighter spacecraft as meager defenses, it was these tenacious pioneers and their never-yield attitude that gave rise to the modern Survivalist philosophy.

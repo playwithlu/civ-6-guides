@@ -1,0 +1,3 @@
+# Brute (Civ5)/Civilopedia
+
+Barbarian is a term used by civilized people to describe those who have not yet embraced civilization. Such people are generally seen as inferior and warlike. The term was coined by the Greeks, to whom it meant "anybody who wasn't Greek." In Europe, the term was applied to the various raiders who rode out of the East and pillaged everything they could get their hands on, even when these raiders came from a perfectly fine civilization of their own. In the New World, the term was applied to the aboriginal inhabitants (even though it was the Europeans who were doing the actual pillaging). In short, the question of who the barbarians are depends a lot on which end of the spear one happens to be on at any given moment.

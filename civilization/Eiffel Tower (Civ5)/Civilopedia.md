@@ -1,0 +1,3 @@
+# Eiffel Tower (Civ5)/Civilopedia
+
+The Eiffel Tower is one of the world's most famous landmarks. Built for the Universal Exposition of 1889, the tower rises 984 feet above Paris' Champ de Mars, near the Seine River. Structural engineer Alexandre Gustave Eiffel built the tower at a cost of more than $1 million to demonstrate how steel and iron could be utilized in the construction of extremely tall buildings. The tallest building in the world when it was originally completed, the Eiffel Tower drew crowds of awestruck observers from around the world. Today, it remains one of Paris' leading tourist attractions.

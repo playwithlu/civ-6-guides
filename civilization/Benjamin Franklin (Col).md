@@ -1,0 +1,3 @@
+# Benjamin Franklin (Col)
+
+Colonial and later [American](US) Statesman who became the first Postmaster, printer, and foreign ambassador in the [English%20%28Col%29](English) colonies. He was also one of the first great American scientists. Franklin, as ambassador to [Europe%20%28Col%29](Europe) in the [Continental%20Congress%20%28Col%29](Continental Congress), brings coherence to the colonies' relations with foreign powers.

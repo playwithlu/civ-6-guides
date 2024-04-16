@@ -1,0 +1,6 @@
+# Heavy Chariot (Civ6)
+
+The Heavy Chariot is an [Ancient%20Era%20%28Civ6%29](Ancient Era) [List%20of%20units%20in%20Civ6/By%20class%23Heavy%20cavalry](heavy cavalry unit) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+The lumbering Heavy Chariot may look unwieldy, but the poor soldiers crushed under its wheels don't seem to think so. Not only is the chariot the strongest land-based melee unit in the Ancient Era, but it also may move farther than any other unit on open terrain, and it doesn't require any [Resource%20%28Civ6%29](resources)!
+The Heavy Chariot is in fact a proto-cavalry, unlike the [Chariot%20Archer%20%28Civ5%29](Chariot Archer) in "[Civilization%20V](Civilization V)" (which was a ranged unit). But even when used as a regular melee unit it will crush its opponents, thanks to its superior Combat Strength. Its only nemesis is the [Spearman%20%28Civ6%29](Spearman), which has a special bonus versus cavalry, bringing its total Combat Strength to 35 against the chariot! So, stay away from any army with lines of Spearmen.

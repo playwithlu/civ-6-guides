@@ -1,0 +1,3 @@
+# Jeff Essex
+
+Jeff Essex (born June 25, 1975) is a voice actor who speaks English. He provided the voices of Guardian Lular H'minee and Conqueror Judaa Marr, the leaders of the [Manifold%20Caretakers%20%28SMAC%29](Manifold Caretakers) and the [Manifold%20Usurpers%20%28SMAC%29](Manifold Usurpers) (respectively) in "[Sid%20Meier%27s%20Alien%20Crossfire](Sid Meier's Alien Crossfire)", for which he was credited as Jeff Gordon.

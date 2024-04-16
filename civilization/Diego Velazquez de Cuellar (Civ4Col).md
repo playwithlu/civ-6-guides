@@ -1,0 +1,5 @@
+# Diego Velazquez de Cuellar (Civ4Col)
+
+Civilopedia.
+Lived: 1465-1524
+Diego Velazquez de Cuellar was the Spanish founder of Havana and the leader of the colonization of Cuba. Among those who accompanied Columbus on his second voyage to the west, de Cuellar made a prominent name for himself as the leader of Santo Domingo, where he made his fortunes. Setting off to expand the Spanish claim, with Hernan Cortes at his side, de Cuellar made landfall on the east end of Cuba, creating the settlement of "Asuncion de Baracoa." Pushing further inland, de Ceullar and his warriors easily put down any resistance from the natives. With much of the native population killed or enslaved, de Ceullar began to found numerous towns throughout Cuba, including Havana on Cuba's highly fertile western end. And while their discovery by Columbus had been noted already by those in power, the Taino creation of cigars would soon make this island world renowned for the caliber of its tobacconists.

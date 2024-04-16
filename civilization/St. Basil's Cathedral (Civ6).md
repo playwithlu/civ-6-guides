@@ -1,0 +1,6 @@
+# St. Basil's Cathedral (Civ6)
+
+St. Basil's Cathedral is a in "". It must be built adjacent to a [City%20Center%20%28Civ6%29](City Center).
+Strategy.
+St. Basil's Cathedral will hugely boost output even after [The%20Enlightenment%20%28Civ6%29](The Enlightenment) has been researched. This strategy also works if you have built [Mont%20St.%20Michel%20%28Civ6%29](Mont St. Michel) and focus on purchasing [Apostle%20%28Civ6%29](Apostles). If going this route, St. Basil, St. Michel, and any other building capable of holding Relics should be built in the same city to maximize the [Tourism%20%28Civ6%29](Religious Tourism) buff. Effort should also be made to get [Cristo%20Redentor%20%28Civ6%29](Cristo Redentor) to keep the bonuses.
+Even if you do not have a reliable way to farm Relics, this Wonder can solely be used as "Tundra [Petra%20%28Civ6%29](Petra)" and it still pays off really well. The prime example for this would be [Russian%20%28Civ6%29](Russia), with their civilization bonus making Tundra so much better already. Considering that not many civilizations will have a Tundra city or care about Relics, not many opponents will compete against you for this Wonder, so you yourself can settle one city on Tundra and try to rush it.

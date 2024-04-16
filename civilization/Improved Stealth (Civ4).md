@@ -1,0 +1,2 @@
+# Improved Stealth (Civ4)
+

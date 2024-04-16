@@ -1,0 +1,3 @@
+# Temple of the Moon (Civ3)/Mesoamerica/Civilopedia
+
+The Andean peoples who lived in the hot, humid lowlands feared the relentless heat of the sun. Their worship thus turned to the moon. The Incan Temple of the Moon sat upon the (appropriately named) Island of the Moon, and served as a acclahausi (or home) for the so-called "Chosen Women" of the moon god. Unlike other Incan buildings, its walls were covered with dried mud painted yellow and red.

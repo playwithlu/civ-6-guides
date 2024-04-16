@@ -1,0 +1,3 @@
+# Harbor (Civ6)/Civilopedia
+
+Safe haven, shelter from storms, place to rest and refit, harbor. As soon as men went sailing, the need for harbors became evident. Early civilizations sought out natural harbors, and history has been often defined by where these maritime settlements sat. In time, breakwaters, jetties, seawalls, lighthouses, and drydocks were added, and the seabed was dredged if necessary to keep the harbor open. The harbors were the centers of trade and naval war, the launch point for exploration and end point for immigration. As technology developed, "artificial" harbors could now be built to handle modern merchant ships – such as Long Beach Harbor, created from salt marshes and tidal flats – using concrete, steel, dredge barges, and pumping stations.

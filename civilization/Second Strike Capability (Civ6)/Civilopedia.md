@@ -1,0 +1,3 @@
+# Second Strike Capability (Civ6)/Civilopedia
+
+The first strike in a nuclear exchange is the initial salvo. A second strike is the ability to destroy a nuclear attacker with a retaliatory attack, even if the initial attack (the first strike) results in the destruction of the second striker. It is, in summary, a way to strike beyond the grave. In the cold, inhuman, rational calculus of nuclear deterrence theory, a second strike capability ensures that the nation will not be destroyed by an overwhelming first strike.

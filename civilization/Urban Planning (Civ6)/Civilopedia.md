@@ -1,0 +1,3 @@
+# Urban Planning (Civ6)/Civilopedia
+
+According to archeologists, there is evidence of urban planning – or at least something more than haphazard building – in a number of ancient towns found in Mesopotamia, Egypt, and the Indus Valley. They have uncovered paved streets laid out in a grid pattern, and from the 8th Century BC onward most Greek cities were laid out on orthogonal grid plans. But it was the Romans who were masters of urban planning – far more so than other civilizations. Roman city planning focused on military defense, public convenience, and ease of transport through the streets (connecting to those nice roads). As Rome declined, most of these nifty ideas disappeared for a time, although the great European cities still surround a Roman city center.

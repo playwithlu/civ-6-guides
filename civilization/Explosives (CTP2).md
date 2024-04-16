@@ -1,0 +1,8 @@
+# Explosives (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Explosives enable techniques in which dynamite is used to get deeper into the earth and extract higher yields of ore and minerals. It also enables weapons that are more destructive. The unit uses its to launch explosive charges across the land.
+Great Library entry.
+Although black powder was though to have originated in China, other evidence indicated that the Arabs were the first to develop it. By 1304, the Arabs had invented the first firearm, a bamboo tube reinforced with iron that shot an arrow with a charge of black powder. Although the Europeans adopted black powder for firearms use in the 14th and 15th centuries, it was not until the late 17th century that black powder was employed for use in explosives. Comprised of the solid ingredients saltpeter (potassium nitrate), charcoal and sulfur, it was first adapted for industrial use to blast out mines. 
+In 1846, Ascanio Sobrero, an Italian chemist, discovered nitroglycerin, and soon after, nitroglycerin and dynamite replaced black powder as the primary explosive. In 1867, the Swedish scientist Alfred Nobel invented dynamite from a mixture of 75 percent nitroglycerin and 25 percent guhr (a porous, absorbent material that improved control and ease of use). Later, ammonium nitrate was used in dynamite, making it even safer and less expensive to produce.

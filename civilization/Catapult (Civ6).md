@@ -1,0 +1,7 @@
+# Catapult (Civ6)
+
+The Catapult is a [Classical%20Era%20%28Civ6%29](Classical Era) [List%20of%20units%20in%20Civ6/By%20class%23Siege](siege unit) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+When [Ancient%20Walls%20%28Civ6%29](Walls) come online it becomes significantly more difficult to take [City%20%28Civ6%29](cities) with normal units (even with siege-oriented support). And along rolls the lumbering Catapult to aid them in breaking the walls.
+The Catapult is technically the first war machine ever invented (if we don't count the bow, of course). Unlike other passive support facilities, like the [Siege%20Tower%20%28Civ6%29](Siege Tower), it can attack on its own, hurling big rocks to reduce enemy fortifications to rubble in only a few turns, while also sporting a (relatively) decent defense.
+The Catapult deals full damage from afar, unlike the other units that are available at the time, and without taking any damage in return. However, it needs to first get in range of the city to be able to hit it. Note that there isn't a "Deploy" action anymore as in "[Civilization%20V](Civilization V)", but it still can't move and fire at a target on the same turn unless it has Expert Crew or a bonus. For more details on how the move-and-shoot rule works, head [Movement%20%28Civ6%29%23Siege%20units%20and%20the%20move-and-shoot%20rule](here). 

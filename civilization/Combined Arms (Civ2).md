@@ -1,0 +1,6 @@
+# Combined Arms (Civ2)
+
+ Combined Arms is an in "[Civilization%20II](Civilization II)".
+Allows for units to be ed
+Civilopedia entry.
+Advanced flight technology, combined with the principles of amphibious warfare and mobile warfare, represent the potential for a devastating attack force. Combined air, sea, and ground assaults played a vital role in World War II. The Allied invasion of Normandy in June 1944 represented such an attack. Bombers and fighters were deployed over the target area to claim the skies, while naval vessels sat off the coast and bombarded the beach head. Transports then landed troops and equipment on the beach to begin a ground assault. Modern advances make today's combined assaults even more effective. Naval vessels and stealth aircraft equipped with cruise missiles and smart bombs soften enemy resistance before a ground assault. Helicopters drop and retrieve soldiers behind enemy lines in places not accessible to fixed-wing aircraft. Powerful armored tanks, such as the M1, can be quickly deployed, moving at speeds up to 60 miles per hour. Finally, the combined assault is coordinated through a network of sophisticated communcation, targeting, and detection devices, allowing more precise deployment of forces than previously possible in history.

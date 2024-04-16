@@ -1,0 +1,3 @@
+# Monasticism (Civ6)/Civilopedia
+
+Monks, cloistered apart from the secular world, have sometimes served to preserve knowledge that might otherwise have been lost during a period of social strife. During the European Dark Age following the fall of the Western Roman Empire, for example, monasteries in many locations copied and preserved texts that were lost in secular libraries or private collections. These texts may not go into wider circulation during this time, but the efforts of these religious communities can prevent this knowledge from total loss. That said, it would have been nice to have a surviving copy of Aristotle’s second book of “The Poetics.”

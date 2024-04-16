@@ -1,0 +1,3 @@
+# Charismatic Leader (Civ6)/Civilopedia
+
+German sociologist Max Weber defined charismatic authority as “resting on devotion to the exceptional sanctity, heroism, or exemplary character of an individual person, and of the normative patterns or order revealed or ordained by him.” That pretty well sums it up, for charismatic leaders shape the lives of their people, for good or bad, or sometimes both simultaneously. “Charisma” comes in two sorts: 1) a compelling charm that inspires obedience, 2) a divinely conferred power or talent for leadership. In ancient days the latter tended to be the case (at least, those barely civilized folk thought so); recently, it’s been all about charming the media.

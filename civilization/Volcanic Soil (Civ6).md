@@ -1,0 +1,6 @@
+# Volcanic Soil (Civ6)
+
+Volcanic Soil is a [Terrain%20%28Civ6%29%23Features](terrain feature) in "". It is found on land [Tile%20%28Civ6%29](tiles) near that have erupted.
+Strategy.
+Volcanic Soil is a very interesting addition to the game. It practically alters the quality of any nearby non-mountainous terrain so that it can accept both Farms and Mines. This does not seem like much until you realize the huge versatility it gives to tiles. Granted, Farms may be constructed on every flat tile (and later in the game also on [Hills%20%28Civ6%29](Hills)), but being able to build Mines on flat land will help improve a [City%20%28Civ6%29](city's) potential. Besides, if the Volcanic Soil happens to hit a "barren" sort of terrain such as [Desert%20%28Civ6%29](Desert) or [Tundra%20%28Civ6%29](Tundra), which normally cannot be improved, this terrain instantly turns into "normal" terrain with the added qualities of the special volcanic yields!
+Because of the benefits of Volcanic Soil (and dangers caused by possible Eruptions), you should cherish your tiles next to Volcanoes and refrain from placing s and [Wonder%20%28Civ6%29](wonders) there. As the game progresses, these tiles will gradually become so rich in yields as to eclipse potentially any other tile type, and you can always "flip" them to provide more or if you need it at the moment.

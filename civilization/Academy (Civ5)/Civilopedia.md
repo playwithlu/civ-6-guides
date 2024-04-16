@@ -1,0 +1,3 @@
+# Academy (Civ5)/Civilopedia
+
+An academy is an institution where children can get an advanced lower (that is, pre-college) education. Academies come in all flavors - military, religious, government, and the like. Some are private, open only to the children of wealth or power or influence, while others are open to all children who meet their strict requirements. England's Eton College is one of the most famous academies in the world, taking in England's best and brightest boys between the ages of 13 and 18 since 1440.

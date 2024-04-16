@@ -1,0 +1,3 @@
+# Battlefield Medicine (Civ3)/Civilopedia
+
+While fundamentally in conflict with the destructive goals of war, physicians must still proffer aid to those in need. The practice of repairing the personal damage of war, sometimes actually during the fight itself, has a number of benefits beyond the obvious. A paramount one is that of morale, since the soldiers of an army that contains surgeons are assured care if they fall in battle.

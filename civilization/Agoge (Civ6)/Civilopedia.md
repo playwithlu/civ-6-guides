@@ -1,0 +1,3 @@
+# Agoge (Civ6)/Civilopedia
+
+In Attic Greek, “agoge” meant “rearing” – the rigorous education and training mandated for all Spartan males. Besides cultivating loyalty to Sparta, the state schools included instruction in military arts, pain tolerance, hunting, dancing, singing, public speaking, and all manner of things that make for a warrior. There was also a form for Spartan girls, although the curriculum was somewhat different (intended to prepare them to give birth to warriors). The practice of agoge waned in the 3rd Century BC throughout Greece, but was revived in some places after the Roman victory in the Achaean War.

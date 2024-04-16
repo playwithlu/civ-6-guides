@@ -1,0 +1,2 @@
+# Alliances (Civ6)
+

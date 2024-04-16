@@ -1,0 +1,2 @@
+# Great Rot (Civ6)
+

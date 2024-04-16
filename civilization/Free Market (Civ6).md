@@ -1,0 +1,5 @@
+# Free Market (Civ6)
+
+Free Market is an Economic [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+This policy will significantly boost the output of [Buildings%20%28Civ6%29](buildings) in [Commercial%20Hub%20%28Civ6%29](Commercial Hubs), though they'll need to have a high [Adjacency%20bonus%20%28Civ6%29](adjacency bonus) and/or be in large [City%20%28Civ6%29](cities) to benefit from it in the expansions. In "", it becomes much easier to leverage when playing as [Malian%20%28Civ6%29](Mali) (whose [Suguba%20%28Civ6%29](Suguba) can be built adjacent to both a [Holy%20Site%20%28Civ6%29](Holy Site) and a [River%20%28Civ6%29](River) for a +4 bonus) or after building [Machu%20Picchu%20%28Civ6%29](Machu Picchu) (which will provide a +1 bonus to Commercial Hubs built adjacent to [Mountains%20%28Civ6%29](Mountains)).

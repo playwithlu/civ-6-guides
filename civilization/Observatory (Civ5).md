@@ -1,0 +1,6 @@
+# Observatory (Civ5)
+
+Game Info.
+Bonus science building. Requires a [Mountain%20%28Civ5%29](mountain) or a mountainous [Natural%20wonder%20%28Civ5%29](natural wonder) (e.g., [Mt.%20Fuji%20%28Civ5%29](Mt. Fuji), [Old%20Faithful%20%28Civ5%29](Old Faithful), [Cerro%20de%20Potosi%20%28Civ5%29](Cerro de Potosi)) in the tile next to the [City%20%28Civ5%29](city), inside your [Territory%20%28Civ5%29](territory).
+Strategy.
+The Observatory is a rare building, because it can only be constructed in a city next to a mountain tile. The Observatory greatly increases the city's output, so consider making this city a monster early on (boost birth rate, build science buildings, assign science s, etc.). If you have [Jungle%20%28Civ5%29](jungles) nearby, preserve them and use their additional output after constructing a [University%20%28Civ5%29](University). Remember, the percentage-based buildings need a good base output to be effective, so a 100% increase in output won't matter very much in a city with a base production of 2 .

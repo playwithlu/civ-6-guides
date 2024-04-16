@@ -1,0 +1,3 @@
+# Skirmisher (Civ4)/Civilopedia
+
+At its height, the Mali Empire stretched halfway across Africa, and included many subordinate tribes. To keep order, the Mali employed a huge standing army. During war, the Mali often fought as "skirmishers" - soldiers who fan out in loose formation to protect the main force's flanks or front. The Mali skirmishers were lightly-armed archers in that force, famed for their courage and their marksmanship.

@@ -1,0 +1,3 @@
+# Mt. Everest (Civ5)/Civilopedia
+
+Its summit at nearly 30,000 feet, Mount Everest is the highest mountain on the planet. Located in Nepal, Asia, Mount Everest is a part of the Himalayan mountain range. Everest was first surmounted in 1953 (with the aid of oxygen tanks) by Edmund Hillary and Tenzing Norgay; in 1978 Reinhold Messner and Peter Habeler made the first successful ascent without supplemental oxygen. Over 210 people are known to have died while attempting to climb the mountain.

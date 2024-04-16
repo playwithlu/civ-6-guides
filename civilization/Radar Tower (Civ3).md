@@ -1,0 +1,4 @@
+# Radar Tower (Civ3)
+
+Radar Towers provide a combat bonus to units within their affected area. To construct a Radar Tower, move a to any land tile within your territory and select the "Build Radar Tower" unit action. Construction of the Radar Tower consumes the worker. The range of the effected area is 2 tiles. Friendly units within the Radar Tower's range get a +25% attack and defense bonus. This bonus can only be applied once, even if multiple towers overlap. Radar Towers can only be used by the player who created them. Should a Radar Tower fall into the territory of another civilization, it will be destroyed. Radar Towers can only be built in tiles that are empty or have a , , and/or .
+The "Build Radar Tower" unit-action becomes available after the advance is researched in "[Play%20the%20World](Play the World)" and after in "[Conquests](Conquests)".

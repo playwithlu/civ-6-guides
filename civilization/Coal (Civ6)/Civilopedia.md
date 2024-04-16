@@ -1,0 +1,3 @@
+# Coal (Civ6)/Civilopedia
+
+From the Old English term col, meaning “mineral of fossilized carbon,” coal has been civilization’s primary source of heat for millennia – of homes, forges, smelters, electrical plants and such. Decomposed plant matter that has been compressed over millennia, coal was first used for carved ornaments dating back to c. 4000 BC found in the Shenyang region of China. Men have been stripping it out of the ground ever since.

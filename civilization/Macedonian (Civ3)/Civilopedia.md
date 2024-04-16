@@ -1,0 +1,4 @@
+# Macedonian (Civ3)/Civilopedia
+
+During the 8th century BC the Greek culture saw a revival from its medieval past, and by the 5th - 4th century BC, the Classical Age was born. Soon the cultural Greek revival was laying the foundations of the modern science, philosophy, economy and military technology. Architecture and sculpture flourished.
+The Greek civilization was not recognized for forming a strong and vibrant state, but rather, they developed their nation into small, organized states, called "polises", which in case of need entered into leagues. Despite this organization, they were often known for fighting amongst themselves. As the Macedonian state (356-180 BC) grew in strength, many of the smaller polises soon bowed to its cultural and economic power and the Macedon’s could hold them under its leadership. Soon however, the power of Rome would be seen, and by 146 BC the Roman State of Macedonia was formed.

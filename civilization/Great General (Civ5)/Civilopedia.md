@@ -1,0 +1,3 @@
+# Great General (Civ5)/Civilopedia
+
+"Great Generals" are the supreme warriors of civilization. They create the weapons and train the soldiers. They plan the strategies to protect a civilization from its enemies, creating bold offensives, strong fortifications and cunning traps. They are the first out of the trench or onto the enemy's ship. They lead the charge into battle, carrying the fate of the people on their broad shoulders.

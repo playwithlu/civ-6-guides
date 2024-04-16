@@ -1,0 +1,6 @@
+# Huey Teocalli (Civ6)
+
+The Huey Teocalli is a in "[Civilization%20VI](Civilization VI)". It must be built on a adjacent to land.
+Strategy.
+The Huey Teocalli is great at boosting the of a small empire and making all Lake tiles worth more, especially in [City%20%28Civ6%29](cities) that also have a [Lighthouse%20%28Civ6%29](Lighthouse). Aim to build it in the biggest lake you can find - the more Lake tiles adjacent to the wonder, the better. The best possible Lake configuration will provide +6 (five adjacent Lake tiles plus Huey Teocalli's tile), making this wonder more than worthwhile. [Crater%20Lake%20%28Civ6%29](Crater Lake) will also be boosted by Huey Teocalli. (The [Dead%20Sea%20%28Civ6%29](Dead Sea) and [Lake%20Retba%20%28Civ6%29](Lake Retba) are considered [Coast%20%28Civ6%29](Coast) while the [Fountain%20of%20Youth%20%28Civ6%29](Fountain of Youth) and [Ik-Kil%20%28Civ6%29](Ik-Kil) are flatlands, so none of these [Natural%20wonder%20%28Civ6%29](natural wonders) will be affected by Huey Teocalli.)
+The [Dutch%20%28Civ6%29](Dutch) will benefit greatly from Huey Teocalli. They have a good incentive to settle alongside lakes so they can harness their [Polder%20%28Civ6%29](Polders') [Adjacency%20bonus%20%28Civ6%29](adjacency bonuses), and can boost their and bonuses even further by building this wonder.

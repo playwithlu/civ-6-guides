@@ -1,0 +1,6 @@
+# Metal Casting (Civ6)
+
+Metal Casting is a [Renaissance%20Era%20%28Civ6%29](Renaissance Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by owning 2 [Crossbowman%20%28Civ6%29](Crossbowmen).
+Strategy.
+Metal casting elevates working with metal to a whole new level. Beating heated metal is only able to achieve so much; pouring molten metal into a pre-made mold brings out practically infinite possibilities. With the invention of gunpowder, and the resulting need of great quantities of identical metallic balls to be used by gun-wielding [Unit%20%28Civ6%29](units), metal casting proves quickly to be an incredibly useful technique which soon finds its way into civil usage as well.
+Metal Casting makes it possible to train [Bombard%20%28Civ6%29](Bombards), crude cannons that will help change siege warfare forever. In "", it also unlocks the [Pike%20and%20Shot%20%28Civ6%29](Pike and Shot), an [List%20of%20units%20in%20Civ6/By%20class%23Anti-cavalry](anti-cavalry unit) that can stand up to the [Cavalry%20%28Civ6%29](Cavalry) and [Cuirassier%20%28Civ6%29](Cuirassiers) of the [Industrial%20Era%20%28Civ6%29](Industrial Era).

@@ -1,0 +1,5 @@
+# Science setting (CTP1)
+
+In order to get , the ruler must spend or have Scientists. The science setting is the tool that allows the Civilization to designate the percentage of gold to be spent on science, researching each turn. The more science generated, the faster the Civilization obtains a new Advance. Also, certain governments allow for more scientific research than others.
+Great Library entry.
+In the annals of history, the pursuit of science has often varied, as science can be costly. The study of the natural world requires laboratories, materials, and support. Although private individuals or corporations (in modern times) have paid for the costs, often governments have had to shoulder these expenses. Even in earlier times, the government sponsored the Great Library of Egypt and later, England's Royal Society. At times, as with the 20th century space race, governments funneled vast sums into new technology. Though spending funds on science reduced the monies available for the army and for citizens, the constant flow of knowledge ensured a prosperous future.

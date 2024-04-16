@@ -1,0 +1,4 @@
+# Petty Criminals (Col)
+
+Petty Criminals have been ordered to the New World as punishment for their crimes. In general, criminals are the "least productive members of your communities." They make good laborers but are almost totally ineffective in manufacturing or processing jobs. But, through [education%20%28Col%29](education) or military experience, they can become [Indentured%20Servants%20%28Col%29](servants). Indian settlements will not teach petty criminals.
+Petty Criminals can be made into [Scouts%20%28Col%29](Scouts), [Soldiers%20%28Col%29](Soldiers), [Dragoons%20%28Col%29](Dragoons), or [Missionaries%20%28Col%29](Missionaries) with no education required.

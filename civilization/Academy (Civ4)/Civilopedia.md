@@ -1,0 +1,5 @@
+# Academy (Civ4)/Civilopedia
+
+An academy is a school for advanced learning. Though China, Egypt, and India had such institutes earlier, the term "academy" was first applied to the Athenian school of philosophy, founded by Plato in approximately 390 BC. The school was built near a sacred grove named "Hekademia." 
+An academy was an important asset for a city. It attracted both brilliant scholars and the children of wealthy or noble parents, who might then decide to settle in the city permanently. The academy could provide a broad, general education to its students, or it might concentrate upon a specific subject such as philosophy, mathematics, art, natural philosophy (the world and everything in it), or the martial arts. 
+Today there are many educational facilities which bear the name "academy." The term is used loosely now, and in addition to its original meaning, is often applied to schools for children and teenagers.

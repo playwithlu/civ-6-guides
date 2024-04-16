@@ -1,0 +1,3 @@
+# Urban Warfare (Civ6)/Civilopedia
+
+Some 5500 years ago, before writing was invented to record it, the people of the city of Hamoukar, near rich copper mines, were subjected to the first known instance of urban warfare when an army from the city of Uruk attacked and fought their way through the streets, killing most everyone. Fighting in built-up areas is a tactical nightmare, but by the Middle Ages some military units came to specialize in it. When a town's walls were breached, these foot soldiers would pour through the gap to end the resistance in hand-to-hand combat (since neither mounted nor missile troops were much use in the narrow confines), as at Jerusalem and Constantinople during the Crusades.

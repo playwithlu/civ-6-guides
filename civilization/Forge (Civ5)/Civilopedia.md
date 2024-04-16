@@ -1,0 +1,3 @@
+# Forge (Civ5)/Civilopedia
+
+A forge is a building containing a furnace capable of generating the temperatures necessary to melt and shape iron into anything from horseshoes to nails to arrowheads. This requires a significant amount of heat, and the blacksmith might have an apprentice. A type of assistant his job was to pump bellows to blow fresh air on the flames to keep them hot. A blacksmith might "work" the iron by getting it red-hot and then beating it into shape on an anvil with various hammers. Or the blacksmith might pour molten metal into forms of clay or sand or metal, removing the forms once the iron had cooled enough to hold its shape.

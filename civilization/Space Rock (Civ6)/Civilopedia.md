@@ -1,0 +1,3 @@
+# Space Rock (Civ6)/Civilopedia
+
+Ignorance of science is no obstacle to popular culture, which can seize on any passing madness in its ravening jaws. Thus also with the space program and music. Whether especially googie guitar arrangements, gratuitous use of the Theremin, or lyrics that espouse frankly impossible meditations on being in space, “space rock” constitutes a genre with a particular reference to aerospace matters, while conveying precious little factual information about that discipline.

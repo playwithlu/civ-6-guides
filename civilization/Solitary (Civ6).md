@@ -1,0 +1,2 @@
+# Solitary (Civ6)
+

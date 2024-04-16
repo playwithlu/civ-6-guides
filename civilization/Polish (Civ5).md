@@ -1,0 +1,8 @@
+# Polish (Civ5)
+
+The Polish people (or Poles) represent a [Civilizations%20%28Civ5%29](civilization) in "".
+Strategy.
+The Poles are one of the most versatile nations, but also one specialized in mounted [Unit%20%28Civ5%29](units). Their [Unique%20building%20%28Civ5%29](unique building), the [Ducal%20Stable%20%28Civ5%29](Ducal Stable), helps them train better mounted units, and later their [Winged%20Hussar%20%28Civ5%29](Winged Hussars) confer them a great advantage over the enemy in the middle game. Their [Unique%20ability%20%28Civ5%29](unique ability) allows them to progress faster than normal with their [Social%20policies%20%28Civ5%29](social policies).
+To best utilize Poland's advantages, a militaristic path is optimal. Also, look for any , , and/or [Resources%20%28Civ5%29](resource) that allows you to build Ducal Stables - they will be very valuable to you! Try to aim for these when settling your first [City%20%28Civ5%29](cities), because the extra and this early in the game will confer a significant boost to your local and global economies.
+[Domination%20victory%20%28Civ5%29](Domination victory) is preferred because the extra social policy per [Era%20%28Civ5%29](era) helps you catch up to other nations in social development, as with a military strategy, you'll be busy building units and military [Building%20%28Civ5%29](buildings) instead of cultural buildings. The extra policy per-era can also help you with your [Ideology%20%28Civ5%29](ideology).
+On the other hand, the unique ability also makes it possible to win the game by diplomatic, scientific, or cultural means, provided you explore the appropriate social policy trees.

@@ -1,0 +1,17 @@
+# Fort (Civ4)
+
+A Fortification (usually just called a Fort) is a defensive [Tile%20improvement%20%28Civ4%29](tile improvement).
+Building Forts.
+A [List%20of%20civilizations%20in%20Civ4](civilization's) [Worker%20%28Civ4%29](Workers) can build Forts as soon as it discovers the [Mathematics%20%28Civ4%29](Mathematics) [List%20of%20technologies%20in%20Civ4](technology). Like most tile improvements, Forts cannot be built in foreign territory. They can, however, be built in neutral territory, and of course within a civ's own territory. Forts may be built on any [Tile%20%28Civ4%29](tile) except [Terrain%20%28Civ4%29](oasis) tiles. Building a Fort removes any other tile improvement present except for a [Roads%20and%20railroads%20%28Civ4%29](road) or [Roads%20and%20railroads%20%28Civ4%29](railroad).
+It takes Workers 10 [turn](turn)s to build a Fort on Normal [Speed%20%28Civ4%29](speed), with the normal scaling for other speeds (15 on Epic, 30 on Marathon, 7 on Quick).
+Effects on Military Units.
+A Fort gives a +25% defensive bonus to land [List%20of%20units%20in%20Civ4](units) on its tile.
+A Fort counts as a [City%20%28Civ4%29](city) for the purpose of [combat](combat). Thus, any units with inherent bonuses related to combat in cities (e.g., [Archer%20%28Civ4%29](Archers) have inherent +25% city defense) will get those benefits defending (or attacking) a Fort. Also, land units with [City%20Garrison%20%28Civ4%29](City Garrison) [Promotion%20%28Civ4%29](promotions) will get those benefits in a Fort, while attackers with [City%20Raider%20%28Civ4%29](City Raider) promotions will have increased strength when attacking any unit in a Fort.
+All Forts count as a friendly city for the purposes of military unit healing.
+[Coastal%20%28Civ4%29](Coastal) Forts act like a coastal city for [Naval%20unit%20%28Civ4%29](naval units): naval units can move into the Fort tile. Land units can board and unboard transport-capable ships in a Fort without loss of [Movement%20%28Civ4%29](movement) points.
+Forts serve as airbases, allowing up to four [Air%20unit%20%28Civ4%29](air units) to be based there. [Paratrooper%20%28Civ4%29](Paratroopers) can drop from a Fort, and missile units can be based there.
+If a Fort is captured (that is, occupied by enemy units) when naval, missile, or air units are there, they are destroyed. Forts can also be destroyed by [Spy%20%28Civ4%29](Spies), [Bombard%20%28Civ4%29](bombardment), or pillaging; when this happens, naval units will be expelled to the ocean while missile and air units are rebased to the nearest city or Fort with space for them. If there is nowhere for air units to be, they are destroyed instead.
+Economic Effects.
+Although they do not affect a tile's [Production%20%28Civ4%29](production), Forts may unlock any [Resource%20%28Civ4%29](resource) present on their tile. For a Fort to unlock a resource, two conditions must be met:
+Note that there are some resources which you can see on the [Map%20%28Civ4%29](map) before you can use. For example, [Oil%20%28Civ4%29](Oil) is revealed by [Scientific%20Method%20%28Civ4%29](Scientific Method), but only accessible with [Combustion%20%28Civ4%29](Combustion).
+Coastal Forts act like port cities in linking to their civilization's [Trade%20route%20%28Civ4%29](trade network).

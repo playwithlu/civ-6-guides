@@ -1,0 +1,3 @@
+# Ship Building (Civ3)/Age of Discovery/Civilopedia
+
+Advances in navigation made it feasible for monarchs to commission the construction of bigger ships, capable of staying at sea for months rather than weeks, and carrying huge cargoes (since a long trip is hardly worthwhile if only a few barrels and crates can fit in the holds). The perfecting of large cargo ship designs led, in turn, to the construction of advanced warships, although the huge expense involved often precluded a nation from building more than a handful of ships that size. The exceptions were England, of course, whose King Alfred realized as early as the 9th century C.E. that a navy answering directly to the King would prove an invaluable asset.

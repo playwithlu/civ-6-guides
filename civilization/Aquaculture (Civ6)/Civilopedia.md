@@ -1,0 +1,3 @@
+# Aquaculture (Civ6)/Civilopedia
+
+From some of the earliest hunter-gatherer cultures, coastal-dwelling humans harvested natural fisheries to their benefit by constructing weirs and fish pens. As land-based agriculture has become more expensive and natural fisheries are threatened, the aquaculture movement seeks ways to create sustainable, managed populations of seafood. Aquaculture-raised seafood provides a growing percentage of the world’s seafood today.

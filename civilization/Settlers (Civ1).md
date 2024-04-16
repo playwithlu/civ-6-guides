@@ -1,0 +1,7 @@
+# Settlers (Civ1)
+
+Settlers are an early unit. They both found new cities, and make [Improvements%20%28Civ1%29](improvements) to the land. They can be added to the population of existing cities with a population less than 10. Unlike most other units, they require [food%20%28Civ1%29](food) as maintenance, in addition to shields depending on home city size and government type. Therefore, Settlers slow down the population growth of their home city. Also, when Settlers are created, the city they are trained from loses one population point. They are essential, expensive, and defenseless.
+Settlers are arguably the most important unit in the game, and if produced efficiently, can expand you civilization exponentially if you have the land area in which to do so. 
+On encountering an enemy settler unit, they should be attacked without mercy.
+Civilopedia entry.
+In ancient times, cities would inevitably grow to a size where the resources were insufficient to adequately insure a decent standard of living for the populace. When this happened, it was time for some of the more adventurous citizens to move on and look for another place to build a city. New Settlers set out, searching for a suitable site, and there establishing their new homes. The new city normally maintained ties and loyalty to the old, and eventually sent out its own Settlers.

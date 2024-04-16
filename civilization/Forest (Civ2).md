@@ -1,0 +1,5 @@
+# Forest (Civ2)
+
+Forests are a type in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+Extensive areas of land covered by a thick growth of trees and related ground vegetation are classified as forests. There are several different types of forest, determined primarily by climate and the type of vegetation they contain. Forests of some type exist on nearly every continent in the world. Forests are a valuable source of natural resources, providing wood for paper products, building, and other purposes. The harvesting of trees must be done carefully, however. If not done in moderation, lumbering can destroy the natural habitat for indigenous animal species, and destroy the ecology of the land. Government regulations limiting the amount of trees that can be cut, and requiring the lumber industry to plant new trees to replace what they have harvested, help to prevent major ecological damage as a result of deforestation.

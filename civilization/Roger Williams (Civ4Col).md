@@ -1,0 +1,5 @@
+# Roger Williams (Civ4Col)
+
+Civilopedia.
+Lived: 1603-1683
+Roger Williams was the founder of the city of Providence and the colony that later encompassed it, Rhode Island. While an ardent Christian, Williams was not a man of orthodoxy, and traveled to the Massachusetts colony to escape the oppressive air of England. Williams, though, soon found the piety of the Puritans as much to his disliking as that of the Anglicans in England. Setting off southwards to find his destiny, Williams founded Providence, prescribing for the young colony two revolutionary changes - that there should be complete freedom of worship and a clear separation between church and state. This sense of tolerance was to apply not just to European Rhode Islanders but also to the local Native American population, who Williams, considered one of the foremost negotiators of his time thanks to his patience and linguistic mind, treated with an unprecedented level of equanimity.

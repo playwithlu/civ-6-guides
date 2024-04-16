@@ -1,0 +1,3 @@
+# Hanging Gardens (C-evo)
+
+The Hanging Gardens is a [Wonder%20%28C-evo%29](Wonder) in the free-to-play game "[C-evo](C-evo)". It costs 200 material at standard [Difficulty%20level%20%28C-evo%29](difficulty), requires knowledge of Invention, and is [obsolete](obsolete)d when any nation discovers Nuclear Fission. It allows irrigation of desert tiles to produce plains or grassland, and it makes all units impervious to terrain hostility.

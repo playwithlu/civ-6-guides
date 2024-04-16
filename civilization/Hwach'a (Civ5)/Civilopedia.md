@@ -1,0 +1,3 @@
+# Hwach'a (Civ5)/Civilopedia
+
+The Hwach'a, legendary Korean anti-infantry weapon, was a unique innovation in the development of early gunpowder-based weaponry. Created during the 15th century under the supervision of [Sejong%20%28Civ5%29](King Sejong the Great), the Hwach'a consisted of a large two-wheeled cart carrying a type of "honeycomb" housing, not unlike a modern missile battery, capable of storing hundreds of gunpowder-propelled arrows. The light weight of these early rockets, known as "Singijeon," provided the Hwach'a with a notable advantage, allowing excellent maneuverability compared to a traditional cannon. The Hwach'a would prove to be a formidable weapon for the defense of the Korean Peninsula during the Japanese invasions of the 16th century.

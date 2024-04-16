@@ -1,0 +1,4 @@
+# Paganism (Civ4)/Civilopedia
+
+"Paganism" describes religions that believe in the holiness of all things around them - rocks, trees, animals, clouds and so forth - rather than in specific concepts or beings. Pagans believe in multitudes of gods, that the gods are all around them, causing the sunset, the rising of bread, and the success of the hunt.
+A pagan seeks to remain in harmony with the natural world around him or her. The pagan doesn't look to appease a distant deity or hierarchy of deities who control his or her destiny. To a pagan, the gods are all around him or her, in plain sight every day.

@@ -1,0 +1,3 @@
+# Architecture (Civ5)/Civilopedia
+
+Architecture can be considered both an art and a science. Encompassing everything from the initial planning and design of a structure, to the actual construction process, architecture has been a crucial element of the building process since ancient times. One of the earliest known discussions of architecture and its principles, "De Architectura," was written by the Roman architect Vitruvius in the first century BC. A ten volume set comprising all of the most intricate details of Roman construction methods, Vitruvius's work is widely recognized today as a crucial development in the evolution of the architectural design process.

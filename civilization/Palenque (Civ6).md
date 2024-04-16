@@ -1,0 +1,6 @@
+# Palenque (Civ6)
+
+Palenque is a scientific [City-state%20%28Civ6%29](city-state) in "[Civilization%20VI](Civilization VI). "It was added in the [Vikings%20Scenario%20Pack%20%28Civ6%29](Vikings Scenario Pack).
+In the [Maya%20%26amp%3B%20Gran%20Colombia%20Pack%20%28Civ6%29](Maya &amp; Gran Colombia Pack), with the introduction of the [Mayan%20%28Civ6%29](Maya) as a playable [Civilizations%20%28Civ6%29](civilization), Palenque became a [Mayan%20cities%20%28Civ6%29](Mayan city) and was replaced with [Mitla%20%28Civ6%29](Mitla) under all rulesets.
+Strategy.
+The faster growth rate provided by Palenque works similar to other growth rate bonuses in the game, like the [Hanging%20Gardens%20%28Civ6%29](Hanging Gardens) or the [Fertility%20Rites%20%28Civ6%29](Fertility Rites) [Pantheon%20%28Civ6%29](pantheon), as it modifies the amount of after accounting for citizen consumption, not the total amount of , so this is always negligible. Coupled with the fact that this bonus comes with a condition that the city needs a Campus and the existence of in "[Civilization%20VI](Civilization VI)", Palenque should be close to the bottom of your city-state priority list. 

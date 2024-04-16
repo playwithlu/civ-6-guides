@@ -1,0 +1,3 @@
+# Telecommunications (Civ5)/Civilopedia
+
+Telecommunication allows for the transmission of data and information over long distances using various types of signaling devices. Early forms of primitive ranged communication, including the use of smoke and signal flags, eventually gave way to telegraphs, and later, the telephone. Scientific research and engineering, particularly in the last 30 years, has led to breakthroughs in our ability to communicate globally. Orbiting satellites now provide a means for the transmission of data even to the most remote areas on Earth. Television, internet, cellular telephones, and GPS are now fully integrated into the daily lives of millions across the world because of telecommunications research.

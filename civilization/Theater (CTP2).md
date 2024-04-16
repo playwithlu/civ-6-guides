@@ -1,0 +1,7 @@
+# Theater (CTP2)
+
+The is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The Theater is one of the first organized entertainment venues available to . Dramatic presentations enlighten, entertain and educate people, as well as give them an opportunity to leave behind some of the more mundane aspects of their lives. increases with each theater that opens in one's empire.
+Great Library entry.
+The word "theater" derived from the Greek word "theaomai," meaning "to see." Traditionally, Greek dramas were performed in an outdoor setting comprised of three zones: the orchestra, a large circular dancing floor on which the action took place, the skene (from whence the word "scene" came from) behind this, where actors dressed and built scenes, and a low architectural facade upon which painted scenery could be attached. Seating for spectators formed a semi-circle around the orchestra. It was usually cut into a hillside and featured wooden benches, and, later, stone or marble seats. The steep layout of some auditoriums enabled as much as 10,000 to 20,000 people to sit reasonably close to the action on stage, as well as enhanced acoustics. Some theaters employed periaktoi, or revolving panels, to quickly change scenery, as well as a mechane, or crane, which served to fly in the gods (deus ex machina) to provide closure at the end of a tragic play.

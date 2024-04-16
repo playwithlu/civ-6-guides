@@ -1,0 +1,9 @@
+# Protective (Civ4)
+
+"Protective" is one of the [Leader%20trait%20%28Civ4%29](leader traits), introduced in the ' and ' [expansion%20pack](expansion pack)s. With Protective [Leaders%20%28Civ4%29](leaders) the [Archery%20unit%20%28Civ4%29](Archery) and [Gunpowder%20unit%20%28Civ4%29](Gunpowder Units) receive [Drill%20%28Civ4%29](Drill I) and [City%20Garrison%20%28Civ4%29](City Garrison I) automatically. Protective leaders also get double production speeds for the [Walls%20%28Civ4%29](Walls) and [Castle%20%28Civ4%29](Castle).
+The following leaders are Protective:
+Strategy.
+The Protective trait is generally more effective in the early game, where cheaper [Castle%20%28Civ4%29](Castles) and [Walls%20%28Civ4%29](Walls) are helpful to build a fast defense in the event of war, and highly promoted [Archer%20%28Civ4%29](Archers) and [Longbowman%20%28Civ4%29](Longbowmen) help prevent early attacks.
+In the mid-game, gunpowder units are used both in offense and defense. [Drill%20%28Civ4%29](Drill I) can be quite useful for offense (as it can lead directly into promotions such as [Pinch%20%28Civ4%29](Pinch)), while [City%20Garrison%20%28Civ4%29](City Garrison I) means no matter which gunpowder units take a city, they can keep it defended.
+In the late-game, however, the Protective trait becomes weaker as combat diversifies, your quick-building [List%20of%20buildings%20in%20Civ4](buildings) are [obsolete](obsolete) and the trait doesn't help you with late-game [Victory%20%28Civ4%29](victories).
+So, to make the best use of the Protective trait, it may be a good idea to keep defensive early on and launch an attack in the [Renaissance%20Era%20%28Civ4%29](Renaissance), or in the [Medieval%20Era%20%28Civ4%29](Medieval era) if the civilization you're running has a capable [Unique%20unit%20%28Civ4%29](unique unit) for the time.

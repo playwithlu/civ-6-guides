@@ -1,0 +1,5 @@
+# Food (CTP1)
+
+Food is one of the fundamentals of growing and maintaining a Civilization. Each citizen eats an allotment of food measured in , which the ruler sets. The level of rations also affects the 's . A core minimum of food is necessary to keep the citizens alive. However, in order to grow, the city needs a surplus of food. Food is created by assigning a or to work a terrain tile that creates food. But there are other ways to increase food. s, such as the also help boost food, as do certain s. s and affect food production and consumption.
+Great Library entry.
+In order to maintain a thriving society, Civilizations require food. Even with the arrival of the Industrial Age, starvation has remained a lurking threat. In 1769, ten million died in India from severe famines. A hundred years later, northern China experienced similar desolation, and in the late 20th century, civil war and drought drove millions more to an early grave.

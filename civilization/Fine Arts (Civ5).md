@@ -1,0 +1,7 @@
+# Fine Arts (Civ5)
+
+Fine Arts is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It was added in "[Brave%20New%20World](Brave New World)". It is part of the [Aesthetics%20%28Civ5%29](Aesthetics) tree.
+Regular societies produce art. Culture-oriented societies produce fine art. And everyone can tell the difference between the two, even without an extensive education. An interesting side-effect is that the happier the artists in such a society, the more inspired are their works, which is not true for artists in regular societies.
+Strategy.
+This level 1 Policy can be very helpful, or just helpful, depending on the amount of in your empire, and on the exact moment of the game. A 5-point increase in could really make a difference in the Classical Era, but not so much in the Industrial. And in most games, this is more or less what the benefit of this Policy amounts to, at least until you adopt an [Ideology%20%28Civ5%29](Ideology) and get these powerful Happiness-boosting Tenets which allow you to maintain 40+ in the empire. 
+So, you should judge well wether you need this Policy, or you can adopt the other level 1 Policy in the tree ([Cultural%20Centers%20%28Civ5%29](Cultural Centers)) first, which will bring you a more long-term benefit. In short, if your Happiness is less than 10, go for the other one. You will eventually get this one later, since it is required to progress further down the tree.

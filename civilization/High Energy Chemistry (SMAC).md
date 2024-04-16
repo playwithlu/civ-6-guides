@@ -1,0 +1,3 @@
+# High Energy Chemistry (SMAC)
+
+Breakthroughs in [Applied%20Physics%20%28SMAC%29](Applied Physics) and [Industrial%20Base%20%28SMAC%29](Industrial Base) lead to an understanding of High Energy Chemistry. This discipline seeks to understand the properties and behavior of matter at very high temperatures, and results in new types of materials that remain in a stable plasma state even when superheated by intense laser stimulation.

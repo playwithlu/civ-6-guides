@@ -1,0 +1,8 @@
+# Genome Project (CTP2)
+
+The Genome Project is a [Wonder%20%28CTP2%29](Wonder) in "[Call%20to%20Power%20II](Call to Power II)". It costs 15,200 production points to build.
+Gameplay.
+The Genome Project unconceals many of the mysteries behind human genetics. This insight enables medical science to begin developing genetic solutions to common ailments, making people stronger and healthier. Units gain a health bonus and citizens become more .
+Great Library entry.
+On June 26, 2000, scientists involved in two separate projects - the publicly funded Human Genome Project, an international collaboration coordinated by the United States Department of Energy and the National Institutes of Health (NIH), and Celera Genomics, a private company based in Rockville, Maryland, jointly announced that they had completed a rough draft of the human genome (the complete genetic makeup of human beings).
+Researchers approximated the order of 85 percent of the roughly 3.1 billion chemical subunits, called nucleotide base pairs, which constituted the human genome. However, they had yet to determine the exact count of the estimated 25,000 and 150,000 genes that comprised the human genome. The US government launched the Human Genome Project in 1990, intending it to last 15 years. Eventually, research centers in the US, Europe and Japan joined the effort throughout the 90s. In 1998, Celera began their decoding operation, employing the world's largest group of supercomputers. The rivalry between the government's Genome Project and the Celera's effort heated up, with allegations of profiteering, flawed strategies and moving too slowly from both sides. Experts concluded, however, that the sometimes publicly harsh rivalry prompted both sides to work faster.

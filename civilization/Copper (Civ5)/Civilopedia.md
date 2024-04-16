@@ -1,0 +1,3 @@
+# Copper (Civ5)/Civilopedia
+
+The soft, orange-hued metal known as copper has been used for thousands of years for everything from weapons, to currency, to circuits and electrical wiring in the modern day. Copper has a number of unique qualities, not the least of which are its antimicrobial abilities. Copper is naturally resistant to many forms of bacteria, leading to its use in plumbing and other applications where human contact is frequent, for example in doorknobs. Copper is also valuable for the alloys produced when it is combined with other metals. When mixed with tin, copper forms the alloy known as bronze. When combined with zinc, brass is produced.

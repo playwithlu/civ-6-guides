@@ -1,0 +1,5 @@
+# Recommission Nuclear Reactor (Civ6)
+
+Recommission Nuclear Reactor is a [Project%20%28Civ6%29](project) in "". It becomes available after researching [Nuclear%20Fission%20%28Civ6%29](Nuclear Fission).
+A [City%20%28Civ6%29](city) must have an [Industrial%20Zone%20%28Civ6%29](Industrial Zone) with a [Nuclear%20Power%20Plant%20%28Civ6%29](Nuclear Power Plant) to undertake this project. The project performs extensive maintenance on the plant's nuclear reactor, ensuring that all safety systems function again at full efficiency. When completed, it resets the age of the reactor to 0, eliminating the possibility of [Nuclear%20Accidents%20%28Civ6%29](Nuclear Accidents) occurring until the reactor ages again.
+This project costs 400 . Despite being a district project, its cost does not scale with further research or development of new techs or civics.

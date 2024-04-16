@@ -1,0 +1,3 @@
+# Armor Piercing (Civ6)/Civilopedia
+
+From the time armored cavalry made their appearance on the battlefield, other armored cavalry was used to try and dissuade them from running over all the rest of the army. During the High Middle Ages, this took the form of opposing bodies of knights armed with jousting lances, tipped with pointy iron or steel socketed heads that could penetrate plate armor (knights usually also carried a sword or dagger to fight when unhorsed). Armored vehicles on the battlefield brought a new batch of armor-piercing weapons: armor-piercing high explosive (APHE), high-explosive incendiary (HEI), high-explosive anti-tank (HEAT), armor-piercing discarding sabot (APDS), and many other shells.

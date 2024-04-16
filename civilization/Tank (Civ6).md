@@ -1,0 +1,7 @@
+# Tank (Civ6)
+
+The Tank is a [Modern%20Era%20%28Civ6%29](Modern Era) [List%20of%20units%20in%20Civ6/By%20class%23Heavy%20cavalry](heavy cavalry unit) in "[Civilization%20VI](Civilization VI)". It upgrades from the (or its replacements), , , or [Rough%20Rider%20%28Civ6%29](Rough Rider) and requires .
+In the "" expansion, the Tank upgrades from the [Cuirassier%20%28Civ6%29](Cuirassier) (or its replacements). It requires 1 to train and 1 per turn to maintain.
+Strategy.
+The Tank heralds the advent of mechanized warfare, and represents in the game, just as in the real world, a game changer on the battlefield. Its mass of armor and cannons is able to crush even modern infantry under its tracks, and its speed remains decent (although less than that of the [Cavalry%20%28Civ6%29](Cavalry), the Tank is still faster than all other units).
+The greatest challenge for the player, however, is to find the [Resource%20%28Civ6%29](resource) needed to produce Tanks. The cavalry units of earlier [Era%20%28Civ6%29](eras) (both light and heavy) use basic resources that are revealed practically from the start of the game, but is one of the rarest resources in "Civilization VI". Moreover, it is most commonly found off-shore, which requires an even more advanced technology ([Plastics%20%28Civ6%29](Plastics)) to access. In short, whoever has the has the best chance of reaching a [Victory%20%28Civ6%29%23Domination](Domination Victory) in the Modern Era. If you can't find any , train up some [AT%20Crew%20%28Civ6%29](AT Crews) to counter the threat the Tank poses.

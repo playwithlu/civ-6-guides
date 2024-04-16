@@ -1,0 +1,10 @@
+# Drama (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Drama brought about a formalization of the oral tradition of storytelling. History plays told the story of past events and educated people about their heritage. Tragedies and comedies taught morality and reflected the social values of the culture in their themes.
+The Theater is the central entertainment venue in a city, making citizens happier.
+Great Library entry.
+Drama and theater derives from the oral tradition of storytelling, where people told myths, history and instructional stories to younger generations to educate, enlighten and entertain. The history of drama is as diverse as the myriad cultures of the world. Greek theater consisted of masked actors speaking their lines on a stage, and was the basis for dramatic productions across the Western world. Asian theater, by contrast, employed storytelling, dance, music and mime, and incorporated masks, makeup, scenery, costumes, puppets and props. The focus was generally on the performance itself, whereas in Greek theater it was on the text.
+Drama has had many functions: entertainment, reinforcement of cultural or social order, religious and political education and any combination thereof. Theaters were often the center of entertainment in a city. Whether elaborate amphitheaters designed to seat thousands or small, wooden stages set in town squares, theaters, and theatrical performances have been a main source of entertainment in the vast majority of cultures.
+The Ramayana was one of the two great classic Sanskrit epic poems of India. Based on numerous legends, it was probably composed in the third century BC by the great Hindu poet Valmiki. Although initially a poem, it was also performed as a dramatic work in many Southeast Asian cultures and influenced Asian and Indian culture, art and theater for millennia.

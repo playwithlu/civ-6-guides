@@ -1,0 +1,3 @@
+# Quebec City
+
+Quebec City (or Québec) is a [Canadian](Canadian) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and a [New%20French](New French) city in the "[Colonization%20%28game%29](Colonization)" games, and also appears as a [city-state](city-state). In real life, it is the capital of Quebec province in present-day Canada.

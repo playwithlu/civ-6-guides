@@ -1,0 +1,4 @@
+# Apadana (Civ6)/Civilopedia
+
+Though an apadana was a specific style of ancient construction, the Apadana at Persepolis most typified the style. Dozens of columns supported a wooden roof, all built atop an elevated stone surface accessible by large staircases. The structure was open to the elements, though temporary “rooms” could be created by hanging cloth between columns.
+Darius the Great began construction of the Apadana at Persepolis, and Xerxes I completed it. The dynasty’s accomplishments were literally carved into the wall, whether text declarations or reliefs depicting the splendor and majesty of the Persian kings. Unfortunately for the Achaemenids, the Apadana was mostly destroyed by Alexander the Great’s forces during his Persian conquests. Some of its columns remain standing in the modern day.

@@ -1,0 +1,5 @@
+# War
+
+War is a state of armed conflict between different nations or states, or different groups within a nation or state. It is a part of almost every game on this wiki.
+In "[Civilization%20IV](Civilization IV)" and beyond, players can declare war on each other through the [diplomacy](diplomacy) screen. [AI](AI) [leaders](leaders) are more likely to declare war on a human player who has a weak military and/or is close to achieving [victory](victory).
+Being at war provides opportunities to capture [City](cities), [pillage](pillage) [tile%20improvement](tile improvement)s for [Gold%20%28currency%29](gold) and other spoils, progress toward a [Conquest%20Victory](Conquest) or [Domination%20Victory](Domination Victory), and impede opponents' victory progress. However, it also cancels any trade deals, worsens relationships with other [civilizations](civilizations), and causes the aggressor to suffer [Warmongering](warmonger) penalties and both parties to suffer [war%20weariness](war weariness).

@@ -1,0 +1,3 @@
+# Hálfdan Ragnarsson (Civ6)/Civilopedia
+
+Best known as one of the leaders of the Great Heathen Army that stomped its way across England from 865 to 878 AD, Halfdan Ragnarsson ended up the disputed king of Dublin for a couple years and the undisputed king of Jorvik (York) for one. Mostly though, he lurched about England with the army, invading East Anglia in 865, then Northumbria in 866, then Mercia … East Anglia again … Wessex … and so forth. According to the “Annals of Ulster,” the King of Dublin was killed in 875 and somehow Halfdan took the throne. But when he returned to claim Jorvik, he was disposed in Dublin. Back in Ireland in 877, he was killed in the battle of Strangford Lough.

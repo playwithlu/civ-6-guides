@@ -1,0 +1,6 @@
+# Archery (Civ6)
+
+Archery is an [Ancient%20Era%20%28Civ6%29](Ancient Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by killing an enemy with a [Slinger%20%28Civ6%29](Slinger).
+Strategy.
+The invention of the bow is the first landmark military event in human history. Its power is far beyond that of earlier throwing weapons, and so is its range. Thus, archers grant an important advantage to an early civilization over barbarian tribes, not to mention a nasty surprise to rival neighbors which lust for their lands.
+Archery can be developed pretty quickly, right after [Animal%20Husbandry%20%28Civ6%29](Animal Husbandry). However, its application is purely military, and mostly to deter enemy rushes: early Barbarians can be defeated with Slingers (unless they start producing Horsemen).And if you're a warrior-like civ you should prefer going [Mining%20%28Civ6%29](Mining) - [Bronze%20Working%20%28Civ6%29](Bronze Working) first in order to get access to both a more advanced military unit and the combat-oriented district, the [Encampment%20%28Civ6%29](Encampment). Of course, you will need Archery immediately after that to acquire strong ranged units. And you will need it in any case after turn 50 to defend against enemies, and to advance further down the lower part of the tech tree.

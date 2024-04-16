@@ -1,0 +1,3 @@
+# Victoria (Civ5)/Civilopedia
+
+Queen Victoria's lengthy reign (1837-1901) was characterized by the expansion and consolidation of the Empire's African holdings, marked by both military disasters and decisive victories. British policy in Africa was dominated by its preoccupation with establishing a contiguous line of colonies and client states from Cairo to Cape Town, a goal it finally attained when it acquired the German East African holdings at the end of World War I.

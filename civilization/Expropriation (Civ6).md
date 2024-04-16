@@ -1,0 +1,5 @@
+# Expropriation (Civ6)
+
+Expropriation is an Economic [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Expropriation combines the effects of [Colonization%20%28Civ6%29](Colonization) and [Land%20Surveyors%20%28Civ6%29](Land Surveyors), both of which are rendered [obsolete](obsolete) by it. It's useful if you plan on making a late-game push to expand your empire or buy [Tile%20%28Civ6%29](tiles) around your existing [City%20%28Civ6%29](cities) (perhaps to claim a hard-to-find [Resources%20%28Civ6%29](resource) or establish a [National%20Park%20%28Civ6%29](National Park)). However, this is not exactly the most useful card just because of when it becomes available: in the [Industrial%20Era%20%28Civ6%29](Industrial Era), you usually don't train many [Settler%20%28Civ6%29](Settlers) and have a strong enough economy to afford the tiles you need.

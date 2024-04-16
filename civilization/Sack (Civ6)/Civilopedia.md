@@ -1,0 +1,3 @@
+# Sack (Civ6)/Civilopedia
+
+Since most soldiers weren’t (and aren’t) well-paid, looting was the primary source of income … for those lucky enough to survive the battles, plagues, and punishments. Unlike pillaging the countryside, the chance to sack a built-up place offered much more than mere sustenance. During the Middle Ages, a lord’s encouragement to sack a town, city, or district was the main way to insure loyalty and further willingness to fight. Even the gentry joined in the fun, often claiming the most priceless pieces and best folk to hold for ransom. The bigger and richer the city, the more to go around; thus, some places like Rome were sack-prone (410, 455, 546, 1084, and 1527 AD).

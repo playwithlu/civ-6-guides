@@ -1,0 +1,7 @@
+# Military Tradition (Civ5)
+
+Military Tradition is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Honor%20%28Civ5%29](Honor) tree and requires [Warrior%20Code%20%28Civ5%29](Warrior Code).
+Military traditions arise naturally in a society dedicated to war. They permeate its culture and create an atmosphere of reverence towards all soldiers and their lives. As a result, those that become part of the military feel like combat experience is not really new to them, that they half-know already all that could happen to them on the battlefield. And this helps them achieve veterancy at an incredible rate. 
+Strategy.
+Military tradition is an incredibly useful Policy, especially for conquest-oriented empires! Adopt it as soon as you intend to embark on your first conquest to see your units piling up [Promotions%20%28Civ5%29](promotions) like crazy! Thanks to this Policy, it is fully possible to have an army possessing the top-level abilities as early as the [Renaissance%20Era%20%28Civ5%29](Renaissance Era), and needless to say such an army is terrifyingly more effective than one composed of inexperienced regular units.
+That being said, you shouldn't waste a Policy slot before you're ready for that conquest. Fighting [Barbarian%20%28Civ5%29](Barbarians) yields a maximum of two promotions (if you don't use one level-up to Heal!), and the only possibility to continue acquiring Experience is to fight civilizations and/or [City-state%20%28Civ5%29](City-States). 

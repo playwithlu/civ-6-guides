@@ -1,0 +1,8 @@
+# Troop Transport (SMAC)
+
+ is a unit equipment type in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)".
+Game info.
+The Troop Transport module allows a unit to transport other units by land, sea, or air, depending on the unit's chassis.
+Only sea-going units can transport more than one unit at a time. A can transport a number of units equal to twice its reactor value. A can transport a number of units equal to four times its reactor value.
+Transports can normally transport only ground units, but seagoing transports can be given the special ability to allow them to transport and refuel air units.
+While land-based transports (trucks) might at first not seem to make much sense, take note that they can effectively increase the range of your land-based units. With armor, they can double as garrison (thought they won't count as police). If you engage in ICS and have roads between bases, and have each base garrisoned with a land transport, you can transport any new unit into the front lines or frontier by transporting it from its home base to a nearby base, unloading, then loading on the existing transport there, moving to the next base, and so on, until it reaches the front line (like a futuristic Pony Express). A unit that is vulnerable (ran out of moves right next to a strong enemy) can be rescued by a Rover Transport, or if it is on a roaded tile next to a base, by an Infantry Transport.

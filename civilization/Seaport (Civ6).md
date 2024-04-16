@@ -1,0 +1,8 @@
+# Seaport (Civ6)
+
+The Seaport is an advanced maritime [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the [Harbor%20%28Civ6%29](Harbor) [District%20%28Civ6%29](district) and requires a [Shipyard%20%28Civ6%29](Shipyard) (or one of its replacements).
+In the [Monopolies%20and%20Corporations%20%28Civ6%29](Monopolies and Corporations) [Game%20mode%20%28Civ6%29](game mode), the Seaport can store 3 [Corporation%20%28Civ6%29](Corporation) products.
+Strategy.
+The Seaport is one of the most complete boosters in the entire game! It is worth the time invested to build it ASAP in every Harbor you have, because it will provide significant bonuses to its parent [City%20%28Civ6%29](city).
+Maybe the most important feature of the building is the boost to Fleet and Armada training speed, which is similar to the [Military%20Academy%20%28Civ6%29](Military Academy's) boost to Corps and Armies. Thanks to it, a weak [Civilizations%20%28Civ6%29](civilization) may be able to churn out a much stronger navy much faster than its enemies will expect, and a strong civilization will build an even stronger navy, again that much faster.
+Another great boost, as per the [Civilization%20VI%20March%202017%20Update](Spring 2017 Update), is the yield added to all [Coast%20%28Civ6%29](Coast) or [Lake%20%28Civ6%29](Lake) [Tile%20%28Civ6%29](tiles). If you have lots of these and are able to work them, you could potentially turn this city into a veritable gold mine! Thanks to this boost, and a similar new bonus for the [Lighthouse%20%28Civ6%29](Lighthouse), it is now worth it to have [Coastal%20%28Civ6%29](coastal) cities covering lots of water.

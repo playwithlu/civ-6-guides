@@ -1,0 +1,3 @@
+# Volcanic Soil (Civ6)/Civilopedia
+
+Volcanic ejecta is rich in minerals, and thus over time creates a rich soil with excellent drainage, ideal for cultivating certain kinds of crops. For example, grapes grown for wine flourish in volcanic soil, as attested by the Romans planting vineyards on the slopes of Mt. Vesuvius. Coffee, too, does particularly well when grown in volcanic soil. Eruptions refresh the supply of volcanic soil on a volcano, although this usually has negative effects on agriculture during the eruption.

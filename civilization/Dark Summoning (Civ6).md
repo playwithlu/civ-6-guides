@@ -1,0 +1,4 @@
+# Dark Summoning (Civ6)
+
+Dark Summoning is a unique [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)". It is exclusive to the [Voidsingers%20%28Civ6%29](Voidsingers) secret society in the [Secret%20Societies%20%28Civ6%29](Secret Societies) [Game%20mode%20%28Civ6%29](game mode), introduced in the [Ethiopia%20Pack%20%28Civ6%29](Ethiopia Pack). It becomes available after unlocking the [Symphony%20%28Civ6%29](Symphony) title and building an [Old%20God%20Obelisk%20%28Civ6%29](Old God Obelisk) [Building%20%28Civ6%29](building).
+While active, Dark Summoning converts 30% of the city's output to , and upon completion, raises the amount of [Loyalty%20%28Civ6%29](Loyalty) damage done by [Cultist%20%28Civ6%29](Cultists) by 2 (capped at 30).

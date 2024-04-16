@@ -1,0 +1,6 @@
+# Offshore Platform (Civ2)
+
+ An Offshore Platform is a [List%20of%20buildings%20in%20Civ2](building) in "[Civilization%20II](Civilization II)" that adds one extra shield to all tiles in the 's radius.
+Like Harbor, Coastal Fortress and Port Facility, this improvement cannot be built unless the city is adjacent to at least one ocean tile. A city that is not adjacent to an ocean tile, but includes ocean tiles in its radius, cannot build any of the littoral improvements.
+Civilopedia entry.
+Mankind's dependence on wood and coal as a main source of fuel ended when the first commercial oil well went into production in Pennsylvania in 1859. Crude oil could be refined into many different byproducts, and soon replaced wood and coal in many parts of the world. The growing dependence on oil caused the petroleum industry to grow rapidly and wells were drilled all over the world. Most wells were initially drilled on land, but after World War II it was found that many of the largest oil deposits could be found below the sea floor. Shallow water drilling from platforms supported by pylons resting on the seabed proved very successful. Today, large floating platforms can drill for oil at water depths of more than 3300 feet.

@@ -1,0 +1,3 @@
+# Drama and Poetry (Civ5)/Civilopedia
+
+Drama and poetry are both forms of artistic expression, the former expressed through the use of visual performance, the latter through the written word. Drama is most commonly associated with theatrical performances - plays, musicals, and operas - although in modern times these traditional forms have been surpassed by television and movie productions. Poetry focuses on the use of written language to express both a literal meaning, and often a thought-provoking underlying message.

@@ -1,0 +1,5 @@
+# Biogenetics (SMAC)
+
+The alien environment on Planet brought a host of unforeseen health problems for the colonists. Early inquiries into Biogenetics center on the prevention and treatment of these problems. Researchers in this discipline seek an understanding of the entire genetic code.
+Discovering Biogenetics allows for the research of [Secrets%20of%20the%20Human%20Brain%20%28SMAC%29](Secrets of the Human Brain) (if one also has [Social%20Psych%20%28SMAC%29](Social Psych)) and [Gene%20Splicing%20%28SMAC%29](Gene Splicing), and also makes the [The%20Human%20Genome%20Project%20%28SMAC%29](Human Genome Project) special project and the [Recycling%20Tanks%20%28SMAC%29](Recycling Tanks) base facility available for construction.
+The [Peacekeeping%20Forces%20%28SMAC%29](U.N. Peacekeepers) make planetfall with this technology already in their possession; this provides them some advantage in any rush for the [Secrets%20of%20the%20Human%20Brain%20%28SMAC%29](Secrets of the Human Brain).

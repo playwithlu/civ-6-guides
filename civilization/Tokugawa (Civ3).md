@@ -1,0 +1,3 @@
+# Tokugawa (Civ3)
+
+Tokugawa Ieyasu (31 January 1543 – 1 June 1616), born Matsudaira Takechiyo, is considered one of the three great unifiers of Japan alongside [Oda%20Nobunaga](Oda Nobunaga) and . After defeating the at the in 1600, he founded the , which would govern Japan for over two hundred years, and ruled as its first from 1603 until his death. He leads the [Japanese%20%28Civ3%29](Japanese) in "[Civilization%20III](Civilization III)".

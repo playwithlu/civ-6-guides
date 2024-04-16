@@ -1,0 +1,6 @@
+# City (CTP1)
+
+The city and its management are at the core of the Civilization. By expanding the city and maintaining its health and happiness, the ruler is more likely to increase his power. Each city houses the population of a Civilization. Cities employ s, s, and specialists to build units, , and . Settlers can [Settle%20%28CTP1%29](build) cities on most land terrain tiles. Only s, s and can unload into a city guarded by enemy units. Cities are also targets of enemy special attacks. When attacked, cities can become wary, which is represented by an icon of an eye above the city. Wary cities lessen the success rate of a special attack by half for several turns. 
+The tile beneath a city produces resources for free, gives +10 and +5 .
+Great Library entry.
+The first cities developed in the fourth millennium BC as farmers gathered together for protection. As farming improved, some citizens began to specialize in basket making, pottery, and metal working while others turned to the study of early science, becoming the priests of the culture. Through trade, cities exchanged and synthesized ideas and culture.

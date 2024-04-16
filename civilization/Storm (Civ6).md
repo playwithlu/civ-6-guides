@@ -1,0 +1,23 @@
+# Storm (Civ6)
+
+Storms are a type of natural [Disasters%20%28Civ6%29](disaster) in "". They are the only type of disaster which moves around the [Map%20%28Civ6%29](map) (see [%23Movement](below) for more details).
+There are four different kinds of storms, each one related to a particular [Terrain%20%28Civ6%29](terrain).
+Tornado.
+Tornadoes are storms which start in [Grassland%20%28Civ6%29](Grassland) or [Plains%20%28Civ6%29](Plains) terrain. They tend to be more concentrated than other storms, less widespread but inflicting greater damage. They are one of the few disasters which has no beneficial effect on tiles - they just cause destruction.
+Blizzard.
+Blizzards are storms which start in [Tundra%20%28Civ6%29](Tundra) terrain. They freeze and damage everything in their path, but they also have a chance of increasing the potential of any Tundra and [Snow%20%28Civ6%29](Snow) tiles they pass over.
+In the [Apocalypse%20%28Civ6%29](Apocalypse) [Game%20mode%20%28Civ6%29](game mode), [Soothsayer%20%28Civ6%29](Soothsayers) can summon Blizzards when standing on a Tundra, [Tundra%20%28Hills%29%20%28Civ6%29](Tundra Hills), Snow, or [Snow%20%28Hills%29%20%28Civ6%29](Snow Hills) tile.
+Dust Storm.
+Dust Storms start in [Desert%20%28Civ6%29](Desert) terrain. Besides the destruction they bring, they may also distribute minerals from the desert and increase or in affected tiles.
+In the Apocalypse game mode, Soothsayers can summon Dust Storms when standing on a Desert or [Desert%20%28Hills%29%20%28Civ6%29](Desert Hills) tile.
+Hurricane.
+Hurricanes start at sea. They are the largest storms, but may wreak the least havoc potentially, simply because they may move mostly or wholly on [Ocean%20%28Civ6%29](Ocean) tiles without touching land. Of course, islands are particularly vulnerable to Hurricanes, as they are located in the middle of the ocean and can easily find themselves in the storm's path. Hurricanes are especially destructive to [Naval%20unit%20%28Civ6%29](naval units).
+Hurricanes may also fertilize land tiles they happen to pass over, but they mostly bring .
+Movement.
+Storms are unique among disasters in that they last for three [turn](turn)s, during which they will sweep around the map. This means that the storm will appear in a particular area in the first turn, then move to another area on the second turn and again on the third turn, after which it will dissipate. The storm moves in a general direction (visible from the Climate screen and in tooltips), and at each step will move its center along a vector represented by the direction. The new center of the storm is usually 3-4 tiles removed from the previous location.
+During each move, the storm affects every tile along its path. This is evidenced by the damage done to [Unit%20%28Civ6%29](units) which are neither in Location A nor B, but in between between the two locations. All in all, a single storm may affect over 80 tiles! This makes storms the most destructive and unpredictable type of disaster, able to cover huge areas of the map.
+Severity and effects.
+Each storm has two different severity levels. Higher severity increases area covered and brings higher destruction, but also a higher chance of fertilization. In the table below you will find the percent chance for each damage type to occur, as well as the chance of an affected tile to gain +1 of the given yield as base yield bonus.
+With the [Civilization%20VI%20April%202019%20Update](Antarctic Late Summer Update), storms stop fertilizing tiles once [Climate%20%28Civ6%29%23Phases%20of%20Climate%20Change](Climate Change) reaches Phase IV. In Phase V and beyond, they also begin causing desertification, meaning that they remove the bonus yields gained earlier in the game from other disasters! The chance of this occurring is 15% for Phase V, plus an additional 15% for each subsequent phase.
+Unit immunities.
+There are certain [Unique%20ability%20%28Civ6%29](civilization and leader abilities) that render their units ([Military%20unit%20%28Civ6%29](military) and otherwise) immune to damage from specific types of storms. [Hojo%20Tokimune%20%28Civ6%29](Hojo Tokimune's) Divine Wind ability, for example, protects [Japanese%20%28Civ6%29](Japanese) units from Hurricane damage, and the [Russian%20%28Civ6%29](Russian) [Civilizations%20%28Civ6%29](civilization's) Mother Russia ability protects their units from Blizzard damage. Such immunities open up both strategic and tactical possibilities, as well as potentially allowing for rapid disaster response and recovery.

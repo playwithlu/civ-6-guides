@@ -1,0 +1,3 @@
+# War Chariot (Civ5)/Civilopedia
+
+The Egyptians were early masters of the chariot, and their war chariots were rightly feared by their opponents. The Pharaohs themselves often went into battle aboard war chariots. Amenhotep II claimed that from a speeding chariot he had hit four targets, set thirty feet apart, with such power that the arrows penetrated the targets' three inches of copper. Like other cavalry, war chariots were especially deadly against a retreating foe. Once an enemy is running away, his shield can no longer protect him, and he's totally vulnerable to arrow-fire, or indeed to being crushed beneath the wheels of a speeding chariot.

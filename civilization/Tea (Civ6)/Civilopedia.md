@@ -1,0 +1,3 @@
+# Tea (Civ6)/Civilopedia
+
+Dried leaves steeped in hot or boiling water, tea is the second most human-consumed beverage (after water) in the world. Tea plants are native to Eastern and Southern Asia, and tea drinking began during the Shang dynasty in China, likely as a medicinal cure that evolved into an acquired taste. Many teas – such as Darjeeling or the green teas – have a bitter, astringent taste, but have a mildly stimulating effect. Over the centuries many flavors of teas have been developed, ranging from sweet to floral, and from nutty to grassy.

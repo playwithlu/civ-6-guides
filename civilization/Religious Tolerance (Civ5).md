@@ -1,0 +1,8 @@
+# Religious Tolerance (Civ5)
+
+Religious Tolerance is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It was added in "[Gods%20%26amp%3B%20Kings](Gods &amp; Kings)" and it replaced . It is part of the [Piety%20%28Civ5%29](Piety) tree and requires and . In "[Brave%20New%20World](Brave New World)" it requires [Organized%20Religion%20%28Civ5%29](Organized Religion).
+In a well-developed religious society people become more tolerant and open-minded. While the fanatics in normal societies insist that only one way is possible, the pious see that God is One and its ways are Many. Thus, they may tolerate some other Beliefs than their main Faith. Sometimes.
+Strategy.
+This level 2 Policy is very useful once other religions start getting spread to your cities. Note that for the bonus to work you only need one Citizen converted to a religion other than the main one. Then, for all practical purposes, you gain a second Pantheon Belief bonus!
+The practical use is, of course, dependent on another religion being actually present, and is also very chancy (because the Pantheon Belief you benefit from may be useless in some cities, if based on terrain or resources lacking nearby). The effect may be different for each separate city, because each of them may have a different religion as a second influence - it is really difficult to try and influence this. Generally, the benefit of Religious Tolerance manifests itself a bit later, so don't expect immediate results.
+And of course, this level 2 Policy is the requirement for the all-powerful [Reformation%20%28Civ5%29](Reformation) Policy.

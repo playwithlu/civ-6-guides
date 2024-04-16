@@ -1,0 +1,2 @@
+# Temples (Civ5)
+

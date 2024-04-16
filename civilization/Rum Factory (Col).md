@@ -1,0 +1,4 @@
+# Rum Factory (Col)
+
+Rum factories are upgraded versions of [Rum%20distillery%20%28Col%29](distilleries) in "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)". A rum factory dramatically increases the efficiency of operations, and thus produces more [Rum%20%28Col%29](rum) per unit of [sugar%20%28Col%29](sugar). Your [Continental%20Congress%20%28Col%29](Continental Congress) must contain [Adam%20Smith%20%28Col%29](Adam Smith) and the population of the colony must be at least 8 to begin construction of this facility.
+There exists a bug where no limit is placed on the number of workers for this building.

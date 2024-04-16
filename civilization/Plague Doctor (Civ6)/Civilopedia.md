@@ -1,0 +1,3 @@
+# Plague Doctor (Civ6)/Civilopedia
+
+One of the most striking figures of the Black Death is the plague doctor, with his macabre beak-shaped mask, long robes, and staff. The tip of the beak mask would contain a sachet of aromatic herbs (the sweet smell was erroneously thought to repel the plague). A plague doctor would be called in when a patient (or dead body) was suspected of contracting the plague. He would use his stick or staff to search the patient without touching them in order to certify the case or clear the patient.

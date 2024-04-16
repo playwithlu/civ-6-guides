@@ -1,0 +1,3 @@
+# Levee (Civ4)/Civilopedia
+
+The earliest human civilizations all grew up along the banks of rivers. Yet when rains grew heavy, the Nile, Indus, Tigris or Yangtze became a danger to those on their shores. The Levee, also known as a dam, is a wall of earth or stone, constructed to hold back encroaching waters. The ancient Egyptians were among some of the most sophisticated levee builders, channeling the Nile in order to provide water for cities and crops. Today levees provide hydroelectric power to populations throughout the world.

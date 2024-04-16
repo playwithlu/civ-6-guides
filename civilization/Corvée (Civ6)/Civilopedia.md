@@ -1,0 +1,3 @@
+# Corvée (Civ6)/Civilopedia
+
+Although the term refers to the medieval practice of paying one’s taxes through unpaid labor – typically a certain number of days each year – “corvée” has been around since ancient Egypt. From roughly 2600 BC onward, the Old Kingdom used such “taxes” to build pyramids, temples and monuments. Imperial China had a similar system in place; Qin Shi Huang and subsequent emperors imposed it for public works such as the Great Wall and the Grand Canal. By the Middle Ages, corvée was embedded in the feudal system, with tenants required to perform construction work on the private lands of their lords. Thus, throughout history the gentry had nice homes and tombs while everyone else had hovels.

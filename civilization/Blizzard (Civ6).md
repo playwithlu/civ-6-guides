@@ -1,0 +1,2 @@
+# Blizzard (Civ6)
+

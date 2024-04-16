@@ -1,0 +1,5 @@
+# Resource (SMAC)
+
+Resources are the essential elements which you extract from your surroundings to support and expand your faction. There are three types of resource:
+Obtaining resources.
+To obtain the resources from any given square, it must be inside your territory, inside the production radius of a base (within a two-square radius, excluding diagonals), and that base must assign a unit of its population to work that square. Unworked squares yield no resources, regardless of their fertility. Your ability to exploit territory is limited by your technology. When you first arrive on Planet, you are generally unable to recover more than two of any one resource per turn. As you acquire new technologies, your production capacity expands until you are fully able to exploit the resource potential of every square in a base's production radius.

@@ -1,0 +1,3 @@
+# Forever Future (CTP1)
+
+Forever Future is a [Mods%20%28CTP1%29](mod) for "". It adds to and changes the [List%20of%20units%20in%20CTP1](units), [List%20of%20buildings%20in%20CTP1](buildings), [List%20of%20wonders%20in%20CTP1](wonders) (including [Hammurabi%27s%20Code%20%28Forever%20Future%29%20%28CTP1%29](Hammurabi's Code)), and [Government%20%28CTP1%29](governments) in the game, overhauls the [List%20of%20advances%20in%20CTP1](advance tree), and expands the library without making drastic changes to the core gameplay and mechanics.

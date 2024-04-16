@@ -1,0 +1,3 @@
+# List of resources in CivRev
+
+Resources in "[Civilization%20Revolution](Civilization Revolution)" are any additional items that appear on a [Terrain%20%28CivRev%29](terrain) [Tile%20%28CivRev%29](tile), such as [Wheat%20%28CivRev%29](Wheat) on a [Plains%20%28CivRev%29](plains) tile. All resources add bonus yields to their tile, which they provide to any [City%20%28CivRev%29](city) that works them. Most resources can be accessed only after researching a specific [List%20of%20technologies%20in%20CivRev](technology), though the [Indian%20%28CivRev%29](Indians) have access to all resources from the start of the game.

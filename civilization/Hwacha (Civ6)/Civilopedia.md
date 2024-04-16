@@ -1,0 +1,4 @@
+# Hwacha (Civ6)/Civilopedia
+
+The Korean hwacha (or “fire chariot”) launched the most terrifying fireworks display of the 15th Century. At first glance, this simple, two-wheeled wooden cart bears little more than a slotted horizontal board as its cargo. When fully loaded and fired, dozens of rocket-propelled projectiles would streak out from those slots, raining a steel-tipped volley upon distant enemy formations.
+This efficient death machine came to prominence when it helped repel a late 16th Century Japanese invasion of Korea. The hwacha presence at the Battle of Haengju significantly aided the 3,400 Korean defenders against an invading samurai infantry nine times their size.

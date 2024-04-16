@@ -1,0 +1,4 @@
+# Greek (Civ1)
+
+The Greek people represent a [Civilizations%20%28Civ1%29](civilization) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Their [Leaders%20%28Civ1%29](leader) is [Alexander%20%28Civ1%29](Alexander), their [Capital%20%28Civ1%29](capital) is [Athens](Athens), and their color is pink (which they share with the [English%20%28Civ1%29](English)).
+On [Earth%20%28map%29%20%28Civ1%29](Earth), the Greeks begin in [Europe](Europe), often in close proximity to the [German%20%28Civ1%29](Germans), [Roman%20%28Civ1%29](Romans), [French%20%28Civ1%29](French), or [Russian%20%28Civ1%29](Russians). Some exploration with the first [Settlers%20%28Civ1%29](Settlers) can reap two free [City%20%28Civ1%29](cities) at the start of the game.

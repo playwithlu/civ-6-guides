@@ -1,0 +1,6 @@
+# Snow (Hills) (Civ6)
+
+Snow (Hills) is a base [Terrain%20%28Civ6%29%23Features](terrain), which is a variant of tiles in "[Civilization%20VI](Civilization VI)". Like other Snow tiles, they are usually found at the poles of the map.
+Snow Hills provide 1 . Snow Hills may be improved with s, which makes them vastly more productive than other Snow tiles. All [Hills%20%28Civ6%29](Hills) have a +3 Combat Strength modifier, which can strengthen city defenses, as well as protect vulnerable units.
+Strategy.
+Similar to its flatland variant, Snow (Hills) is a terrible terrain to settle on, as it only comes with 1 as every other Hills variant. You should only consider settle on a Snow tile when you are playing as [Sweden%20%28Civ6%29](Sweden), grabbing some rare that you do not already have in your empire or considering building the [Amundsen-Scott%20Research%20Station%20%28Civ6%29](Amundsen-Scott Research Station). And even that, one Snow city per empire is one more enough! Snow tiles do give extra to the [Ice%20Hockey%20Rink%20%28Civ6%29](Ice Hockey Rink), but for [Canada%20%28Civ6%29](Canada), [Tundra%20%28Civ6%29](Tundra) may be bad but is still way better than Snow.

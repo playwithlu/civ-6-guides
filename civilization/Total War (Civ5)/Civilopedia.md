@@ -1,0 +1,3 @@
+# Total War (Civ5)/Civilopedia
+
+Total war is a military strategy in which a state uses every resource at its command to wage war. The entire population is mobilized for the struggle, and all non-essential activities are suspended for the duration of the conflict. If the enemy state is also engaged in the same practice then all aspects of that state are legitimate military targets, and virtually anything which weakens the enemy's ability to continue the conflict is acceptable. Cities may be bombed, unarmed vessels sunk, wells poisoned and crops burned. Total war is generally the most terrible of all forms of warfare, as it usually results in a great deal of damage to one or both of the combatants' civilian populations.

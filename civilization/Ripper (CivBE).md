@@ -1,0 +1,4 @@
+# Ripper (CivBE)
+
+The Ripper is an [Aliens%20%28CivBE%29](alien) species in ' introduced in the ' expansion pack. It is the [Raptor%20Bug%20%28CivBE%29](Raptor Bug's) oceanic relative, with the same movement and almost equal strength.
+Rippers can be found anywhere throughout the ocean, being the most common alien in it. They are typically found patrolling their nests in groups and swarming any enemy that comes nearby. They can prove a nuisance to boats, but players can [Leash%20Alien%20%28CivBE%29](leash) them to take control of them (a player can also sometimes gain a free Ripper unit via a [Alien%20skeleton%20%28CivBE%29](Alien skeleton) that is on a small island or in a coastal area). They are useful for exploring undiscovered ocean while the player's navy is occupied.

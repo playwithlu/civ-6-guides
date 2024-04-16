@@ -1,0 +1,9 @@
+# MG Battalion (Civ3)/Civilopedia
+
+Many WWII-era divisions had a heavy weapons unit composed of a number of heavy machine guns, and perhaps
+a battery of 8cm field mortars. While such units were sometimes attached on the company level to a battalion,
+there were also entire battalions of machineguns attached at the division or corps level. The defensive ability
+of massed machineguns was first illustrated with deadly earnest during WWI by windrows of dead. By WWII the
+typical machinegun's rate of fire and increased and its bulk decreased, thus making it even deadlier and
+more mobile. Machinegun units are very strong defensively, but less useful offensively due to the time
+required to set up a machinegun after it being repositioned.

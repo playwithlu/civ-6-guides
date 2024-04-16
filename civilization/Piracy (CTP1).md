@@ -1,0 +1,5 @@
+# Piracy (CTP1)
+
+Piracy allows a Civilization to destroy an enemy's and make a buck in the bargain. Piraters gain 30 gold - although this is not guaranteed. Watch out though. This is sure to anger other Civilizations.
+Great Library entry.
+Throughout history, piracy in one form or another has been a bane to governments and individuals alike. The threat of piracy was so great that sometimes routes developed in hostile environments (like the Himalayas) where merchants hoped that the severe territory might discourage pirates. Although practiced often times by criminal types, piracy has also been an act unofficially endorsed by governments. For nearly 400 years beginning in the 15th century Spain, France, and England each had pirate fleets. These fleets, sometimes known as buccaneers or privateers, seized one another's cargo on the open seas. Nations formed treaties to end piracy on the open seas and later to protect intellectual property with copyright treaties.

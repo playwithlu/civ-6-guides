@@ -1,0 +1,3 @@
+# Olaf Tryggvason (Civ6)/Civilopedia
+
+King of Norway for five eventful years (995 to 1000 AD), Olaf was the grandson of Harald Fairhair and son of the chieftain Tryggvi (who was killed just before the boy’s birth, an occupational hazard for Vikings). According to legend, Olaf’s mother Astrid took the infant and fled to Kiev, where the boy was trained in Viking ways. After joining in raids on England, Olaf learned of a revolt in Norway against King Haakon; returning thence, he was declared king upon Haakon’s death in 995. And set about trying to impose – forcibly – Christianity on his subjects. Olaf didn’t make much progress before being killed at the battle of Svolder.

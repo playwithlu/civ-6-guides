@@ -1,0 +1,7 @@
+# Plains (Civ6)
+
+Plains is a base [Terrain%20%28Civ6%29](terrain) in "[Civilization%20VI](Civilization VI)". It is found throughout the world.
+Strategy.
+Plains (along with [Grassland%20%28Civ6%29](Grassland)) are one of the most widespread terrains in the world. It is much more balanced than Grassland because its soil, although less fertile, is also rich in minerals and provides a balanced yield of the two most important stats for [City%20%28Civ6%29](cities): and . That makes it the second most suitable terrain to settle, because it ensures that a city may produce things much more quickly right from its onset. Like [Grassland%20%28Civ6%29](Grassland), they are also abundant in terrain features and [Resources%20%28Civ6%29](resources).
+Plains trades off Population growth for increased . A city built on Plains will have good , especially if it has any [Hills%20%28Civ6%29](Hills) and [Woods%20%28Civ6%29](Woods) nearby, but growth will be slow until [Farm%20%28Civ6%29](Farms) are established. In this aspect it is good to look for -enhancing features and [Resource%20%28Civ6%29](resources), which will help Population growth early on.
+The presence of [Rainforest%20%28Civ6%29](Rainforests) can help growth considerably, mostly due to the resources found there. The extra point for flatland tiles will make the difference between a normally growing and slowly growing city; still, you should look at every opportunity to build growth-enhancing [Building%20%28Civ6%29](buildings), such as a [Granary%20%28Civ6%29](Granary).

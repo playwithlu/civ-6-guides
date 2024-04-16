@@ -1,0 +1,2 @@
+# Eleanor (Civ6)
+

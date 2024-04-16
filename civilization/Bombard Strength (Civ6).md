@@ -1,0 +1,2 @@
+# Bombard Strength (Civ6)
+

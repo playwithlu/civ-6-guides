@@ -1,0 +1,5 @@
+# Sumerian (Civ5)/Civilopedia
+
+The civilization of the ancient Sumerians was established in Mesopotamia (specifically in portions of modern Iraq) during the 6th millennium BC, and thrived for nearly 3,000 years. Contemporary archaeologists have discovered a number of pivotal advancements made by the Sumerians during their history, particularly in the areas of agriculture, mathematics and writing.
+Known for utilizing advanced agricultural practices including the use of irrigation and year-round crop cultivation, the Sumerians took advantage of the rich soil found on the Fertile Crescent to establish permanent settlements in the region.
+Perhaps more importantly, the Sumerians developed one of the world's first written languages, "Cuneiform," which archaeologists have discovered on hundreds of clay tablets unearthed at sites throughout the area. The "Epic of Gilgamesh," considered one of the first great works of literature ever created, chronicles the adventures of the Sumerian king Gilgamesh.

@@ -1,0 +1,3 @@
+# Worker (Civ4)/Civilopedia
+
+The majority of people in all civilizations throughout time have been workers. Whether engaged in farming, commerce, or industry, their actions form the economic infrastructure without which no nation can succeed. Over time, the endless activity of workers has reshaped the very surface of the land by mining hills, cutting down huge stretches of forest, and irrigating hostile terrain into fertile farmland. By the late 20th century it had become apparent that excessive deforestation and pollution from heavy industry posed a threat to the world's environment.

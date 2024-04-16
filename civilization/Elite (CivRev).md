@@ -1,0 +1,4 @@
+# Elite (CivRev)
+
+Elite [List%20of%20units%20in%20CivRev](units) are those that have won three victories in battle after achieving [Veteran%20%28CivRev%29](veteran) status, or were produced in a [City%20%28CivRev%29](city) with a [Barracks%20%28CivRev%29](Barracks) and a [Great%20Person%20%28CivRev%29](Great Leader). An elite unit learns one of nine special [Abilities%20%28CivRev%29](abilities), learning a new one (up to a maximum of six) each time it wins three battles or defeats an enemy unit of equal or greater strength.
+All units except [Settlers%20%28CivRev%29](Settlers), [Militia%20%28CivRev%29](Militia), [Naval%20unit%20%28CivRev%29](naval units), and [Air%20unit%20%28CivRev%29](aircraft) can achieve elite status.

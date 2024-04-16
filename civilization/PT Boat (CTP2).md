@@ -1,0 +1,8 @@
+# PT Boat (CTP2)
+
+The PT Boat is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The PT (Patrol Torpedo) Boat is a vigilant defender of the high seas. Although it is capable of other naval targets, its prime function is hunting. Fast and deadly, the PT Boat is essential for naval sorties.
+Great Library entry.
+The PT boat was a high-speed attack boat primarily used by the United States Navy in the early to mid-20th century. It was armed with two to four torpedoes, several depth charges and 20-mm and 40-mm guns. Typically crewed by 14 soldiers, they averaged about 80 feet in length and could travel up to 40 knots. They were fast, maneuverable, and very effective at night missions.
+The Patrol Torpedo (PT) Boat evolved out of the American Civil War era practice of deploying ordinary boats to plant explosives on enemy ships at anchor under the cover of darkness. In 1935, Britain built what became known as the motor torpedo boat: a high-speed attack boat adept at swift attacks, especially on submarines. In 1938, PT boats modeled after the British type entered service in the U.S. Navy. They played an important role in combat around the Philippine Islands in World War II, but most were removed from the Navy's active list after the war due to their short cruising range and inability to operate in rough seas. About 25 PT boats, modified for speed (by removing the torpedoes) were active in the Vietnam War from 1962 to 1968 but fell out of action and were eventually phased out as other ships, such as destroyers, diversified their arsenals and capabilities.

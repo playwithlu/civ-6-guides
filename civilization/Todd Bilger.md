@@ -1,0 +1,3 @@
+# Todd Bilger
+
+Todd Bilger is a VFX artist who worked for [MicroProse](MicroProse) from 1994 to 2003 and has worked for [Firaxis%20Games](Firaxis Games) since 2008. He served as a graphic artist for ', the effects lead for "[Civilization%20V](Civilization V)" and ', the interface lead for ' and ', the art director for "", and a visual effects artist for "[Civilization%20VI](Civilization VI)". Outside of the "[Civilization%20%28series%29](Civilization)" franchise, he provided graphics and artwork for "X-COM: Enforcer" and served as a senior effects artist for "XCOM 2: War of the Chosen" and "XCOM: Chimera Squad".

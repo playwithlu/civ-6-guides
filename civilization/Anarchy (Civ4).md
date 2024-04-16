@@ -1,0 +1,3 @@
+# Anarchy (Civ4)
+
+Anarchy, also known as revolution, is a state that occurs from changing [List%20of%20civics%20in%20Civ4](civics) or [Religion%20%28Civ4%29](State Religion). During anarchy, [City%20%28Civ4%29](city) production, growth, and research are halted. Anarchy turns can thus be seen as mostly "wasted," although [List%20of%20units%20in%20Civ4](units) will continue to be able to move during this time. [Spiritual%20%28Civ4%29](Spiritual) leaders, [List%20of%20civilizations%20in%20Civ4](civilizations) that possess the [Cristo%20Redentor%20%28Civ4%29](Cristo Redentor) [List%20of%20wonders%20in%20Civ4%23Great%20Wonders](World Wonder) and civilizations that are in a [Golden%20Age%20%28Civ4%29](Golden Age) do not experience anarchy.

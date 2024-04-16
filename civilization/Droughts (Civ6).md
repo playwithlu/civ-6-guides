@@ -1,0 +1,2 @@
+# Droughts (Civ6)
+

@@ -1,0 +1,3 @@
+# Spyglass (Civ6)/Civilopedia
+
+No one is quite sure who devised the first spyglass, a single optical tube fitted with a ground lens for magnifying objects at a distance, but it seems to have begun in Asia, for it was known that spyglasses were in use in Arab and Chinese empires by 1608 AD when the Dutchman Jacob Metius began producing his commercially. Metius’s apparatus had a 15mm lens at one end and a double concave eyepiece that gave a magnification of about 3x. Not only was it popular with sailors, but soon every general just had to have one … as did their reconnaissance scouts.

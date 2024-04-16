@@ -1,0 +1,3 @@
+# Bismarck (Civ5)/Scramble for Africa/Civilopedia
+
+Although the German chancellor Bismarck (served 1871-1890) saw German interest in Africa as distraction, he was intensely interested and intimately involved in the scramble for Africa through the Berlin Conference he organized in 1884 to formally settle various colonial claims. Besides settling several boundary disputes, the Berlin Conference under Bismarck's mediation determined that the Congo was Leopold II's private property, that the 14 signatory nations would have free trade throughout the Congo, that the Niger and Congo rivers were open to all traffic, that slavery was to be abolished in Islamic lands, and formalized the international procedures for establishing a colonial claim.

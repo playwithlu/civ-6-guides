@@ -1,0 +1,3 @@
+# Thank You From Firaxis Games
+
+"Thank You From Firaxis Games" is a short video released by [Firaxis%20Games](Firaxis Games) on May 7, 2021. It commemorates the end of "", reflects on the new content and [Game%20mode%20%28Civ6%29](game modes) introduced, and thanks the fans for their support. [Rony%20Kahana](Rony Kahana), [Kevin%20Schultz](Kevin Schultz), and [Carl%20Harrison](Carl Harrison) narrate the video, which includes a cameo by [Sid%20Meier](Sid Meier) at the end.

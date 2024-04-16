@@ -1,0 +1,4 @@
+# Free Religion (Civ4)/Civilopedia
+
+Free religion refers to a society in which no single religion is dominant, in which people are free to worship or not worship as they please. There is no state religion; the government is totally secular.
+Such states allow all to express their religious beliefs. This encourages immigration by people whose religions are suppressed elsewhere, and the general society benefits from the multitude of experiences and beliefs of its members. However, such freedom and tolerance of religions may weaken a nation's people's beliefs in any religion, which could cause the people to become morally lax and decadent. Further, members of the more militant and expansionist religions may seek to destroy the competition, causing a good deal of stress and conflict within a country. A good deal of maturity is required on the part of a government and its people to successfully sustain free religion.

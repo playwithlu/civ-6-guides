@@ -1,0 +1,9 @@
+# Borders (Civ6)
+
+Borders of your [Civilizations%20%28Civ6%29](civilization) grow as accumulates. Borders also offer full [Sight%20%28Civ6%29](visibility) of adjacent [Tile%20%28Civ6%29](tiles).
+City Borders.
+Upon founding a new [City%20%28Civ6%29](city), all tiles around the [City%20Center%20%28Civ6%29](City Center) are claimed, plus additional tiles extending outward. For [Russian%20%28Civ6%29](Russia), their [Unique%20ability%20%28Civ6%29](civilization ability) greatly amplifies this effect. Note that it can't claim tiles of another civilization.
+Cities will gradually claim additional tiles as is accrued. Additionally, individual tiles can be purchased for (up to three [hex](hex)es away from City Center).
+Border Rules.
+Initially, borders will be open and weakly defined, enabling [Unit%20%28Civ6%29](units) from other civilizations and [City-state%20%28Civ6%29](city-states) to enter. Once the [Early%20Empire%20%28Civ6%29](Early Empire) [Civic%20%28Civ6%29](civic) is researched, borders will switch to closed. Unless an Open Borders agreement is made, attempting to enter closed borders constitutes an act of war. For city-states, Open Borders is granted to players that have reached [Suzerain%20%28Civ6%29](Suzerain) status or slotted the [Gunboat%20Diplomacy%20%28Civ6%29](Gunboat Diplomacy) [Policy%20card%20%28Civ6%29](policy card). [Jo%C3%A3o%20III%20%28Civ6%29](João III) also has Open Borders with all city-states due to his leader ability.
+Note that [Trader%20%28Civ6%29](Traders) and [List%20of%20units%20in%20Civ6/By%20class%23Religious](religious units) are exempt from these rules, and may pass into closed borders. This means [Missionary%20%28Civ6%29](Missionaries) and [Apostle%20%28Civ6%29](Apostles) can be used to perform reconnaissance in foreign lands. Additionally, the [Terracotta%20Army%20%28Civ6%29](Terracotta Army) [Wonder%20%28Civ6%29](wonder) grants [Archaeologist%20%28Civ6%29](Archaeologists) the ability to enter closed borders.

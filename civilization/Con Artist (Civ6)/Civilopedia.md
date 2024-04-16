@@ -1,0 +1,3 @@
+# Con Artist (Civ6)/Civilopedia
+
+The art of the great con according to some successful confidence men – Victor Lustig (who sold the Eiffel Tower … twice), Charles Ponzi (whose “get-rich-quick” scam was named after him), and Ferdinand Demara (known as “the Great Imposter”) – is to “read the mark,” and then cater to his/her greatest weakness(es). Whether seeking to empty a bank account or destabilize an entire economy (such as the German “Operation Bernhard” during World War II), the tricks of con artists and spies often overlap. Both, for instance, use the cackle-bladder regularly, fooling some hapless sap into believing someone has been killed.

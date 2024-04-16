@@ -1,0 +1,4 @@
+# Stele (Civ4)/Civilopedia
+
+A Stele is a monument made of either wood or rock, erected for commemorative, funerary, or official purposes. In addition, Stelai would sometimes be used as territorial markers. Stelai have often provided some of the best historical records of a civilization, due to the lasting nature of the materials with which they were made.
+The Kingdom of Aksum, which encompassed Ethiopia, Yemen, southern Saudi Arabia, northern Somalia, Djibouti and northern Sudan, erected some of the largest Stelai in the world. These Stelai, located in the city of Aksum in Ethiopia, mark the graves of Aksum's kings and nobles.

@@ -1,0 +1,3 @@
+# State Government (Civ6)/Civilopedia
+
+The establishment of federated states established regional self-governance within a national system. The clear policies of a federal constitution, enacted and enforced at a federal level, permitted state governments to administer local matters and influence national policy through national representation. Essentially state governments kept their fingers in a variety of pies, worked to add free fingers to new pies, and loudly insisted on parity when another state was observed having more pies than themselves.

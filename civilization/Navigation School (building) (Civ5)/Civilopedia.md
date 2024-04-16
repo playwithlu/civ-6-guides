@@ -1,0 +1,4 @@
+# Navigation School (building) (Civ5)/Civilopedia
+
+Cartographers, shipbuilders, and educated captains just don’t come out of nowhere-many of these scholars and labor men were trained in institutes like Navigation Schools. Experienced captains and learned scholars would share their accumulated nautical knowledge at the school, which would then impart this wisdom upon the less experienced. Weather patterns of new routes were charted, cartographers were instructed in the use of the latest and greatest of instruments, and new kinds of ships were designed and constructed.
+It is commonly believed that Henry the Navigator of Portugal started the first Navigation School at his villa at Sagres. While he did keep a large group of cartographers to chart the coastlines of parts of Africa, no defining evidence has yet been found of a centralized school for navigators and scholars.

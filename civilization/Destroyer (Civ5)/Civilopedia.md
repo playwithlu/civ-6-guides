@@ -1,0 +1,4 @@
+# Destroyer (Civ5)/Civilopedia
+
+A destroyer is a 20th-century ship designed for patrol, escort, anti-air and anti-submarine duties. The earliest destroyers were light vessels not well-suited for oceanic cruises unless accompanied by "tenders" carrying additional fuel. By World War II the destroyers were fast, maneuverable and carried enough weaponry and supplies for long-range missions across the world's oceans.
+For weaponry, destroyers carried anti-aircraft guns, light anti-ship guns, torpedoes and depth charges. They often accompanied carrier groups, patrolling the waters around the more valuable and larger ships for submarines and providing anti-aircraft cover as well. They escorted supply convoys and patrolled harbors and coasts as well. Duty aboard a World War II destroyer was dangerous indeed; during the war over 220 British, American, Australian and Canadian destroyers were lost, mostly to aircraft attack.

@@ -1,0 +1,3 @@
+# Reidgotaland
+
+Reidgotaland, also known as Reidhgotaland, is the [Ostrogothic](Ostrogothic) [capital](capital) in the [Fall%20of%20Rome%20%28Civ3%29](Fall of Rome) [List%20of%20scenarios%20in%20Civ3](scenario) in "". To date, it has appeared only in [scenario](scenario)s. In real life, it was a land mentioned in Germanic heroic legend (mentioned in the Scandinavian sagas as well as the Anglo-Saxon Widsith) usually interpreted as the land of the [Gothic](Goths).

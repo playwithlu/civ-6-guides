@@ -1,0 +1,3 @@
+# Khevsur (Civ6)/Civilopedia
+
+The warriors from Georgia’s Khevsureti territory maintained their traditions for countless generations. (Until the early 20th Century, they continued to fight with weapons and armor more suited to medieval times.) These fierce Georgians dressed in chainmail and carried swords, axes, and small, black bucklers adorned with crosses for nighttime raids—due to the shield’s color, the warriors were practically invisible in the moonlight. Though tradition was their watchword, they did adapt with the times, incorporating firearms as their importance on the battlefield became unmistakable.

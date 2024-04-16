@@ -1,0 +1,3 @@
+# Religious Tolerance (Civ5)/Civilopedia
+
+Free religion is the policy of a state which does not mandate which religions its members must adhere to. All religions are welcome, and let the spiritual marketplace decide among them. Though perhaps implemented for more noble reasons, free religion often has the effect of limiting the power of any individual religion. In states with one religion, the people in charge of that religion may wield a great deal of power (witness modern Iran). States with free religion generally attempt to treat them all equally, ensuring that none can become ultimately dominant.

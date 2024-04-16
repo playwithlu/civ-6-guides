@@ -1,0 +1,3 @@
+# Spaceship Factory (Civ5)/Civilopedia
+
+Spaceships are the most complicated things that humanity has ever produced. They're huge, requiring large amounts of material manufactured to the highest level of quality and constructed with a degree of precision unmatched in any other field. The Alpha Centauri spaceship factories employ the most talented workers in modern industry. Many of the workers have been chosen to go on the colonizing mission, which helps ensure their dedication and attention to detail. These vehicles must be flawless - a single careless weld or the tiniest dent in the wrong surface might leave several hundred colonists locked in a damaged vehicle some several million miles from home.

@@ -1,0 +1,6 @@
+# Great Wall (Civ5)
+
+Strategy.
+The Great Wall is the earliest defensive wonder, which can make any potential invaders' life pure hell while trying to penetrate your lands. It's recommended for all players that intend on playing defensively through the game. Just produce lots of ranged units and watch the enemy struggle to approach while their lines get cut down from afar!
+Despite being a defensive wonder, it can be worthwhile to build the Great Wall if you plan to be aggressive in order to deny it to others and make domination easier. If an opponent manages to build it, they essentially have [Marsh%20%28Civ5%29](Marshes) all along their [Borders%20%28Civ5%29](border), meaning only units with 3 or more can reach units two tiles inside the border. This, as mentioned above, shifts the focus of [Combat%20%28Civ5%29](combat) towards ranged (and siege) units.
+The effect of the Great Wall is negated when the player who owns the wonder, not the invading player, has finished researching [Dynamite%20%28Civ5%29](Dynamite). This means the wonder can be of use against even more technologically advanced [Civilizations%20%28Civ5%29](civilizations), greatly aiding the defense of the owner's lands until late in the [Industrial%20Era%20%28Civ5%29](Industrial Era).

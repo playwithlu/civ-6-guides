@@ -1,0 +1,7 @@
+# Emancipation Gate (CivBE)
+
+The Emancipation Gate is a Planetary Wonder that's required for the [Victory%20%28CivBE%29](Emancipation Victory). The Emancipation Gate is essentially the same as [Warp%20Gate%20%28CivBE%29](Warp Gate) required for the Purity version of the [Victory%20%28CivBE%29](victory), but with a yellow color and a different required technology. It is used by the [Supremacy%20%28CivBE%29](Supremacist) culture that builds it to facilitate the liberation of their still-organic cousins on Old Earth, suffering under the consequences of the Great Mistake, by providing the technology and (military) manpower needed to systematically [Neural%20Uploading%20%28CivBE%29](neurally upload) all those left behind.
+Requires: [Hypercomputing%20%28CivBE%29](Hypercomputing), Supremacy level 13
+This Wonder takes up an entire hex. To build this Wonder, select Emancipation Gate from the City build list. It can be built on an owned tile within 5 distance of the city. Select a suitable hex and answer the confirmation prompt. Any previous improvements on that hex will be removed.
+To win, send 1000 [Strength%20%28CivBE%29](Strength) in [Units%20%28CivBE%29](Units) through the gate. 
+The Emancipation Gate can be attacked and destroyed to prevent victory. It has 300 health, 0 defense and can be garrisoned like a city (providing 20% of unit melee strength as defense). To be destroyed at least 3 attacks are required, with the last one being melee. If destroyed all progress is lost and it will need to be reconstructed for another attempt at victory.

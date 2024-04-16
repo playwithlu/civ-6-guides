@@ -1,0 +1,3 @@
+# Free Speech (Civ5)/Civilopedia
+
+Free speech is the policy in which people are able to say whatever they want without fear of governmental reprisal. Political candidates must be free to state their positions, news media must be free to point out the government's shortcomings, and comedians must be free to make fun of the ruler's accent. In even the freest societies there is usually some kind of limitation on free speech - in the United States one cannot yell "fire!" in a crowded movie theatre, for example, nor can you advocate the violent overthrow of the US government or threaten to shoot a political figure. (It's also dangerous to tell anyone outside of New York City that you're a New York Yankees baseball fan, but it's not actually illegal.)

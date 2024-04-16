@@ -1,0 +1,3 @@
+# Furs (Civ6)/Civilopedia
+
+Homo sapiens have been wearing the pelts of fellow mammals since they wandered into the cold climes, about 125 thousand years ago. Once wool and flannel fabrics were developed, which were far more durable, warmer, and easier to keep clean, wearing furs was just an affectation. Nonetheless, several species were hunted to near extinction during the 1700s and 1800s – beaver, fox, mink, seal, the list goes on. Others were bred in captivity – ermine, sable, chinchilla, etc. – to be harvested for their coats. And the “fur trade” (think Hudson’s Bay Company) made some men very rich.

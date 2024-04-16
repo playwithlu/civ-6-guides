@@ -1,0 +1,3 @@
+# Feudal Contract (Civ6)/Civilopedia
+
+For commoners not serfs nor indentured servants, villeins – not to be confused with “villains,” although that may be mere terminology – were the vassals enjoying a feudal contract with a manor lord. They were legally free but subject to the lord’s authority. Under the feudal contract, the lord had the duty to provide a fief for his villein, to protect him, and to provide justice in the king’s court for him. In return, the lord demanded fealty and the right to services attached to the contract (military, labor, taxes, and such). To violate the oath of fealty was a felony, like a breach of contract but with stiffer penalties.

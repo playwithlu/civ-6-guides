@@ -1,0 +1,6 @@
+# Settler (C-evo)
+
+Settlers are one of [C-evo](C-evo)'s nine predesigned [List%20of%20units%20in%20C-evo](units), available from the start of the game. They can improve [Terrain%20%28C-evo%29](terrain) and establish new [City%20%28C-evo%29](cities).
+With permitted [Speed%20%28C-evo%29](movement points) ("MP") of 1.5, a single turn can be one step in any direction on any terrain, two or three steps along roads or rivers (but it needs 1.0 or 1.5 MP to go from road to river or vice versa), and several steps along a railroad - where a unit of that type uses only 0.12 or 0.18 MP per tile, depending on direction.
+The time a settler takes to perform land improvement tasks depends on the task and the terrain. The shortest take two turns. The in-game manual refers readers to a "[terrain%20enhancement%20box](terrain enhancement box)".
+Once a [civilization](civilization) has discovered [Explosives%20%28C-evo%29](Explosives), it can instead create [Engineers%20%28C-evo%29](Engineers) units, which have twice as many MP for the same construction cost. At this point, settlers are functionally [obsolete](obsolete); in game versions prior to 1.2 they must be manually retired from the production list; as of v1.2 this is handled automatically.

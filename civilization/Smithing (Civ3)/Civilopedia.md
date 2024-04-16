@@ -1,0 +1,3 @@
+# Smithing (Civ3)/Civilopedia
+
+Smithing is the craft of shaping heated metal, typically with hammer and anvil. The greatest demand during the Middle Ages was for blacksmiths, who worked iron into everyday tools. But there were also others such as silver smiths who could create exquisite jewelry with that fine metal. The Vikings were considered master metalworkers. Anglo commoners often took for a surname their occupation title, so it is not surprising that Smith is one of the most popular names.

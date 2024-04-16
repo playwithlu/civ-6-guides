@@ -1,0 +1,3 @@
+# Ace Driver (Civ6)/Civilopedia
+
+Occasionally spies have to escape, and the popular image – fostered by far too many action movies – is as the object of a high-speed chase by the nefarious villains or authorities. (In point of fact, if it comes to this pass, the agent will more reasonably try to blend in and slip away by public transport.) But during World War II and the Cold War, several agencies had evasive driving courses for their operatives, teaching them such maneuvers as the J-turn, powerslide, fishtailing, and PIT (“precision immobilization technique”). Historical instances of a spy outracing capture in a vehicle are non-existent, but why spoil a good story?

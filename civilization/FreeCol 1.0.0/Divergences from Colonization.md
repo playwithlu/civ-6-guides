@@ -1,0 +1,3 @@
+# FreeCol 1.0.0/Divergences from Colonization
+
+"As [FreeCol](FreeCol) version 1.0.0 gets closer, it is time to list all the differences from [Col1](the original game) and discuss whether they are good differences or should be either eliminated or kept as options for players. Please list facts about Col1 and the latest [FreeCol%20versions](release) of FreeCol here, with comment on the talk/discussion page. Latest version discussed here is 0.9.5, with notes about "0.10.0 alpha" and later versions where known and noticed by someone."

@@ -1,0 +1,5 @@
+# Iroquois (Civ5)
+
+The Iroquois people represent a [Civilizations%20%28Civ5%29](civilization) in "[Civilization%20V](Civilization V)".
+Strategy.
+The Iroquois are masters of the use of [Forest%20%28Civ5%29](forests) and [Jungle%20%28Civ5%29](jungles) - both for economic and military purposes. Their [Unit%20%28Civ5%29](units) are highly mobile on these [Terrain%20%28Civ5%29](terrains), and after reaching the [Mohawk%20Warrior%20%28Civ5%29](Mohawk Warriors), some of them gain a good combat bonus in them. Additionally, they have a [Starting%20bias%20%28Civ5%29](starting) bias for forested terrain! So, to make best use of those advantages, make sure to preserve as many of the forests/jungles around your [Territory%20%28Civ5%29](territory) as you can, especially those near [City%20%28Civ5%29](cities) (which can be worked for increased yield after building a [Longhouse%20%28Civ5%29](Longhouse) in the city). Note that forests/jungles do count as [Railroad%20%28improvement%29%20%28Civ5%29](railroads) once [Railroad%20%28technology%29%20%28Civ5%29](the appropriate technology) is researched, and will grant the bonus.

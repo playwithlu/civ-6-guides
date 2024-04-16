@@ -1,0 +1,2 @@
+# Singularity Mechanics (SMAC)
+

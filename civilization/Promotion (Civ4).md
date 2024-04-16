@@ -1,0 +1,16 @@
+# Promotion (Civ4)
+
+[Military%20unit%20%28Civ4%29](Military units) may get promotions which increase their abilities. A promotion can mean either of two closely related concepts. One is the process of taking a promotion; the other is the resultant change to the [List%20of%20units%20in%20Civ4](unit), which is signified by icons shown with it when it is selected.
+Seeing Promotions.
+You can see the promotions a unit has when you select it. Each promotion it has is depicted via a unique icon that is associated with that promotion; see the articles for specific promotions to see their icon.
+Means to Promotions.
+There are several ways in which a military unit may get a promotion. First, many kinds of military units have one or more free promotions that they get when they are trained. Sometimes a free promotion is inherent to the unit itself - for example, [Mechanized%20Infantry%20%28Civ4%29](Mechanized Infantry) come with the [March%20%28Civ4%29](March) promotion. Sometimes a free promotion is granted based on a [Leader%20trait%20%28Civ4%29](leader trait) (e.g. [Combat%20%28promotion%29%20%28Civ4%29%23Combat%20I](Combat I) for [Aggressive%20%28Civ4%29](Aggressive) [Leaders%20%28Civ4%29](leaders)). Or it may be granted by a building (e.g. [Dun%20%28Civ4%29](Duns) give [Guerrilla%20%28Civ4%29%23Guerrilla%20I](Guerrilla I)).
+A second way in which a unit can get a promotion is via a unit [Upgrade%20%28Civ4%29](upgrade). Any promotion which is inherent to the unit-type which a unit is upgraded to will be added to the unit. For example, if you upgrade an [Infantry%20%28Civ4%29](Infantry) to a Mechanized Infantry, it will gain the March promotion if it does not already have it.
+The final way in which promotions are given is via the [experience](experience) system. See below.
+Experience and Promotions.
+When a unit has certain levels of experience, it becomes eligible to get a promotion. When this is the case, when it is selected the promotions that it is eligible will have buttons shown on the unit display. You can click any active button to take the promotion represented on it.
+The amount of experience needed for a promotion always increases for each additional promotion. There are two cases: if the [List%20of%20civilizations%20in%20Civ4](civilization) has a [Charismatic%20%28Civ4%29](Charismatic) leader, 25% less experience (fractions round up) is needed for each promotion. Note that the experience system is completely independent of any free promotions a unit may get; having a free promotion does not give experience, nor does it count as a having a promotion for the purpose of getting experience-based promotions.
+Taking a Promotion.
+When a unit takes a promotion, there are several effects. First, it immediately gains the promotion, and thus the promotion's effects. Thus you may take a promotion and then attack in the same turn. Second, it is unfortified — any fortification bonus it gets from immobility is lost. Finally, it is [Healing%20%28Civ4%29](healed) half of its [hit%20point](hit point) deficit.
+List of Promotions.
+This is a list of promotions available.

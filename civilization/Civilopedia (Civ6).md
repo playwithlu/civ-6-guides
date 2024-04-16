@@ -1,0 +1,2 @@
+# Civilopedia (Civ6)
+

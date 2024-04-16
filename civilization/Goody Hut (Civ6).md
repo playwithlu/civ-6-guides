@@ -1,0 +1,2 @@
+# Goody Hut (Civ6)
+

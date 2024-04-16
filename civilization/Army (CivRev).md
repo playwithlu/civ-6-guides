@@ -1,0 +1,8 @@
+# Army (CivRev)
+
+[Sid%20Meier](Sid Meier) introduced players to a number of new features in "[Civilization%20Revolution](Civilization Revolution)", including new [Building%20%28CivRev%29](buildings), [Wonder%20%28CivRev%29](wonders), and game mechanics. One such mechanic is the ability to form [List%20of%20units%20in%20CivRev](units) into an Army - or, for [Naval%20unit%20%28CivRev%29](naval units) or [Air%20unit%20%28CivRev%29](air units), a Fleet or a Wing (respectively) - which can be exceedingly useful for players who want to maximize their military strength.
+Creating an Army.
+An Army is formed from any three of the same type of unit. It is larger and more powerful than a single unit and is able to move, attack, and defend as such, eliminating the need to select individual units. Armies are quite effective at destroying [Barbarian%20%28CivRev%29](Barbarian) villages and capturing poorly protected [City%20%28CivRev%29](cities).
+To create an Army, players need only move two other units onto the same tile as another unit of the same type - they can, for example, move two other [Warrior%20%28CivRev%29](Warriors) onto the same tile as another Warrior - and then press the Y button (on the Xbox 360) or the Triangle button (on the PlayStation 3). This will combine all three units into an Army and allow them to move and battle as one.
+Advantages of Armies.
+Armies have several advantages over individual units:

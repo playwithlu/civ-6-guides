@@ -1,0 +1,8 @@
+# Rapid Deployment (Civ6)
+
+Rapid Deployment is an [Atomic%20Era%20%28Civ6%29](Atomic Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by building an [Aerodrome%20%28Civ6%29](Aerodrome) or an [Airstrip%20%28Civ6%29](Airstrip) on a foreign [Continent%20%28Civ6%29](continent).
+In the ' expansion, the [Amundsen-Scott%20Research%20Station%20%28Civ6%29](Amundsen-Scott Research Station) is unlocked with Rapid Deployment. It was unlocked with [Cold%20War%20%28Civ6%29](Cold War) in the ' expansion.
+Strategy.
+The concept of Rapid Deployment is a cornerstone of contemporary military defense and strike capabilities. The possibility to instantly move land [Unit%20%28Civ6%29](units) between any two [City%20%28Civ6%29](cities), even if they're on different continents, allows for unparalleled strategic options, both in defense and offense. Keep a task force close to strategically placed Aerodromes with [Airport%20%28Civ6%29](Airports) and you will be ready to react instantly to any unpleasant surprises from your enemies (as long as their targets also have Aerodromes with Airports, of course).
+Rapid Deployment allows all land units to be transported between any two Aerodromes that both contain an Airport. Transportation is possible from all [Tile%20%28Civ6%29](tiles) adjacent to the Aerodrome and/or [City%20Center%20%28Civ6%29](City Center) of the origin city, to all tiles adjacent to the destination city's Aerodrome.
+Another option is to build a strategically located outpost city, then equip it with an Airport and it will turn into a base for an invasion. You will be able to move an army there instantly, without giving time to your enemies to prepare for defense.

@@ -1,0 +1,6 @@
+# Citizenship (Civ5)
+
+Citizenship is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Liberty%20%28Civ5%29](Liberty) tree.
+The Citizenship system of rights and privileges of people belonging to this nation over foreigners is a powerful tool to attract new immigrants to your empire, some of which are ready to work for you right away. Besides that, new recruits are conscripted to speed up the improvement of the land around your cities.
+Strategy.
+This is a starting (level 1) Policy, and a great way to save yourself some building time in the beginning of the game. Not only do you get a free [Worker%20%28Civ5%29](Worker) (which usually takes 10+ turns to build at the beginning of the game!), but it, and all future Workers, become more effective at their main occupation: building [Improvement%20%28Civ5%29](improvements)! Consider, however, the state of your technological research at that time. If the land and [Resource%20%28Civ5%29](resources) around your starting [City%20%28Civ5%29](city) demand more advanced techs to be developed, then you will be wasting a Policy and your Worker won't be able to help you much! 

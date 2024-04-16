@@ -1,0 +1,4 @@
+# Athens
+
+Athens, also known as Athenae, is the [Greek](Greek) [capital](capital) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and elsewhere, and also appears as a [Byzantine](Byzantine) [city](city) and a [city-state](city-state). In real life, it is a major coastal urban area in the Mediterranean and it is both the capital and the largest city of present-day Greece and home to the [Parthenon](Parthenon).
+In [scenario](scenario)s, it may appear as the [Macedonian](Macedonian) capital in [Rise%20of%20Rome](Rise of Rome) and a [Mycenaean](Mycenaean) city in [Mesopotamia%20%28Civ3%29](Mesopotamia).

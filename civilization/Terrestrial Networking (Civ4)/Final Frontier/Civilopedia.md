@@ -1,0 +1,3 @@
+# Terrestrial Networking (Civ4)/Final Frontier/Civilopedia
+
+After maximizing the population in the early metropolises, interstellar man began to spread outwards across his new homeworlds. The widespread adoption of Commercial Satellites had much the same effect that the introduction of the banking system had on Earth's medieval Europe, inducing a wild and sudden increase in investment and expansion across previously uncharted planet-scape. Yet these advances would have been far more difficult without the creation of the Nutrition Facility, the revolutionary portable ecosystem created to support new growth and which remains a staple of major metropolises to this day.

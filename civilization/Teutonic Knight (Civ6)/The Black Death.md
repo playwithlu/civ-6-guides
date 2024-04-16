@@ -1,0 +1,5 @@
+# Teutonic Knight (Civ6)/The Black Death
+
+The Teutonic Knight is a [Unique%20unit%20%28Civ6%29](unique) [List%20of%20units%20in%20Civ6/By%20class%23Melee](melee unit) of the [Imperial%20%28Civ6%29](Imperial) [Civilizations%20%28Civ6%29](civilization) from [The%20Black%20Death%20%28Civ6%29](The Black Death) [List%20of%20scenarios%20in%20Civ6](scenario) in "". It replaces the [Swordsman%20%28Civ6%29](Swordsman).
+Strategy.
+Apart from taking a little longer to train, the Teutonic Knight is much better than the standard Swordsman: it's stronger, cheaper to maintain, and receives an impressive Combat Strength bonus in enemy [Territory%20%28Civ6%29](territory). It's also available as soon as the scenario begins, making the Holy Roman Empire a dreadful foe if they decide to go on the offensive while the plague sweeps over the land.

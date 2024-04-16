@@ -1,0 +1,3 @@
+# Athens (Civ6)/Civilopedia
+
+The city of Athens is known for both its longevity and its cultural contributions that would help define western civilization. Serving as a cradle from democracy from the 5th Century BCE, a fiercely independent Athens allied with other Greek city-states in times of crises. After famously holding off the invasion of the Persian king Xerxes, Athenian fortunes briefly fell to the Spartans during the Peloponnesian War, and then more permanently in 338 BCE when Philip II ended an independent Athens for quite some time. However, it remained a beacon of culture and scholarship for centuries to come.

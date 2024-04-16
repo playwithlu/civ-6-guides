@@ -1,0 +1,8 @@
+# Ship of the Line (CTP2)
+
+The Ship of the Line is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The Ship of the Line is the most dominant wooden ship in the game. Heavily laden with cannon, it is capable of destroying lesser ships with ruthless ferocity. It is particularly effective at Bombarding naval units.
+Great Library entry.
+As 17th-century naval combat increased in frequency and intensity, particularly in the Anglo-Dutch wars, naval strategists developed the formation of heavy warships called line ahead. In the line ahead formation, each ship followed in the wake of another, making it easier for each ship in the line to have a clear range for their broadside guns. Up until the line-ahead tactic, ships of widely varying strength comprised a typical line. The term ship of the line originated in the 1700s to describe the only suitable ships "to lie in the line of battle."
+Ships of the line varied widely in strength and size. First-raters carried as many as 136 guns but they were considered cumbersome. The 74-gun third-rater combined speed and maneuverability with decent attack power comprised most of the ships of the line of the late 18th and early 19th centuries. Approximately 175 feet long with two full gun decks, these ships dominated the seas until the development of the battleship in the 1860s. The British ship of the line Victory, the personal ship of Viscount Nelson launched in 1765 and preserved in dry dock in 1805, is a classic example of the larger of the ships of the line, with three gun decks of 24-pound guns.

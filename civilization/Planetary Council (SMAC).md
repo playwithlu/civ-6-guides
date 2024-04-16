@@ -1,0 +1,6 @@
+# Planetary Council (SMAC)
+
+Once any human [Factions%20%28SMAC%29](faction) has made contact with all other surviving human factions, it can choose to convene the Planetary Council and elect a Planetary Governor. When someone does this, all factions get each other's communications frequency, and can thus call one themselves.
+A faction may not call a Planetary Council if it has not been at least 20 years since they last summoned one, except for the Planetary Governor who can call it after only 10 years.
+With the exception of the Planetary Governor or Supreme Leader elections, each faction has one vote, with the governor holding veto power. In Planetary Governor or Supreme Leader elections, each faction casts a number of votes based on its total population and modifiers from faction ability and [Secret%20Projects%20%28SMAC%29](secret projects).
+Certain proposals can be made also, after the required [Technology%20%28SMAC%29](technology) has been developed on the tech tree of the one making the proposal.

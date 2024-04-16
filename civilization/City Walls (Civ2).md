@@ -1,0 +1,5 @@
+# City Walls (Civ2)
+
+ City Walls are [List%20of%20buildings%20in%20Civ2](buildings) in "[Civilization%20II](Civilization II)" that grant defending units a 3x bonus vs ground attacks. Additionally, cities with walls do not suffer any loss when defending units are defeated by ground units that are affected by walls.
+Civilopedia entry.
+Before the establishment of centralized governments capable of supporting strong, national armies, individual cities were left to fend for themselves when it came to defense. As a result, many cities constructed city walls to protect against raiders and bandits. City walls represented a major investment in both time and materials, requiring years to complete and constant repairs to maintain their strength and integrity. However, these walls turned the city into a fortress capable of withstanding all but the most determined attack.

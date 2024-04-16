@@ -1,0 +1,5 @@
+# Jebel Barkal (Civ6)/Civilopedia
+
+A lonely mountain rises from the flat Sudanese desert, west of a bend in the Nile. At its base once stood a palace where ancient kingdoms ruled for centuries. Now, there are only ruins.
+Easily recognizable from a great distance, the flat-topped mountain of Jebel Barkal was a waypoint for travelers in ancient times. It indicated a point of relatively safe crossing (just downstream of the Nile's Fourth Cataract). After the Fifteenth Century BCE, it also noted the location of Napata, Egypt's southernmost border city that, 500 years later, would become the capital of the Nubian Kingdom of Kush.
+Since the 19th Century, archaeologists have excavated a wealth of historical information from Jebel Barkal including temple ruins, stonework carved into the mountain, and ancient inscriptions dating back to the Egyptian occupation of the region. The Nubian pyramids in the shadow of the mountain later served as tombs for Meroitic kings and queens.

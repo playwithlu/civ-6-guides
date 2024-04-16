@@ -1,0 +1,3 @@
+# Longswordsman (Civ5)/Civilopedia
+
+The longsword was the most versatile weapon of the Medieval/Renaissance battlefield. It was lighter and easier to carry than a pike, and it could be used one or two-handed, making it possible for the swordsman to also carry a shield. In face-to-face combat against pikemen the longswordsmen were at a significant disadvantage, taking many casualties from the longer weapons before they could even get within striking distance. However, longswordsmen units were faster and more maneuverable than pikemen - and if they could hit their opponents in a flank attack, the pikemen were dead meat.

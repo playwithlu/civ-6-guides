@@ -1,0 +1,3 @@
+# National Intelligence Agency (Civ5)/Civilopedia
+
+A National Intelligence Agency provides government resources for the acquisition of information and intelligence data key to providing security and national defense. Everything from covert operations, including espionage and infiltration, to the assessment of national security risks and response recommendations are made by these agencies. The Central Intelligence Agency of the United States is perhaps the most famous (or notorious) of the world's intelligence agencies, as the program has continually influenced global affairs through various means for decades.

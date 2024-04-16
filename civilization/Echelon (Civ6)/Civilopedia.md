@@ -1,0 +1,3 @@
+# Echelon (Civ6)/Civilopedia
+
+The use of echelon – in effect, units in the infantry line are arranged diagonally, so as to refuse the flank (for instance, in a right echelon, each is placed to the right and slightly behind the adjacent unit on its left) – dates back to antiquity. The earliest recorded use is when the Thebans attacked the Spartans at the battle of Leuctra with their left wing while they use an echelon formation to refuse their weak right flank; they won ... one of the few defeats the Spartans ever suffered. The use of echelon did not pass away with the arrival of gunpowder; the famed Jomini wrote extensively about it in his works on linear tactics, influential on European and American officers for decades after.

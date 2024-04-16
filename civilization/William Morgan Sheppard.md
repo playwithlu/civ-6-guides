@@ -1,0 +1,3 @@
+# William Morgan Sheppard
+
+William Morgan Sheppard (August 24, 1932 – January 6, 2019) was an English actor whose film career began in 1962, when he played the role of Alec in "". He served as the narrator in "[Civilization%20V](Civilization V)" and its expansions, providing the voiceovers for the intro and [Victory%20%28Civ5%29](victory) movies, the loading screens, [List%20of%20wonders%20in%20Civ5](wonders), [Great%20Work%20%28Civ5%29](Great Works), and newly researched [List%20of%20technologies%20in%20Civ5](technologies).

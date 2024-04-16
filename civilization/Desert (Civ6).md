@@ -1,0 +1,10 @@
+# Desert (Civ6)
+
+Desert is a base [Terrain%20%28Civ6%29](terrain) in "[Civilization%20VI](Civilization VI)". It is found in many parts of the world, sometimes as great expanses, sometimes as single [Tile%20%28Civ6%29](tiles).
+Strategy.
+Without any [Oasis%20%28Civ6%29](Oases) or [Floodplains%20%28Civ6%29](Floodplains), Desert tiles are not suited for settlement (except for [Australian%20%28Civ6%29](Australia) and [Nubian%20%28Civ6%29](Nubia), which can build their unique [Tile%20improvement%20%28Civ6%29](tile improvements) there; and [Malian%20%28Civ6%29](Mali), which gains a great number of bonuses to Desert tiles). For any [City%20%28Civ6%29](city) within or near a desert, the bare Desert tiles should be reserved for [District%20%28Civ6%29](districts) or [Wonder%20%28Civ6%29](wonders) unless a [Resource%20%28Civ6%29](resource) is found there. Thankfully, there are a few resources - such as , , and the all-important (without which there are no modern [Air%20unit%20%28Civ6%29](airplanes)) - that are found mostly or only in deserts.
+The [Petra%20%28Civ6%29](Petra) wonder can make deserts far more useful: it increases the base yield of Desert tiles to be comparable to [Grassland%20%28Hills%29%20%28Civ6%29](Grassland Hills) or [Rainforest%20%28Civ6%29](Rainforest) [Plains%20%28Civ6%29](Plains), and extends the bonus to Oases (but not Floodplains). An Oasis in range of Petra will have the outstanding yield of 5 , 1 , and 3 !
+Deserts can also turn into great boosters for [Civilizations%20%28Civ6%29](civilizations) which adopt the [Desert%20Folklore%20%28Civ6%29](Desert Folklore) [Pantheon%20%28Civ6%29](pantheon). Build a [Holy%20Site%20%28Civ6%29](Holy Site) in the middle of a desert for a whopping [Adjacency%20bonus%20%28Civ6%29](adjacency bonus) of +5 or more!
+[Maui%20%28Civ6%29](Maui) spawns on Desert tiles if no luxury resources can be spawned.
+Desert names.
+"" introduced a new mechanic in which Deserts can have different names based on the first civilization that finds them. Below is the list of the names and civilization of origin.

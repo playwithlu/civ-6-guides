@@ -1,0 +1,5 @@
+# Great Library (Civ1)
+
+Great Library is a [List%20of%20wonders%20in%20Civ1](World Wonder) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)".
+Civilopedia entry.
+The Royal Great Library of Alexandria was one of the two most important libraries of the ancient world. It was founded around 300 B.C. by Ptolemy I, and was greatly enhanced by the later Ptolemaic rulers, when Alexandria served as the cultural center of the Hellenistic world. The Library attempted to obtain copies of all known scrolls of any consequence, and it was said to have contained over 700,000 volumes. It became a center for learning as well as a repository of knowledge. The Library was ultimately destroyed by religious fanatics in 391 A.D. Only part of the catalog survives to tantalize us about the treasures it contained.

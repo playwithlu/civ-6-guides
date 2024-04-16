@@ -1,0 +1,4 @@
+# Christian Cathedral (Civ4)/Civilopedia
+
+In "Civilization IV", a cathedral is defined as an especially large and ornate religious building where the faithful worship. Only the most prosperous cities can afford to create cathedrals, as they require huge amounts of raw material and years of dedicated labor by skilled craftsmen. For example, the Notre Dame Cathedral in Paris, France, took over two centuries to complete.
+Christian cathedrals are considered among the most beautiful buildings in the world. Many of the most imposing were built during the Middle Ages. Lofty buildings with beautiful stained glass, the early Christian cathedrals tended to collapse suddenly, with unfortunate results for those inside, until the invention of the flying buttress.

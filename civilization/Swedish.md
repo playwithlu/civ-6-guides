@@ -1,0 +1,3 @@
+# Swedish
+
+The Swedish people, also known as the Swedes, represent Sweden, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. Their [capital](capital) might be [K%C3%B6pingsvik](Köpingsvik), [Sigtuna](Sigtuna), or [Stockholm](Stockholm), and they can be led by , [Gustavus%20Adolphus](Gustavus Adolphus), [Inge%20the%20Elder](Inge the Elder), [Kristina](Kristina), or [Olof%20Sk%C3%B6tkonung](Olof Skötkonung).

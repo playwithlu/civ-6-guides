@@ -1,0 +1,5 @@
+# Science (C-evo)
+
+[Science](Science) is a key advance in the free game [C-evo](C-evo), inaugurating the 
+Of the three ways of reaching it, Philosophy+Theology is the one most chosen by [AI](AI) nations. Humans with an eye on (for ) and (for speed) or concerned about enemy warships may instead research Metallurgy and hope to acquire partial knowledge of Philosophy or the more likely Theology (which allows ) by exchange with a friend.
+Beyond Science, provided that you have , if defensive strength needs a little boost go for Chemistry then (which gets your defensive strength to 40 and also allows and ) but if it needs a bigger boost you may prefer Steam Engine &gt; &gt; first so as to design a 16/48/2. With Railroad and you can research and each resulting will (after construction) let you produce units and buildings faster.

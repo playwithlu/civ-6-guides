@@ -1,0 +1,4 @@
+# Indentured Servants (Col)
+
+Indentured Servants are people desiring to come to the New World but who cannot afford to pay their own way. They, accordingly, put themselves into bondage and agree to work off their passage in the New World. They, like [Petty%20Criminals%20%28Col%29](Petty Criminals), are useful workers in the fields and mines, but are less productive than [Free%20Colonists%20%28Col%29](Free Colonists) in manufacturing and processing jobs. But, through [education%20%28Col%29](education) or military experience, they can become free colonists. They can also enter Indian Villages to receive advanced training.
+Indentured Servants can be made into [Scouts%20%28Col%29](Scouts), [Soldiers%20%28Col%29](Soldiers), [Dragoons%20%28Col%29](Dragoons), or [Missionaries%20%28Col%29](Missionaries) with no education required.

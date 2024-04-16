@@ -1,0 +1,6 @@
+# Bank (Civ5)
+
+Game Info.
+Renaissance Era money-boosting building. Requires [Market%20%28Civ5%29](Market).
+Strategy.
+The Bank is the mid-level, Renaissance-era -boosting building. It also provides a second slot, which is ideal for commerce-oriented empires. A city must possess a Market or [Bazaar%20%28Civ5%29](Bazaar) before a Bank may be constructed.

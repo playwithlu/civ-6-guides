@@ -1,0 +1,5 @@
+# King Edward III (Civ6)/Civilopedia
+
+Perhaps England’s most successful medieval king, his 50-year reign was marked by wars, the rise of Parliament, and the plague. His father, Edward II, was overthrown when Edward III was only a child, but Edward quickly moved to exercise rule in his own right.
+Waging wars against Scotland and France, Edward III and his subordinate commanders (particularly his eldest son, Edward the Black Prince) were responsible for many of the greatest English victories of the Hundred Years’ War, including the naval battle at Sluys. Edward III himself commanded the troops at the Battle of Crecy, where English longbowmen slaughtered the flower of French nobility in an afternoon.
+The Black Death of 1361 marks the decline and twilight of his reign. Plague death deprived him of the resources needed to fight his wars, and rising social tensions at home occupied him for much of the rest of his life.

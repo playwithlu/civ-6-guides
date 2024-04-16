@@ -1,0 +1,6 @@
+# Station (CivBE)
+
+Stations are minor entities with which the players can [Trade%20route%20%28Civ5%29](trade). They are like [City%20%28CivBE%29](Cities) or [Outpost%20%28CivBE%29](Outpost)s in that they occupy one hex, but they do not have any units nor do they claim any territory by culture. Normal rules for City placement apply (e.g. you cannot establish an Outpost within three hexes of a Station).
+Stations may land on the planet at any time. They are looking to trade with the players, and if nobody comes forward within a given period of time, they pack their belongings and move to a new location on the planet. Only one city per each civilization can trade with a given Station simultaneously. 
+When you trade with a Station, the Station is promoted to the next Tier. When your trade route expires and you establish a new one, you get better deals the higher the Tier of the Station. The stations have three Tiers, shown in the table below.
+Stations can be attacked, after which they will never trade with the attacker again. They have ranged defense like cities, but produce no units. They cannot be captured, only destroyed. When destroyed they yield a reward to the attacker and leave behind a [Derelict%20settlement%20%28CivBE%29](Derelict settlement).

@@ -1,0 +1,5 @@
+# Renaissance Age (CTP1)
+
+The Renaissance Age is the second [Age%20%28CTP1%29](age) in "". It is preceded by the [Ancient%20Age%20%28CTP1%29](Ancient Age) and followed by the [Modern%20Age%20%28CTP1%29](Modern Age). It requires [Alchemy%20%28CTP1%29](Alchemy), [Banking%20%28CTP1%29](Banking), [Classical%20Education%20%28CTP1%29](Classical Education), and [Engineering%20%28CTP1%29](Engineering).
+Great Library entry.
+The Renaissance began with a renewed interest in the physical world and in trade, opening a period of violent world expansion. Perspective and Optics testified to man's new interest in the accurate analysis of the world, while Banking and growing international trade fed the spread of such new ideas. Together with Gunpowder, the Renaissance opened the door to the European world colonization that would last four hundred years.

@@ -1,0 +1,3 @@
+# Marakanda (Civ6)/Civilopedia
+
+Known to the Macedones as Maracanda (and in the modern times as the Uzbek city of Samarkand), the capital of Persia’s Sogdian satrapy was conquered by Alexander the Great in 329 BCE. Revitalized by its new rulers, Markand was home-away-from-home to Alexander’s forces while he put down a Sogdian rebellion. Markand is where Alexander declared his coming invasion of India. It was also where he hurled a spear through Cleitus the Black, one of his generals, on the heels of a drunken dispute. Poor luck for both Cleitus and India.

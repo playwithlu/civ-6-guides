@@ -1,0 +1,3 @@
+# Treaty Organization (Civ5)/Civilopedia
+
+A treaty organization is an international military pact created for purposes of collective security; it generally encompasses joint command structures, research programs, and armaments production as well as more mundane military matters. The North Atlantic Treaty Organization (NATO) formed in 1949 AD is the best known of such, but others are in place in South America, Africa and elsewhere. While defensive pacts and military alliances have been common in the past, none reached the level of integration of modern treaty organizations.

@@ -1,0 +1,3 @@
+# Apollo Program (Civ5)/Civilopedia
+
+The Apollo Program was a United States initiative to put the first human being on the moon. Conceived in the 1950s, the program began in full earnest in 1961 under President John F. Kennedy. Within a decade, on July 20, 1969, Americans Neil Armstrong and Buzz Aldrin landed on the moon, arguably the single greatest feat of engineering in human history. The Apollo Program was hugely expensive, but the advances it brought in technology and science have changed the world forever.

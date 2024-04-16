@@ -1,0 +1,6 @@
+# Borders (Civ5)
+
+The borders of your [Civilizations%20%28Civ5%29](civilization) grow as accumulates, and determine the size of your [Territory%20%28Civ5%29](territory). Individual tiles can be purchased for in the city screen.
+Open Borders Agreement.
+Once you or another civ have discovered [Civil%20Service%20%28Civ5%29](Civil Service) ([Writing%20%28Civ5%29](Writing) in [Civilization%20V](vanilla)), you can enter into an Open Borders agreement with that civ. ([City-state%20%28Civ5%29](City-States) can't make Open Borders agreements.) While an Open Borders agreement is in effect, the other civ's [Unit%20%28Civ5%29](units) can enter your territory without automatically triggering war. If the agreement is mutual, either civ's units can enter the other's territory freely, but it doesn't have to be mutual: one civ can grant another Open Borders without automatically receiving it in return.
+An Open Borders agreement lasts for 30 [turn](turn)s (on Standard [Speed%20%28Civ5%29](speed)). When 30 turns have passed, the agreement must be renegotiated or it lapses.

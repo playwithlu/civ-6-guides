@@ -1,0 +1,11 @@
+# Trading Post (Civ6)
+
+The Trading Post is a special [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)".
+Game Info.
+Whenever a [Civilizations%20%28Civ6%29](civilization) finishes a to a certain [City%20%28Civ6%29](city) for the first time (that is, the route runs its allotted number of [turn](turn)s), it creates a Trading Post in the [City%20Center%20%28Civ6%29](City Center) of the destination city. Your merchants use the connections they've established and buy some property there, where they create a permanent support station for future commercial activities. This post has the following effects:
+ Trading Posts can exist in both foreign and domestic cities, and multiple civilizations can establish Trading Posts in the same city. Civilizations cannot make use of Trading Posts established by other civilizations.
+Strategy.
+ Trading Posts that are in foreign cities are vital for extending trade range far beyond a civilization's borders. Domestic Trading Posts can allow a particularly productive core city to supply a developing border city directly, and can also enable wealthy core cities to trade directly with foreign cities.
+[Roman%20%28Civ6%29](Rome's) [List%20of%20civilization%20abilities%20in%20Civ6](civilization ability), All Roads Lead to Rome, gives a further +1 to Roman s which pass through a Roman city with a Trading Post. It also provides a free Trading Post to every city Rome founds or captures, as well as a [Roads%20%28Civ6%29](road) if the city is within trade range of the . This ensures all Roman s, especially those originating in the , have long ranges and a wide choice of destination cities.
+[Mongolian%20%28Civ6%29](Mongolia's) civilization ability, Örtöö, instantly creates a Trading Post in any city to which the Mongolians send a and provides them with an extra level of [Diplomacy%20%28Civ6%29%23Diplomatic%20Visibility](Diplomatic Visibility) with any civilization that has a Mongolian Trading Post in at least one of its cities.
+[Kublai%20Khan%20%28Civ6%29](Kublai Khan's) [List%20of%20leader%20abilities%20in%20Civ6](leader ability), Gerege, grants a and an whenever you establish your first Trading Post in a given major civilization.

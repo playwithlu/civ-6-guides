@@ -1,0 +1,3 @@
+# Coursers (Civ6)/Civilopedia
+
+As war evolved, and cavalry evolved into "light" and "heavy," different types of horses were bred with differing abilities. By the Middle Ages, the destrier – the massive, slow but powerful mount for the knights and nobility – was highly prized; but far more common was the courser, strong and swift. Usually ridden by men-at-arms and squires, these were battle-trained, lightly-armored, and used to operate on the flanks of the battle, riding down archers, artillerymen, and others. (Meanwhile, of course, the heavy knights on their destriers were duking it out for God, king, and glory in the center.) Valuable, but far less expensive than a destrier, the courser was the workhorse of the medieval army.

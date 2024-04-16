@@ -1,0 +1,5 @@
+# We Love the King Day (Civ5)
+
+We Love the King Day is a game element and special event in "[Civilization%20V](Civilization V)".
+Once [City%20%28Civ5%29](cities) are old/large["which?"] enough,["quantify"] they will demand that you acquire a specific [Resources%20%28Civ5%29%23Luxury%20Resources](luxury resource) which you do not (yet) have. If you do so, the city will celebrate "We Love the King Day" for 20 turns, during which the city's [Growth%20%28Civ5%29](growth rate) is increased by 25%. When the 20 turns are over, the city will demand another luxury resource which you do not possess. Fulfilling that request will cause the city to resume We Love the King Day for another 20 turns.
+If you acquire access to all the different types of luxury resources, your cities will continue to to demand luxury resources on the turn that We Love the King Day ends. If you still have access to the demanded resource on the subsequent turn, the city will resume We Love the King Day. Therefore, having at least one source of all the luxury resources makes the growth bonus from We Love the King Day apply to all cities for 20 in every 21 turns.

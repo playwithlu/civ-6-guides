@@ -1,0 +1,5 @@
+# Industrial Ages (Civ3)
+
+The is the third [Era%20%28Civ3%29](era) in "[Civilization%20III](Civilization III)." It is preceded by the [Middle%20Ages%20%28Civ3%29](Middle Ages) and followed by the [Modern%20Times%20%28Civ3%29](Modern Times).
+Out of 23 technologies in the Industrial Era, only 15 technologies need to be discovered to advance into the next era.
+In order to advance to the next [Era%20%28Civ3%29](era), all technologies must be discovered, except for those marked with the "No" symbol, specifically [Nationalism%20%28Civ3%29](Nationalism), [Communism%20%28advance%29%20%28Civ3%29](Communism), [Espionage%20%28Civ3%29](Espionage), [Ironclads%20%28Civ3%29](Ironclads), [Fascism%20%28advance%29%20%28Civ3%29](Fascism), [Amphibious%20War%20%28Civ3%29](Amphibious War), [Advanced%20Flight%20%28Civ3%29](Advanced Flight), and [Sanitation%20%28Civ3%29](Sanitation).

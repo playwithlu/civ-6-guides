@@ -1,0 +1,3 @@
+# Freydís Eiríksdóttir (Civ6)/Civilopedia
+
+Freydis is believed to have been born sometime c. 970, daughter to Erik the Red and sister (or half-sister) to Leif Erikson. As a woman, she is mentioned only briefly in two of the ancient sagas; the 'Groenlendinga' and the 'Eiriks Rauda.' Although details vary, both have her going to Vinland, being a fierce and strong-willed woman seeking glory. But in one she helps fight off an attack by “Red Skins”; in the other, she engineers an attack on a rival Viking encampment, herself using an axe to slaughter the women. In both, she then returns to Greenland and disappears from the tales.

@@ -1,0 +1,3 @@
+# Hills (Civ3)/Civilopedia
+
+Hilly areas, often covered with rich soil and grasses or heavily forested, are rich in resources. Coal, iron, lead, copper, and even gold and silver may be found in these regions, making them profitable areas for the mining industry. In areas where the belowground resources are scarce, hill areas are often cultivated for agricultural purposes. Certain crops such as coffee and grapes thrive in these regions, given the proper climate.

@@ -1,0 +1,3 @@
+# Krepost (Civ5)/Civilopedia
+
+"Krepost" is the Russian word for "fortress." For much of its history Russia was an expansionist state, pushing its borders further east across the vast steppes, into Siberia and beyond. When entering a new terrain, the Russians often would construct a "krepost" to protect their troops and to house governmental and religious buildings. Depending upon the local situation and availability of materials, a krepost could be a temporary wooden fort or a more permanent and imposing stone defensive work. In many ways the krepost is similar in form and function to the ubiquitous forts that the Romans built in their newly conquered lands.

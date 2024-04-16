@@ -1,0 +1,5 @@
+# Jan de Witt (Civ4Col)
+
+Civilopedia.
+Lived: 1625-1672
+Jan de Witt, also known as Johan de Witt, was a Dutch statesman and mathematician. He presided over the "Stadholderless Period," when through the timely death of William II of Orange, the Dutch United Provinces found themselves without a head of state, or stadholder. De Witt was fortuitously elected to the position of Grand Pensionary in 1653, and became the effective head of the United Provinces. De Witt, a proponent of the merchant classes, negotiated several treaties with England all while attempting to bring a new level of representative government to his nation. Through de Witt's efforts, the United Provinces were kept free and prosperous, turning the small nation into one of the most powerful of its age. But de Witt's success would not last. When Louis XIV of France invaded the United Provinces, he caught the nation completely by surprise, and the Dutch people turned against de Witt. Both Jan de Witt and his brother were lynched.

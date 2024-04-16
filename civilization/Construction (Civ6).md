@@ -1,0 +1,5 @@
+# Construction (Civ6)
+
+Construction is a [Classical%20Era%20%28Civ6%29](Classical Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by building a [Water%20Mill%20%28Civ6%29](Water Mill).
+Strategy.
+The obvious advantages of stone buildings and such building practices which transcend all that exists in the natural world logically leads to the development of a slew of new building techniques, which may be combined under the name of Construction. And they soon got their own specialists, which elevated the act of building to an art. The importance of wood as a building material now becomes obvious and prompts the development of a special improvement - the [Lumber%20Mill%20%28Civ6%29](Lumber Mill), which finally makes economic use of all those forests lying around. This alone makes it worthwhile beelining for (which is not that easy - you'll need one other Classical Era tech before being able to research it), but the new [Tile%20Improvement%20%28Civ6%29](Tile Improvement) unlocked is well worth the investment! Besides, Construction leads to other very important techs in the Medieval Era.

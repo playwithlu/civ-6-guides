@@ -1,0 +1,8 @@
+# Basilica (CTP2)
+
+ is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Basilicas enable larger groups of people to gather and worship under one roof. They enable the wider spread of religion, and increase in the process.
+Great Library entry.
+Originally, the term "basilica" referred to any of several kinds of large, roofed public buildings in ancient Rome, be they markets, courthouses, promenades or meeting halls. Eventually, the word began to refer to a specific style of building: rectangular, with an open hall extending from end to end, usually flanked by side aisles set off by colonnades, with raised platforms at one or both ends. During the 1st century BC, basilicae were increasingly used for judicial purposes. The platform was enclosed by a semicircular half-domed protrusion of the end wall called an apse. The exterior was often simple and unadorned. The interior, by contrast, often housed elaborate ornamentation on the many wall, ceiling and column surfaces.
+The basilica style of building, with its long central hall, aisles and apse, became the blueprint for church buildings in the Western Church. The Eastern Church, however, embraced a radial style of building, as demonstrated by the Hagia Sophia in Constantinople. The term basilica evolved once again, and in the Roman Catholic and Greek Orthodox churches, was a canonical title of honor given to churches of particular distinction. The Church bestows the title of basilica on sites renowned for either their antiquity, historical significance or association with a major saint. These churches enjoyed certain privileges, including the right to reserve its high altar for the pope, a cardinal or a patriarch.

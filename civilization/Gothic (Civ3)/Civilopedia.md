@@ -1,0 +1,4 @@
+# Gothic (Civ3)/Civilopedia
+
+The Goths origins are shrouded in mystery, but evidence does point to their beginnings being from the deep regions of Scandinavia. During the rise of the Roman Empire, the Goths were just beginning to take shape, and would eventually become one of the key factors for the fall of the mighty empire.
+As a non-literate tribe, the Goths slowly moved across Europe, settling into Poland by 0 BC. Their advancements and desire to expand their own empire thrust them into the Marcomannic war in the region of the Danube in 50 AD. As the Goth Empire expanded, the Roman Empire was meeting increasingly strong resistance, and by late 150AD the Roman advances in Europe were halted.

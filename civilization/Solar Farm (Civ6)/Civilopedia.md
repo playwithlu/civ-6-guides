@@ -1,0 +1,4 @@
+# Solar Farm (Civ6)/Civilopedia
+
+A solar farm is a collection of solar arrays used to convert the sun's energy into electrical power for consumers.  Each array is made up of solar panels, and these arrays can be mounted in a number of ways – some arrays are designed to track the sun's orbit, and some are fixed (though usually adjusted throughout the year as the earth's angle to the sun changes). Every array style has its own considerations, including power output, cost, and space needed to work properly.
+Many businesses and even homes are investing in solar technology for personal use, and government incentives continue to push this technology forward on a small and grand scale. Today's world leader in large-scale solar farm operations is China, but Germany is a close second, and solar farms continue to appear up all around the globe. The very first solar farm was built in 1982 in California by Arco Solar, but has since been abandoned.

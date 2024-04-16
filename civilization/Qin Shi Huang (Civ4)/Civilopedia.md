@@ -1,0 +1,6 @@
+# Qin Shi Huang (Civ4)/Civilopedia
+
+Born "Chao Cheng," Qin Shi Huang was the first to unify all of China. His father was ruler of "Qin," one of the seven dominant states in China; upon his death Cheng ascended the throne at the age of 13. However, rule was actually exercised by his prime minister until, at 22, Cheng assumed control of state affairs and stripped the minister of his powers.
+Cheng quickly instituted a series of agricultural and military reforms that greatly strengthened Qin. In the next 17 years, Cheng defeated the other six great powers, uniting the divided lands for the first time. He then gave himself the title "Qin Shi Huang," which means "First Emperor."
+The emperor was politically astute, using bribery, blackmail and espionage as much as force of arms to achieve his goals. He ruthlessly suppressed Confucianism, which set limits on the Emperor's power, going so far as to burn all books relating to China's past.
+While emperor, Qin Shi Huang established a centralized administration and constructed a network of roads and canals. He also fought against the steppe peoples from the northern desert, and began construction of the Great Wall of China to set limits to their incursions. Though his reign lasted but ten years, it served to unite a people who would remain united for the next two millennia and beyond.

@@ -1,0 +1,4 @@
+# English
+
+The English people represent England, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)", "[Call%20to%20Power%20games](Call to Power)", and "[Colonization%20%28game%29](Colonization)" games. Their [capital](capital) might be [Chippenham](Chippenham) or [London](London), and they can be led by [Edward%20III](Edward III), [Eleanor%20of%20Aquitaine](Eleanor of Aquitaine), [Elizabeth%20I](Elizabeth I), [Harold%20Godwinson](Harold Godwinson), [Henry%20VIII](Henry VIII), [Matilda](Matilda), [Queen%20Victoria](Queen Victoria), or [Winston%20Churchill](Winston Churchill).
+The [Anglo-Saxon](Anglo-Saxon) and [New%20English](New English) people may also be represented by the English.

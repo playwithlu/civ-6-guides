@@ -1,0 +1,7 @@
+# Galápagos Islands (Civ6)
+
+The Galápagos Islands are a two-tile impassable in "[Civilization%20VI](Civilization VI)". The Islands may be found on tiles. Each Wonder tile provides +2 and +2 to adjacent tiles.
+In "", discovering the Galápagos Islands grants +1 [Era%20Score%20%28Civ6%29](Era Score), or +3 Score if the player is the first to do so.
+Strategy.
+Each Galápagos Islands tile provides +2 to adjacent non-wonder tiles (see diagram). However, as with all impassable wonders, the individual wonder tiles offer no benefits, and cannot be developed or improved. The Islands are usually most effective when they are near the outskirts of a (or even slightly beyond its borders), since the wonder tiles themselves are functionally dead space. If a city is strategically placed in this fashion, it receives the adjacency benefits of the wonder without sacrificing valuable space.
+However, the Galápagos Islands themselves tend to spawn at least one tile away from the shore. In the rare case where it spawns adjacent to the Coast, it can still be incorporated into a [National%20Park%20%28Civ6%29](National Park). It is therefore recommended to settle two cities within range of the Galápagos Islands to make use of all of its enhanced tiles, while not sacrificing one of those enhanced tiles for a [Harbor%20%28Civ6%29](Harbor) if the player were to settle only one city that had control of all of the enhanced tiles.

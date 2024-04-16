@@ -1,0 +1,25 @@
+# Fall of Rome (Civ5)
+
+The Fall of Rome [List%20of%20scenarios%20in%20Civ5](scenario) is included in the "" expansion for "[Civilization%20V](Civilization V)". It is a Classical attack/defense scenario where you must "Play as either Eastern Rome or Western Rome trying to fend off the barbarians, or as one of the barbarians themselves."
+Scenario Description.
+The Roman Empire, now split into West and East, has ruled the known world for nearly a millennium. But in this 4th century AD, the empire's borders are being overrun by barbarian leaders carving out their own kingdoms as Rome's might falters. Meanwhile, a great storm gathers to the northeast as Attila and his Huns begin an overpowering wave of pillage and conquest. Choose your side, gather your courage, and fight to decide the next thousand years of history.
+Gameplay.
+All of the civilizations are locked into war with each other, save Western Rome (the [Roman%20%28Civ5%29](Romans)) and Eastern Rome (the [Byzantine%20%28Civ5%29](Byzantines)), who are on a team together. The [Diplomacy%20%28Civ5%29](diplomacy) screens are thus unavailable (as opposed to the scenario, where diplomacy screens can still be accessed, but are basically useless). There are three [Social%20policies%20%28Civ5%29](social policy) trees - "Roman," "Persian," and "Barbarian" - each of which is only available to select civilizations. Western and Eastern Rome have the Roman policy tree, the Sassanids have the Persian policy tree, and the other five have the Barbarian policy tree.
+The policies in the Roman policy tree only have negative effects, so as both Roman empires advance, they go further into decay. In addition, for each [City%20%28Civ5%29](city) the Western and Eastern Romans lose, they gain more , causing their empires to go even further into decay, and it is impossible for either of them to sell [Building%20%28Civ5%29](buildings) to reduce , increase income, or reclaim precious money from a city that is about to be lost to enemies.
+In the scenario, the purpose is to have the highest number of [Victory%20Points](Victory Points) when the time runs out. Victory Points can only be acquired in this scenario through control of imperial cities (cities that initially belonged to Western and Eastern Rome or the Sassanids) for Western Rome, Eastern Rome and the Sassanids, while other civilizations gain Victory Points by capturing these same imperial cities; each turn, the three empires will be rewarded with Victory Points based on how many imperial cities they control at the end of the turn. Western and Eastern Rome have an advantage in this arena, starting with an incredible number of imperial cities to begin with, but they come under attack from all directions almost immediately and do not have enough soldiers to properly defend against all the invading Barbarians and Persians. The Sassanids start smaller, but they get more Victory Points from each city, don't suffer the penalties the Romans do, and have only a few enemies in the beginning. Barbarians earn Victory Points and from capturing imperial cities; they get the points upon capture and it does not matter whether they choose to keep the city or raze it. The bigger a city is, the more points a Barbarian civ gains when capturing it. Barbarians also get extra and free [Unit%20%28Civ5%29](unit) maintenance cost.
+The scenario is purely military, and as such disables diplomacy, [Science%20%28Civ5%29](science), [Religion%20%28Civ5%29](religion), and [Espionage%20%28Civ5%29](espionage).
+Civilizations.
+There are eight playable civilizations in this scenario:
+Social policies.
+There are three policy trees in this scenario. The Roman tree is available to [Western%20Roman%20%28Civ5%29](Western Rome) and [Eastern%20Roman%20%28Civ5%29](Eastern Rome). The Persian tree is available to the [Sassanid%20%28Civ5%29](Sassanids). The Barbarian tree is available to the [Celtic%20%28Civ5%29](Celts), [Frankish%20%28Civ5%29](Franks), [Gothic%20%28Civ5%29](Goths), [Hunnic%20%28Civ5%29](Huns), and [Vandal%20%28Civ5%29](Vandals).
+Roman.
+Roman Atrophy reflects the fading glory of the Roman empire and how its society unravels as time passes.
+The Roman empires start with Roman Heritage, which provides +1 for each City you own connected to the and -5% from s in non-occupied Cities.
+When a barbarian enemy captures your city, you will gain 20 .
+Persian.
+Sassanid Legacy shines through the continuing greatness of Persia. The Sassanids have a large starting army, few barbarian invaders, and the desire to finish the centuries-long conflict with Rome.
+Adopting all policies in the Sassanid tree will convert all future into at a rate of 3 to 1.
+Barbarian.
+Barbarian Zeal gives the outsiders hope that they can capture and claim some of Rome's immense glory for themselves.
+The barbarian kingdoms have a bonus +20 . Receive 15 as plunder for each point of produced in the captured city. They do not have to pay unit maintenance.
+Adopting all policies in the Barbarian tree will convert all future into at a rate of 3 to 1.

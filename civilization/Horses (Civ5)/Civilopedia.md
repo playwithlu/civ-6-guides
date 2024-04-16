@@ -1,0 +1,3 @@
+# Horses (Civ5)/Civilopedia
+
+As transport, implement of war, companion and (occasionally) foodstuff, horses are among the most important domesticated animals in human history. Horses were originally domesticated in Central Asia around 4000 BC, and over the next several thousand years the practice spread across Europe, Asia, the Middle East and Africa. Horses were transported to the New World by the Spanish in the 16th century, where their use was quickly and enthusiastically picked up by the native population in the following centuries. Remember that horses are strategic resources, and thus they are consumed as you construct the associated units.

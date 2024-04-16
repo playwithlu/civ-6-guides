@@ -1,0 +1,4 @@
+# Pollution
+
+Pollution is a recurring element in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. Certain [building](building)s and [nuclear%20weapons](nuclear weapons), or just excessive [production](production), can cause pollution, making it more common in [empire](empire)s with many well-developed [City](cities).
+Excessive pollution can spread to the [tile](tile)s surrounding a city, reducing their productivity until the mess is cleaned up by a [Worker](Worker). It can can also cause [global%20warming](global warming), melting the [Ice](Ice) on the [map](map) and gradually transforming land tiles into [Desert](Desert)s.

@@ -1,0 +1,8 @@
+# Russian (Civ3)
+
+The Russians are a playable [List%20of%20civilizations%20in%20Civ3](civilization) in "[Civilization%20III](Civilization III)". They are led by [Catherine%20%28Civ3%29](Catherine).
+Civilopedia entry.
+The Russians are [Scientific%20%28Civ3%29](Scientific) and [Expansionist%20%28Civ3%29](Expansionist). They start the game with [Bronze%20Working%20%28Civ3%29](Bronze Working) and [Pottery%20%28Civ3%29](Pottery) and build [Cossack%20%28Civ3%29](Cossacks) instead of normal [Cavalry%20%28Civ3%29](Cavalry).
+Unique Unit: the Cossack.
+Skilled horsemen dwelling in the northern steppes of the Black and Caspian Sea regions, the Cossack hosts had a tradition of fierce independence and, after decades of conflict, finally received privileges from the Russian government in return for military services. Under the Russian umbrella, the Cossacks expanded eastward from their settlements in the Don and were early colonizers of Siberia. From the 18th through the 20th centuries, the Czars used Cossacks extensively to suppress revolutionary activities and conduct foreign wars. During the Russian Civil War (1918-20), the Cossacks in southern Russia formed the core of the White armies there and suffered extensively. Under Soviet rule, the Cossack communities ceased to function as distinctive entities.
+The Cossack is an upgraded version of the Cavalry. Like Cavalry, it requires both [Horses%20%28Civ3%29](Horses) and [Saltpeter%20%28Civ3%29](Saltpeter) to build, but it also adds an additional point of defense to an already formidable set of combat statistics. With their high movement rates, deadly offensive capability, and solid defensive rating, the Cossack is a unit you don't want to tangle with.

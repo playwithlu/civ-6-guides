@@ -1,0 +1,3 @@
+# Leaning Tower of Pisa (Civ5)/Civilopedia
+
+Found in the Piazza del Duomo ("Cathedral Square") in the city of Pisa, Italy, the famous bell tower commonly known as the Leaning Tower of Pisa has stood slightly off-kilter for centuries. Construction on the tower began in 1173, and it quickly became clear that the unstable soil and minimal foundation upon which the tower was built were not enough to prevent it from sinking. After leaving the tower incomplete for nearly a century, construction resumed in the late 13th century, with the final level completed in 1372. The tower is home to seven bells, each comprising a different note on the musical scale.

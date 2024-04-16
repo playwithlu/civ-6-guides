@@ -1,0 +1,5 @@
+# Recycling Center (Civ1)
+
+[Factory%20%28Civ1%29](Factories) and [Mfg.%20Plant%20%28Civ1%29](Manufacturing Plants) increase shield production, and therefore also [Pollution%20%28Civ1%29](Pollution). The Recycling Center will eliminate most of the pollution from these sources.
+Civilopedia entry.
+As cities grew, they produced more and more refuse, until eventually the traditional dumping sites were filled. As a result, pollution gradually began spoiling the environment. To reverse this tide many cities installed Recycling Centers, where a large percentage of this trash was sorted, melted down, or otherwise reduced to reusable components that could be Recycled into the process of manufacturing new products. In this way, much of the city's trash ended up as raw material for production, not waste in a landfill.

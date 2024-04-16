@@ -1,0 +1,3 @@
+# Floating Gardens (Civ5)/Civilopedia
+
+A floating garden is a small artificial island constructed on a freshwater lake in order to increase the land available for agriculture. The lake irrigates the island and provides it with fresh organic material, resulting in an incredibly fertile growing environment. The Aztecs were masters of this form of agriculture, and the "Floating Gardens of Xochimilco" remain famous today.

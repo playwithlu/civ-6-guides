@@ -1,0 +1,2 @@
+# Emancipation Proclamation (Civ6)
+

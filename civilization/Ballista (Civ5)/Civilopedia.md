@@ -1,0 +1,3 @@
+# Ballista (Civ5)/Civilopedia
+
+The Roman Ballista was an advanced catapult that fired stones or wooden missiles at the enemy. Constructed of wood reinforced with heavy iron plates, the ballista was surprisingly accurate in the hands of trained operators. It had a maximum range of perhaps 500 yards, but its practical range was significantly shorter, especially against a fortified position. Julius Caesar used them to great effect in his German and British campaigns.

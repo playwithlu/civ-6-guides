@@ -1,0 +1,3 @@
+# Watermill (Civ4)
+
+A Watermill is a [Tile%20improvement%20%28Civ4%29](tile improvement) that can be built upon the discovery of [Machinery%20%28Civ4%29](Machinery). It adds production (and later food and commerce) to a [Tile%20%28Civ4%29](tile), but can only be built on flatland next to a river. Watermills cannot be built on tiles which only touch a corner of a river. Only one watermill can be built per tile-length of river.

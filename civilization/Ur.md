@@ -1,0 +1,3 @@
+# Ur
+
+Ur is the [Sumerian](Sumerian) [capital](capital) in some of the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and an [Assyrian](Assyrian), [Babylonian](Babylonian), and Sumerian [city](city) in others, and also appears as a [city-state](city-state). In real life, it is an ancient [Mesopotamia](Mesopotamia)n city located in present-day Iraq.

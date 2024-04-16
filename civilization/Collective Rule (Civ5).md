@@ -1,0 +1,6 @@
+# Collective Rule (Civ5)
+
+Collective Rule is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Liberty%20%28Civ5%29](Liberty) tree. In the expansions, it requires [Republic%20%28Civ5%29](Republic); in Vanilla, it is instead initially available and actually was a prerequisite for Republic.
+Giving people the right to vote and decide the matters governing their life, instead of, say, a single despot doing whatever he decides, is the first step towards freedom. So important is this step that the of your empire becomes a brewing pot of expansionism, and people are ready to establish new cities right away!
+Strategy.
+With the expansions, this policy is level 2. But still, if you rush it and adopt it as a third policy you will gain a free [Settler%20%28Civ5%29](Settler) without having the need to sacrifice Population growth in your starting city in the all-important first 20-30 turns. Building a Settler at that point usually takes 10+ turns, which makes this Policy a game changer - you not only will continue to grow your Population, but also manage to construct something else in this time! And of course, the other bonus will greatly facilitate future expansion.

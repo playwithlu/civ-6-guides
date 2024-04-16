@@ -1,0 +1,3 @@
+# Cargo Ship (Civ5)/Civilopedia
+
+Cargo ships are those designed to transport goods and freight across water. The earliest records of commerce mention the shipping of trade goods over water, and archeology shows evidence of sea-going cargo ships in the Mediterranean and Red seas by the beginning of the 1st millennium BC. As longer voyages of trade were undertaken, cargo ship design was constantly revised; by the 1500s the Portuguese nau and Spanish galleon were the queens of international maritime trade. With the dawn of the industrial age, speed became ever more a consideration, culminating with the clipper ships of the late 1800s. Today, dozens of specialized cargo ships ply the oceans, ranging from container ships to bulk carriers to massive oil tankers.

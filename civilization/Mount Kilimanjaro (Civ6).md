@@ -1,0 +1,8 @@
+# Mount Kilimanjaro (Civ6)
+
+Mount Kilimanjaro is a single-tile impassable in "[Civilization%20VI](Civilization VI)". Mount Kilimanjaro occupies a , , , or tile, and provides +2 and +2 to each adjacent tile. It is considered a in-game.
+In "", discovering Mount Kilimanjaro grants +1 [Era%20Score%20%28Civ6%29](Era Score), or +3 Score if the player is the first to do so.
+In "," Mount Kilimanjaro is considered a [Volcano%20%28Civ6%29](Volcano). On eruption, it gives low yields and most likely damages [Tile%20improvement%20%28Civ6%29](improvements) and [Building%20%28Civ6%29](buildings). Mount Kilimanjaro's eruptions are infrequent, but it is always active.
+Strategy.
+Like other impassable wonders, Mount Kilimanjaro's tile offers no benefits, and cannot be developed or improved. However, Mount Kilimanjaro provides +2 to up to six adjacent tiles; these yields are cumulatively worth considerably more than the dead tile. It is usually worth incorporating single-tile wonders within city borders to maximize their yields. Mount Kilimanjaro infrequently erupts, but is always active. As such, additional yields are likely to accumulate throughout the game. Usually, Kilimanjaro gives low yields (most likely , or and only) while causing less damage, though a Catastrophic eruption will obviously deal more yields and damage. While the Appeal bonus of Mount Kilimanjaro is useful for building s or s, tile improvements, including the [Moai%20%28Civ6%29](Moai), are a better usage for tiles around this wonder.
+Although Mount Kilimanjaro is a Mountain, you can't build [Aqueduct%20%28Civ6%29](Aqueduct) next to it.

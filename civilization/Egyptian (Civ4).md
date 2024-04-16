@@ -1,0 +1,25 @@
+# Egyptian (Civ4)
+
+The Egyptian people represent a [List%20of%20civilizations%20in%20Civ4](civilization) in "[Civilization%20IV](Civilization IV)".
+Unit Dialogue.
+The Egyptian units speak Egyptian Arabic instead of Ancient Egyptian or its descendant Coptic. Arabic and Ancient Egyptian are both members of the Afro-Asiatic language family, yet are not closely related. Corresponding English dialogue appears in parentheses.
+Order000: (As you wish!)
+Order001: (Move out!)
+Order002: (Certainly!)
+Order003: (We're on it!)
+Order004: (No problem!)
+Order005: (Consider it done!, said very quickly)
+Order006: (Very well!)
+Order007: (On our way!)
+Order008: (Let's get moving!)
+Order009: (You can count on us!)
+Select000: (Reporting for duty!)
+Select001: (At your service!)
+Select002: (Tell me what to do!)
+Select003: (Awaiting your orders!)
+Select004: (Ready for action!)
+Select005: (What's the plan?)
+Select006: Na'am? (Yes?)
+Select007: (Your orders?)
+Select008: (What do you need?)
+Select009: (All present and accounted for!)

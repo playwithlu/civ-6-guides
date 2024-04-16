@@ -1,0 +1,3 @@
+# Specialization (Civ6)/Civilopedia
+
+When manufacturing complex objects, having individuals focus on one aspect of the production allows for a higher rate of production than having a single artisan work a piece from material through completion. Many objects were built in this fashion through the Middle Ages and the Early Modern period, including weapons and armor. The rise of specialization would eventually find fuller expression in the Industrial Age and the assembly line.

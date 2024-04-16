@@ -1,0 +1,6 @@
+# Estádio do Maracanã (Civ6)
+
+Estádio do Maracanã is an in "[Civilization%20VI](Civilization VI)". It must be built on flat land adjacent to an [Entertainment%20Complex%20%28Civ6%29](Entertainment Complex) with a [Stadium%20%28Civ6%29](Stadium).
+Strategy.
+Before the release of "", Estádio do Maracanã is a Wonder that does not seem to serve any particular purpose. It gives rather similar empire-wide bonuses to the [Colosseum%20%28Civ6%29](Colosseum), but arrives so late in the game that neither of its bonuses really matter. Considering this is the last Wonder in the game, unlocked at the penultimate [Civic%20%28Civ6%29](civic), the extra seems redundant.
+With the release of "Gathering Storm", a new [Era%20%28Civ6%29](era) is introduced and the extra is actually used for something. Estádio do Maracanã still does not become super useful, but at least now it is given a clearer purpose (i.e. unlocking your [Future%20Era%20%28Civ6%29](Future Era) civics a bit faster). Still, if you manage to build this Wonder and have enough cities in your empire to make its bonus really meaningful, you're probably going to win the game regardless. Although it's a nice-looking Wonder, there's never a reason to make it a key part of any strategy.

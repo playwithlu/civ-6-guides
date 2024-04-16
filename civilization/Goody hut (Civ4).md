@@ -1,0 +1,2 @@
+# Goody hut (Civ4)
+

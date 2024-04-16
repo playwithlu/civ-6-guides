@@ -1,0 +1,41 @@
+# Diplomacy (Civ2)
+
+Diplomacy in "[Civilization%20II](Civilization II)" refers to the interactions between and the mechanics that control them. It encompasses direct negotiations between players, automated processes tied to [%23Diplomatic%20relations](formal relations), and variables that guide [AI](AI) behavior.
+ is a separate but related concept that can have consequences in diplomacy.
+## Overview
+
+Diplomatic relations.
+Each civilization shares one of five relations with each other civ:
+Negotiation.
+At the start of a standard game, civilizations are unaware of each other and exist in a state of unofficial war. Contact is established when rival ground units enter adjacency, or a unit approaches a rival city. Known civilizations are listed in the {{Link|2|Advisor|sec=List of advisors|Foreign Minister}} window; whereas [Sid%20Meier%27s%20Civilization](the original "Civilization") required the human player dispatch a {{Link|1|diplomat}} to initiate a meeting, in "Civ II" rivals can be contacted at any time, subject to [Leaders%20%28Civ2%29](leaders') [%23Patience](patience).
+Computer-controlled civs will normally request a meeting the first time their ground units encounter the player's, and may seek an audience on subsequent contact. The player may choose to accept or refuse, although critical issues can force an audience, and [%23Senate%20veto](some negotiations) may still occur without the player's involvement. If the player has an {{Link|2|Espionage|sec=Establish Embassy|embassy}} with the civ, they may consult the Foreign Minister for an intelligence briefing beforehand.
+Interactions.
+A meeting begins with a formal introduction by the emissary glorifying their civ's leader. Civilizations in possession of {{Link|2|Nuclear Msl.|nuclear weapons}} will advertise this upfront; if the player has nukes, civs will react differently depending on whether or not they are part of the "nuclear club" themselves. The computer always acts first, and concludes its stage of the meeting with general feedback, such as commentary on the player's reputation, including known betrayals; if part of a wartime alliance, it will state its expected odds against a specific enemy.
+During the course of a meeting, either player may make one or several proposals and/or demands. Certain offers by the human player may entail haggling by the AI for {{Link|2|Gold (currency)|gold}} or technology:
+AI civs can request a meeting for two unique interactions that immediately terminate after their message, without response by the player:
+Trespassing.
+Notifications of trespassing by the human player near rival cities are issued as popup messages that cannot be ignored. A first trespass prompts a warning for the player to withdraw; if units are still present after a variable grace period, an ultimatum is issued that either expels the offenders, or forces the player to declare war.
+Senate veto.
+The civilization controlling the {{Link|2|United Nations}} {{Link|2|Wonder}} can declare/maintain hostilities under Democracy at a 1-in-2 chance, as under Republic, framed as an internationally-sanctioned peacekeeping mission.
+Diplomatic variables.
+Power.
+Civilizations are ranked in seven levels by relative power based on the aggregate strength of their military, economy, and [List%20of%20advances%20in%20Civ2](technological advancement), ranging from "Pathetic" to "Supreme." A civ's relative strength affects how rival civs will approach it: stronger civs can extract tribute and are more lucrative partners for alliances, while weaker civs are targets for extortion and invasion by {{Link|2|Civilizations|sec=Personality|aggressive}} opponents. Civs of lower power may ally to contain a stronger rival, even if not at war.
+The player's power is stated in the Foreign Minister window. A rival civ's power is indicated in the {{Link|2|Diplomacy screen}} by 0–6 weapon icons to the left of the leader's portrait.
+Reputation.
+Reputation is a statistic quantifying a civ's general trustworthiness, influencing computer players' willingness to deal with it. It ranks in eight levels, from "Spotless" to "Atrocious." Reputation was introduced to solve erratic and exploitable behavior of computer opponents in the original "Civilization": civs of ill repute will be shunned for trade, denied alliances, and are more likely to be betrayed themselves by suspicious neighbors.
+Breaking treaties, and declaring war after a civilization has paid tribute, even to fulfill alliance obligations, damages reputation. {{Link|2|Espionage}} actions do not affect reputation, even nuclear terrorism, but can provide legal pretext for civs to declare war without forfeiting reputation.
+The player's reputation is stated in the Foreign Minister screen; rival civs' reputation is not explicitly given, but can be accessed through the {{Link|2|Cheat menu|sec=Edit King|cheat menu}}. Reputation will gradually repair over time, with the exact rate varying by {{Link|2|difficulty level}}. The {{Link|2|Eiffel Tower}} speeds this recovery.
+Attitude.
+Attitude is a civilization's general opinion of a rival. It is scored on a 100-point scale in 9 ranks, from 'Worshipful' to 'Enraged'. Attitude functions similarly to reputation, providing a general gauge of how cooperative the civ is; some proposals will only be accepted at certain attitude thresholds. Civs with low attitude are more likely to respond to threats and defiance with open war.
+Accepting a civ's proposals and giving gifts raises attitude, while breaking treaties, rejecting demands, and conducting aggressive espionage{{refn|group=note|Based on a successful mission: capturing spies before the mission completes does not affect attitude.}} worsens it. When first obtained (constructed or captured), the Eiffel Tower grants its controller a 25-point bonus to all rivals' attitude, and continues to increase it in subsequent turns.
+Patience.
+Patience is a tertiary statistic that determines if and how long an AI-controlled civ will entreat a meeting with the player. Impatient civs will accept few overtures from the player before terminating negotiations, and/or refuse to meet at all. Contacting civilizations too frequently, especially within the same turn, exhausts patience. A civ's attitude influences how quickly its patience depletes: hostile civs will lose patience faster than friendlier ones.
+Civs with low patience will advise the player as such after concluding their stage of the meeting.
+Wonders.
+Several {{Link|2|Wonder}}s provide their controller with diplomatic advantages:
+Multiplayer.
+In {{Link|2|Multiplayer|multiplayer game modes}} other than Hotseat/E-mail, diplomacy between human players is conducted directly in real time. Players can message each other in-game via "Chat with Kings" in the Advisors menu. If enabled in {{Link|2|Game settings|sec=Multiplayer rules|game rules}}, players can chat even if their civs have not established contact. Multiplayer negotiations feature additional options, including limited map trading of terrain and/or city locations only, and exchange of cities and their garrisoned units.
+In hotseat/E-mail games, players cannot negotiate directly; the computer stands in for all other civs during the active human player's turn, and diplomacy resolves identically to single-player. Instead, the Foreign Advisor features an additional option to set the player's Attitude vis-à-vis each civ, providing a guideline for the computer's response during negotiations.
+Modding.
+Diplomatic relations can be modified in-game through the {{Link|2|Cheat menu|sec=Edit King|Cheat Menu}} option 'Edit King'. This includes options to configure treaties, change Reputation and Attitude, and clear Patience scores.
+Attitude labels are defined under the {{mono|@ATTITUDES}} section of {{Link|2|Modding|sub=Rules|Rules.txt}}. Most other diplomacy texts are located in several different blocks under the {{mono|@LABELS}} section of {{Link|2|Modding|sub=Labels|Labels.txt}}. Popup messages, including the {{Link|2|diplomacy screen}} interface, are defined in {{Link|2|Modding|sub=Popups|Game.txt}}.

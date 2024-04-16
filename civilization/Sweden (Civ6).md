@@ -1,0 +1,2 @@
+# Sweden (Civ6)
+

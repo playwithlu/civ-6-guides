@@ -1,0 +1,3 @@
+# Explorer (Civ3)/Civilopedia
+
+Throughout history there are those whose thirst for adventure led them from the safe confines of civilized lands. These explorers, frequently funded by government stipends, would then journey into the unknown, charting their progress all the way. These expeditions, and the maps they helped create, became blueprints for the conquest and domestication of the once uncharted regions of the world.

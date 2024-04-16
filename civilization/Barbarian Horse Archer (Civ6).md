@@ -1,0 +1,5 @@
+# Barbarian Horse Archer (Civ6)
+
+The Barbarian Horse Archer is a [Unique%20unit%20%28Civ6%29](unique) [List%20of%20units%20in%20Civ6/By%20class%23Ranged%20cavalry](ranged cavalry unit) of the [Barbarian%20%28Civ6%29](Barbarians) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+The Barbarian Horse Archer has 1 more and 5 more Combat Strength than and the same Ranged Strength as a [Slinger%20%28Civ6%29](Slinger), and spawns only from outposts near . It can ignore [Zone%20of%20control%20%28Civ6%29](zone of control) and attack without provoking a counterattack, but is otherwise a minimal threat. As a ranged cavalry unit, it suffers additional damage from the attacks of [List%20of%20units%20in%20Civ6/By%20class%23Anti-cavalry](anti-cavalry units) such as [Spearman%20%28Civ6%29](Spearmen) and [Pikeman%20%28Civ6%29](Pikemen), and will quickly perish when surrounded and attacked by these units. [City%20%28Civ6%29](Cities) with even [Ancient%20Walls%20%28Civ6%29](the most primitive defenses) will also be able to repel Barbarian Horse Archers with ease.

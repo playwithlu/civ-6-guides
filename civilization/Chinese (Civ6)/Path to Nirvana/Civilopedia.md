@@ -1,0 +1,5 @@
+# Chinese (Civ6)/Path to Nirvana/Civilopedia
+
+China under the Song Dynasty was a period of extensive growth, with the population doubling in size in the Tenth and Eleventh Centuries CE. China's reach was so great during this period, that it would maintain a client-state relationship with far-flung kingdoms like Khotan and Dali along the Silk Road.
+Luckily for the Muslims, Jews, and Manicheans of those regions, China was experiencing a period of largely tolerant Buddhism. Moveable press made the dissemination of literature on religion and spirituality popular, while monks traveled from China to India to study and bring back their learnings.
+In Northern Song, the massive Buddhist pagodas were intended to be the first thing a traveler would see. Prominent among these was Youguo Temple Iron Pagoda, or the 'Iron Pagoda' constructed in 1049 under Emperor Renzong.

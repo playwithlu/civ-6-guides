@@ -1,0 +1,3 @@
+# Battleship (CivRev)
+
+The Battleship is master of the seas and the most powerful (and expensive) unit in "[Civilization%20Revolution](Civilization Revolution)". It is a stand-alone in that lesser units such as [Cruiser%20%28CivRev%29](Cruisers) do not upgrade to it if [Leonardo%27s%20Workshop%20%28CivRev%29](Leonardo's Workshop) is built. While not as fast as the Cruiser, the Battleship more than compensates through sheer power. Bring your [Submarine%20%28CivRev%29](Submarines) when battling a Battleship, as their cheap cost and high attack value are the best way to efficiently take down these monsters of the sea.

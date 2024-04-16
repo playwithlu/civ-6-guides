@@ -1,0 +1,3 @@
+# Cigar Factory (Col)
+
+The [tobacconist%27s%20shop%20%28Col%29](tobacconist's shop) may be upgraded into a Cigar factory. A cigar factory dramatically increases the efficiency of operations, and thus produces more per unit of [tobacco%20%28Col%29](tobacco). Your [Continental%20Congress%20%28Col%29](Continental Congress) must contain [Adam%20Smith%20%28Col%29](Adam Smith) and the population of the colony must be at least 8 to begin construction of this facility.

@@ -1,0 +1,3 @@
+# Pete Murray
+
+Pete Murray is a video game producer and writer who has worked for [Firaxis%20Games](Firaxis Games). He was involved with marketing for "[Civilization%20V](Civilization V)" and its ' and ' expansions, "[CivWorld](CivWorld)", ' and its ' expansion, "[Sid%20Meier%27s%20Starships](Sid Meier's Starships)", and "[Civilization%20VI](Civilization VI)", some of which he helped write as well. He was also the associate producer for "XCOM: Enemy Unknown".

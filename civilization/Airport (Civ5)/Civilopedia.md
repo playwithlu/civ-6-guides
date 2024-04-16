@@ -1,0 +1,3 @@
+# Airport (Civ5)/Civilopedia
+
+Technically, an "airport" is any sort of location where airplanes, helicopters, blimps or other aircraft can take off and land. However, in current, common usage an airport is a complex for commercial passenger aircraft, consisting of runways, control towers, hangers, terminals, emergency facilities and even parking structures. Prior to 1930, most airports were small airfields or aerodromes, with runways of less than 2000 feet. In 1939 La Guardia in New York City handled nearly a quarter million passengers a month; the most recent statistics for airport passenger traffic list Hartsfield-Jackson in Atlanta as the world's busiest, with over 92 million passing through it in 2011.

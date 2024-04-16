@@ -1,0 +1,6 @@
+# Aquafarm (SMAC)
+
+ is a [base%20facility%20%28SMAC%29](base facility) in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)". It was added in the "[Alien%20Crossfire](Alien Crossfire)" expansion. The Aquafarm increases the nutrient output of every kelp farm at that base by one.
+Strategy.
+The main negatives are that despite coming early in the tech tree, you won't be able to reap the benefits until after Gene Splicing lifts the nutrient restrictions, and the large mineral cost, combined with a per-turn upkeep, mean that this facility may be a waste of precious minerals to build, and even more precious minerals to maintain.
+Supply crawlers can keep supplying minerals from elsewhere to your sea bases, allowing you to build aquafarms at them, as well as colony pods to keep sending the excess people out to create new sea bases. Having a high population is useful to work every square a sea base has, bringing back plenty of nutrients to keep your population growing well, and energy from the tidal harnesses built on the same water tiles as your kelp is located. When you have more citizens than you need to work every available square, you can use them as engineers and turn that energy into something to speed up the discovery of new technologies.

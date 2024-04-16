@@ -1,0 +1,3 @@
+# Lancer (Civ5)/Civilopedia
+
+Lancers were the cavalrymen of the Renaissance era. In an era of the increasing use of cannon and other gunpowder-based weaponry speed and maneuverability trumped armor, which was increasingly useless against the modern projectile weapons. Because of this, Lancers abandoned much of the heavy plate mail of their knightly predecessors, retaining only the metal breastplate, if that. Even as weaponry improved, the lance remained a terrifyingly effective weapon in the hands of trained horsemen. As late as the Napoleonic Wars, the [French%20%28Civ5%29](French) believed that the lance was a superior cavalry weapon to the sword. In the 19th century both would be supplanted by the rifle, of course.

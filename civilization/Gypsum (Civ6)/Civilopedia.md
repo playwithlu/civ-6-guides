@@ -1,0 +1,3 @@
+# Gypsum (Civ6)/Civilopedia
+
+Hard, but relatively easy to carve, gypsum is a sulfate, evaporate mineral found in deposits in sedimentary rock. A fine-grained, white or lightly tinted variety – alabaster – was used for sculptures and monuments by the ancient Egyptians, Mesopotamians, Romans, the Byzantines, and English during the Middle Ages. Fairly common, gypsum can be ground into a powder and used as fertilizer, to make plaster, and even in the preparation of various foods (bread, beer, and mead for instance), shampoos, and creams. There are few things in civilization as useful as gypsum.

@@ -1,0 +1,5 @@
+# Bombard (CTP1)
+
+Units with the bombard ability can bombard once per turn. Bombarding functions as a ranged attack against one unit in the target tile. The bombarding units will not take any damage unless the target tile has a unit capable of counter-bombarding. Bombarding ends the turn for land and sea units. A city may lose 1 population when bombarded. 
+Great Library entry.
+With the development of fortifications attackers needed new tactics in order to penetrate new defenses. A new strategy was developed, bombardment, the showering of projectiles onto a well-defined target. Although the invention of crew-served weapons such as the pot de ferde (which used powder charges to propel an arrow to a distant enemy position) made bombardment possible, the size and weight of these projectiles remained limited until the 15th century. At that point bombardment weapons began firing large projectiles across short distances. Four hundred years later advancements in metallurgy harnessed the more powerful charges needed to fire large projectiles over long distances.

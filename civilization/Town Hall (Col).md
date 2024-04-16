@@ -1,0 +1,3 @@
+# Town Hall (Col)
+
+A Town Hall is one of the first structures the founders put together. It provides a place where the colonists from the surrounding area can gather to discuss issues facing the community. This is the first inkling of colonial government. A colonist in the meeting house produces [Liberty%20bell%20%28Col%29](Liberty Bells), which represent growing nationalism and colonial government. An [Elder%20Statesmen%20%28Col%29](elder statesman) in a meeting house produces many Liberty Bells.

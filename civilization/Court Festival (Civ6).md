@@ -1,0 +1,4 @@
+# Court Festival (Civ6)
+
+Court Festival is a unique [Project%20%28Civ6%29](project) of the [French%20%28Civ6%29](French) [Civilizations%20%28Civ6%29](civilization) (when led by [Catherine%20de%20Medici%20%28Civ6%29/Magnificence](Magnificence Catherine)) in "[Civilization%20VI](Civilization VI)". It becomes available after building a [Theater%20Square%20%28Civ6%29](Theater Square) [District%20%28Civ6%29](district).
+Upon completion, it awards 50 and 50 based on the number of excess copies of the [Resource%20%28Civ6%29%23Luxury](luxury resources) that France possesses, including traded luxury resources and ones from your tributary [City-state%20%28Civ6%29](city-states). The burst applies to all civilizations, including ones she has not met.

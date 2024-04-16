@@ -1,0 +1,3 @@
+# William the Conqueror (Civ6)/Civilopedia
+
+William I – also, not without reason, known as William the Bastard and William the Conqueror – at the tender age of eight, the descendant of Vikings, became the Duke of Normandy. Aided by King Henri I of France, William managed to hang onto his dukedom and life until he came of age. Being an ambitious sort, by 1064 AD William had managed to add the neighboring provinces of Brittany and Maine to his Norman holdings. In 1066 William took himself off across the Channel to pursue his tenuous claim to the English throne. The rest of his life was then spent trying to consolidate his hold on England, fend off threats to his continental lands, and dealing with his troublesome eldest son.

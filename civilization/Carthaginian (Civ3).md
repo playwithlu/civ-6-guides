@@ -1,0 +1,7 @@
+# Carthaginian (Civ3)
+
+The Carthaginians are a playable [List%20of%20civilizations%20in%20Civ3](civilization) in the "" expansion pack of "[Civilization%20III](Civilization III)". They are led by [Hannibal%20%28Civ3%29](Hannibal).
+Civilopedia entry.
+In "Civilization III: Play the World", the Carthaginians are considered an [Industrious%20%28Civ3%29](Industrious) and [Commercial%20%28Civ3%29](Commercial) civilization, therefore, they start with [Alphabet%20%28Civ3%29](Alphabet) and [Masonry%20%28Civ3%29](Masonry), and have significant bonuses to trade and construction activities.
+Unique Unit: the Numidian Mercenary.
+Carthage maintained a monopoly of trade from the 6th to 3rd century BC by sinking all intruders and exacting recognition of its position from neighboring Mediterranean states. This wealth was attested by the vast mercenary armies it was able to maintain with a mintage of gold coins far exceeding that known for any other advanced state of its time. While frequently led by Carthaginian soldiers, the majority of the Carthaginian armies was comprised of mercenaries. Celts and Iberians contributed large numbers of infantry and horsemen, but Numidian Infantry dominated their ranks. These Numidian mercenaries were equipped with loot from assorted engagements against Rome, and were generally regarded as capable soldiers and spearmen. Numidian Mercenaries replace Spearmen as the first and best defensive units of the Bronze Age for the Carthaginians and have an increased attack ability.

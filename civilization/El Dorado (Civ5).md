@@ -1,0 +1,5 @@
+# El Dorado (Civ5)
+
+El Dorado is a [Natural%20wonder%20%28Civ5%29](natural wonder) in "[Civilization%20V](Civilization V)". It spawns in [Plains%20%28Civ5%29](Plains) tiles.
+Strategy.
+El Dorado, just like the legend says, is a natural wonder which is found exclusively in Plains deep in [Forest%20%28Civ5%29](Forests) or [Jungle%20%28Civ5%29](Jungles). This makes it quite difficult to find - while [Mountain%20%28Civ5%29](Mountain) wonders like [Mt.%20Kailash%20%28Civ5%29](Mt. Kailash) and [Mt.%20Sinai%20%28Civ5%29](Mt. Sinai) can be spotted from a great distance, to find El Dorado your [Scout%20%28Civ5%29](Scouts) have to venture into the most impassable [Terrain%20%28Civ5%29](terrain) and almost get right next to the wonder's tile to spot it. Of course, the 500 reward for finding it first is well worth the trouble, especially in the early game!

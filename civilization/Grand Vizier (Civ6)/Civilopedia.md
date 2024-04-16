@@ -1,0 +1,3 @@
+# Grand Vizier (Civ6)/Civilopedia
+
+The Grand Vizier or vizier was, in theory, the most important man in the Ottoman Empire after the Sultan himself. He was appointed by and dismissable only by the sultan, served as his confidant, his advisor, and his very personal representative, controlled the imperial seal, and could summon and dismiss lesser titles on behalf of his sultan. There are many cases of people rising from humble beginnings to this lofty position (such as Ibrahim Pasha)—and almost as many who met untimely ends, falling to the suspicion of the sultan or the intrigue of the palace.

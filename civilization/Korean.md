@@ -1,0 +1,3 @@
+# Korean
+
+The Korean people represent Korea, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. Their [capital](capital) might be [Gyeongju](Gyeongju) or [Seoul](Seoul), and they can be led by [Lady%20Hyegyeong](Lady Hyegyeong), [Sejong](Sejong), [Seondeok](Seondeok), [Taejo%20of%20Goryeo](Taejo of Goryeo), or [Taejo%20of%20Joseon](Taejo of Joseon).

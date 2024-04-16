@@ -1,0 +1,6 @@
+# FreeCol
+
+FreeCol is a free-to-play open-source imitation of "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)". First released in 2003, it has undergone over 20 named version upgrades since, as it long ago passed 75,000 lines of code and 53,000 comment lines with 550 Java files. Throughout 2017 there were new unnamed binary releases for Mac OS X, Windows, and Linux about once a week. In 2023 version 1.0.0 - intended to be a copy of the original but with better user interface - was released.
+"This wiki can accommodate any number of pages about FreeCol: [FreeCol%20beginners%27%20guide](beginners' guide), [Strategies%20%28FreeCol%29](strategies), [units%20%28FreeCol%29](units), [Founding%20Father](Founding Father)s, [FreeCol%20versions](versions), ... . The [w%3Ac%3Afreeciv](Freeciv wiki) has good models of categories etc, but many of its pages would need " (FreeCol)" added to their names here (or whatever format best matches our naming standards) so as to distinguish from similar categories covering other games."
+Versions.
+"See [FreeCol%20versions](FreeCol versions) and www.freecol.org for earlier versions. Note that recent versions may need their "Compatibility" tweaked if played on Windows Vista or Windows 7; see [FreeCol%20and%20Windows](FreeCol and Windows)."

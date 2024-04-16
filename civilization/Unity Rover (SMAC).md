@@ -1,0 +1,6 @@
+# Unity Rover (SMAC)
+
+ is a [U.N.S.%20Unity%20%28SMAC%29](U.N.S. Unity) unit in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)". It cannot be built, it can only be acquired from s.
+It consists of:
+Game info.
+The U.N.S. Unity was stocked with many of these lightly armed rovers, intended for use in exploring Planet's landmasses.

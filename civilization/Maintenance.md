@@ -1,0 +1,3 @@
+# Maintenance
+
+Maintenance (or maintenance cost) is the amount of [Gold%20%28currency%29](gold) - or less commonly, another [yield](yield) or [resource](resource) - that must be paid to keep a [unit](unit), [building](building), or other in-game entity in play and functioning properly. The maintenance costs of everything in the player's [empire](empire) are automatically deducted from the player's gold income or [treasury](treasury) at the beginning of each [turn](turn).

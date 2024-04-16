@@ -1,0 +1,7 @@
+# Cultural Diplomacy (Civ5)
+
+Cultural Diplomacy is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Patronage%20%28Civ5%29](Patronage) tree and requires [Scholasticism%20%28Civ5%29](Scholasticism).
+In order to reach the highest levels of influence with Allied States, wise rulers send them the country's best Artists. They enchant the locals with mesmerizing musical performances, exhibitions of great Art and dazzling shows of ballet and dancing. Demonstrating how superior the empire's art is, compared to local art, has the power of impressing the City-State's traders, who do their best to present the [Luxury%20resource%20%28Civ5%29](Luxuries) they offer on your market at the best prices and conditions.
+Strategy.
+The effect of this high-end Policy is easy to misunderstand. The quantity increase is, in fact, useful only for strategic resources - an increase in a luxury resource wouldn't mean much anyway, since you can't trade away the extra resource. And the increase from the luxuries is only valid if a City-State is your only provider of that resource. 
+Nevertheless, the effect of this Policy is immediately seen, and very useful. It enables resource-poor empires to keep up with bigger and richer ones, especially in the late game. But again, this Policy works better the more Allied [City-state%20%28Civ5%29](city-states) you have; if you have only 1-2 Allies you won't see much difference.

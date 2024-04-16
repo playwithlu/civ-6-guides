@@ -1,0 +1,4 @@
+# Pavilion (Civ4)/Civilopedia
+
+A "pavilion" is a covered building without surrounding walls (think of it as a roof supported by columns). This kind of structure has been extremely popular for centuries in China, where they are often found in parks and gardens as well as in temple complexes. 
+The first Chinese pavilions were probably constructed during the "Zhou dynasty," and they became quite numerous during the Warring States Period (approximately 400-200 BC). At first these buildings may have been used as watchtowers, providing soldiers with an uninterrupted 360-degree view along with shelter from rain and snow, but in later periods they were incorporated into Chinese gardens and parks, where they were prized for their elegance and simplicity of design.

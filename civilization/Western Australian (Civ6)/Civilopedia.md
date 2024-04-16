@@ -1,0 +1,5 @@
+# Western Australian (Civ6)/Civilopedia
+
+The entire western third of Australia’s continent comprises the aptly named Western Australia, called that because “Blasted Hellscape (and Perth)” was too risqué for 19th Century maps. Western Australians are nicknamed after a particularly resilient burrowing locust called a sandgroper, which is either a tribute to their tenacity or a subtle way to say they have their heads in the ground.
+The settlement of Perth was founded in 1829 and soon became the capital of the Western Australia. Located in the temperate southwest corner, where the vast majority of Western Australians would come to reside, Perth was so isolated that it could take a week to reach Melbourne by sea.
+Western Australia is known for its vast and desolate Outback which is at best sparsely populated. Most West Australians keep to the coasts—and with so much coast to claim, fishing was always a significant part of the colony’s economy.

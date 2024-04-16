@@ -1,0 +1,24 @@
+# Advance (Civ2)
+
+A civilization advance (also referred to as an advance, technology, and tech) is a quantified representation of discrete scientific, technological, and/or social development in "[Civilization%20II](Civilization II)". A 's sector is wholly devoted to the acquisition of advances, funded by allocation of income. Advances can also be acquired through , and , reward, and/or .
+A standard game features [List%20of%20advances%20in%20Civ2](89 advances) (88 standard, and a uniquely repeatable ). The original "Civilization II" and ' include four unused advances available for ; ' and later versions add another seven, for a total of 100 possible definitions.
+## Overview
+
+An advance can provide varying benefits to a civilization, including access to s, s, s, alternative forms of , and/or special attributes such as the ability to bridge s and improved thrust for the . Advances may also render units and Wonders [Obsolete%23Civilization%20II](obsolete). Some advances do not have immediate effects, but are prerequisites to further research.
+Advances are organized in a largely linear progression through four s, visualized as the "" in the [Civilopedia](Civilopedia). An advance may have two, one, or no prerequisites. A civilization can research one advance at a time, though this does not prevent acquisition of other advances, including those for which the player does not possess their direct prerequisites.
+Cost.
+Advances do not have individual research costs; rather, the required Science investment increases as more advances are acquired. This ramp-up cost is further influenced by factors including , size, and the disparity in progress between the player and their so-called "key civ", an arbitrary link to a specific based on the player's .
+Development and pollution.
+Once a civilization acquires , will generate based on their total . This is further aggravated by the discovery of , , and , and mitigated by and .
+On difficulties higher than Chieftain, the total number of advances a civilization possesses increases the likelihood that city pollution will spill over onto the map.
+Modding.
+Definitions for advances are located in the section of ; their order and internal ID tags are fixed, but name, , strategy, and prerequisites can be edited. is an unused advance defined on Line 64, with recommended prerequisites and . In the original version of "Civilization II", three additional unused definitions are provided on Lines 91–93. The "Fantastic Worlds" [expansion%20pack](expansion pack) adds seven more options.
+ (Line 90) MUST be directly accessible within the research tree (i.e. not disabled or dependent on "[%23Custom%20tech%20trees](hidden techs)"), or the game will crash.
+Certain advances have hard-coded effects, such as providing s; consult for details.
+The base research cost multiplier is defined as the "Tech Paradigm" at Line 12 of the section in . It can also be edited from the via "Scenario Parameters" (++), overriding the definition in the base rules; note that the session must be flagged as a for the Cheat Menu setting to take effect. Using too small or too large a tech paradigm can cause an integer overflow at unintended intervals of a player's research, leading to sudden spikes or drops in cost progression, respectively.
+Assigning advances.
+The Cheat Menu includes several options relating to advances: "Technology Advance" (+) immediately completes the selected civ's current research goal. "Edit Technologies" (++) can add and remove specific advances from a civ's completed research. The "Edit King" menu includes additional options to modify a civilization's research goal and progress. Using the Edit Technologies command "Give/Take All" will grant and remove undefined/disabled advances, affecting the civilization's research [%23Cost](ramp-up cost).
+Civilizations can also be given specific advances via the "" event macro.
+Custom tech trees.
+An advance with prerequisites or cannot be selected as a research option and is hidden from tech tree navigation in the [Civilopedia](Civilopedia). An advance with prerequisites cannot be researched, but can be acquired through other methods. In both instances, prerequisites are calculated normally; this can be used to give specific civilizations "hidden techs" to enable unique access to units, improvements, and special research branches.
+"" includes two additional sections in that provide an alternative mechanic to the "hidden tech" strategy described above. allows categorizing each advance into one of eight groups (numbered 0–7); then determines each civilization's access to these groups: 0 (default), 1 (can't research but can possess), and 2 (can't research and can't possess). These settings are written to the session at the start of the game, but can be modified by the "" event macro.

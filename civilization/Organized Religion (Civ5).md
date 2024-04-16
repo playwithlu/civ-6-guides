@@ -1,0 +1,6 @@
+# Organized Religion (Civ5)
+
+Organized Religion is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Piety%20%28Civ5%29](Piety) tree.
+Organizing the pious feelings of the masses with the effective leadership of a central church has many benefits. Most of these, however, are evident in the two main religious buildings, which reflect the new level of dedication of your society in every detail: architecture, decoration, splendor, wealth. This, in turn, increases their own Faith effect over the populace. 
+Strategy.
+Being the requirement for mostly all other Policies in the tree, adopting Organized Religion first is usually the sensible choice. Besides unlocking higher-end Policies, the additional  Faith per building is great in the beginning of the game - both for founding a Pantheon and later, a Religion. Note, however, that if you have no religious buildings at all, you will be wasting a Policy slot, so aim at building at least one [Shrine%20%28Civ5%29](Shrine) before - or right after - adopting this Policy.

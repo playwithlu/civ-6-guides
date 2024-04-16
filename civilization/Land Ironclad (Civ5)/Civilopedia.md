@@ -1,0 +1,3 @@
+# Land Ironclad (Civ5)/Civilopedia
+
+Much had been learned from the construction of the "Iron Horse" that was the railroad. Soon, inventors tried to engineer a vehicle with the power of a locomotive without the need of a track. Designing the apparatus for moving the unwieldy beasts that were the first prototypes proved extremely difficult. The process merged into a simpler design with much less armor plating but enough to withstand gunfire and the elements. The first drivers found that having a light, maneuverable craft was much more effective than a bulky one. It allowed for quick travel on less fuel, as well as agility in combat.

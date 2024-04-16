@@ -1,0 +1,6 @@
+# Professional Army (Civ5)
+
+Professional Army is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Honor%20%28Civ5%29](Honor) tree and requires [Military%20Caste%20%28Civ5%29](Military Caste).
+One of the final achievements of a military-oriented society is the introduction of a professional army. Unlike spontaneously created armies which rely on wartime conscription of civilians, professional soldiers dedicate their entire lives to training and preparation for war. And when it comes, they are prepared for it much better than conscripts. But the best benefits appear exactly in the preparatory part: all soldiers are dedicated to constantly upgrading their training structures and equipment, thus reducing the resources your empire needs to spend for these activities!
+Strategy.
+This is the high-end Policy of the [Honor%20%28Civ5%29](Honor) tree. It is not very useful in the beginning of the game, when you haven't yet developed techs which require your units to upgrade, and when you usually have priorities other than constructing military buildings in your cities. In the late game the Policy becomes especially useful, since the  Gold cost of some upgrades becomes exorbitant.

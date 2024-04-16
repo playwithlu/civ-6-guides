@@ -1,0 +1,3 @@
+# Roma (Civ6)/Civilopedia
+
+The story of the Eternal City during the Viking Age is mostly the story of the creation and early decades of the Papal States. It remained a cultural center, and one could even spot the occasional Dane or Rus wandering about viewing the sights. Since Bjorn and Hastein managed to sack the wrong town – they thought the walled city of Luni to be Rome – the Romans never had to suffer the wrath of the Norsemen. Other than that, the primary interaction between Rome and the Vikings was the persistent efforts of various pontiffs to convert them to the “True Church."

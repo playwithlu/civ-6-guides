@@ -1,0 +1,7 @@
+# Sanctuary (Civ6)
+
+The Sanctuary is an advanced conservation [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the [Preserve%20%28Civ6%29](Preserve) [District%20%28Civ6%29](district).
+Strategy.
+The Sanctuary functions very similarly to the [Grove%20%28Civ6%29](Grove), only that instead of , , and , it provides , , and . The Sanctuary is usually less impactful than the Grove, since they both give similar bonuses to different types of yields, but the Grove is a lot cheaper and unlocked four [Era%20%28Civ6%29](eras) earlier than the Sanctuary. However, this hardly means this building is not worth constructing. and are critical yields, and the Sanctuary can provide a solid amount of both.
+Despite being unlocked after the Grove, the Sanctuary isn't a Tier 2 building and the Grove isn't a prerequisite for constructing it. This means that a Preserve can have a Sanctuary before getting a Grove, or just have a Sanctuary alone.
+When playing as the [Incan%20%28Civ6%29](Inca), the boosted yields apply to [Mountains%20%28Civ6%29](Mountains), which are normally impossible to work. Water tiles receive bonuses from the Sanctuary only if they are part of a [Natural%20wonder%20%28Civ6%29](natural wonder) (since they have no Appeal otherwise).

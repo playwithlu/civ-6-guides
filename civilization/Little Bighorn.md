@@ -1,0 +1,3 @@
+# Little Bighorn
+
+Little Bighorn is the [Sioux%20%28Civ2%29](Sioux) [capital](capital) in "[Civilization%20II](Civilization II)". In real life, it is the site of the Battle of Little Bighorn between combined forces of the Lakota, Northern Cheyenne, and Arapaho tribes and the 7th Cavalry Regiment of the United States Army. The battle, which resulted in the defeat of US forces, was the most significant action of the Great Sioux War of 1876. It took place near Little Bighorn River.

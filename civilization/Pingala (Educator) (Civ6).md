@@ -1,0 +1,6 @@
+# Pingala (Educator) (Civ6)
+
+Pingala, otherwise known as The Educator, is one of the s introduced in "". He is a master at boosting a [City%20%28Civ6%29](city's) and output and a key player in the [Victory%20%28Civ6%29%23Science](space race).
+Strategy.
+Pingala is focused on the cultivation of Scientific and Cultural endeavors in the city. He is also quite skilled in the attraction of to his city.
+Pingala is a useful Governor for any civilization seeking any victory type. Players can use his Connoisseur and Researcher promotions to make up for any weaknesses their civilization may have in producing or , or bolster the strengths they may have in both. Alternatively, Pingala can be placed in a city with a great deal of s and their accompanying [Building%20%28Civ6%29](buildings) to make the best use of his Grants promotion. Finally, in late game scenarios, his Arms Race Proponent and Space Initiative promotions should have him placed in cities with very high . When playing with "", Pingala's Arms Race Proponent promotion is given to [Victor%20%28Castellan%29%20%28Civ6%29](Victor, the Castellan), and replaced with [Curator%20%28Civ6%29](Curator), a highly valuable promotion for Culture Victories, which doubles from all [Great%20Work%20%28Civ6%29](Great Works) in the assigned city.

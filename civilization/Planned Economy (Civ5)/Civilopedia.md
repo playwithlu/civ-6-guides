@@ -1,0 +1,3 @@
+# Planned Economy (Civ5)/Civilopedia
+
+In a planned economy, the central government decides what the country needs to produce, who will produce it, and how much it will cost. Theoretically, planned economies should be incredibly effective, ensuring that the people of the state have exactly what they need and that no one lacks for anything. In practice, however, they are often laughably inefficient. The central government remains woefully ignorant of local circumstances - say, ordering local farmers to plant crops that are unsuitable to the amount of rainfall that county receives. Or it forgets some crucial fact - the country's factories produce 500,000 trucks, but only 20,000 people actually know how to drive and there are only three gas stations outside of the capital.

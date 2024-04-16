@@ -1,0 +1,3 @@
+# Hussar (Civ5)/Civilopedia
+
+Taking their name from the Latin "Cursarius," meaning "Raider," the fearsome light cavalrymen of Hungary known as the Hussars served the Habsburg Empire and Austria throughout the 17th and 18th centuries. Emulated by cavalry units across Europe, the Hussars formed as an irregular regiment of skilled riders relying on swift, unpredictable hit-and-run tactics. Over time the Hussars became a formal unit, with recruits judged on specific requirements regulating both the rider and his mount. Hussar regiments were used extensively during the Napoleonic Wars, and eventually served in armies across Europe and Asia well into the 19th century.

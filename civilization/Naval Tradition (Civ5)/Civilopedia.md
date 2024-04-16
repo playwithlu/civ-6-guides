@@ -1,0 +1,3 @@
+# Naval Tradition (Civ5)/Civilopedia
+
+Nations with strong naval traditions value their country's navy above all other branches of the military. (For obvious reasons: they're often island nations.) Service in the navy is expected of the ruling class, and naval officers are seen as superior to officers of the army or air force. Great Britain has the longest and strongest naval tradition in Europe. The British ships were known to be superior to other nations' vessels, and the British officers and crew were the best on the water. This gave the British Navy a serious edge in morale in naval warfare.

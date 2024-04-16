@@ -1,0 +1,3 @@
+# Educated Elite (Civ5)/Civilopedia
+
+This policy states that the elite members of the society - the members of the ruling class, tribe, religion or race - must receive the best education that the society has to offer. Others in the society are not necessarily barred from receiving an excellent education, but the children of the leaders must do so. For much of the 19th and early 20th centuries in Great Britain the children of the best and the brightest went to a few highly-selective schools (Cambridge, Oxford, Eton, and so forth), graduation from which almost guaranteed the student a place in the government, or the military, or one of the elite London businesses. To a lesser degree schools like Harvard and Yale have served the same purpose in the United States.

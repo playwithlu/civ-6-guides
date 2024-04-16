@@ -1,0 +1,7 @@
+# Survey (Civ6)
+
+Survey is a Military [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+This is one of the earliest available Policies in the game, and one of the starting two choices for Military policy (unless you play as [German%20%28Civ6%29](Germany), which has an extra Military slot and will be able to use both Survey and [Discipline%20%28Civ6%29](Discipline)). It is very helpful for the initial 20 or so turns, especially if you have more than one [Scout%20%28Civ6%29](Scout). They will race through levels as they discover [Natural%20wonders%20%28Civ6%29](Natural wonders) and activate [Tribal%20Village%20%28Civ6%29](Tribal Villages), or enter the occasional clash with [Barbarian%20%28Civ6%29](Barbarians). If you're lucky, you could get two or even three s for a Scout, which will last them throughout the game!
+Note that after Turn 20 the other choice for Military Policy becomes better, since Barbarians will turn into a real nuisance at this point.
+If you are playing as the [Incan%20%28Civ6%29](Inca), this policy card can be paired nicely with the [Warak%27aq%20%28Civ6%29](Warak'aq), which can attack twice. This allows the Warak'aq to gain levels four times as fast as a [Skirmisher%20%28Civ6%29](Skirmisher) without this card.

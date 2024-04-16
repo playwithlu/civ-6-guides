@@ -1,0 +1,3 @@
+# Renaissance Era (Civ4)
+
+The Renaissance Era is the fourth era in "[Civilization%20IV](Civilization IV)" and its expansions. It is preceded by the [Medieval%20Era%20%28Civ4%29](Medieval Era) and succeeded by the [Industrial%20Era%20%28Civ4%29](Industrial Era). It starts at 1250 AD (Turn 185) in Standard [Speed%20%28Civ4%29](Speed). It represents the time period from the Renaissance to the early 18th century.

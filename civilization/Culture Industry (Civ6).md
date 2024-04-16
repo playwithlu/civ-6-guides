@@ -1,0 +1,5 @@
+# Culture Industry (Civ6)
+
+Culture Industry is a [Golden%20Age%20%28Civ6%29](Golden Age) [Policy%20card%20%28Civ6%29](Policy Card) from the [Dramatic%20Ages%20%28Civ6%29](Dramatic Ages) [Game%20Mode%20%28Civ6%29](Game Mode) in "[Civilization%20VI](Civilization VI)". It is available from the [Industrial%20Era%20%28Civ6%29](Industrial Era) to the [Modern%20Era%20%28Civ6%29](Modern Era) and uses a Wildcard slot.
+Strategy.
+Culture Industry is a valuable policy for both -focused empires and those that have incentives to build and develop [Entertainment%20Complex%20%28Civ6%29](Entertainment Complexes) and [Water%20Park%20%28Civ6%29](Water Parks). [Eleanor%20of%20Aquitaine%20%28Civ6%29](Eleanor of Aquitaine) and [Brazilian%20%28Civ6%29](Brazil) can make especially good use of this policy by slotting it in conjunction with [Sakdina%20%28Civ6%29](Sakdina) and running [Project%20%28Civ6%29](projects) in their [City%20%28Civ6%29](cities), which will allow them to launch [Loyalty%20%28Civ6%29%23Loyalty%20attack](Loyalty attacks) against their neighbors' cities while simultaneously enjoying the other benefits these projects provide.

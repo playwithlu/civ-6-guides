@@ -1,0 +1,3 @@
+# Corn (Civ4)/Civilopedia
+
+The term "corn" applies to any staple food grain or fruit of a plant in the grass family. It is also commonly called "maize." Maize is native to the valley of southern Mexico and cultivation of it is thought to have started from 7,500 to 12,000 years ago. Archaeological remains of the earliest maize cob, found at Guila Naquitz Cave in the Oaxaca Valley of Mexico, date back roughly 6,250 years.

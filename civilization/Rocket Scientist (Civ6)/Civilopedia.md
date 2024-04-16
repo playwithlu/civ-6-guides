@@ -1,0 +1,3 @@
+# Rocket Scientist (Civ6)/Civilopedia
+
+“Operation Paperclip” was a long-running (1949-1990) OSS/CIA program to bring scientists, engineers, and technicians from Nazi Germany and other countries to work in America on (primarily) rocket and nuclear projects. By the time of its suspension, over 1500 “rocket scientists” had been recruited, blackmailed, or lured to work in and for the United States. As much as American progress, the purpose of the operation was to deny these folk to the Soviet Union, which had its own “Operation Osoaviakhim” doing the same thing. Among the more notable brought to America: Wernher von Braun, Kurt Debus, Hubertus Strughold, and Arthur Rudolph.

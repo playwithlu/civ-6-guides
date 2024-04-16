@@ -1,0 +1,3 @@
+# Pottery (CivRev)
+
+Pottery is a tier 1 technology in Civilization Revolution. It allows the player to build a [Granary%20%28CivRev%29](granary) which allows their cities to grow faster. It also allows for the wine resource to be harvested. Most importantly however it allows the player to build the [Hanging%20Gardens%20%28CivRev%29](Hanging Gardens), a powerful wonder which increases city population by 50%. It is the only Ancient Wonder that cannot be rendered obsolete. Researching Pottery allows for [Ceremonial%20Burial%20%28CivRev%29](Ceremonial Burial), [Irrigation%20%28CivRev%29](Irrigation) and [Masonry%20%28CivRev%29](Masonry) to be researched. 

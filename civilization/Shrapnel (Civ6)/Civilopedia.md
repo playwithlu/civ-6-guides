@@ -1,0 +1,3 @@
+# Shrapnel (Civ6)/Civilopedia
+
+When artillery moved from solid shot to explosive shells, grapeshot was replaced with shrapnel shells, designed to explode above the ground in an airburst and shower those below with lethal little balls; it was invented by Henry Shrapnel around 1780 AD for the British Army. By the Napoleonic Wars it was quite popular among British commanders, although difficult to manufacture and use (the shells had an unfortunate tendency to bury themselves in the ground rather than explode in the air). But by World War I, the kinks had been worked out and both sides used them to great effect.

@@ -1,0 +1,33 @@
+# Citizen (Civ2)
+
+A citizen is a unit of population for in "[Civilization%20II](Civilization II)". Citizens increase a city's productivity by working nearby for their , and/or generating , and as [%23Specialist](specialists). Citizens [%23Growth](grow naturally) in cities with surplus production; they are required to produce , which can be used to populate smaller cities via the .
+A 's population contributes to its , with additional benefits based on citizens' [%23Happiness](happiness).
+## Overview
+
+A city's population displays as a row of discrete sprites in the . Citizens represent an aggregate pool of the workforce, rather than individual characters. They are organized into working citizens on the left, in descending order of happiness, and specialists on the right, who are tracked discretely rather than sorted by task.
+The population represented by a single citizen scales exponentially by the total city size, as given by the following equation:
+formula_1
+where "s" is the city size in citizen units. In other words, a one-citizen city represents 10,000 people, a two-citizen city 30,000 , a three-citizen city 60,000 , and so on.
+Citizen roles.
+Worker.
+Workers are the default citizen role. Each tile in the city radius not occupied by a rival or already worked by a different city can be assigned a citizen to acquire its yield. Each new citizen is automatically assigned to the most productive tile, prioritizing and output. Workers can be manually reassigned by clicking a worked tile and then the desired tile; clicking the city square automatically reassigns available workers for optimal production.
+Specialist.
+A specialist is a citizen not assigned to work a tile. Instead, specialists generate one of three commodities normally supplied through yield:
+Clicking any worked tile in the city radius from the City Screen converts a working citizen to a specialist. Clicking on the specialist sprite toggles between roles. Cities size 4 and smaller can only support Entertainers. Citizens are automatically made specialists if no workable tiles are available (e.g. total population exceeds the workable radius, or rival units are intruding); clicking an unworked tile turns the rightmost specialist back into a worker.
+Growth.
+Each citizen requires two units of to maintain. Additional food production accumulates in the city's stockpile; its capacity begins at 20 units and expands by 10 (1 row) for each additional citizen. Once the stockpile is full, a new citizen is added on the next . If food consumption exceeds output, the difference is subtracted from the stockpile; if the stockpile is empty and food production is negative, a famine occurs and one citizen is removed on the next turn. Ordinarily, the stockpile empties when growth occurs; the and preserve half the stockpile when a city grows naturally.
+In a standard game, city population is soft-capped at two thresholds, after which city improvements are required to grow larger: s allow expansion beyond Size 8, and s beyond Size 12. If a city lacks the required improvement(s), the food stockpile will empty, but no citizen will be added; if enabled in , a popup will be issued advising that growth is handicapped.
+ ( and ) subtract one citizen from their home city when built. When present in a city of Size 7 or lower, they can perform the (hotkey: ) to [disband](disband) into the city as a Citizen.
+Happiness.
+ is a mechanic representing domestic stability both within individual cities and the civilization at large. Each working citizen has one of four moods; when Unhappy (red) and Angry (black) citizens outnumber Happy (cyan) citizens, the city falls into , suspending production, taxes, and research. Conversely, when at least half the population of a city Size 3 or larger is Happy and no unhappiness is present, the city celebrates , providing bonus productivity.
+Happiness is determined by multiple factors, including , map size, total cities, , and certain s and . Happiness contributes to the player's : each Happy citizen contributes 2 points, while each Content and Specialist citizen contributes 1; Unhappy and Angry citizens provide no points.
+The provides an at-a-glance overview of each city and its population happiness. The displays up to 200 citizens from across the empire.
+Strategy.
+[%23Specialist](Specialist) output combines with a city's net commercial production and is amplified by appropriate city improvements. Unlike initial Trade revenue, specialist income is not subject to . This enables cities with limited Trade yield to remain commercially viable. In cities with high corruption, specialists may be more efficient than the local Trade income.
+Since a city requiring improvements to grow still empties the food stockpile even if no citizen is added, it may be beneficial to manually throttle food production until the improvement is completed, and so minimize the turns to replenish the stockpile.
+Tutorial advice.
+The citizen icons displayed in the Population Roster of the City Display represent the city's work force. Each citizen added to the roster is automatically put to work developing one of the terrain squares within the city radius. In certain situations it may become necessary to remove a citizen from terrain production in order to perform a specific task. Citizens so removed are called specialists. There are three types of specialist, each of which increases one of the three components of Trade produced by a city. Entertainers increase Luxuries, Tax Men increase Taxes, and Scientists increase Science production.
+To create a specialist, click on any production square in the City Map. The production icons disappear from the square, and an Entertainer appears in the Population Roster. To create a Tax Man, click the Entertainer icon once. To create a Scientist, first create a Tax Man, then click the Tax Man icon once. Cities must be size five or larger to support Tax Men and Scientists.
+Modding.
+Most citizen mechanics are hard-coded. Food consumption per citizen is defined on Line 3 of the section in ; Line 4 defines the size of the city food storage box (multiplied by "p"+1, where "p" is total population). Maximum city sizes before requiring s and s are defined on Lines 10 and 11, respectively. In "", citizens' score value can be customized on Line 23; the given integer is the bonus from Content/Specialists, and is doubled for Happy.
+Citizen sprites are located in , with slightly different offsets between the original "Civ II" and "Test of Time". variants change based on the civilization's possessed advances, as follows: (), (), ( and ).

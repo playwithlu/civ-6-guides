@@ -1,0 +1,3 @@
+# Malón Raider (Civ6)/Civilopedia
+
+The 16th Century brought a Spanish invasion to what is now southern Chile. It also brought horses, which the Mapuche had never seen before encountering the conquistadors. Their presence on the battlefield forced the Mapuche to adjust their tactics. They quickly learned how to use horses, turning one of the greatest Spanish advantages against them. The mounted malón raiders—so named for their retributive attacks on invaders—would launch quick raids to harass an enemy, before leading a responding enemy into an ambush.

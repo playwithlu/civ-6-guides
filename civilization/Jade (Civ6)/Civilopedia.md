@@ -1,0 +1,3 @@
+# Jade (Civ6)/Civilopedia
+
+In Mongolia’s Hongshan culture and China’s Liangzhu culture, c. 3500 BC, jade was used for both utilitarian and ceremonial purposes. Surface deposits of the silicate mineral were easily mined in both regions. Jade was put to use in both India and Korea as well, although somewhat later. Even later, the elite in pre-Columbian Mesoamerica treasured it for its symbolic use in religious rituals. Jade has lost none of its allure, and is still prized by craftsmen and artists for its luster and ability to be carved into virtually any shape.

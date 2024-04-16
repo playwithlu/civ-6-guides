@@ -1,0 +1,3 @@
+# The Scourge of God (Civ3)/Civilopedia
+
+By 451 AD, the empire of the Huns threatened all in Europe with conquest and extinction. Attila's leadership had taken the nomads who had settled on the Hungarian Plain and mobilized them into the most fiercesome force known at the time. He forced Eastern and Western Rome to pay huge annual tributes, ravaged the towns and cities of the Balkans, and built a huge army of 300,000 men. All this earned him the nickname, of The Scourge of God. A barbarian civilization that completes this wonder has reached this same level of dominance.

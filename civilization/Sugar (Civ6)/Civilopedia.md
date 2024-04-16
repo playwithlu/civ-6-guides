@@ -1,0 +1,3 @@
+# Sugar (Civ6)/Civilopedia
+
+Sugar is an incredibly sweet short-chain carbohydrate derived from sugar cane (or beets). It is believed that sugar was first used by Polynesians to spice their foods and drinks, and the practice spread to India and China, and from there across Asia and into Europe. Eventually sugar cane was transplanted to the Caribbean and to North and South America, where it was found to grow incredibly well … so long as someone was available to tend it.

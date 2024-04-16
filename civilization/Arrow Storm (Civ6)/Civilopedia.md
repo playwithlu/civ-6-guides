@@ -1,0 +1,3 @@
+# Arrow Storm (Civ6)/Civilopedia
+
+It is reported – probably an apocryphal tale – that the Persian envoy trying to convince those stiff-necked Spartans to surrender at Thermopylae said "our arrows will black out the sun," to which Dienekes replied, "Good, then we will fight in the shade." Most troops were not quite so complacent about facing an arrow storm, the rapid massed fire of archers onto a particular spot. Whereas most well-trained archers could fire about six arrows a minute, thus creating a pretty dense storm, the English archers armed with longbows were especially proficient at laying down such a rain of death ... better even than crossbowmen.

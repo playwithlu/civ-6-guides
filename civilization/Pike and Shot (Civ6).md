@@ -1,0 +1,5 @@
+# Pike and Shot (Civ6)
+
+The Pike and Shot is a [Renaissance%20Era%20%28Civ6%29](Renaissance Era) [List%20of%20units%20in%20Civ6/By%20class%23Anti-cavalry](anti-cavalry unit) in "". It upgrades from the [Pikeman%20%28Civ6%29](Pikeman) (or its replacements).
+Strategy.
+In addition to being as strong as a [Musketman%20%28Civ6%29](Musketman), the Pike and Shot requires no [Resource%20%28Civ6%29%23Strategic](strategic resources) to produce, which makes it an invaluable frontline unit for [Civilizations%20%28Civ6%29](civilizations) without access to . It only costs 10 more than a standard Musketman; however, a Musketman will gain a small (+5 Combat Strength) advantage against a Pike and Shot in a face-off. Players who have a large number of Pikemen and enough to upgrade them should do so as soon as the Pike and Shot becomes available, as it will make quick work of [Knight%20%28Civ6%29](Knights) and [Courser%20%28Civ6%29](Coursers). It's also a good counter to [Cavalry%20%28Civ6%29](Cavalry) and reasonably effective against [Cuirassier%20%28Civ6%29](Cuirassiers).

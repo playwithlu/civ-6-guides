@@ -1,0 +1,4 @@
+# Advanced AI (Civ6)/Civilopedia
+
+In the ensuing decades since the Turing Test was proposed, artificial intelligence has become more widespread and more robust in terms of its capabilities, particularly in the analysis of large data sets. An AI in these cases often “studies” a problem through developing and testing hypotheses about underlying patterns in the data, matching them against the data, and creating iteratively refined models with considerable explanatory power. As AI continues to improve, it will probably be applied to more and more problems, with solution algorithms being treated as a “black box”—meaningful only to the AI and irrelevant to the humans interest in the model outputs.
+As to whether AI will ever be mistaken for a human, it is hard to imagine a future where frustrated people dealing with computerized phone systems do not continually mash the “0” button in search of a human operator.

@@ -1,0 +1,3 @@
+# Sovereignty (Civ5)/Civilopedia
+
+Sovereignty, short for "popular sovereignty," is the belief that the state belongs to the people, and that the rulers are "servants" to the people. Power derives from the people, and those who rule do so with the people's consent. Popular sovereignty can be most easily contrasted with a theocracy, in which the ruler derives his power from God, not from the people. Nations with popular sovereignty usually have some form of periodic elections in which the people can express their will, hopefully voting for the best candidate, rather than say the tallest or the best liar.

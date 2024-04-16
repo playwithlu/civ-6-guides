@@ -1,0 +1,8 @@
+# Coast (Civ6)
+
+Coast is a base [Terrain%20%28Civ6%29](terrain) in "[Civilization%20VI](Civilization VI)". It is found on the continental shelves and everywhere where land meets water, extending up to 3 [Tile%20%28Civ6%29](tiles) away from land.
+Strategy.
+Compared to earlier "[Civilization%20%28series%29](Civilization)" games, Coast tiles are less useful. The [Harbor%20%28Civ6%29](Harbor) means a [City%20Center%20%28Civ6%29](City Center) can be further inland, and Coast tiles do not provide much when worked unless a [Resource%20%28Civ6%29](resource) is present. As such, it's wise to avoid settling a [City%20%28Civ6%29](city) in a region with an abundance of Coast tiles unless you plan on quickly building a Harbor in that city, which has [Building%20%28Civ6%29](buildings) that improve their yields.
+Of course, Coast tiles are the only place where early [Naval%20unit%20%28Civ6%29](ships) may move before researching [Cartography%20%28Civ6%29](Cartography). Thus, a [Civilizations%20%28Civ6%29](civilization) which expands its [Territory%20%28Civ6%29](territory) to cover all Coast tiles in a certain location will effectively block all maritime movement there in the early game for all civs who don't have Open Borders with them. This may often have great strategic importance.
+Note that some [Wonder%20%28Civ6%29](wonders) can only be built on the coastline, often next to a Harbor.
+Founding a city on the coast unlocks the for [Sailing%20%28Civ6%29](Sailing).

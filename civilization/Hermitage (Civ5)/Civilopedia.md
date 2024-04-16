@@ -1,0 +1,3 @@
+# Hermitage (Civ5)/Civilopedia
+
+The Hermitage is a museum in Saint Petersburg, Russia. Constructed in 1764 by Catherine the Great, the Hermitage's collection contains some three million pieces, including the largest collection of paintings in the world. The collection is housed in a number of historic buildings, including the extraordinary Winter Palace, the former official residence of the Tsars from 1732 to 1917.

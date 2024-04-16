@@ -1,0 +1,3 @@
+# Light Ship Doctrine (Civ4)/Final Frontier/Civilopedia
+
+As the most versatile of military policies, the "Light Ship" doctrine has become the perfect balance point for nations looking to have a diversified military. Not requiring a massive infrastructure commitment, a well-balanced fleet of Light Ships including Cruisers, Destroyers, Invasion Ships and Planetary Defenders can hold their own against most any other fleet in the universe. Unless, of course, they run afoul of a fleet of well-protected Battleships.

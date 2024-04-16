@@ -1,0 +1,3 @@
+# Genghis Khan
+
+Genghis Khan, also known as Temüjin, is a [Mongol](Mongol)ian [Leaders](leader), [Great%20People](Great Person), and [unit](unit) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games, the husband of [Bortei](Bortei), the father of [%C3%96gedei%20Khan](Ögedei Khan), and the grandfather of [Kublai%20Khan](Kublai Khan) and [M%C3%B6ngke%20Khan](Möngke Khan). He appears in every game in the main series, including both [Civilization%20Revolution%20games]("Civilization Revolution" games).

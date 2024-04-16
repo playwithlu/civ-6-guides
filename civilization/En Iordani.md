@@ -1,0 +1,4 @@
+# En Iordani
+
+"En Iordani" (Eng. "In the Jordan") is a Greek religious hymn. It is [Justinian%20I%20%28Civ4%29](Justinian I's) theme music in "".
+"En Iordani" is often sung during religious ceremonies and celebrations, such as the Great Blessing of the Waters, in the [Eastern%20Orthodoxy](Eastern Orthodox) tradition. This ceremony takes place on the Feast of Theophany (also known as Epiphany) in the Orthodox Church, which commemorates the baptism of Jesus Christ in the Jordan River. The hymn's lyrics usually express reverence for the sacred event of Christ's baptism and the significance of water as a symbol of purification and renewal in the [Christianity](Christian) faith, and it is often accompanied by traditional Byzantine chant melodies.

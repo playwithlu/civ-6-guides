@@ -1,0 +1,6 @@
+# Games and Recreation (Civ6)
+
+Games and Recreation is a [Classical%20Era%20%28Civ6%29](Classical Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by researching the [Construction%20%28Civ6%29](Construction) [Technology%20%28Civ6%29](technology). 
+Strategy.
+There has been leisure since time immemorial, but early civilizations are too busy surviving to think of some more sophisticated forms of recreation. Thus, it was usually limited to spending some free time around the fire with other people, telling tales and singing.
+It is only in the Classical Era when civilizations start inventing more elaborate forms of diversion. A whole new [District%20%28Civ6%29](District) is created to house them - the [Entertainment%20Complex%20%28Civ6%29](Entertainment Complex), and in its first building, the [Arena%20%28Civ6%29](Arena), the masses witness great shows and entertain themselves. This being the ancient world, the shows were many times quite bloody, such as the famous gladiator battles in Rome.

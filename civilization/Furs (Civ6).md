@@ -1,0 +1,6 @@
+# Furs (Civ6)
+
+ Furs are a [Resource%20%28Civ6%29%23Luxury](luxury resource) in "[Civilization%20VI](Civilization VI)". They are found mostly on [Tundra%20%28Civ6%29](Tundra) [Tile%20%28Civ6%29](tiles), or sometimes on other [Terrain%20%28Civ6%29](terrain) with [Woods%20%28Civ6%29](Woods).
+Strategy.
+ Furs provide bonuses to , , and when improved with a [Camp%20%28Civ6%29](Camp) by a [Civilizations%20%28Civ6%29](civilization) that has discovered [Synthetic%20Materials%20%28Civ6%29](Synthetic Materials) and [Mercantilism%20%28Civ6%29](Mercantilism). These diverse yields make them valuable resources, especially in Tundra where resources are scant.
+Players using [Russian%20%28Civ6%29](Russia) or [Canadian%20%28Civ6%29](Canada) should make an extra effort to claim Furs: Russia already gets extra and bonuses from Tundra tiles, but often lacks (unless you've taken Feed the World as a religious belief, which is almost a must for Russia), which a Furs Camp will provide. Canada, on the other hand, clearly got the better end of the deal: all Camps in Tundra provide +2 for the Canadians from the get-go, the Canadians do not require for any Canada-specific strategy, and their troubles are solved by [Wilfrid%20Laurier%20%28Civ6%29](Wilfrid Laurier's) [Unique%20ability%20%28Civ6%29](leader ability).

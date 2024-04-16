@@ -1,0 +1,3 @@
+# Radar Polymers (Civ4)/Final Frontier/Civilopedia
+
+The impressive visual range of modern Scout ships is based almost completely on the development of unique Radar Polymers. In essence, these transform the entirety of the ship's hull into a hawk-eyed radar array. While this gave the Scout yet unmatched visual range, the need for an uninterrupted hull from which signals could be sent and received coupled with deep-space life support facilities and powerful engines meant the Scout could have little to no armaments and defenses.

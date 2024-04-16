@@ -1,0 +1,3 @@
+# Pursuit (Civ6)/Civilopedia
+
+One of the greatest advantages of light cavalry in comparison with heavy was that the light were significantly faster, and therefore ideal for pursuing and taking down defeated enemy troops, stragglers, and camp followers. Indeed, their mobility and speed meant that light cavalry were still being used at the opening of World War I, whereas the heavier types had been disbanded. With the development of armored warfare, the distinction returned, with main battle tanks considered "heavy cavalry" and the armored cars and light tanks, still significantly faster than their lumbering brethren, the "light." And, when necessary, the mechanized light cavalry can still run over the defeated without slowing down.

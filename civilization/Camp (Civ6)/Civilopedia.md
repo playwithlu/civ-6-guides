@@ -1,0 +1,3 @@
+# Camp (Civ6)/Civilopedia
+
+Once upon a time, a camp was vital to survival … whether it was a temporary shelter thrown up by wandering barbarians or a semi-permanent hunting camp supplying game, fish or fowl to the growing population. Until mankind learned to domesticate and pen livestock for a more dependable source of meat, hunting camps kept civilization going. In time, camps took on new roles, such as supplying furs, firewood, or trading opportunities with the nearby natives. Today, more often than not, a “camp” – temporary or permanent – is simply a recreational site where the city slickers can “get back to nature.” And now civilized folk hunt game, fish, and fowl for sport rather than survival.

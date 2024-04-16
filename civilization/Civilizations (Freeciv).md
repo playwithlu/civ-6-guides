@@ -1,0 +1,5 @@
+# Civilizations (Freeciv)
+
+As of version 2.6.6, there were a total of 555 nations, or rulesets, listed below, that defined the different civilizations available to play. The menu offers grouping to simplify choice. (Other nations can be added at any time with the appropriate coding and approval.)
+All nations are identical, except for their specific city-lists and their respective flags and leader names. For the corresponding flags (incl. pending patches) see a [w%3Ac%3Afreeciv%3AFlags%20Catalogue](Flags Catalog) on the Freeciv wiki. All the nations have predefined names for their leaders, but the game offers the option to customize it for the human player's nation.
+This list includes a number of imaginary nations (like werewolves or vampires) along with the real modern or historical ones, but they work the same as the others.

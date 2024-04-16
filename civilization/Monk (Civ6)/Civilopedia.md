@@ -1,0 +1,3 @@
+# Monk (Civ6)/Civilopedia
+
+A monk is a religious practitioner who has renounced the secular world in order to live an ascetic life of prayer and spiritual devotion. Many religious traditions, including Christianity, Buddhism, and Jainism, have monastic traditions as part of their faith. Some monastic orders withdraw almost entirely from the world, while others are renowned for their service to the community around them. Monks often wear special clothing indicating their separation from worldly affairs.

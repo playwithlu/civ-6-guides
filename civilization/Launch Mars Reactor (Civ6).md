@@ -1,0 +1,5 @@
+# Launch Mars Reactor (Civ6)
+
+Launch Mars Reactor is a [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)" and part of the third and final step toward winning a [Victory%20%28Civ6%29%23Science](Science Victory). It becomes available after researching [Nuclear%20Fusion%20%28Civ6%29](Nuclear Fusion) and completing the [Launch%20Moon%20Landing%20%28Civ6%29](Launch Moon Landing) project, and requires a [Spaceport%20%28Civ6%29](Spaceport) [District%20%28Civ6%29](district).
+The reactor is the core of a future colony on [Mars](Mars) - the element which ensures power for all its other components. With this project a player takes an important step towards accomplishing the ultimate goal of near-future space travel: establishing a human colony on another planet! Once this project, [Launch%20Mars%20Habitation%20%28Civ6%29](Launch Mars Habitation), and [Launch%20Mars%20Hydroponics%20%28Civ6%29](Launch Mars Hydroponics) are completed, the player establishes a Martian colony and wins a Science Victory.
+In "", this project is removed and replaced by [Launch%20Mars%20Colony%20%28Civ6%29](Launch Mars Colony).

@@ -1,0 +1,3 @@
+# Emplacement (Civ6)/Civilopedia
+
+If a siege progressed past a few days, the attackers would build earthworks to protect themselves from those angry fellows on the walls defending the town. This was especially useful for keeping the crews manning the siege artillery – be these catapult or cannon – alive, for they tended to draw attention as they sought to batter down the walls. The introduction of gunpowder made this even more essential, as cannon mounted on walls could lob shells quite a distance. Temporary redoubts and emplacements meant the guns could keep firing on the walls until these were breached; in 1453 AD, for example, Mehmed II's 62 cannon – protected by earthen ramparts – hammered away at the walls of Constantinople for six weeks.

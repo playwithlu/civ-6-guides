@@ -1,0 +1,3 @@
+# Royal Dynasties (Civ6)/Civilopedia
+
+Conceptually, a royal dynasty is simple—a ruler transfers power to a descendant born of the ruler’s bloodline, thereby maintaining a consistent standard of consolidated power. Egypt enjoyed this proven concept of stability so much that they had 30 different royal dynasties through 343 BCE, when Persia’s Artaxerxes aggressively introduced them to the concept of satrapies.

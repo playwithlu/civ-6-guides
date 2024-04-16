@@ -1,0 +1,5 @@
+# Alexander Hamilton (Civ4Col)
+
+Civilopedia.
+Lived: 1755-1804
+A delegate of New York to the United States Constitutional Congress, Alexander Hamilton was interested in a strong federal government, one with life terms for its representatives and a monarch-like chief executive. Yet as the Constitution slowly became a reality, Hamilton became one of its staunchest proponents, forming the Federalist Party in favor of its ratification. When appointed to Treasury Secretary under President George Washington, Hamilton took advantage of his new position to ensure government influence in the U.S. economy, consolidating the national debt and creating a national bank. Hamilton's economic policy would guide the United States on the path towards becoming a commercial power, rather than an agrarian one, much to the chagrin of his chief rival, Thomas Jefferson. Hamilton's life, though, would be cut short when he was killed in a duel by Jefferson's vice-president, Aaron Burr.

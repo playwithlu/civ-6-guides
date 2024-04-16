@@ -1,0 +1,5 @@
+# AEGIS Cruiser (Civ2)
+
+The AEGIS Cruiser is a sea unit in "[Civilization%20II](Civilization II)". In the late game, this will likely be the mainstay of your civilization's navy. An upgraded version of the [Cruiser%20%28Civ2%29](Cruiser), this unit boasts superior attack and defense strength alongside a +100% bonus to defense against air units, while being slightly more expensive to build.
+Civilopedia entry.
+Cruisers have long served in the role of escort and defensive vessels, screening carrier task forces and amphibious assaults from enemy ships and aircraft. In recent years, the abilities of the cruiser have been upgraded significantly. In addition to their traditional five-inch guns, cruisers also carry batteries of Harpoon and Tomahawk missiles. The latest development in cruiser armament is the AEGIS surface-to-air missile system, which allows cruisers to target and fire their missiles more accurately and more effectively than ever before. The cruisers of today are highly capable of intercepting and destroying enemy submarines, surface ships, aircraft, and missiles.

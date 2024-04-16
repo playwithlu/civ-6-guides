@@ -1,0 +1,3 @@
+# Attack Submarine (Civ4)/Civilopedia
+
+An Attack Submarine is any submersible with the capacity to destroy enemy ships. In the past, nearly all subs would have been considered Attack Submarines, but with advances in technology, many shed their torpedoes for the capability to carry ballistic missiles. While able to attack land targets, such submarines are particularly vulnerable to attacks from their torpedo-armed cousins.

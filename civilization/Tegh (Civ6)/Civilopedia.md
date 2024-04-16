@@ -1,0 +1,3 @@
+# Tegh (Civ6)/Civilopedia
+
+Tegh, simply “sword,” refers to a broad, curved blade “ten fists long,” a weapon in addition to the traditional kirpan, or dagger, that Sikhs carry. These weapons symbolize a commitment to independence, a vow to punish evil and protect the good in the world. The use of the tegh was to be a last resort, after kindness and charity (“deg,” or “the kettle”) had proved to be not enough.

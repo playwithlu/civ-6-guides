@@ -1,0 +1,4 @@
+# Bandar Brunei (Civ6)/Civilopedia
+
+Its water village at Kampong Ayer was once described by a traveler as 'Venice of the East.' Since the 16th century, this capital city has been the heart of the Sultanate of Brunei.
+Located in the northern bank of the Brunei River, Bandar Brunei's history can be traced back to the first Malay settlers in the region in the Eighth Century CE. This would be before it became a prosperous port under the Sultanate in the 1500s and after they rid themselves of all those pirates. It would be the third capital for Brunei following those at Kota Batu and later, the 42 villages making up Kampong Ayer (which it would later incorporate). The downside to being a jewel is everyone wants to fight over you; in the modern era, Bandar Brunei would become hotly contested territory during the Second World War before becoming a prosperous, independent petroleum hub.

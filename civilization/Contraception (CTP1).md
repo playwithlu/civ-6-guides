@@ -1,0 +1,7 @@
+# Contraception (CTP1)
+
+Contraception is a wonder in "". It provides +5 happiness in every city and becomes obsolete with [Alien%20Archaeology%20%28CTP1%29](Alien Archaeology).
+Gameplay.
+Contraception raises throughout a Civilization by 5. This gives Civilizations control over population growth, preventing mass starvation and gives women control over reproduction, giving them greater fulfillment and joy.
+Great Library entry.
+In an effort to control population growth and women's reproductive lives, men and women sought effective contraception. Early methods ranged from pessaries made from crocodile dung and fermented dough, used by the Ancient Egyptians, to other, less exotic herbal treatments: myrrh, Queen Anne's lace, and asafoetida. These methods were effective to some degree, but usually involved some kind of discomfort on the woman's part; they often induced miscarriages instead of preventing fertilization. Governments and religious institutions moved to outlaw contraceptives such as with the Comstock Law of 1873. But no law could argue with the right of a woman to control the destiny of her body. The discovery of oral contraceptives provided a safe and effective method of controlling population growth.

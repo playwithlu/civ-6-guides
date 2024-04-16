@@ -1,0 +1,8 @@
+# Mount Vesuvius (Civ6)
+
+Mount Vesuvius is a single-tile impassable available in "". It provides +1 and +2 [Appeal%20%28Civ6%29](Appeal) to adjacent [Tile%20%28Civ6%29](tiles).
+Mount Vesuvius is considered a . On eruption, it gives high yields and most likely damages improvements, buildings, districts and causes large Population loss. Mount Vesuvius' eruptions are frequent and it is always active.
+Discovering Mount Vesuvius grants +1 [Era%20Score%20%28Civ6%29](Era Score), or +3 Score if the player is the first to do so.
+Strategy.
+Mount Vesuvius embodies the risk versus reward gameplay that "Gathering Storm" so heavily emphasizes. Yields from each of its eruptions are the highest of the volcanic natural wonders (and especially beneficial in the early game), but so is the damage they cause. Settling 3 [hex](hex)es away from Mount Vesuvius allows you to benefit from its yields without having to worry about massive Population loss, but also prevents you from using all 6 of the hexes around it. Therefore, your best option is to settle is 2 hexes away from Mount Vesuvius (which gives you +3 Era Score as well) and assign [Liang%20%28Surveyor%29%20%28Civ6%29](Liang) with [Reinforced%20Materials%20%28Civ6%29](Reinforced Materials) to the [City%20%28Civ6%29](city) to prevent the eruptions from damaging your infrastructure.
+If [Rapa%20Nui%20%28Civ6%29](Rapa Nui) also happens to be in the game, try your best to become its [Suzerain%20%28Civ6%29](Suzerain), as the [Moai%20%28Civ6%29](Moai) will be invaluable when combined with Mount Vesuvius to speed your progress through the [List%20of%20civics%20in%20Civ6](civic tree).

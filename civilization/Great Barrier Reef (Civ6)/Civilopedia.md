@@ -1,0 +1,3 @@
+# Great Barrier Reef (Civ6)/Civilopedia
+
+Meandering about off the coast of northeast Australia, the 2300-km (1400-mile) Great Barrier Reef is the largest structure built by living organisms and can even be seen from orbit. Built by billions of coral polyps over a half-billion years, it now comprises some 2900 individual reefs and 900 islands, and is home to an incredible diversity of fauna – from 30 species of whales, dolphins, and porpoises to 215 species of birds. Unfortunately pollution, overfishing, tourism, and climate change are threatening the future of the reef; coral bleaching is accelerating and scientists estimate that unless drastic steps are taken, by 2030 AD the Great Barrier Reef will have suffered “irreversible damage”.

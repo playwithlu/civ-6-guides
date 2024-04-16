@@ -1,0 +1,3 @@
+# Wajo (Civ5)/Civilopedia
+
+During the Japanese invasion of Korea known as the Imjin War, the Japanese military constructed numerous hastily built castles, known as Wajo, along the coastline. Used as outposts and garrisons primarily along the southern coast of Korea, the military typically built artificial hills or plateaus upon which they placed wooden walls, towers and internal structures that closely matched the characteristic style of traditional Japanese castles.

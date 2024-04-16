@@ -1,0 +1,4 @@
+# Territorial Cities (Civ1)
+
+The Territorial Cities are 32 [City%20%28Civ1%29](cities) which can be built by any nation after that nation has built its first 16 cities. Historically, these are either cities like [Mecca](Mecca) and Tarsus which have changed hands so often that it is hard to attribute them to one nation or another, or they are cities like [Toronto](Toronto) and [Sydney](Sydney) which are a part of nations which were simply not large or powerful enough to include in "[Sid%20Meier%27s%20Civilization](Civilization)" as whole [List%20of%20civilizations%20in%20Civ1](civilizations).
+Once a civilization has built all of its cities as well as every city on this list, it can build no more cities. Attempts to build a 49th city will produce an error message. Note that 48 is the limit, regardless of whether you actually choose to use the names presented on these lists.

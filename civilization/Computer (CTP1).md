@@ -1,0 +1,7 @@
+# Computer (CTP1)
+
+Computer is an advance in "".
+Summary.
+The advent of the Computer leads to Computer Centers which add 1 science per population and increase science overall by 50%. The Wonder The Internet is also born, speeding communication and revolutionizing the world. By linking directly into foreign information systems, the Internet gives 10 foreign Advances per Age.
+Great Library entry.
+The primitive abacus, considered the first mechanical calculator, is in some ways the conceptual progenitor of Computers. However, it wasn't until WWII, when the military needed faster ballistic calculators and cryptographers needed machines to help break German secret codes, that the modern computer was born. In 1944, a Harvard mathematician invented the electronic computer, the Mark I. From this point on, as technology made rapid leaps forward tracking the advances of the vacuum tube, the transistor, and integrated circuitry, computers were swiftly replaced with successors. In accordance with Moore's Law, which states that the logic density of computer circuitry would double every year starting with 1965 with 8 bits per square inch, progress did indeed follow the exponential pathway to smaller, faster, and more powerful computers. They now pervade almost every niche of society, occupying desktops and laps alike.

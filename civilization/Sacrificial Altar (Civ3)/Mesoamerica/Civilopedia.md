@@ -1,0 +1,3 @@
+# Sacrificial Altar (Civ3)/Mesoamerica/Civilopedia
+
+Sacrificial altars were commonplace in Mesoamerican cities. They were often made of granite or limestone, and placed atop a prominent temple overlooking the city plaza. The likenesses of gods or murals of great battles were carved into their surfaces, and when a sacrifice was made, the blood from the slain flowed into the crevices and onto the floor.

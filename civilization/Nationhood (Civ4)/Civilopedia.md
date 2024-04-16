@@ -1,0 +1,4 @@
+# Nationhood (Civ4)/Civilopedia
+
+A "nation" is a group of people sharing some kind of common identity. Nations may be united by language, custom, history, or religion (or any combination of them).
+Sharing languages, customs, histories and so forth provides strength to a nation - the sense of identity and commonality reduces internal strife, civil and religious wars, and so forth. Unfortunately, citizens with different languages, customs, and backgrounds may be looked upon with suspicion, distrust, and contempt, promoting unhappiness and unrest from the minority and limiting their ability to fully contribute to the society.

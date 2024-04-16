@@ -1,0 +1,4 @@
+# Emancipation (Civ4)/Civilopedia
+
+Emancipation refers to the abolition of slavery, serfdom, and caste system. Members of the society are on an equal footing: you may be rich and I poor, but if I'm smarter or more cunning than you, I can end up as your boss or even your ruler. Merit and experience and initiative are fully rewarded; each member of a nation can reach his or her potential, to the benefit of all.
+The previous paragraph describes a somewhat utopian society. In reality, one's situation at birth will have an effect upon one's progress in society. If your parents are rich, you are likely to be healthier, better educated and better connected than a person whose parents are poor. But at least it isn't illegal for the poor person to succeed: his innate qualities can overcome the disadvantages of his parentage.

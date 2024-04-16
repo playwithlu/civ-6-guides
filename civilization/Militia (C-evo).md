@@ -1,0 +1,6 @@
+# Militia (C-evo)
+
+A Militia is one of the predesigned s available throughout a game of "[C-evo](C-evo)".
+Often it is the first unit you should build, switching from the default [Town%20Guard%20%28C-evo%29](Town Guard), so that you can explore your world and meet other nations before they have time to form so many other friendships that they do not want to talk to you.
+Attack and defensive strengths are both 6 and movement is the basic 1.5.
+A Town Guard fortified in a city, alone, will lose to a carefully-planned attack by three militia attacking in the same turn, though if it is "hardened" and all militia are "green" it will kill all attackers and the city will survive if its initial population was three or more. Even a "green" militia has attack strength 6, so by sacrificing its life it reduces a "green" TG defensive strength from 15 (with fortification enhancement 3 and city bonus 6) down to 9 (60% health). The second militia, 6v9, drops the health another 40%, i.e. to 3. The surviving militia kills the TG and still has 0.5 movement points left, with which it can enter the city (on the same turn if it can use a river or road), capturing it if its population is 3 or more, destroying it if only 2. (The militia may, however, wait until the population increases, gambling on the chance that another defender might not be built or brought in first.)

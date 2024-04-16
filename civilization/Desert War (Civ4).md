@@ -1,0 +1,6 @@
+# Desert War (Civ4)
+
+Desert War is a World War II-themed scenario for "[Civilization%20IV](Civilization IV)".
+Gameplay.
+This scenario takes place in the Mediterranean, North Africa, and the Middle East during World War II. There are six playable civilizations, divided into two factions: the [English%20%28Civ4%29](British), the Allied Powers, and the Free French form one alliance; the [German%20%28Civ4%29](Germans), the Italians, and the Vichy French form another. [Spanish%20%28Civ4%29](Spain) and Turkey also appear as nonplayable civilizations.
+The British, the Italians, and the Vichy French all start with cities on the African continent. The Italians also control cities in Sicily and Italy, and the Germans begin with several cities in Greece. The Allied Powers have two cities, but cannot send troops directly from Gibraltar until December 1941, when the Japanese attack Pearl Harbor and allow America to build Aircraft Carriers and Troop Transports. Special events, such as General Rommel's Afrika Korps arriving or the Allied invasion of Sicily, may be triggered while the game processes players' turns.

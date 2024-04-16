@@ -1,0 +1,3 @@
+# El Dorado (Civ5)/Civilopedia
+
+This fabled "Lost City of Gold" drew many Spanish conquistadors to the New World, all hoping to stumble upon its untold riches. For nearly three centuries, the myth of precious gems and gold drew explorers to the South American coasts, who often sacked other cities they found along the way. El Dorado has captivated explorers throughout the centuries, and expeditions as late as 1804 were arranged to divine its location. However, it is now believed that the mythical city was inspired by the name of a Muisca chief, who reportedly, as part of an initiation, covered himself in a fine layer of gold dust and dove into the Guatavita Lake.

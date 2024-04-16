@@ -1,0 +1,3 @@
+# 2K Games
+
+2K Games, Inc. is an international developer, marketer, distributor and publisher of interactive software games. 2K is simply a subsidiary of [Take-Two%20Interactive](Take-Two Interactive) who also own the rather successful Rockstar Games who have made games like ". On the 25th of January 2005, Take-Two created 2K Games after they took over developer Visual Concepts and another subsidiary of Take-Two, Kush Games. 2K was originally exclusive to the Dreamcast console, but now has games on a variety of consoles and on PC.

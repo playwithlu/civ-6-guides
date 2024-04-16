@@ -1,0 +1,4 @@
+# Organized Religion (Civ4)/Civilopedia
+
+An organized religion is one in which there is a central authority which interprets or determines theology, which decides which ceremonies are to be performed at which times, and which appoints priests or holy men to keep worshipers on the correct path. The central authority may be a rigid and powerful hierarchy with great religious and secular power, or it may be a group of elders who meet periodically to discuss matters of importance to their members.
+An organized religion can be a mighty thing, more powerful than kings or despots. Its followers may provide it with great wealth, and may construct mighty edifices in their gods' honor. Usually, however, organized religions are less powerful than that and must live in uneasy harmony with the local secular governments.

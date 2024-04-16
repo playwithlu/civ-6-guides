@@ -1,0 +1,5 @@
+# Bread and Circuses (Civ6)
+
+Bread and Circuses is a [Project%20%28Civ6%29](project) in "". It becomes available to a city after building an [Entertainment%20Complex%20%28Civ6%29](Entertainment Complex) or [Water%20Park%20%28Civ6%29](Water Park) [District%20%28Civ6%29](district). 
+Since ancient times entertainment has served to calm the masses. This project starts a series of events in the local entertainment district, which turbo-boosts this effect! As a result, the [Loyalty%20%28Civ6%29](Loyalty) pressure that each Citizen in the city exerts is boosted by 1. This effect also extends to all cities within 9 [Tile%20%28Civ6%29](tiles) of the city undertaking the project, but is 10% less effective per [hex](hex) between their [City%20Center%20%28Civ6%29](City Centers). Additionally, each time the project is completed, the city gains 20 Loyalty.
+The aforementioned attribute of Bread and Circuses can also be used offensively as a "[Loyalty%20%28Civ6%29%23Loyalty%20attack](Loyalty attack)" on enemy cities within the radius of effect.

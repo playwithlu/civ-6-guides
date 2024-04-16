@@ -1,0 +1,6 @@
+# Medieval Faires (Civ6)
+
+Medieval Faires is a [Medieval%20Era%20%28Civ6%29](Medieval Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by maintaining 4 s.
+Strategy.
+With development of long-range trade in the Middle Ages, a new type of commerce sprang up: temporary markets, visited by both local and foreign visiting merchants, and also by other men whose trade flourishes in crowds of people (such as jugglers and thieves). These events quickly prove their importance for both trade and culture - in such places commodities are exchanged, but so are ideas, music, books and other stuff. So, they become a necessary step to later development of human sciences.
+This also leads to a new age of ideas among your people, allowing them to construct a new [Wonder%20%28Civ6%29](wonder): [Angkor%20Wat%20%28Civ6%29](Angkor Wat), which helps you bolster your Population and increase . In "", it also grants new intelligence to your empire in the form of a new Governor Title.

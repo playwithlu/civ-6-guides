@@ -1,0 +1,5 @@
+# Juan Ponce de Leon (Civ4Col)
+
+Civilopedia.
+Lived: 1460-1521
+Juan Ponce de Leon was an experienced explorer, traveling with Christopher Columbus, and Christopher's younger brother, Bartolomeo Columbus. Ambitious in his own right, de Leon secured the right to invade Puerto Rico and prepare it for European colonization. At first accepted by the native Tainos, hostilities quickly escalated between the two groups. Events came to a head when a group of natives led by Agueybana nearly annihilated the settlement of the Spanish colonists. Political manipulations lost de Leon his governorship, and he again returned to exploration, probing deep into the heart of a marshy peninsula named La Florida, the land of flowers. It was during this journey that his name would become forever intertwined with the legendary Fountain of Youth, a myth that would draw thousands to the new continent.

@@ -1,0 +1,3 @@
+# Trap (Civ6)/Civilopedia
+
+While walls are a type of defense that seeks to keep enemies out, traps seek to eliminate, slow, or immobilize them. And while the walking dead are relentless, they are not clever. A single human in a tower, with his juicy human brain, can act as sufficient bait to bring the dead – or hostile humans looking to take out an “unguarded” enemy - in to close quarters where they can be dealt with. But dispensing of the dead involves much more than dealing with human enemies. They cannot be chased off, or even critically wounded; they must be destroyed. Ancient traps could involve burning pitch, hidden pits, or simply towers fill of archers. That is, until the arrows run out…

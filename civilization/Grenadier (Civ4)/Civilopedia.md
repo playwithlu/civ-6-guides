@@ -1,0 +1,4 @@
+# Grenadier (Civ4)/Civilopedia
+
+The original grenadier was a specialized assault soldier designed to attack enemy fortifications. The grenadier was equipped with grenades, small metal balls filled with gunpowder. The grenadiers would approach the enemy's works, light and throw their grenades, and then rush the works in the resulting confusion and panic.
+As time progressed, the early grenades were abandoned, primarily because improvements in musketry and massed fire techniques made it highly likely that the grenadier would get shot while in the act of throwing the grenade. The term "grenadier" remained, however, and it was used to denote elite troops until the First World War.

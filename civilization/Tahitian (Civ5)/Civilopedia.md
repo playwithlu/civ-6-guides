@@ -1,0 +1,6 @@
+# Tahitian (Civ5)/Civilopedia
+
+Tahiti is the largest island in the Society Island archipelago, and today is the undisputed center of the former French Polynesia. Tahiti has long been regarded as one of the most friendly and open of the Polynesian cultures.
+Tahiti consists of two islands, Tahiti Nui (Big Tahiti) and Tahiti Iti (Little Tahiti). The relative size of these two islands is thus easily inferred. Weather is warm and mild year-round, and Tahiti sits near the Eastern edge of Polynesia.
+As it is one of the easternmost islands of Polynesia, Tahiti was not settled until relatively late-somewhere between 300 and 800 AD by the Polynesians, long after the decline of the Lapitan civilization.
+The first undisputed westerners to visit Tahiti were the English, in 1767. The English were immediately impressed with the relaxed, open, and generous nature of the islanders. Introduced diseases nearly wiped out the Tahitians, and missionaries discouraged the practice of most traditional culture, though they did document and preserve the native dialect. Charles Darwin visited Tahiti as part of his voyage on HMS Beagle. The French annexed Tahiti in 1847, but the Tahitians were not granted full French citizenship until 1946. French remains the official language of Tahiti today.

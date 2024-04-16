@@ -1,0 +1,6 @@
+# Craftsmen (Civ6)
+
+Craftsmen is a Military [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)". Prior to the [Civilization%20VI%20February%202021%20Update](February 2021 Update), it was an Economic Policy Card.
+Strategy.
+Craftsmen is a Military Policy which enhances [Adjacency%20bonus%20%28Civ6%29](adjacency bonuses) of the [Industrial%20Zone%20%28Civ6%29](Industrial Zone). It is also quite an important and useful one, since the Industrial Zone is one of the most important s, and it is usually easy to provide it with adjacency bonuses. When you add the bonus from Craftsmen, you will get a considerable boost to all in [City%20%28Civ6%29](cities) with Industrial Zones! Use it well to advance your construction projects, build [Wonder%20%28Civ6%29](wonders), or enlarge your military.
+The fact that it is a Military Policy also makes this Policy even better. When playing a peaceful game, civs will often have more Military Policy slots than they know what to do with. Craftsmen allows them to get a substantial bonus without sacrificing an Economic slot.

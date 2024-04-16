@@ -1,0 +1,5 @@
+# Khmer (Civ6)/Path to Nirvana/Civilopedia
+
+Upon coming to power in 802 CE, Jayavarman II would declare himself 'Cakravartin' or 'universal ruler.' For the average conqueror/would-be king, that wouldn't be a simple feat, but Jayavarman II had the cult of the devaraja on his side, and he would install them into the state apparatus of his kingdom once assuming power.
+The devaraja cult, whose name means "God-king," was a matrilineal sect devoted to Shiva and was used to coronate rulers throughout the history of the Angkorian kings.
+The line of the devaraja would continue through Sivakaivalya, the priest who took his instructions from the holy man performed the king's inauguration ceremony. So important was the continuity of the devaraja and their practices, that when the king moved his capital, the cult (along with Sivakaivalya's entire family) was transported with it.

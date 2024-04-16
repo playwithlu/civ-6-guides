@@ -1,0 +1,5 @@
+# Base facility (SMAC)
+
+Facilities are major public improvements to a base. A base builds facilities to increase its efficiency, productivity and/or power. All facilities provide some useful benefit to a base, but not all benefits are necessary to a given base at a given time. Some facilities come with both benefits and costs and can do more harm than good if placed where they're not needed (punishment spheres, for example, eliminate problems but reduce production). Most facilities require an ongoing investment of energy credits to maintain, which is taken from energy allocated to .
+Relocate Headquarters.
+This build order causes a new headquarters to be constructed in this base. You can only have one headquarters for you entire faction. When the new headquarters is completed, your previous one is disbanded. Headquarters provide essential coordination among the bases of your faction, which keeps inefficiency low. Inefficiency results from increasing distance from your headquarters, so it's usually good to maintain your headquarters near the center of your empire.

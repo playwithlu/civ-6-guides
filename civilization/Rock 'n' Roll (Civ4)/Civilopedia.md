@@ -1,0 +1,6 @@
+# Rock 'n' Roll (Civ4)/Civilopedia
+
+Elvis Presley, "The King", played a new beat that people called Rock-n-Roll. It quickly became a worldwide sensation. Elvis' home was called "Graceland" and was purchased by Presley in 1957. Presley died in 1977; the 14-acre estate was turned into a museum five years later. Presley, his parents, grandmother, and stillborn twin brother are buried on the grounds.
+Today Graceland stands as a remarkable testament to a man who achieved almost mythological status in American culture. Therein one can see glimpses of the young Elvis - the brilliant jeans-clad rebel who "sang like a black man," the man who seduced American teens from the clutches of British rockers and frightened parents everywhere.
+Overlaying these faint images is the picture of what Elvis became: the jaded overweight man, singing in Las Vegas in a white sequined jumpsuit, dodging underwear thrown by middle-aged housewives, shaking hands with Richard Nixon, and finally dying of his excesses.
+Today, Elvis is still beloved by millions, many of whom refuse to believe that he died. Despite this, they flock to the mansion by the thousands to lay flowers at his gravesite.

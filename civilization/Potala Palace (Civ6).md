@@ -1,0 +1,6 @@
+# Potala Palace (Civ6)
+
+The Potala Palace is a in "[Civilization%20VI](Civilization VI)". It must be built on [Hills%20%28Civ6%29](Hills) adjacent to [Mountains%20%28Civ6%29](Mountains).
+Strategy.
+The Potala Palace provides bonuses that are useful to both culturally and religiously focused players, as well as an extra slot for a Diplomatic [Policy%20Cards%20%28Civ6%29](Policy Card). Its placement requirements are rather specific, but the policies it allows its owner to adopt can be useful for earning s and befriending [City-state%20%28Civ6%29](city-states) early on (and increasing other yields later in the game).
+The Potala Palace is one of the best wonders for [American%20%28Civ6%29](America) to build in ', as its Diplomatic slot is turned into a Wildcard slot by Founding Fathers. It can also help American players who are working towards a [Victory%20%28Civ6%29%23Diplomacy](Diplomatic Victory) in ', in which the Wildcard slot the wonder provides will generate an extra +1 per turn from Founding Fathers along with the Diplomatic Victory point from building it. If the Americans manage to build both the Potala Palace and the [Forbidden%20City%20%28Civ6%29](Forbidden City), they'll have an impressive +2 Wildcard slots in their [Government%20%28Civ6%29](government).

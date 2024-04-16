@@ -1,0 +1,4 @@
+# Fundamentalism (CivRev)
+
+Fundamentalism is a form of [Government%20%28CivRev%29](government) in "[Civilization%20Revolution](Civilization Revolution)". It can be adopted after researching [Religion%20%28CivRev%29](Religion).
+Fundamentalism increases the attack and [Defense%20%28CivRev%29](defense) of [List%20of%20units%20in%20CivRev](units) by 1. It is best used by militaristic players who have a technological advantage over their enemies, because Fundamentalism also ceases [Science%20%28CivRev%29](science) production from [Library%20%28CivRev%29](Libraries) and [University%20%28building%29%20%28CivRev%29](Universities). [Saladin%20%28CivRev%29](Saladin), the [Arabian%20%28CivRev%29](Arabian) [Leaders%20%28CivRev%29](leader), starts the game with Fundamentalism.

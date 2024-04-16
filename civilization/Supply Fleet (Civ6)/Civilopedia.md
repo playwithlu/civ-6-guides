@@ -1,0 +1,3 @@
+# Supply Fleet (Civ6)/Civilopedia
+
+Ships in the age of coal, fuel oil, and diesel used a lot of fuel and munitions during war. A ship tender – or as the Royal Navy termed these, depot ship – was the answer to not having warships shuttle back and forth to port. In effect, these were mobile maintenance bases, able to resupply or repair the ships that did the dirty work. Often these were dedicated to a specific type of ship, as with the British destroyer tenders of the world wars. Almost anything with a large cargo capacity could serve as a tender ... and did. In fact, during World War II the Germans used modified Type XIV submarines (nicknamed 'Milchkuh') to resupply U-boats at sea with fuel, motor oil, torpedoes and food.

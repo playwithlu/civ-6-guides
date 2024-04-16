@@ -1,0 +1,9 @@
+# Roads and railroads (Civ4)
+
+Roads and railroads allow [List%20of%20units%20in%20Civ4](units) to move longer distances within a turn by reducing the [Movement%20%28Civ4%29](movement) costs of [Terrain%20%28Civ4%29](terrain).
+When a unit is within hostile [Culture%20%28Civ4%29](cultural) [Borders%20%28Civ4%29](borders), roads and railroads have no effect unless the unit has the [Commando%20%28Civ4%29](Commando) [Promotion%20%28Civ4%29](promotion). When the [List%20of%20civilizations%20in%20Civ4](civilization) has an [Open%20Borders%20%28Civ4%29](Open Borders) agreement allowing their units right of passage, they may freely take advantage of roads and railroads.
+Roads.
+Roads can be built after discovering [The%20Wheel%20%28Civ4%29](The Wheel). With roads, all spaces cost 1/2 movement points (MP) to enter from other road [Tile%20%28Civ4%29](tiles). After discovering [Engineering%20%28Civ4%29](Engineering), the cost goes down to 1/3 MP . In practice, this means that a unit with just one movement point can move three tiles using roads. Similarly, units with two movement points can move six tiles.
+Railroads.
+To build railroads, the civilization first needs to discover the [Railroad%20%28Civ4%29](Railroad) [List%20of%20technologies%20in%20Civ4](technology) and have an access to [Coal%20%28Civ4%29](Coal) or [Oil%20%28Civ4%29](Oil). Railroads are similar to roads, but they reduce the number of movement points needed to enter a tile from another railroad tile to 1/10 MP .
+Railroads also give a bonus of 1 to tiles with a [Mine%20%28Civ4%29](Mine), a [Lumbermill%20%28Civ4%29](Lumbermill), or a [Quarry%20%28Civ4%29](Quarry).

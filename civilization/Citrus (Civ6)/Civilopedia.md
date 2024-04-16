@@ -1,0 +1,3 @@
+# Citrus (Civ6)/Civilopedia
+
+The genus Citrus includes a number of flowering plants that produce a variety of fruits – including oranges, tangerines, grapefruit, limes, lemons, and others that have been a staple in the human diet for millennia. First cultivated in Southeast Asia, the fruits from these trees and shrubs are a fine source of vitamin C, a shortage of which brings scurvy … a debilitating condition that can lead to a rather nasty form of death. Hence, on long voyages, commanders found it beneficial to keep a store of citrus on hand.

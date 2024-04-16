@@ -1,0 +1,3 @@
+# Sydney Opera House (Civ5)/Civilopedia
+
+The Sydney Opera House is one of the grandest modern opera houses in the world. Constructed over a 20-year period ending in 1973, the Sydney Opera House is a beautiful building sitting atop Bennelong Point alongside Sydney Harbor in Sydney, Australia. Designed as a series of shells, or wings, the structure is one of the most recognizable in the world and it has come to symbolize Australia itself, in much the same way that the Statue of Liberty symbolizes the United States or the Great Pyramids symbolize Egypt. It houses an Opera Theatre, Concert Hall, three smaller venues, and a restaurant.

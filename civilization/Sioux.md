@@ -1,0 +1,3 @@
+# Sioux
+
+The Sioux people, also known as the Oceti Sakowin, represent a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games and a [Native%20American](Native American) tribe in the "[Colonization%20%28game%29](Colonization)" games. Their [capital](capital) is [Little%20Bighorn](Little Bighorn), and they can be led by [Sacajawea](Sacajawea) or [Sitting%20Bull](Sitting Bull).

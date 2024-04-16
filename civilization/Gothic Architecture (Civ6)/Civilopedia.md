@@ -1,0 +1,3 @@
+# Gothic Architecture (Civ6)/Civilopedia
+
+Distinguished by ribbed vaults, flying buttresses, pointed arches, overlaid tracery … and gargoyles, lots of gargoyles. Gothic architecture dominated construction of monumental European buildings from the mid-12th through the 16th centuries. Arising from Romanesque styles, it was the architecture of choice for cathedrals, abbeys, castles, palaces, guild halls, and all sorts of buildings meant to impress and awe the commoners. With cavernous interiors and soaring rooftops, these were perfect for the pomp and pageantry kings and bishops so loved. Sadly, a slew of Gothic revivals spanned the mid-18th through early 20th centuries, largely for stunningly ugly university structures, replete even with gargoyles.

@@ -1,0 +1,4 @@
+# Navy SEAL (Civ4)/Civilopedia
+
+Navy SEALs are elite counter-terrorism and covert operations forces trained to operate in small groups deep behind enemy lines. Their missions include reconnaissance, counter-terrorism and unconventional and counter-guerrilla warfare. The SEALs are deployed by sea, air and land hence their title. SEALs are trained to reach their destination by parachutes and paragliders, by marching through miles of difficult terrain, or by small boat or scuba gear.
+SEALs are equipped with the most sophisticated combat gear in the world, including night goggles, global positioning systems, satellite radios, laser sights, plastic explosives, and so on. Further, SEALs are trained in many forms of hand-to-hand combat, and an unarmed SEAL may be more dangerous than a handful of regular soldiers armed with assault rifles.

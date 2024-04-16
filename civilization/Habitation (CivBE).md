@@ -1,0 +1,6 @@
+# Habitation (CivBE)
+
+Game Info.
+Habitation is a [Primary%20Tech%20%28CivBE%29](Primary Tech) at the heart of the[Tech%20Web%20%28CivBE%29](Tech Web)(Tier 0), and it represents the basic habitational techniques developed from the preliminary information about the alien planet acquired via unmanned robots ahead of your Colonist Ship's landing. These techniques include a new types of self-constructing plasteel structures developed specifically to withstand harsh atmospheric conditions with minimal energy expenditure and maintenance; while providing basic habitational, administrative and storage space. Other techniques include studies of the alien landscape and atmosphere composition and the machines necessary to deal with them in the first days of your budding colony. 
+Habitation allows the essential early game unit, the [Worker%20%28CivBE%29](Worker Unit), capable of improving all the landscape around you. It also allows for the construction of early game units and buildings such as [Explorer%20%28CivBE%29](Explorers), [Soldier%20%28CivBE%29](Soldiers), the [Old%20Earth%20Relic%20%28CivBE%29](Old Earth Relic Building) and the [Clinic%20%28CivBE%29](Clinic).
+All colonies start with this technology already researched.

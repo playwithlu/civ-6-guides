@@ -1,0 +1,6 @@
+# Founding Fathers (Col)
+
+Founding Fathers in "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)" are attracted by [liberty%20bell](liberty bell)s, the more the better. Once a Founding Father has been achieved, your whole nation receives a significant bonus, much like the Wonders of the World in other Civilization games. Unlike Wonders, however, the Fathers cannot be captured by rival nations (because they are not physically located on the map), and they are non-exclusive (every nation can have [George%20Washington](George Washington) for example).
+Founding Fathers are viewed on the [Continental%20Congress%20%28Col%29](Continental Congress) screen.
+The Fathers are divided into 5 groups:
+At the start of the game, you are not "researching" any of them. Once you establish your first colony and begin producing liberty bells, you will be given a choice of which Father to work on. One Father that you don't already have from each category will be selected at random, and you'll be allowed to pick from that random set. Once you receive a Father, another random set will be chosen, and the selection process will repeat.

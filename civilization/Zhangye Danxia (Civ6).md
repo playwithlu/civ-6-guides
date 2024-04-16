@@ -1,0 +1,8 @@
+# Zhangye Danxia (Civ6)
+
+Zhangye Danxia is a 3-tile impassable in "". Zhangye Danxia appears as a , and may be found within mountain ranges on , , , or tiles. Zhangye Danxia increases the of adjacent tiles by +2.
+Each player who owns at least one tile of Zhangye Danxia receives 2 points and 2 points each turn. (Owning multiple tiles does not increase the bonus.)
+Discovering Zhangye Danxia grants +1 [Era%20Score%20%28Civ6%29](Era Score), or +3 Score if the player is the first to do so.
+Strategy.
+Different from the majority of Natural Wonders, Zhangye Danxia does not grant any tile yield, but and points. Hence this is not a Natural Wonder players should prioritize during the early game (Ancient and early Classical) in terms of helping you construct infrastructure but can help you earn a head start on important (if you are an early warmonger) or (especially the powerful [Zhang%20Qian%20%28Civ6%29](Zhang Qian)) without having to build the respective s. However, if you plan on mass-building [Encampment%20%28Civ6%29](Encampments) and [Commercial%20Hub%20%28Civ6%29](Commercial Hubs) (which you should not really go overboard and build Encampments everywhere), this Natural Wonder becomes rather redundant and insignificant, so don't go out of your way for it. Three extra Era Scores for settling nearby is nice, but it is definitely not worth settling in an indefensible spot, especially when the bonus cannot justify such action.
+If you can't make a [National%20Park%20%28Civ6%29](National Park) out of your portion of Zhangye Danxia, it will still provides a good boost for a [Holy%20Site%20%28Civ6%29](Holy Site) or two.

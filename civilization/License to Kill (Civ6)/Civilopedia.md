@@ -1,0 +1,3 @@
+# License to Kill (Civ6)/Civilopedia
+
+In espionage literature, there is the trope of the “license to kill”— sanction to commit extrajudicial execution in the name of the state. In these stories, it is given only to the most elite agents, for the most dangerous missions. In reality, there is considerable oversight of extrajudicial executions and the use of lethal force, as this power could be abused by the agencies involved. At least that’s the way it’s supposed to work.

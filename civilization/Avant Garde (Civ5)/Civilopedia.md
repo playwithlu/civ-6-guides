@@ -1,0 +1,3 @@
+# Avant Garde (Civ5)/Civilopedia
+
+French for "vanguard," Avant Garde refers to works or ideas that are innovative or exceptionally creative, particularly with respect to art, music and politics. It is marked by pushing the boundaries of what are commonly accepted norms or the status quo, such as radical social reforms. Democratic societies tend to allow greater social expression, fostering such "cutting-edge" cultural advances.

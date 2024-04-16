@@ -1,0 +1,7 @@
+# Seastead (Civ6)
+
+The Seastead is a standard [Tile%20improvement%20%28Civ6%29](tile improvement) in "". It must be built on a [Coast%20%28Civ6%29](Coast), [Lake%20%28Civ6%29](Lake), or [Ocean%20%28Civ6%29](Ocean) [Tile%20%28Civ6%29](tile).
+Strategy.
+One of the ultimate expressions of human technology, the Seastead is the only man-made structure (or perhaps the first of many) capable of withstanding the force of ocean waves. Although it doesn't become available until the final stages of the game, it can vastly improve the yields of water tiles around [Coastal%20%28Civ6%29](coastal) and island [City%20%28Civ6%29](cities). Its [Adjacency%20bonus%20%28Civ6%29](adjacency bonuses) work not only on itself, but also on nearby [Fishing%20Boats%20%28Civ6%29](Fishing Boats); what's more, it can be built on tiles that otherwise cannot support improvements. It, along with the [Offshore%20Wind%20Farm%20%28Civ6%29](Offshore Wind Farm), allows for major development of all coastal cities.
+Finally, the Seastead is also good for "reclaiming" tiles that have become submerged due to sea levels rising as the world's [Climate%20%28Civ6%29](climate) changes.
+As an aside, [Civilizations%20%28Civ6%29](civilizations) that are attempting to make optimal use of small islands and heavily coastal regions may also pick up the [God%20of%20the%20Sea%20%28Civ6%29](God of the Sea) [Pantheon%20%28Civ6%29](pantheon) early in their development.

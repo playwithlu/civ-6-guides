@@ -1,0 +1,3 @@
+# Skilled Trades (Civ6)/Civilopedia
+
+Skilled trades or arts can only be mastered through long practice, especially the production of valuable goods like silverware, cloth, glassware, and machinery. Tradespeople would congregate in cities where they could work in concert, training future practitioners, setting prices, and trying to control the market for their goods. Skilled tradespeople were some of the first true middle-class citizens in history.

@@ -1,0 +1,6 @@
+# Devotion (Civ6)
+
+Devotion is a [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)." It is exclusive to the [Heroes%20%26amp%3B%20Legends%20%28Civ6%29](Heroes &amp; Legends) [Game%20mode%20%28Civ6%29](game mode), introduced in the [Babylon%20Pack%20%28Civ6%29](Babylon Pack). It becomes available after building a [Monument%20%28Civ6%29](Monument).
+There are 12 types of Devotion project, each corresponding to one of the 12 Heroes in the game. You can only run Devotion projects to Heroes that you have already discovered. Since [Sinbad%20%28Civ6%29](Sinbad) is a [List%20of%20units%20in%20Civ6/By%20class%23Naval%20melee](naval melee unit), his Devotion project can only be performed in a city with access to water.
+The cost starts at 20 for the first Hero, and increases by 120 for each Hero you own. 
+Upon completion, it summons the [Hero%20%28Civ6%29](Hero) that project is dedicated to, and the [City%20%28Civ6%29](city) becomes the home city to that Hero. A city can only be home to one Hero.

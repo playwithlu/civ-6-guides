@@ -1,0 +1,3 @@
+# Expert Marksman (Civ6)/Civilopedia
+
+With catapults, onagers, ballistae, and the like, eyeballing a target worked well enough, given their range and the size of their targets. But as artillery passed into the gunpowder era, with longer ranges and often smaller targets, that wasn't as effective. Thus, a number of devices were invented to help with the ballistic calculations for cannon. The first recorded device to measure elevation angles was the gunner's quadrant, c. 1545 AD. In 1742 the ballistic pendulum invented by Benjamin Robins revolutionized artillery fire. And in 1892, the firm of Barr &amp; Stroud were awarded a contract by the British Army for six rangefinders, the very first ones. All these turned gun laying into a science, rather than an art.

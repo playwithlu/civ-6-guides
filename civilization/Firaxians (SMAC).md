@@ -1,0 +1,4 @@
+# Firaxians (SMAC)
+
+The Firaxians are the hidden eighth [Factions%20%28SMAC%29](faction) in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)". They can be accessed by opening the Faction Editor (facedit.exe), going to "Load Faction", and either typing in "sid" (to set [Sid%20Meier](Sid Meier) as faction leader) or "brian" (to set [Brian%20Reynolds](Brian Reynolds) as faction leader) as the faction to load. Once loaded and saved, the Firaxians can be added to a game.
+The Firaxians do not start the game with any positive or negative societal traits, but receive one free technology, [Singularity%20Mechanics%20%28SMAC%29](Singularity Mechanics), allowing them to build units with singularity engines from the start of the game.

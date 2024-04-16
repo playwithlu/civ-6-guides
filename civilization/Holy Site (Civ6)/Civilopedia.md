@@ -1,0 +1,3 @@
+# Holy Site (Civ6)/Civilopedia
+
+In god-driven civilizations, it is not unknown for religious "districts" to evolve in some cities, where all the shrines, temples, monasteries, altars, churches huddle together. Often, these seem to spring up on a holy site, the place of some miracle, vision, or revelation. The holiest site in Islam, centered on the Kaaba, is one such. Jerusalem is an epicenter for holy sites. Then there's the Roman Catholic Vatican, a whole holy city built in the midst of Rome. And folk still make pilgrimages to such sites, such as the Hajj to Mecca or the Sikhs' daily prayer to visit the Golden Temple at Amritsar or the fervent wish to see the Temple Mount by the Chosen People.

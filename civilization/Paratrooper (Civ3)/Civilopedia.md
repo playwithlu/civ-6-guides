@@ -1,0 +1,3 @@
+# Paratrooper (Civ3)/Civilopedia
+
+Although the idea of the parachute was suggested in the 16th century drawings of Leonardo da Vinci, the first parachute was not invented until the late 1700s. For years, parachutes were standard emergency equipment for balloonists. Claire Chennault, an American pioneer of aviation pursuit tactics during World War I, was the first to suggest using parachutes to drop troops behind enemy lines. This idea was widely used during the World War II. Paratroopers were flown behind enemy lines in transport planes and dropped from low altitude, allowing them to attack the enemy from behind. Today, paratroopers are usually Special Forces personnel, trained to covertly infiltrate enemy territory.

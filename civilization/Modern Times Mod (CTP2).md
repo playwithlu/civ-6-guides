@@ -1,0 +1,3 @@
+# Modern Times Mod (CTP2)
+
+The Modern Times Mod (called MoT-Mod for short) is a [Mods%20%28CTP2%29](mod) for "[Call%20to%20Power%20II](Call to Power II)" created by Robert "BureauBert" Zöchling. Developed for use with [Apolyton%20Edition%20%28CTP2%29](Apolyton Edition), it introduces new [List%20of%20units%20in%20CTP2](units), [List%20of%20advances%20in%20CTP2](advances), [Government%20%28CTP2%29](governments), [List%20of%20buildings%20in%20CTP2](buildings), and [List%20of%20improvements%20in%20CTP2](tile improvements) and makes economic, [Diplomacy%20%28CTP2%29](diplomatic), strategic, and tactical improvements to the game's [AI](AI).

@@ -1,0 +1,3 @@
+# SDI
+
+The SDI, also known as the SDI Defense or Strategic Missile Defense, is a [building](building), [project](project), and [Great%20Wonder](wonder) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. Its name is an acronym for Strategic Defense Initiative, and it usually gives a [Civilizations](civilization) some defense against [ICBM](ICBM)s and [nuclear%20weapons](nuclear weapons).

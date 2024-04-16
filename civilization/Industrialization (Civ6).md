@@ -1,0 +1,6 @@
+# Industrialization (Civ6)
+
+Industrialization is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by building 3 [Workshop%20%28Civ6%29](Workshops) (2 Workshops in "").
+Strategy.
+From the concept of mass production to the full industrialization of the entire production cycle it was only a matter of time, and of technical details. After all, the benefits of cheap, easy-and-quick-to-produce items of everyday life are obvious.
+Industrialization revolutionizes the way production works. A new, highly effective production [Building%20%28Civ6%29](building) - the [Factory%20%28Civ6%29](Factory) - is added to the [Industrial%20Zone%20%28Civ6%29](Industrial Zone), and new machinery allows [Mine%20%28Civ6%29](Mines) to extract ore and minerals from the earth more efficiently, increasing their yield. Finally, a brand new [Resource%20%28Civ6%29%23Strategic](strategic resource), , is revealed to help power those factory machines. The future is here!

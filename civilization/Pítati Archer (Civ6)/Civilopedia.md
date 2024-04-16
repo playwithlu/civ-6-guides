@@ -1,0 +1,4 @@
+# Pítati Archer (Civ6)/Civilopedia
+
+The skill of Nubian archers was long respected and feared along the Nile. These soldiers from the Land of the Bow were a thorn in Egypt’s side for millennia—until the Egyptians solved yet another problem by throwing money at it.
+Thus came about the pítati, Nubian mercenaries paid well to guard the interests of their benefactors, be they Egyptian or Nubian. These highly mobile archers wore little armor and carried bows typical to the region. However, their distinctive thumb rings greatly reduced fatigue, and malachite facepaint applied below their eyes allowed them to loose arrows with accuracy while firing into the sun.

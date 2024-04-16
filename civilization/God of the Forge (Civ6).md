@@ -1,0 +1,5 @@
+# God of the Forge (Civ6)
+
+God of the Forge is a [Pantheon%20%28Civ6%29](Pantheon) in "[Civilization%20VI](Civilization VI)". It increases toward Ancient and Classical [Military%20unit%20%28Civ6%29](military units) by 25%.
+Strategy.
+God of the Forge is a particularly useful pantheon for [Civilizations%20%28Civ6%29](civilizations) like the [Aztec%20%28Civ6%29](Aztecs), [Egyptian%20%28Civ6%29](Egyptians), [Macedonian%20%28Civ6%29](Macedonians), [Nubian%20%28Civ6%29](Nubians), [Persian%20%28Civ6%29](Persians), and [Sumerian%20%28Civ6%29](Sumerians), whose [Unique%20unit%20%28Civ6%29](unique units) are available in the first two [Era%20%28Civ6%29](eras) of the game. The bonus can help them raise an army rapidly and rush unprepared neighbors to gain an early advantage. Civs whose military strength doesn't manifest until later, however, should probably select a different pantheon unless the player intends for a major military push early on anyway.

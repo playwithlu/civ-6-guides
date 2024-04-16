@@ -1,0 +1,4 @@
+# Horseman (Civ5)/Civilopedia
+
+The first horses used effectively in battle pulled chariots. The nomadic people of Central Asia were riding horses by 2000 BC, perhaps earlier. While certainly horsemen were employed to carry messengers and scouts, they did not become effective fighting platforms until the development of dual stirrups combined with a solid saddle (to distribute the rider's weight when standing in the stirrups). The earliest effective dual stirrups/saddle combination is found in China and dates from approximately 300 AD, and over the next four centuries it spread across Asia and into Europe.
+The earliest fighting horsemen were armed with spears and swords. As technology advanced and bigger and stronger horses were bred, horsemen were equipped with ever more powerful weapons and heavier armor, culminating in the classic knight of the Middle Ages, the king of the medieval battlefield.

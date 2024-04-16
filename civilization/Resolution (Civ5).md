@@ -1,0 +1,2 @@
+# Resolution (Civ5)
+

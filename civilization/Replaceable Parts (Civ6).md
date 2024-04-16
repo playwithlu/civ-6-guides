@@ -1,0 +1,6 @@
+# Replaceable Parts (Civ6)
+
+Replaceable Parts is a [Modern%20Era%20%28Civ6%29](Modern Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be boosted by owning 3 [Line%20Infantry%20%28Civ6%29](Line Infantries).
+Strategy.
+The use of interchangeable parts is really just the next logical step in the process of integrating the economy with the technological development. It makes much more sense to make machines which use standardized parts, which could be produced separately, and used later to replace broken sectors of the machine without having to rebuild everything from scratch, then for example, to produce an item in such a way that - once broken - it has to be replaced for a brand new item of the same kind.
+Wide use of replaceable parts will later find its place in all production cycles, but its immediate benefits are already considerable. Thanks to this technology, new, inexpensive modern guns and munitions for these guns can be supplied freely to form the next-generation modern foot soldier: the [Infantry%20%28Civ6%29](Infantry). Thanks to it again, farming can now use machines for its everyday deeds, such as irrigation, sowing and harvesting, for a vast improvement of food production.

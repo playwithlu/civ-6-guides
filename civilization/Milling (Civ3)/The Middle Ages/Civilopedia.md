@@ -1,0 +1,4 @@
+# Milling (Civ3)/The Middle Ages/Civilopedia
+
+Mills are the oldest industrial machines. They are the most basic means by which human workers can use wind, water, or other natural energies instead of muscle power to do work, particularly repetitive and physically demanding tasks such as grinding grain or felting cloth. The basic idea behind a mill is to use a gear arrangement; one gear is turned by the natural force (a river's flow or the wind), and its motion is transferred to a final gear, to which the tools (such as felting clubs) are attached.
+Mills were generally easy to construct once plans were obtained, and feudal lords often exercised tight control over the building of mills in their lands (often, lords would require their serfs and peasants to use only mills owned by the lord). Mill technology is still used today, and forms the fundamentals of industrial engineering.

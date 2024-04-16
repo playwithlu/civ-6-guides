@@ -1,0 +1,3 @@
+# Hansa (Civ6)/Civilopedia
+
+From the Old French meaning “company of merchants,” the Hanse was a voluntary confederation of merchants and traders organized in a town for the protection and facility of commerce and transport. In the mercantile ports of the Baltic and North Sea these manufacturing and trading guilds became quite powerful and influential in the 13th Century, with their headquarters in complexes also known as the hansa. The largest hansa districts not only housed the administrative offices of competing guilds, but also storerooms, workshops, markets, banks and anything else that could turn a profit. The first such appears to have been built in Lubeck c. 1159 AD to facilitate trade between Western Europe and the resource-rich areas of northern Russia.

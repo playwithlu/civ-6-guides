@@ -1,0 +1,3 @@
+# Humanism (Civ5)/Civilopedia
+
+Humanism is the philosophy that says that the human being is the most important thing in the world. There are no "higher beings" or supernatural powers that humans owe allegiance to or who give us guidance or wisdom. There's just us. Humanism has been around in one form or another since ancient Greece, and it also appears in Asian and Indian writings some two to three thousand years ago. It made a strong reappearance in the Renaissance, and remains a powerful philosophical force today.

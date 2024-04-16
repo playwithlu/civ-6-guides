@@ -1,0 +1,3 @@
+# Chorus (Civ6)/Civilopedia
+
+The song of the Void is everywhere - the tune a noblewoman hums as she walks, the song of a street-sweeper. Sometimes, out of the corner of your eye, the singers flicker in and out of existence. Your dreams have become intense - gatherings of cloaked figures on the shores of a dark sea, watching a gelatinous mass rise and fall below the waves, as the song emerges from its mouths.

@@ -1,0 +1,3 @@
+# Loot (Civ6)/Civilopedia
+
+Since the fabled Sea Peoples sailed the Aegean around the 14th century BC, raiders have plundered coastal towns. In classical antiquity the Illyrians and Tyrrhenians were known as pirates, and as early as 258 AD Herulic raiders ravaged towns on the coasts of the Black Sea and the Sea of Marmara. Since a pirate fleet couldn't just sail up to the docks and loot the port (that's what forts with cannons were for), shore parties were necessary to help take the town and then plunder it. It was during the "Golden Age of Piracy" that shore parties of raiders led by the likes of l'Ollonnais (Maracaibo), Morgan (Panama City), and Drake (Santo Domingo and Cartagena) enjoyed great success ... and profit.

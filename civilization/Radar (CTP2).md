@@ -1,0 +1,9 @@
+# Radar (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Radar is a major step forward in military surveillance and preparedness, enabling the instantaneous detection and monitoring of enemy units from considerable distances.
+The unit uses Radar to track and target air units, and then fires its surface-to-air missiles with deadly accuracy. use radar to detect enemy aircraft, and increase a city's defense against air attacks. The enables detection of enemy units from very far away. This can give players enough time to meet an invading force with proper defenses.
+Great Library entry.
+Radar (from "radio detecting and ranging") is an electromagnetic sensor used for detecting, tracking, locating and identifying objects at either close or far ranges. Its operation involves the transmission of electromagnetic energy towards objects and the observation of the echoes that are returned. Objects, commonly called targets, may be vehicles, astronomical bodies, wildlife or even weather. It can determine the presence, location and velocity of objects and gauge their size and shape as well. It surpasses optical and infrared sensing devices with its ability to precisely detect objects at long ranges, through any weather conditions.
+The 1930s and '40s saw a swift development of radar technology, largely to meet the demands of the military. Although most radar developmental research was subsidized by the military, it found commercial applications in the late 20th century for air traffic control, air and sea navigation, environmental and weather sensing and surveillance. Military applications include aiding antiaircraft operations, like mobile surface-to-air missile vehicles and flak towers and radar stations, whose specific purpose is the constant monitoring of a specific area.

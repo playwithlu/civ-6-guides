@@ -1,0 +1,3 @@
+# Trondheim
+
+Trondheim, also known by its medieval name of Nidaros, is the [Norwegian](Norwegian) and [Viking](Viking) [capital](capital) and a [Danish](Danish) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. In real life, it is a city at the mouth of the Nidelva in present-day Norway that was the capital of the country's first [Christianity](Christian) kings.

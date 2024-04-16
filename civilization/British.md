@@ -1,0 +1,4 @@
+# British
+
+The British people, also known as the Britons or Brits, represent the United Kingdom, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games and "[C-evo](C-evo)". Their [capital](capital) is [London](London), and their [Leaders](leader) is usually [Winston%20Churchill](Winston Churchill).
+The [Anglo-Saxon](Anglo-Saxon), [Australian](Australian), [Canadian](Canadian), [Celtic](Celtic), [English](English), [Irish](Irish), [New%20English](New English), [New%20Zealand](New Zealand), [Scottish](Scottish), and [Welsh](Welsh) people may also be represented by the British.

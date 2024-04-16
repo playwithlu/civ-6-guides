@@ -1,0 +1,5 @@
+# Drought (Civ6)
+
+A Drought is a type of [Disasters%20%28Civ6%29](disaster) in "". It affects [Plains%20%28Civ6%29](Plains) and [Grassland%20%28Civ6%29](Grassland) terrain and it is the longest lasting disaster in the game. At the same time its sheer destructive power is far smaller than other disasters.
+There are two different levels of Droughts: Major and Extreme (a.k.a. 'Withering'). The first one lasts for 5 turns, the second one for 10 turns.
+Note that after the [Civilization%20VI%20April%202019%20Update](Antarctic Late Summer Update) Droughts gain an additional destructive effect past [Climate%20%28Civ6%29%23Phases%20of%20Climate%20Change](Climate Change) Phase V, called desertification. This effect consists of removing tile yields gained earlier in the game from other disasters! The chance of this occurring is 15% for Phase V Climate change, plus an additional 15% for each successive phase. This makes them potentially even more destructive at this latest stage of the game.

@@ -1,0 +1,9 @@
+# Horses (Civ5)
+
+Game Info.
+Basic strategic resource. Used by many mounted [Unit%20%28Civ5%29](units).
+Strategy.
+As the first strategic resource revealed on the [Map%20%28Civ5%29](map) along with , Horses are very important for planning your initial expansion. Research [Animal%20Husbandry%20%28Civ5%29](Animal Husbandry), then look for the newly revealed resources and try to settle near them.
+ Horses are required for all mounted units in the game (except for the [African%20Forest%20Elephant%20%28Civ5%29](African Forest Elephant), [Horse%20Archer%20%28Civ5%29](Horse Archer), [Naresuan%27s%20Elephant%20%28Civ5%29](Naresuan's Elephant), [War%20Chariot%20%28Civ5%29](War Chariot), and [War%20Elephant%20%28Civ5%29](War Elephant)), so you will be needing this resource quite a lot. Try to ensure access to at least one or two sources of Horses; alternatively, ensure a stable trading partner for them.
+ Horses are usually found on open [Plains%20%28Civ5%29](Plains) and [Grassland%20%28Civ5%29](Grassland) [Terrain%20%28Civ5%29](terrain); however, they are also rarely found on [Desert%20%28Civ5%29](Desert) and [Hill%20%28Civ5%29](Hills). They are accessed via the [Pasture%20%28Civ5%29](Pasture), which provides the opportunity to build the [Stable%20%28Civ5%29](Stable) in a nearby [City%20%28Civ5%29](city). Both of these net a good increase in the tile's yield, which is very important in the early game. They also give a bonus to building mounted units in the city - use this strategically.
+Finally, Horses are one of the two resources that allow construction of a [Circus%20%28Civ5%29](Circus) in a city - a useful source of extra .

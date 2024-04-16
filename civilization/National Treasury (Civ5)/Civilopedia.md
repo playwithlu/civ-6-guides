@@ -1,0 +1,3 @@
+# National Treasury (Civ5)/Civilopedia
+
+A National Treasury houses a civilization's wealth, gold, priceless items, and jewels, all under secure lock and key. Records show that some of the first treasuries were constructed by the ancient Greeks, who attached these buildings to temples in order to house all manner of gifts to the gods. Now a National Treasury is usually administered by a branch of government, and usually isn't attached to some religious building or other. The treasury branch not only keeps an eye on a civilization's accumulated wealth, but also governs other financial matters for the nation, like the fine tradition of taxation.

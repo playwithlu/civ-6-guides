@@ -1,0 +1,2 @@
+# Combat strengths (Civ5)
+

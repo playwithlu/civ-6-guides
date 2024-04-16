@@ -1,0 +1,4 @@
+# Aqueduct (Civ5)/Civilopedia
+
+An aqueduct is a system for moving water from a water supply at one location to another location, historically to irrigate crops away from natural water bodies. The word derives from the Latin for "water" and "to lead," and the aqueduct is most traditionally associated with the Romans. The most famous Roman aqueduct is the Pont du Gard in France. But the Romans were not the only civilization to build aqueducts! Magnificent and complicated aqueducts were built all over the world, including at Ninevah, capital of the Assyrians, and the Aztec capital of Tenochtitlan in North America.
+The principles of aqueduct planning and construction are the same today as they were millennia ago, and humans continue to move water great distances to make our lives easier.

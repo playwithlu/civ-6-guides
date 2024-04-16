@@ -1,0 +1,3 @@
+# Terrace Farm (Civ5)/Civilopedia
+
+Terrace Farming developed in mountainous areas simultaneously around the world, including Bali, the Philippines, China and Peru. These skinny, stepped fields are cut into hill and mountain sides, preventing the run off of irrigation water and providing space for arable land, usually where none previously was possible. The Incas in particular were masters of terrace farming, and erected large, drystone walls to hold their terraces in place. After building the terrace's shape, the Incas then constructed systems of canals and aqueducts to provide the terraces with constant water, increasing the land's fertility. The ancient Incan's terracing techniques were so successful that modern Peruvian farmers still employ them in their farms today.

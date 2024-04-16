@@ -1,0 +1,8 @@
+# P-51 Mustang (Civ6)
+
+The P-51 Mustang is a [Unique%20unit%20%28Civ6%29](unique) [List%20of%20units%20in%20Civ6/By%20class%23Fighter](air fighter unit) of the [American%20%28Civ6%29](American) [Civilizations%20%28Civ6%29](civilization) in "[Civilization%20VI](Civilization VI)". It replaces the [Fighter%20%28Civ6%29](Fighter).
+In the "" expansion, the P-51 Mustang requires 1 to train and 1 per turn to maintain.
+Strategy.
+As the only unique air unit, the P-51 Mustang allows the Americans to rest easy if a civilization with a strong air force tries to pick a fight with them. It receives a combat bonus against other air fighter units, on top of its superior Combat Strength compared to the standard Fighter. It also earns XP 50% faster, allowing it to quickly earn s that make it sturdier against anti-air units or more powerful against bomber units and land units. In addition, its superior flight range allows it to deploy farther away from [City%20%28Civ6%29](cities), effectively extending the maximum of the unit from the standard 13 [Tile%20%28Civ6%29](tiles) to 15 tiles.
+The P-51 Mustang, as an air unit, is vulnerable to [Battleship%20%28Civ6%29](Battleships) and [Anti-Air%20Gun%20%28Civ6%29](Anti-Air Guns). But thanks to its strength and XP bonuses, it can more easily stand up to enemy units, and even face [Brazilian%20%28Civ6%29](Brazil's) fearsome [Minas%20Geraes%20%28Civ6%29](Minas Geraes) if you have enough of them with the right s.
+Air fighter units, including the P-51 Mustang, cannot be deployed to tiles in the [fog%20of%20war](fog of war) or in enemy territory even when the tile is within the deploy () range of the unit.

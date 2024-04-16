@@ -1,0 +1,5 @@
+# Mikołaj Radziwiłł (Civ6)/Civilopedia
+
+A Lithuanian noble and avowed Calvinist, Mikołaj the Black has always known ambition. He capitalizes upon his cousin Barbara's affair with Polish King Sigismund II to elevate his personal fortunes. An alliance with his cousin, Mikołaj the Red, has further propelled his family's influence amongst the Lithuanian nobility.
+Mikołaj's views on Poland and its relationship to Lithuania are complex. Though he strongly advocates for Lithuanian sovereignty and against a formalized Polish-Lithuanian union, he also urges his fellow Lithuanian nobles to adopt Polish culture. Perhaps a common language will allow them to more forcefully advocate against the union.
+Despite his feelings on Lithuanian independence, there is no question of his resolve against the many threats to the Polish and Lithuanian people. As Grand Chancellor of Lithuania he will rely upon all tools to thwart his nation's enemies—whether the stroke of the pen or the thrust of the pike.

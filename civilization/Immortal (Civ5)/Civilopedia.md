@@ -1,0 +1,3 @@
+# Immortal (Civ5)/Civilopedia
+
+The Persian Immortals were an elite heavy infantry unit. Kept constantly at a strength of 10,000 men, they formed the heart of the Persian (Achaemenid) army. The Immortals fought under Cyrus the Great, Cambyses, and Darius the Great; when not in combat they acted as the Persian Palace Guard. The Immortals were armed with short spears, swords, bow and arrows. They carried light shields and wore scale mail armor. According to Herodotus, "Every man glittered with the gold that he carried in unlimited quantity. They were accompanied by covered carriages full of their women and servants, all elaborately fitted out. Special food, separate from the rest of the army, was brought along for them..."

@@ -1,0 +1,3 @@
+# Landsknecht (Civ5)/Civilopedia
+
+The landsknecht were German mercenary pikemen of the 16th century. Created in imitation of the legendary Swiss mercenary pikemen, the landsknecht would eventually supplant them as the best mercenary infantry available in Europe, fighting in almost every major engagement in the 16th century – often on both sides. In battle landsknechts generally carried pikes of up to twenty feet in length. Some few also carried huge two-handed swords or halberds; these were used to chop the heads off of the pikes of their opponents.

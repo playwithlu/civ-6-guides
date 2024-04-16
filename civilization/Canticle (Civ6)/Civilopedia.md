@@ -1,0 +1,3 @@
+# Canticle (Civ6)/Civilopedia
+
+The Voidsingers have arrived in the open, now, and they bring with them forgotten relics of unmentionable things. A fragment of a gargantuan sea beast. A book that hints at the true nature of the world - that we are just light and noise atop a deeper void. The longer you stare into this abyss within, the more clear the song becomes. It drives others to madness. You will hear it and stay yourself... as long as you can.

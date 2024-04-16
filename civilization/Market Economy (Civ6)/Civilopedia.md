@@ -1,0 +1,3 @@
+# Market Economy (Civ6)/Civilopedia
+
+Whereas for several centuries laissez-faire economics operated, by the mid-19th Century such free-wheeling markets faced – for a variety of reasons – opposition; governments in the industrializing countries intervened on the behalf of workers and the general populace, enacting factory standards and consumer protection laws and breaking up monopolies. Arose “market economies,” in which purchase and production of goods are based on principles of supply and demand. Market economies can range from regulated markets to various forms of state interventionist models. In reality, neither market economies nor free markets exist in “pure” form, since throughout the 20th Century, governments regulated most businesses to varying degrees.

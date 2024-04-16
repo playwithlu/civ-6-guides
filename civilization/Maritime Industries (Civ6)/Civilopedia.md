@@ -1,0 +1,3 @@
+# Maritime Industries (Civ6)/Civilopedia
+
+In some ancient places, men took to the seas, exploring, fishing, trading, and fighting. And in some of those places, maritime industries – the construction and outfitting of ships – haphazardly arose, making these men somewhat better at this exploring, fishing, trading, and fighting. Although the Egyptians built the first sea-going ships, the Minoans were the first great seafarers of history, trading as far away as Sicily while their King Minos conquered the other Aegean islands. The Phoenicians built a maritime “empire” of loosely-allied city-states. In far India, the Mauryan Empire (4th Century BC) developed the earliest known state organization for shipbuilding, and “invented” the science of navigation.

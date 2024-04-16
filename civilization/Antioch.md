@@ -1,0 +1,4 @@
+# Antioch
+
+Antioch, also known by its historical name of Antiochia, is a [Byzantine](Byzantine), [Greek](Greek), [Persian](Persian), and [Roman](Roman) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games, and also appears as a [city-state](city-state). In real life, it was an ancient Greek city located near present-day Antakya, [Turkish](Turkey).
+In [scenario](scenario)s, it may appear as the [Seleucid](Seleucid) [capital](capital) in [Rise%20of%20Rome](Rise of Rome), an [Abbasid](Abbasid) city in [Middle%20Ages](Middle Ages), and a [Sasanian](Sasanian) city in [Fall%20of%20Rome](Fall of Rome).

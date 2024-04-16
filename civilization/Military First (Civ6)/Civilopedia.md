@@ -1,0 +1,3 @@
+# Military First (Civ6)/Civilopedia
+
+When the United States entered World War II, it was woefully unprepared, and it took months to put America on a war footing. As a result of the Cold War, the administration adopted an amorphous strategy of “Military First” for spending and research, leading to an informal alliance between military and corporate interests in influencing public policy. In his farewell address in January 1961, President Eisenhower first referred to the “military-industrial complex.” Currently, U.S. military expenditures account for about 47% of the world’s total arms production, and in 2011 the United States spent more on its military than the next 13 nations combined. “Military First” indeed.

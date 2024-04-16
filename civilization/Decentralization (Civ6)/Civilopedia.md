@@ -1,0 +1,3 @@
+# Decentralization (Civ6)/Civilopedia
+
+In the face of societal collapse (e.g. a Dark Age), some civilizations turned towards harsh rule from the center, while others allowed the periphery to become more and more autonomous – consider how the population of Constantinople emptied for smaller towns and farms as the Byzantine Empire declined. In this way, the center heavily subsidizes the periphery as a last-ditch effort to keep citizens’ hearts and minds, at least until things improve.

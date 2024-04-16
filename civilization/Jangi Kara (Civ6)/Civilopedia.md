@@ -1,0 +1,3 @@
+# Jangi Kara (Civ6)/Civilopedia
+
+One of the first pieces of equipment that a Nihang would wear is the kara, the steel bracelet. Worn on the warrior’s strongest hand, the bracelet provided both a physical defense during swordfights as well as a symbol of the vows that a Nihang had taken. Its strength was to be the strength of the warrior’s commitment to God, and the unbroken link of steel similarly symbolized God’s eternal presence and the wearer’s unbroken faith.

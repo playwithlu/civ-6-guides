@@ -1,0 +1,5 @@
+# Modern resource (C-evo)
+
+In "[C-evo](C-evo)", the three resources [Cobalt%20%28C-evo%29](Cobalt), [Mercury%20%28C-evo%29](Mercury), and [Uranium%20%28C-evo%29](Uranium) are the rare elements ("modern resources") essential for building the [transstellar%20colony%20ship%20%28C-evo%29](transstellar colony ship). They appear only after you have acquired [Mass%20Production%20%28C-evo%29](Mass Production) on tiles that were known only as [dead%20lands%20%28C-evo%29](dead lands). 
+Construction of the [colony%20ship%20part%20%28C-evo%29](colony ship part)s can be started only after you have a [Space%20Port%20%28C-evo%29](Space Port). For each turn in which a city is set to work on building the requisite part of the ship, one of its workers must be on the rare element tile. If no worker is, nothing is produced in that turn.
+The elements are used as follows:

@@ -1,0 +1,3 @@
+# Forest (Civ5)/Civilopedia
+
+For early man, the forests were a great source of bounty, providing wood for fire, tools and shelter, and also many animals for sustenance and clothing. As a city grows there is a great temptation to cut down the forests for farmland, but a wise leader will always leave some standing - for productivity and to lift his people's spirits. Also, military units stationed in forests receive a significant defensive bonus.

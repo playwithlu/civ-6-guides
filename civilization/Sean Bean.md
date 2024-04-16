@@ -1,0 +1,3 @@
+# Sean Bean
+
+Sean Bean (born April 17, 1959) is an English actor best known for playing the roles of in ' (and its spinoffs ' and '), in ', and in "". He served as the narrator in "[Civilization%20VI](Civilization VI)" and its expansions, providing the voiceovers for the intro and [Victory%20%28Civ6%29](victory) movies, the loading screens, [Wonder%20%28Civ6%29](wonders), [Natural%20wonder%20%28Civ6%29](natural wonders), [Great%20Work%20%28Civ6%29](Great Works), and newly researched [Technology%20%28Civ6%29](technologies) and [Civic%20%28Civ6%29](civics), and provided the voice of the father in the announcement trailers.

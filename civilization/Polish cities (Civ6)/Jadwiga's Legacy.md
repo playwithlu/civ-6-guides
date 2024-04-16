@@ -1,0 +1,4 @@
+# Polish cities (Civ6)/Jadwiga's Legacy
+
+ are [City%20%28Civ6%29](cities) that can be founded by the [Polish%20%28Civ6%29/Jadwiga%27s%20Legacy](Polish) [Civilizations%20%28Civ6%29](civilization) in the [Jadwiga%27s%20Legacy%20%28Civ6%29](Jadwiga's Legacy) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". The first city founded is the , and the names of future cities are chosen in the order they appear on the list below. After the foundation of all cities from the list, [Russian%20cities%20%28Civ6%29](Russian cities) and then [German%20cities%20%28Civ6%29](German cities) will be founded.
+The names listed are default names; players can change their cities' names if they choose.

@@ -1,0 +1,3 @@
+# Rice (Civ4)/Civilopedia
+
+Rice is a dietary staple of more than half of the world's human population. Rice is often grown in paddies - shallow puddles carefully controlled to ensure appropriate water depth. It is believed that rice cultivation began simultaneously in many countries over 6500 years ago. Modern world production of rice has risen steadily from about 200 million tons in 1960 to 600 million tons in 2000.

@@ -1,0 +1,3 @@
+# Smear Campaign (Civ6)/Civilopedia
+
+A smear campaign is a coordinated effort to lower the standing or popularity of a person or organization by putting forward unflattering information about them. It helps if the material is factually true (and scandalous) but out-of-context quotes or forgotten information from the victim’s past can be used as well. Sometimes material is fabricated and passed off as true, as the victim’s denials often serve only to bring more attention to smears.

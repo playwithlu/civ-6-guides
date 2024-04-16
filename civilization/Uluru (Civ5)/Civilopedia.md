@@ -1,0 +1,3 @@
+# Uluru (Civ5)/Civilopedia
+
+Commonly referred to as "Ayers Rock," the massive red sandstone formation in central Australia has, over the past century, become one of Australia's most recognizable landmarks. Long before it was discovered by English explorers in the late 1800s, the mountain was known as "Uluru," a name given by the indigenous tribesmen of the area who share varying legends as to its creation and significance. Designated as a UNESCO World Heritage Site in 1987, this led to an immediate upsurge in tourism, with several hundred thousand visitors exploring the site each year.

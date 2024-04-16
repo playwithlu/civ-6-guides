@@ -1,0 +1,5 @@
+# Sahara el Beyda (Civ6)/Civilopedia
+
+Where in the world can you find chickens, mushrooms, monoliths, and ice cream all together? These are just a few of the calcium structures found in the White Desert outside of Farafra, Egypt.
+This area, once submerged beneath a vast sea, shows the result of millions of years of water and wind erosion, shaping these great white boulders into strange shapes. The white of the chalk rock changes their appearance drastically throughout the day – from a soft pink at sunset to a glowing white beneath the full moon.
+The National Park in which these formations can be found was designated a protected zone in 2002, and beyond the unique structures, it is also home to gazelles, fennec foxes, and sand cats. Today, tourists travel to the White Desert by 4WD or camel, and it has become a popular – and magical – space for overnight camping trips.

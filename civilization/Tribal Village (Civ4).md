@@ -1,0 +1,11 @@
+# Tribal Village (Civ4)
+
+A Tribal Village is a feature, technically an [Tile%20improvement%20%28Civ4%29](Improvement), representing small uncivilized Villages. Tribal Villages are randomly placed on the map when it is generated; they do not appear during play. The first civilization to expand cultural borders onto, or to move any [List%20of%20units%20in%20Civ4](unit) into the [Tile%20%28Civ4%29](tile) where a hut is will get a random benefit (or sometimes release a bunch of [Barbarian%20%28Civ4%29](barbarians)). Tribal Villages are often called "goody huts" by players, and the process of clearing the village and obtaining its reward is occasionally referred to as "popping a hut."
+Goodies.
+There are several outcomes possible when popping a hut: a new [Warrior%20%28Civ4%29](Warrior) or [Scout%20%28Civ4%29](Scout) unit, maps, [Gold%20%28currency%29%20%28Civ4%29](gold), etc. Which outcome a human player gets depends on several things, but primarily the game's [Difficulty%20level%20%28Civ4%29](difficulty level) (one gets better results on easier levels), and on whether or not a Scout (or [Explorer%20%28Civ4%29](Explorer)) is used to pop the hut. The following table shows the probability of various possible outcomes, by difficulty level:
+The AI is always on "Noble" for this purpose (and many others). Some of the outcomes above are not valid in some circumstances:
+In the case where an outcome is not valid, the game "rerolls" the outcome up to 10 times until it gets a valid one. If no valid outcome is found the hut just disappears without anything happening.
+Technologies.
+List of technologies which can be "researched" from Goody Huts (in "").
+Huts and Barbarians.
+When a Tribal Village is on a tile that the game has linked as a good place for a city, barbarians will sometimes stop there and "guard" the village. When a barbarian is doing this, it will not move or attack even if a unit moves adjacent to it. Eventually such a village can be turned into a barbarian city, which eliminates the hut. A guarded village can be popped by cultural border expansion, by attacking and defeating the guard unit, or by moving a Spy into it.

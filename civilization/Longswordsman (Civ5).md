@@ -1,0 +1,7 @@
+# Longswordsman (Civ5)
+
+Game Info.
+[Medieval%20Era%20%28Civ5%29](Medieval Era) front-line unit. Upgrades from [Swordsman%20%28Civ5%29](Swordsman). Requires .
+Strategy.
+﻿The next level front-line unit, the Longswordsman is equipped from head to toes with the finest full-plate armor, and wields a two-handed sword capable of overwhelming the most experienced foot soldiers of the Medieval Era. Longswordsmen are indisputable masters of melee combat against earlier fighters, who often can't even scratch their armor, and thus offer great protection to other units. Their prowess is such that they remain useful well into the [Renaissance%20Era%20%28Civ5%29](Renaissance Era), even against the new gunpowder units. 
+﻿Still, Longswordsmen are not without drawbacks. Aside from requiring , they remain vulnerable to sustained ranged attacks from modern [Crossbowman%20%28Civ5%29](Crossbowmen) and [Trebuchet%20%28Civ5%29](Trebuchets), and they can be outmaneuvered by mounted units. Furthermore, since the [Musketman%20%28Civ5%29](Musketmen) that become available immediately afterward are stronger and do not require [Resources%20%28Civ5%29%23Strategic%20Resources](strategic resources), it is often advantageous to go straight for [Gunpowder%20%28Civ5%29](Gunpowder) rather than raising a large army of Longswordsmen.

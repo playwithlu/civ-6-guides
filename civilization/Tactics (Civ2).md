@@ -1,0 +1,5 @@
+# Tactics (Civ2)
+
+ Tactics is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The science of the deployment of military forces to accomplish a short-range goal or objective is known as tactics. In unique or difficult situations, the maneuvers and methods of attack must be chosen wisely to give ones troops the maximum possible advantage over the enemy by taking advantage of the enemy's weaknesses. The successful tactics of military commanders are studied by their successors for possible modification and use under current conditions. Although tactics that work well in certain situations may not always be successful when used again, proven military tactics have worked well in many different battle situations throughout history. The vast amount of advanced equipment and resources available in modern warfare make the proper tactical coordination of a campaign vital, but difficult to achieve with total success.

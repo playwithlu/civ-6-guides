@@ -1,0 +1,10 @@
+# Uranium (Civ5)
+
+Game Info.
+Advanced late-game strategic resource. Used for building [Nuclear%20weapons%20%28Civ5%29](nuclear weapons) and [Nuclear%20Plant%20%28Civ5%29](Nuclear Plants).
+Strategy.
+ Uranium is the last strategic resource in the game, discovered with the [Atomic%20Theory%20%28Civ5%29](Atomic Theory) [List%20of%20technologies%20in%20Civ5](technology). Its use comes in the [Atomic%20Era%20%28Civ5%29](Atomic Era) - it allows you to build [Atomic%20Bomb%20%28Civ5%29](Atomic Bombs) and [Nuclear%20Missile%20%28Civ5%29](Nuclear Missiles). Uranium also allows construction of the [Nuclear%20Plant%20%28Civ5%29](Nuclear Plant), a [Building%20%28Civ5%29](building) which helps speed up [City%20%28Civ5%29](city) .
+Finally, it allows you to build [Giant%20Death%20Robot%20%28Civ5%29](Giant Death Robots), which are the most powerful direct combat [Unit%20%28Civ5%29](units) in the game. So, you can choose to either guard your Uranium for military purposes, or construct Nuclear Plants to greatly improve  in your cities if your [Civilizations%20%28Civ5%29](civilization) isn't particularly warlike.
+ Uranium is a rare resource, but it's found on a great variety of [Terrain%20%28Civ5%29](terrains). It's improved by a [Mine%20%28Civ5%29](Mine).
+Upon discovering Atomic Theory - and especially if you are the first to discover it - you should try to ensure that you and your allies control the majority of the Uranium on the [Map%20%28Civ5%29](map), as the ability to produce nuclear weapons has the potential to dramatically affect the game to the point of crippling entire civilizations. Likewise, if you have strained relations with [AI](AI) [Leaders%20%28Civ5%29](leaders), you should either try to befriend them or deprive them of their Uranium before it can be used to make nuclear weapons.
+[City-state%20%28Civ5%29](City-states) cannot complete the [Manhattan%20Project%20%28Civ5%29](Manhattan Project), so those that have access to Uranium will never use it to make nuclear weapons. Other civilizations, however, can gain access to a city-state's Uranium by conquering it or becoming its ally.

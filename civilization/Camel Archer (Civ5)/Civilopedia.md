@@ -1,0 +1,3 @@
+# Camel Archer (Civ5)/Civilopedia
+
+Some Muslim cavalrymen rode camels into battle. This often had an unsettling effect upon European-bred horses that had not before encountered those unusual beasts. As might be expected, camels are better-suited to desert terrain than are horses. Generally, the camel archer employed hit-and-run tactics against the enemy, more similar to Mongol horse archers than to knights or other heavy cavalry units. A well-trained camel archer unit could be extremely difficult for knights to deal with, if those knights were not protected by archers or their own light cavalry.

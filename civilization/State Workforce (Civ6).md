@@ -1,0 +1,6 @@
+# State Workforce (Civ6)
+
+State Workforce is an [Ancient%20Era%20%28Civ6%29](Ancient Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by constructing any [Districts%20%28Civ6%29](district).
+Strategy.
+Since ancient times there has been a difference between working for yourself, and working for the common good. Especially when that common good isn't of such immediate benefit, such as collecting the crop of the village field, or smashing the wheat into flour. Building roads, for example, was never seen as very useful, especially when the road in question leads to a city tens of miles away from where you live. Nevertheless, this work also needs to be done, and the capability of centralized rulers to mobilize workers for their projects soon becomes a staple of a capable leadership.
+State Workforce unlocks [Policy%20Cards%20%28Civ6%29](Policy Cards) that reduce the maintenance cost of [Units%20%28Civ6%29](units) and expedite [Wonders%20%28Civ6%29](wonder) construction. In the expansions, it also unlocks the [Government%20Plaza%20%28Civ6%29](Government Plaza) and its first three [Buildings%20%28Civ6%29](buildings) and awards a Governor Title.

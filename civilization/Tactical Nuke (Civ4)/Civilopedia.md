@@ -1,0 +1,4 @@
+# Tactical Nuke (Civ4)/Civilopedia
+
+The term "Tactical Nuclear Weapon" describes all non-strategic methods of nuclear-weapon delivery, including short-range nuclear missiles, bombs or artillery shells. These weapons can carry a variety of payloads, ranging anywhere from .1 kiloton to 1 megaton. While no tactical nuke has ever been detonated - unlike its strategic cousin - it is believed that a number of nuclear-capable nations have them in their arsenals.
+Used for specific engagements rather than long-term deterrence, tactical nukes tend to be only a few times greater in destructive power than their conventional-explosive counterparts, allowing a more efficient, but less widespread, effect. This permits commanders to deploy tactical nukes on the field of battle in conjunction with a conventional assault without fear of overtly harming their own troops.

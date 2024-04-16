@@ -1,0 +1,3 @@
+# Raid (Civ6)/Civilopedia
+
+To pillage, plunder, and generally demoralize a foe - there’s nothing like a raid. Since the barbarians couldn’t stand up (usually) to open battle with the armies of the Greeks, Persians, Romans, Chinese, and other civilized sorts, their incursions tended to take the form of extended raids. In time, these and other empires also used raids against the barbarians, often dispatching auxiliaries to devastate their lands … driving off their livestock, burning their camps, and worse. So well did this strategy work that some “wars” were nothing more than a series of bloody raids, and the practice became part of the military repertoire that survives even today.

@@ -1,0 +1,8 @@
+# Genetics (CTP2)
+
+Genetics is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+ in Genetics provide scientists with the tools to unlock the secrets of life hidden in the DNA of every organism. By studying the myriad codes embedded in DNA, scientists are able to pinpoint the "blueprint" for the creation of organisms, from the generation of cells to the anomalies that lead to disease and abnormalities.
+The Wonder represents the first successful mapping of human genes, and opens the door to and . The is a underwater defensive scout craft. Its wide vision range and speed make it ideal for reconnaissance duties. s grow genetically synthesized fruits and vegetables, producing more per tile than any other .
+Great Library entry.
+Since the discovery of deoxyribonucleic acid, or DNA, in the mid 20th century, scientists endeavored to unlock the secrets hidden within the microscopic strands of information. By the early 1970s, the basic principles of genetics had been well established. Not until the early 21st century did geneticists working for the Genome Project successfully map human genes. This proved to be the first step in the unraveling of the secrets of human life. In the next three decades, geneticists parsed and analyzed the voluminous information contained in the mapped genes and gained tremendous insight into the nature of human systems, cell production and diseases.

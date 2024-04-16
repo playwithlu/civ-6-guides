@@ -1,0 +1,3 @@
+# Cereal Mills (Civ4)/Civilopedia
+
+While most food processing corporations are less than 150 years old, food processing is an ancient tradition. The miller was the original food processing entrepreneur, turning inedible wheat into versatile flour, all while pulling in a tidy profit. Understandably, many modern food processing companies rose from the milling industry, often picking up a few new subsidiaries along the way. Today's food processors deal in a diverse range of consumer products, lining the walls of the local supermarket with everything from mayonnaise to deodorant.

@@ -1,0 +1,3 @@
+# Iron (Civ5)/Civilopedia
+
+Iron is one of the most important metals in human history. It is used for construction, for military weapons, and for tools. The first iron used came from pure deposits found in meteorites, and by the 2nd millennium BC some cultures had learned how to extract it from ores found in mines. Iron continues to be an extremely important material in the modern era, though it is most often used in its steel alloy form. Remember that iron is a strategic resource, and thus it is consumed as you construct the associated units and buildings.

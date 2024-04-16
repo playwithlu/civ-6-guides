@@ -1,0 +1,6 @@
+# Secularism (Civ5)
+
+Secularism is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Rationalism%20%28Civ5%29](Rationalism) tree.
+Strategy.
+This is one of the most powerful boosters in the game, particularly for empires with lots of specialists. The interesting part is that the "type" of specialist doesn't matter; they all get a bonus +2 to their output (which comes alongside their regular output, so for example an Engineer specialist produces +2 and +2 , while a Scientist specialist produces a combined +5 ), and this bonus gets increased further through scientific buildings in [City%20%28Civ5%29](cities). So, the more Specialist-oriented your empire is, the greater and more immediate is the effect of this Policy, regardless of what Specialists are you concentrating on.
+After adopting Secularism, try to assign more specialists, as long as you have no other important use for Citizens on the field. The boost in tech development will be visible.

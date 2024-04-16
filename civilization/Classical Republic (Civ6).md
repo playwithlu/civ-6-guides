@@ -1,0 +1,6 @@
+# Classical Republic (Civ6)
+
+Classical Republic is a form of Tier 1 [Government%20%28Civ6%29](government) in "[Civilization%20VI](Civilization VI)". It is unlocked by the [Political%20Philosophy%20%28Civ6%29](Political Philosophy) [Civic%20%28Civ6%29](civic).
+In ', this government's legacy bonus is conferred by Republican Legacy, a Wildcard [Policy%20card%20%28Civ6%29](policy) unlocked by changing governments after adopting Classical Republic and constructing a Tier 1 government [Building%20%28Civ6%29](building) ([Ancestral%20Hall%20%28Civ6%29](Ancestral Hall), [Audience%20Chamber%20%28Civ6%29](Audience Chamber), or [Warlord%27s%20Throne%20%28Civ6%29](Warlord's Throne)).
+Strategy.
+Classical Republic primarily focuses on the generation of . As such, it is useful for [Civilizations%20%28Civ6%29](civilizations) with bonuses toward points, such as [Brazilian%20%28Civ6%29](Brazil). This is the obvious choice for [Scottish%20%28Civ6%29](Scotland), whose bonuses focus on earning and getting more rewards from happy [City%20%28Civ6%29](cities).

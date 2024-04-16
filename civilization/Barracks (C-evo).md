@@ -1,0 +1,6 @@
+# Barracks (C-evo)
+
+A barracks in the free game [C-evo](C-evo) is a [building%20%28C-evo%29](building) available as soon as you research [Warrior%20Code%20%28C-evo%29](Warrior Code) (which you need before designing any new [ground%20unit%20%28C-evo%29](ground unit)s).
+Troops built in a city with a barracks start life [hardened%20%28C-evo%29](hardened). Troops stationed there double their [health%20%28C-evo%29](health) each turn until reaching 100%, which is a distinct improvement on the 20 percentage points increase that applies to a unit with over 20% but under 80% health in a city with no barracks. (The matching facilities for [air%20unit%20%28C-evo%29](air unit)s and [naval%20unit%20%28C-evo%29](naval unit)s are [Airport%20%28C-evo%29](Airport) and [Dockyard%20%28C-evo%29](Dockyard).)
+Unlike the counterparts in [Civ1](Civ1) and [Civ2](Civ2), barracks never become obsolete.
+In just one of each nation's cities, the barracks may be replaced by a [Military%20Academy%20%28C-evo%29](Military Academy), which costs more to build and maintain but produces [elite%20%28C-evo%29](elite) troops; the barracks are automatically sold. If you sell the academy (either directly or by completing one in another city), the barracks do not automatically reappear but must be built if you want them.

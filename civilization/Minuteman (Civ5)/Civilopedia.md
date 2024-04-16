@@ -1,0 +1,3 @@
+# Minuteman (Civ5)/Civilopedia
+
+Seeing service during the American Revolutionary War, the American minutemen were select members of the colonial militia. They were a "rapid response" force, trained to respond quickly to enemy attacks, giving the Regular Army (as well as the rest of the militia) time to react and prepare for battle. Minutemen actually predate the American Revolution: the Massachusetts Bay Colony had certain members of its militia designated as Minutemen as early as 1645.

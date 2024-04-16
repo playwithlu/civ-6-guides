@@ -1,0 +1,3 @@
+# Strafe (Civ6)/Civilopedia
+
+Soon after machine guns were fitted to biplane fighters, pilots with unused ammunition returning from a mission amused themselves diving and firing upon ground targets ... usually the poor infantry and supply convoys stuck below in the mud of the Western Front. In short order, generals saw the value in doing so, and so strafing became a part of aerial tactics (it was less dangerous than dogfights). Aviation designers even began building planes dedicated to ground attack, such as the Junkers J.1 with two downwards facing machine guns. Come World War II most of the combatants had warplanes devoted to strafing, most mounting multiple machine guns and some small rockets.

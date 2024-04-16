@@ -1,0 +1,4 @@
+# Repair Outer Defenses (Civ6)
+
+Repair Outer Defenses is a [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)". It becomes available after building [Walls%20%28Civ6%29](Walls). A [City%20%28Civ6%29](city) can undertake this project if it and/or its [Encampment%20%28Civ6%29](Encampment) [District%20%28Civ6%29](district) have damaged Walls and have not been attacked in the last three turns. 
+Walls gain [HP](HP) equal to the invested into the project (on Standard [Speed%20%28Civ6%29](speed)) each turn the project runs. Once completed, it fully restores the HP of the city's (and Encampment's) Outer Defenses.

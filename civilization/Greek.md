@@ -1,0 +1,4 @@
+# Greek
+
+The Greek people, also known as the Hellenes, represent Greece, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)". Their [capital](capital) might be [Athens](Athens) or [Sparta](Sparta), and they can be led by [Alexander%20the%20Great](Alexander the Great), [Gorgo](Gorgo), [Helen](Helen), [Hippolyta](Hippolyta) or [Pericles](Pericles).
+The [Byzantine](Byzantine), [Macedonian](Macedonian), [Minoan](Minoan), [Mycenaean](Mycenaean), [Ptolemaic](Ptolemaic) and [Seleucid](Seleucid) people may also be represented by the Greeks.

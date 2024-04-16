@@ -1,0 +1,6 @@
+# FreeCol user manual/Introduction/About FreeCol
+
+The FreeCol team aims to create an Open Source version of Colonization (released under the [GPL](GPL)). At first we'll try to make an exact clone of [col1](Colonization). The visuals will be brought up to date with more recent standards but will remain clean, simple and functional. Certain new 'features' will be implemented but the gameplay and the rules will be exactly the same as the original game. Examples of modern features are: an [isometric](isometric) map and [multiplayer](multiplayer) support.
+This clone will be developed incrementally and result in [FreeCol%201.0.0](FreeCol 1.0.0) which will be an almost exact Colonization clone. Incremental development basically means that we'll add features one at a time. This allows us to have a running program at all times and also to release an unfinished but working game once in a while.
+Once [FreeCol%201.0.0](FreeCol 1.0.0) is finished we'll start working towards [FreeCol%202.0.0](FreeCol 2.0.0). FreeCol 2 will go beyond the original Colonization and will have many new features, it will be an implementation of our (and our users') image of what Colonization 2 would have been.
+"Stian Grenborgen 2009-01-14"

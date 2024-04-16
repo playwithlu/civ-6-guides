@@ -1,0 +1,3 @@
+# Suppression (Civ6)/Civilopedia
+
+According to NATO, suppression is "the application of fire, direct or indirect, to destroy, neutralize or suppress the enemy’s movement." Before NATO so nicely defined the term, the Royal Army defined it as "fire delivered to render a target temporarily ineffective." In other words, firing at someone tends to slow them down ... a brilliant insight that military commanders had been aware of long before NATO. But suppression fire requires a lot of ammunition fired rapidly, so it wasn't used often until the advent of industrial age warfare, when it became a common tactic.

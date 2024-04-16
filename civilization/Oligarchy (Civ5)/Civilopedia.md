@@ -1,0 +1,3 @@
+# Oligarchy (Civ5)/Civilopedia
+
+Oligarchy is a form of government in which a small segment of society has all of the power. Power might be held by a specific family or tribe, or people of a certain religion or from a special caste. Some city-states in ancient Greece were oligarchies, where all power was in the hands of a few elite families. Apartheid South Africa would be a modern oligarchy, the white minority holding all of the power. Pre-9-11 Iraq too was an oligarchy, with power concentrated in the hands of members of Saddam Hussein's family and tribe.

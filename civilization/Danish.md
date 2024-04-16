@@ -1,0 +1,3 @@
+# Danish
+
+The Danish people, also known as the Danes, represent Denmark, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games. Their [capital](capital) might be [Copenhagen](Copenhagen), [Hedeby](Hedeby), or [Odense](Odense), and they can be led by [Canute](Canute), [Harald%20Bluetooth](Harald Bluetooth), [Sweyn%20II](Sweyn II), or [Sweyn%20Forkbeard](Sweyn Forkbeard).

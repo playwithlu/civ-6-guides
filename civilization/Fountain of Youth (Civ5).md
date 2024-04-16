@@ -1,0 +1,7 @@
+# Fountain of Youth (Civ5)
+
+The Fountain of Youth is a [Natural%20wonder%20%28Civ5%29](natural wonder) in "[Civilization%20V](Civilization V)". It spawns in [Plains%20%28Civ5%29](Plains) tiles.
+Strategy.
+The Fountain of Youth can be very beneficial to all that find it, not only the [Civilizations%20%28Civ5%29](civilization) that manages to include it within its [Borders%20%28Civ5%29](borders). When a land-based [Military%20unit%20%28Civ5%29](military unit) moves into a [hex](hex) adjacent to the Fountain, it gains a special [Promotions%20%28Civ5%29](promotion) that allows it to heal at twice the normal rate for the rest of the game!
+The bonus only requires that the Fountain of Youth be in a civilization's borders, since the Fountain itself cannot normally be worked unless the Natural Heritage Sites [Resolutions%20%28Civ5%29](resolution) is in effect.
+Try to make use of the Fountain of Youth's ability as much as possible, sending as many of your [Unit%20%28Civ5%29](units) as you can there. If it gets incorporated into another player's [Territory%20%28Civ5%29](territory), try to get an [Diplomacy%20%28Civ5%29%23Open%20Borders](Open Borders) agreement with them so you can continue to benefit from its healing power! This natural wonder is also notable for being the least likely to spawn during [Map%20%28Civ5%29](map) generation.

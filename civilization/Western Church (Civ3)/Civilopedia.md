@@ -1,0 +1,5 @@
+# Western Church (Civ3)/Civilopedia
+
+Early in the 11th century C.E., tensions between the Eastern church headquartered in Constantinople and the Roman (Western) church finally came to a head. Increasing doctrinal disputes, particularly over the nature of Christ's divine origin, mirrored political disputes stemming from the fundamental differences inherent in the Eastern church's emphasis on Greek tradition and the Western reliance on the legacy of the Roman Empire. Furthermore, the Eastern church was much more involved with the struggle 
+against Islam, and thought that this burden entitled it to greater say in how the church was run.
+Finally, in 1054 C.E., the patriarch of Constantinople and the Roman pope excommunicated one another, formalizing the split of the two churches. The schism was deepened a few decades later, when Catholic crusaders sent to the Holy Land by the Roman pope sacked Constantinople on the way. The two churches remain separate today.

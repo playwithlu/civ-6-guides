@@ -1,0 +1,17 @@
+# The Rise of Rome (Civ3)
+
+ is a [List%20of%20scenarios%20in%20Civ3](scenario) in "".
+Description.
+It is over 2,300 years ago, and the Mediterranean Sea is in turmoil. To the east, Macedon and Persia are locked in a deadly war to decide the dominant power in Asia Minor. Farther west, the young city of Rome is beginning to challenge mighty Carthage for control of the central Mediterranean. Are you prepared to grasp the reins of power, and lead your people to the heights glory and wealth -- at the point of a sword and the tip of a spear?
+Intro.
+Background.
+The slash of sharp blades will again resonate throughout the valleys of Europe and the waters of the Mediterranean as four strong powers -- Rome, Carthage, Macedon and Persia -- vie to establish the greatest empire of the Ancient Age.
+To the north, the dark woods of Europe and the expansive plains of Eurasia are populated by wild bands of Celts, Goths and Scythians. Along the River Nile Egyptians still farm the fertile floodplains, although their days of glory are but a distant memory.
+Special.
+This scenario opens with Rome already at war with Carthage, and Macedon at war with Persia. If playing as Rome, your tough, upgradable "Legions" -- when not engaged in battle -- can be employed to construct roads and fortresses. Fast-moving "Citizens" can be used to settle new lands, and "Garrisons" can be trained to guard your borders. As Carthage, Macedon or Persia you must be ever wary of the growing power of Rome.
+Victory.
+Victory is achieved by the first side to control 20% of the terrain "and" 50% of the population. Otherwise, the victor will be the side with the highest score at game end (295 AD; 130 turns).
+Gameplay.
+This scenario puts players in control of [Roman%20%28Civ3%29](Rome), [Persian%20%28Civ3%29/The%20Rise%20of%20Rome](Persia), [Carthaginian%20%28Civ3%29](Carthage), or [Macedonian%20%28Civ3%29](Macedon). The [Celtic%20%28Civ3%29](Celts), [Egyptian%20%28Civ3%29](Egypt), [Scythian%20%28Civ3%29](Scythia), and the [Gothic%20%28Civ3%29](Goths) appear as nonplayable [Civilizations%20%28Civ3%29](civilizations). Due to the scenario's blood feuds mechanic, the Romans and Carthaginians are locked into war with each other, as are the Persians and Macedonians.
+The Romans start with the smallest [Territory%20%28Civ3%29](territory), but have three [Unique%20unit%20%28Civ3%29](unique units) at their disposal: [Legionary%20I%20%28Civ3%29](Legionaries), which can build [Road%20%28Civ3%29](roads) and [Fortress%20%28Civ3%29](Fortresses) and become more powerful through upgrades; [Citizen%20%28unit%29%20%28Civ3%29](Citizens), which are faster than regular [Settler%20%28Civ3%29](Settlers) and cost less population; and [Garrison%20%28Civ3%29](Garrisons), which have strong defensive capabilities and are good at protecting [City%20%28Civ3%29](cities). All of the playable civilizations can produce [Heavy%20Cavalry%20%28unit%29%20%28Civ3%29/The%20Rise%20of%20Rome](Heavy Cavalry) and [Fire%20Catapult%20%28Civ3%29](Fire Catapults), and can hire [Numidian%20Mercenary%20%28Civ3%29](Numidian Mercenaries) if they have access to [Ivory%20%28Civ3%29](Ivory).
+The first player to eliminate his or her locked enemy and score 60,000 [Victory%20Points](Victory Points) wins.

@@ -1,0 +1,6 @@
+# Stone Circles (Civ6)
+
+Stone Circles is a [Pantheon%20%28Civ6%29](Pantheon) in "[Civilization%20VI](Civilization VI)". It provides +2 to all [Quarry%20%28Civ6%29](Quarry) [Tile%20improvement%20%28Civ6%29](improvements).
+Strategy.
+Stone Circles is easily one of the best -producing pantheons. Not only is one of the most common [Resource%20%28Civ6%29%23Bonus](Bonus Resources), but the quarriable resources (, , and ) tend to form groups of 2-3 instances. Even without building [Stonehenge%20%28Civ6%29](Stonehenge), players who choose this pantheon when they have a large number of potential Quarry sites will rapidly generate , which they can use to purchase a [Great%20Prophet%20%28Civ6%29](Great Prophet) and be one of the first [Civilizations%20%28Civ6%29](civilizations) to found a [Religion%20%28Civ6%29](religion).
+If the appropriate resource is available to your and no other obvious choice is visible, Stone Circles is a safe go-to pantheon. While this may delay your harvesting of resources until the extra has become too marginal, this isn't necessarily a bad thing - it merely means that those resources will be used toward later-game [Building%20%28Civ6%29](buildings), or maybe not, as by then your Quarries may generate additional and/or enough to be valuable on their own.

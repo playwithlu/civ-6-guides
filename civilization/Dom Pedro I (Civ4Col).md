@@ -1,0 +1,5 @@
+# Dom Pedro I (Civ4Col)
+
+Civilopedia.
+Lived: 1798-1834
+Dom Pedro I was the first Emperor of Brazil and was responsible for the country's independence from Portugal. Pedro arrived in Brazil with his father, King Joao VI, and the rest of the Portuguese Royal Family, as they fled the armies of Napoleon. King Joao's presence greatly improved the standing of Brazil, raising it from a lowly colony to a country on equal standing with Portugal. The King's presence, however, dashed the hopes of a significant portion of the populace who hoped to declare the country a republic. But with the defeat of Napoleon in 1815, King Joao returned to Brazil, leaving Pedro, whom he named Prince of Brazil, in charge of the freshly elevated country. Conflicts between Pedro, whose loyalty to the Brazilians he expressed by issuing the beginnings of a new constitution, and the army, who adhered strictly to the command of the Portuguese Corte, came to a head. Through careful maneuvering and the raising of an impressive Brazilian militia, Dom Pedro was able to negotiate the surrender of the upstart army officers without the firing of a single shot, paving the way for an independent Brazil.

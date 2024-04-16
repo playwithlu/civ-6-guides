@@ -1,0 +1,3 @@
+# Citizenship (Civ5)/Civilopedia
+
+Citizenship is the policy of a nation that acknowledges that a certain group of people, usually based upon their race or tribe or where they were born, are members of that nation, and as such, deserve a certain amount of protection as well as some rights and privileges, above and beyond those accorded to foreigners. For example, a citizen can often move around the country freely, while a non-citizen may be subject to deportation or imprisonment if discovered by the authorities.

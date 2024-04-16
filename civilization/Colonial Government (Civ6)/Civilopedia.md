@@ -1,0 +1,3 @@
+# Colonial Government (Civ6)/Civilopedia
+
+When a penal colony became self-sustaining it needed more than a governor with absolute authority over indentured servants. Harsh colonial justice was not exactly a selling point for accomplished tradesmen and those wishing to change their fortunes. Consequently, a true colonial government provided limited local and regional rule to its residents. Political offices expanded as the colony did, allowing the colonial capital to provide for (and more importantly, to tax) outlying settlements.

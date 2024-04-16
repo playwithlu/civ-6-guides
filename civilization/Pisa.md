@@ -1,0 +1,4 @@
+# Pisa
+
+Pisa, also known as Pisae, is a [Roman](Roman) and [Holy%20Roman](Holy Roman) [city](city) in the "[Civilization%20%28series%29](Civilization)" games and an [Italian](Italian) city in [Call%20to%20Power%20games]("Call to Power" games), and also appears as a [city-state](city-state). In real life, it is a port city in present-day Italy and home to the [Leaning%20Tower%20of%20Pisa](Leaning Tower of Pisa).
+In [scenario](scenario)s, it may appear as a [Burgundian](Burgundian) city in [Middle%20Ages](Middle Ages) and a [Western%20Roman](Western Roman) city in [Fall%20of%20Rome](Fall of Rome).

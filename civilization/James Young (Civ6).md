@@ -1,0 +1,8 @@
+# James Young (Civ6)
+
+James Young is an [Great%20Scientist%20%28Civ6%29](Great Scientist) in "[Civilization%20VI](Civilization VI)".
+Unique ability.
+Reveals without the normal technology requirement.
+Triggers the for 2 random from the Industrial or Modern era.
+Strategy.
+The most expensive [Modern%20Era%20%28Civ6%29](Modern Era) technologies cost 1250 , so James Young provides at most 1000 (formula_1) . Another Industrial Era Great Scientist, [Charles%20Darwin%20%28Civ6%29](Charles Darwin), provides 500 for each adjacent [Natural%20wonder%20%28Civ6%29](natural wonder) [Tile%20%28Civ6%29](tile), making him a better choice for scientific players who can activate him on a 4-tile natural wonder. Young, however, can provide up to 1250 (formula_2) when playing as the [Chinese%20%28Civ6%29](Chinese) or with the [vanilla](vanilla) ruleset, and revealing before discovering [Steel%20%28Civ6%29](Steel)/[Refining%20%28Civ6%29](Refining) will allow players to plan their expansion so that they can secure the needed for late-game [Military%20unit%20%28Civ6%29](military units) (which is especially important in "", where is required for the most advanced [List%20of%20units%20in%20Civ6/By%20class%23Melee](melee), [List%20of%20units%20in%20Civ6/By%20class%23Heavy%20cavalry](heavy cavalry), [List%20of%20units%20in%20Civ6/By%20class%23Siege](siege), [List%20of%20units%20in%20Civ6/By%20class%23Naval%20melee](naval melee), and [List%20of%20units%20in%20Civ6/By%20class%23Naval%20ranged](naval ranged units)).

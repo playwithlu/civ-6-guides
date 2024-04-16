@@ -1,0 +1,3 @@
+# Erik the Red (Civ6)/Civilopedia
+
+Erik Thorvaldsson—better known as Erik the Red—was a Norwegian who, having been banished from the company of “civilized men” in Iceland for “some killings,” founded the first Norse settlement in Greenland. (He was continuing the legacy of his father, who’d previously been banished from Norway for manslaughter.) Although other Vikings had previously visited Greenland, the sagas claim Erik spent his three years of exile exploring it. After wintering in Iceland, he gathered a host of colonists and returned to Greenland in 985 AD. There he established two settlements, which managed to struggle along until Greenland was abandoned by the Norse during the Little Ice Age.

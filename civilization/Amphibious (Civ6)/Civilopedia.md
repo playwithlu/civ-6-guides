@@ -1,0 +1,3 @@
+# Amphibious (Civ6)/Civilopedia
+
+Considered the most complex of operations (now), landing from water into battle didn't seem to faze the ancient Greeks, Persians, or Vikings. And Alexander the Great's crossing of the monsoon-swollen Hydaspes to crush King Porus is considered one of the greatest victories ever. Of course, none of them faced coastal artillery, airplanes, and machine guns. But units specifically trained to land from boats and immediately engage the enemy are a relatively modern development. Until Gallipoli, the largest amphibious operation had been the Persian landing at Marathon just prior to the battle. But World War II is marked by far larger conflicts, in Africa and Europe, and across the Pacific.

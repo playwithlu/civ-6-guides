@@ -1,0 +1,6 @@
+# Hotel (Civ5)
+
+Game Info.
+The Hotel is a basic [Tourism%20%28Civ5%29](touristic) [Building%20%28Civ5%29](building) introduced in "".
+Strategy.
+The Hotel is essential for increasing your output when you're pursuing a [Cultural%20victory%20%28Civ5%29](cultural victory), or if you want to impose your [Ideology%20%28Civ5%29](Ideology) on other [Civilizations%20%28Civ5%29](civilizations). Build it first in your [City%20%28Civ5%29](cities) containing [Great%20Work%20%28Civ5%29](Great Works) and [Archaeology%20%28concept%29%20%28Civ5%29](Artifacts), along with cities that have [List%20of%20wonders%20in%20Civ5](wonders) or [List%20of%20improvements%20in%20Civ5](tile improvements) that produce ([Landmark%20%28Civ5%29](Landmarks), [Brazilwood%20Camp%20%28Civ5%29](Brazilwood Camps), [Chateau%20%28Civ5%29](Chateaux), [Moai%20%28Civ5%29](Moai), and [Holy%20Site%20%28Civ5%29](Holy Sites) with the [Piety%20%28Civ5%29](Piety) finisher), but eventually you may want to build it in all your cities to get access to the [National%20Visitor%20Center%20%28Civ5%29](National Visitor Center).

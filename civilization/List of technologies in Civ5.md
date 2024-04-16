@@ -1,0 +1,6 @@
+# List of technologies in Civ5
+
+Technologies are the scientific advancements of your empire. Each technology unlocks certain [Buildings%20%28Civ5%29](buildings), [List%20of%20units%20in%20Civ5](units) or other advancements. For more info on the exact process of obtaining technologies, see the [Science%20%28Civ5%29](Science article).
+This is the list of technologies in Civ5, updated for the ' expansion. Please note that in the ' expansion pack, the [Future%20Era%20%28Civ5%29](Future Era) has been removed, and is now replaced with the [Atomic%20Era%20%28Civ5%29](Atomic) and [Information%20Era%20%28Civ5%29](Information Eras). Also, SP costs for researching technologies are approximate and vary according to [Map%20%28Civ5%29](map) size and the number of [City%20%28Civ5%29](cities) an empire has at any given moment (both regular and Puppeted).
+Note.
+[Calculus%20%28Civ5%29](Calculus), [Naval%20Tradition%20%28Civ5%29](Naval Tradition), [Patronage%20%28technology%29%20%28Civ5%29](Patronage), and [Publishing%20%28Civ5%29](Publishing) were planned as technologies, but left out (or implemented as [Social%20policies%20%28Civ5%29](social policies)) for undisclosed reasons. Their quotes were going to be:

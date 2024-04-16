@@ -1,0 +1,3 @@
+# Porcelain (Civ5)/Civilopedia
+
+First created in China nearly 3,000 years ago, porcelain is a type of ceramic material formed by heating clay to create semi-translucent vessels of varying shapes and sizes. Artists and craftsmen spent centuries developing the techniques that allowed for control of both the aesthetic qualities as well as the physical strength and usability of porcelain objects. Having originated in China, porcelain dinnerware was often referred to simply as "China" during the height of its popularity in Europe.

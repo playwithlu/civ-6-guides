@@ -1,0 +1,8 @@
+# Cultist (Civ6)
+
+The Cultist is a [List%20of%20units%20in%20Civ6/By%20class%23Support](support unit) in "[Civilization%20VI](Civilization VI)". It is exclusive to the [Voidsingers%20%28Civ6%29](Voidsingers) secret society in the [Secret%20Societies%20%28Civ6%29](Secret Societies) [Game%20mode%20%28Civ6%29](game mode), introduced in the [Ethiopia%20Pack%20%28Civ6%29](Ethiopia Pack). It can only be purchased with . 
+Strategy.
+The Cultist is a rather nasty way to attack a neighbor empire without actually declaring war! They complement the "[Loyalty%20%28Civ6%29%23Loyalty%20attack](Loyalty attack)" tactic by applying direct pressure to the target city. Bide your time, determine which cities may flip under the right circumstances, then prepare a horde of 4-5 Cultists. The moment Loyalty pressure in the target city turns negative, send in the Cultists and attack! If you calculate the moment right, the enemy won't even be able to react by sending a [Governor%20%28Civ6%29](Governor) to the vulnerable city.
+Due to the latest change regarding Loyalty pressure, a city will not flip just because its Loyalty level is brought down to 0. It also needs to have a negative Loyalty pressure per turn to turn into a [Free%20City%20%28Civ6%29](Free City), so sending a horde of Cultists to an empire halfway across the [Map%20%28Civ6%29](map) where you exert no Loyalty pressure no longer works.
+Bugs.
+Cultists are missing their support unit classification. For this reason, they are unaffected by modifiers that affect support units, such as the [Norwegian%20%28Civ6%29](Norwegian) and [M%C4%81ori%20%28Civ6%29](Māori) [List%20of%20civilization%20abilities%20in%20Civ6](civilization abilities).

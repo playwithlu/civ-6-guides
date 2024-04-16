@@ -1,0 +1,3 @@
+# Giant's Causeway (Civ6)/Civilopedia
+
+Clusters of geometric columns known as the Giant's Causeway can be found along the coast of Northern Ireland. The columns vary in height, like a pipe organ that got away from itself. The columns closest to the coast disappear into the North Channel, while others jut out of the ground like basalt palisade walls. Legends claim the causeway was built by Irish giant Finn MacCool, who had been challenged to a fight by Scottish giant Benandonner. (Geologists disagree, connecting the pillar formation to volcanic activity 50 million years ago.)

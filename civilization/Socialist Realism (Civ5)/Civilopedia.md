@@ -1,0 +1,3 @@
+# Socialist Realism (Civ5)/Civilopedia
+
+The Socialist Realism movement, a style of "realistic expression" that began in Soviet Russia and became dominant in communist countries around the world, promoted the triumph of socialism through art, photography, film and public monuments. Along with the Socialist Classical style of architecture, Socialist Realism was the only Party approved style of public art in the Soviet Union for sixty years. The dramatic and minimalist monuments that resulted were seen as powerful propaganda tools in promoting the dictatorship of the proletariat and the physical display of communist beliefs.

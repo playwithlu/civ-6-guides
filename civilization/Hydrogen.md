@@ -1,0 +1,3 @@
+# Hydrogen
+
+Hydrogen is a [resource](resource) in the "[Civilization%20%28series%29](Civilization)" games. Although it is the simplest chemical element, it plays an important role in advanced military aspects of some strategy games (and even gets a mention in the [Civilopedia](Civilopedia) entries for the [spaceship](spaceship) components in "[Civilization%20III](Civilization III)" and "[Civilization%20IV](Civilization IV)", though it doesn't appear in those games).

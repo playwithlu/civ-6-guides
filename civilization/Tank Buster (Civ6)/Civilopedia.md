@@ -1,0 +1,3 @@
+# Tank Buster (Civ6)/Civilopedia
+
+The last battles of World War I featured the first appearance of tanks, and generals soon sought a way to destroy these; attacking them from the air seemed a logical approach. But, given that most fighters of the day were unarmored and their weapons could rarely penetrate the tank armor, they weren't very effective ... in fact, the RAF suffered losses approaching 30% among ground-attack aircraft in 1918. But when Europe went at it again in 1939, fighter-bombers devoted to attacking tanks were common, such as the German Stuka, British Hurricane Mk IID, and Russian Sturmovik. As the war progressed, even standard fighters were up-armed with cannons and rockets to make them "tank busters."

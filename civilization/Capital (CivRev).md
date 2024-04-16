@@ -1,0 +1,5 @@
+# Capital (CivRev)
+
+The capital is the first and most important [City%20%28CivRev%29](city) created by every [Civilizations%20%28CivRev%29](civilization) at the start of a game. Each capital holds the [Palace%20%28CivRev%29](Palace) which adds 50% [Defense%20%28CivRev%29](defense) for all [List%20of%20units%20in%20CivRev](units) in the city.
+Gameplay.
+As a [Victory%20%28CivRev%29](Domination Victory) requires all capitals to be held by a civilization, the capital is always the main target of those looking for that victory. It is important to have your best defenders in the capital if a war is not going your way, or if the attackers are focusing on your capital. If you capture an enemy capital, defend it well so you can reap the benefits of having multiple capitals. A capital gains double [Culture%20%28CivRev%29](culture) if the player has a [Monarchy%20%28government%29%20%28CivRev%29](Monarchy).

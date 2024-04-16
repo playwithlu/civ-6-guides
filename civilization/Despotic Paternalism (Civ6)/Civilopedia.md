@@ -1,0 +1,3 @@
+# Despotic Paternalism (Civ6)/Civilopedia
+
+Thak Chaloemtirana describes Cold War-era Southeast Asia as the home of a particular kind of “despotic paternalism,” where power is invested in locally important strongmen, while independent thought and action is curtailed. One thinks of individuals like Suharto in Indonesia, or Sarit in Thailand. Such a system stifles free inquiry but the harsh action of such despotic paternalists brought dissenting voices under control.

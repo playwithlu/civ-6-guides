@@ -1,0 +1,2 @@
+# Standardized Architecture (CivBE)
+

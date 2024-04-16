@@ -1,0 +1,2 @@
+# The Empath Guild (SMAC)
+

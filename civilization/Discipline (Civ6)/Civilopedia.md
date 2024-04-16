@@ -1,0 +1,3 @@
+# Discipline (Civ6)/Civilopedia
+
+In Caesar's Gallic Wars, he describes how the Gauls fought - each man charged at the enemy, desperate to prove his own might and worth. And the Gauls were intimidating fighters: massive, brawny men, some entirely naked. But the Romans, if they were prepared (and not ambushed) slaughtered them, because each soldier saw himself not as a potential hero, but as part of a unit. With the rise of professional armies, military law became codified and more convoluted, although punishment hasn’t changed much – between 1942 and 1961 AD 160 members of the American military were executed under the auspices of the Uniform Code of Military Justice for various crimes, including desertion, mutiny, and murder.

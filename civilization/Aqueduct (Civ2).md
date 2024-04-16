@@ -1,0 +1,5 @@
+# Aqueduct (Civ2)
+
+ An Aqueduct is a [List%20of%20buildings%20in%20Civ2](building) in "[Civilization%20II](Civilization II)" that allows a to increase beyond size 8.
+Civilopedia entry.
+A major obstacle to population growth and expansion in early cities was the scarcity of water. In many cases, the solution to this problem was an aqueduct. Aqueducts were large, elevated stone "canals" through which water from nearby hills and mountains was channeled into the city. Aqueducts allowed cities to grow much larger by significantly increasing the amount of available water. At the same time aqueducts reduced the chance of contracting water-borne diseases, by reducing the dependence on stagnant ponds and wells as water sources. Aqueducts also allowed cities to be built in normally inhospitable environments, such as deserts, by providing an outside water source. Modern day Los Angles, for example, obtains its water supply from the Colorado River, through a system of aqueducts over 200 miles long.

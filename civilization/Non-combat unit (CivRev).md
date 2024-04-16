@@ -1,0 +1,4 @@
+# Non-combat unit (CivRev)
+
+A non-combat unit is a [List%20of%20units%20in%20CivRev](unit) that cannot attack like a military unit, but benefits your [Civilizations%20%28CivRev%29](civilization) in some other way. There are four kinds of non-combat units: the [Settlers%20%28CivRev%29](Settlers) (which can found new [City%20%28CivRev%29](cities) or increase the [Population%20%28CivRev%29](population) of existing ones), the [Caravan%20%28CivRev%29](Caravan) (which can establish trade routes with other civilizations), and the [Spy%20%28CivRev%29](Spy) (which can steal from or interfere with operations in enemy cities).
+[Great%20Person%20%28CivRev%29](Great People) are technically non-combat units, though the [Great%20General%20%28CivRev%29](Great General) has direct military applications.

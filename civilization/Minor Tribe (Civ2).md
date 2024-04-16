@@ -1,0 +1,2 @@
+# Minor Tribe (Civ2)
+

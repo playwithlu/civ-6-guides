@@ -1,0 +1,26 @@
+# Wonder (Civ2)
+
+A Wonder of the World is a unique in "[Civilization%20II](Civilization II)", representing monumental architecture, social and cultural achievements, and/or scientific and technological innovation. A Wonder's benefit can range from local effects for its host city, a bonus throughout the controlling , and/or a permanent effect to all players. Certain Wonders are rendered [%23Obsolescence](obsolete) by , while others will continue to function for as long as their host city exists.
+"Civilization II" features a total of [List%20of%20wonders%20in%20Civ2](28 Wonders), organized into groups of 7 roughly corresponding to their . Each Wonder a civ controls contributes 20 points to its ; s may also use Wonders for objective scoring. The (hotkey: ) from the lists all completed Wonders in the game.
+## Overview
+
+Each Wonder has a and cost. Only a single instance of a Wonder can be built during the game; whichever civilization controls a Wonder's host city gains access to its benefits.
+A Wonder's benefit may be local to its host city, empire-wide, or global to all players. Wonders can be grouped into several informal categories based on their purpose and effects:
+Construction.
+Wonders require considerably more than standard improvements, and can take several dozen s to complete. The player receives messages when rival civs begin, change, or cancel a Wonder's construction, providing a rough gauge of the state of competition. players may refuse to if it enables a Wonder they are currently building.
+When a rival city is one turn away from completing construction, the player receives a message that the Wonder is "nearly completed". If no action is taken, the Wonder will be completed on the civ's next turn. However, the human player can "claim" completion in their own city by [disband](disband)ing units and/or the shields needed to fill the production box: this overrides normal city production updates for AI civs, and the player will complete the Wonder on their next turn.
+AI civs immediately update their production orders if beaten to a Wonder, independent of the turn's normal order of action. In the case of "nearly completed" Wonders, this means production may shift to an alternative Wonder of similar or lesser cost that will then be completed during the regular update phase.
+A city constructing a Wonder enables an additional interaction to incoming , "Help build WONDER", that translates the unit's entire Shield value into the Wonder's production progress. This is more efficient than manually disbanding units, which will only supply half their Shield value.
+Obsolescence.
+Certain Wonders are subject to [Obsolete%23Civilization%20II](obsolescence), with their effects immediately terminating once the appropriate advance is discovered. Obsolete Wonders can still be built, and are denoted with an asterisk (*) in the city production list; they will still contribute to the controlling civ's score.
+Lost Wonders.
+Wonders are immune to and are never destroyed when the host city is captured. However, if the city itself is destroyed, the Wonder is deemed "lost", and its effects nullified. The and are unique, providing permanent effect for the rest of the game even if the Wonders are later lost.
+Strategy.
+Construction of a Wonder is a considerable investment of a city's time and resources. Wonders with city-specific effects may be desired in cities with limited local production; ensuring timely completion may entail strategizing supply convoys from trade units and/or disbanding spare military units to help reduce the [treasury](treasury) cost if rush-buying becomes necessary.
+Wonders are rendered obsolete once "any" civilization acquires the nullifying advance. This means a player may strategize to undermine a rival by focusing their to render a rival's Wonders inert: for instance, a civ owning the that has not built in its cities discretely will be made vulnerable by .
+At , computer-controlled players will not begin constructing a Wonder unless the human player possesses its requisite advance. In s that utilize divergent tech trees, this may mean faction-exclusive Wonders will never be built.
+Modding.
+Wonders are listed in the section of , beginning after the line for . Their order and effects are hard-coded, but their name, cost, , and prerequisite advance can be edited. Wonder obsolescence is defined in the section. Icons are located in the upper right-hand grid of .
+"" also uses higher-resolution 72x40px icons, located in . Optional large [Civilopedia](Civilopedia) images (242x195px) can be included as discrete files named in order of the improvement's definition in ( for the , for the , etc.).
+With the enabled, a fourth button is added to the , "Cheat!", that instantly constructs the selected item. The includes an option to clear all Wonders from the city, unflagging their completion status and allowing them to be rebuilt. [%23Lost%20Wonders](Lost Wonders) can only be re-enabled by .
+ listing in the is hard-coded, as are "The" prefixes for specific Wonders. The era headers can be customized under the section of .

@@ -1,0 +1,3 @@
+# Hospital (Civ5)/Civilopedia
+
+A hospital is an institution for diagnosing and treating the sick or injured, and for housing them during their recovery. Many hospitals are also teaching institutions, where student doctors and nurses learn their trade. The earliest hospitals were temples to certain gods associated with health and healing. Religious hospitals were established in Sri Lanka by 430 BC, and King Asoka of India created a chain of hospitals across Hindustan around 230 BC.

@@ -1,0 +1,7 @@
+# Paratrooper (CTP2)
+
+The Paratrooper is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Paratroopers are particularly useful for strategic assaults behind enemy lines. By loading them into the [Cargo%20Helicopter%20%28CTP2%29](Cargo Helicopter), players can move them to their destination, unload them and have them attack their target all within the same turn. The [Marine%20%28CTP2%29](Marine) is the only other unit with this rapid strike capability.
+Great Library entry.
+During World War II, military forces deployed parachute-equipped infantrymen called paratroopers. Planes laden with paratroopers could fly deep behind the front lines of conflict and drop directly on enemy emplacements. They could be used to interrupt supply lines, strike command centers, conduct reconnaissance and, perhaps most important, capture and hold crucial objectives like bridges and key terrain. Aircraft also enabled infantry to deploy quickly over a larger area. Paratroopers and airmobile forces became vital to peacekeeping and humanitarian missions beyond the reach of conventional, land-based transportation. One of the most famous uses of paratroopers occurred on June 6, 1944 in the invasion of Normandy, France. Allied paratroopers landed behind enemy lines before sunrise and covertly secured strategic areas to make it easier for other soldiers to come ashore from boats.

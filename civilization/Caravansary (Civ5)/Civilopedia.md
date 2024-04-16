@@ -1,0 +1,3 @@
+# Caravansary (Civ5)/Civilopedia
+
+As caravan routes expanded across the Middle East, Central Asia and North Africa, the need for places where pack-animal caravans could pause for rest, shelter and safety grew. Public caravansaries were complexes built outside the walls of towns and cities; private ones usually took the form of walled enclosures with storerooms and sleeping quarters, stables and kitchens, surrounding a central courtyard. The largest could accommodate hundreds of camels, mules or horses. Most caravansaries provided basic supplies - for a fee - such as water, fodder, food, clothing and other supplies for the journey. The oldest recorded caravansaries were found along the Persian Empire's Royal Road, stretching some 1600 miles from Sardis to Susa.

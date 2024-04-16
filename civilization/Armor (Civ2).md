@@ -1,0 +1,8 @@
+# Armor (Civ2)
+
+Armor is a -era in "[Civilization%20II](Civilization II)", available with the . It succeeds , and is the terminus of the unit line.
+Strategy.
+Armor is a significant upgrade from the cavalry line it replaces, and the strongest general-purpose ground unit in the game. Its high Attack strength and movement make it optimal for ing units in open field. It is less effective when facing es and ; remains optimal against entrenched defenders.
+Armor is technically the strongest land defender until the advent of : its 3 [hit%20points](hit points) give it better staying power than dedicated defensive units like ; however, this bonus is marginal against contemporary offensive units, while Armor's high cost makes it an inefficient choice for with low production.
+Civilopedia entry.
+The rise in the use of semi-automatic and automatic firearms in the late 19th and early 20th century led to the demise of horse-mounted cavalry. Attackers lost a significant advantage in both scouting and deployment as a result of the cavalry's vulnerability. It was only with the development of tanks, armored mobile attack vehicles equipped with high caliber guns, that a weapon was found which could once more be used to punch a hole through enemy field forces. First appearing in World War I, armored attack vehicles moved quickly and struck with power, while still possessing an effective defensive strength. Tanks are a powerful weapon against any ground unit.

@@ -1,0 +1,3 @@
+# Sheep (Civ4)/Civilopedia
+
+For centuries, sheep have had associations with many Mediterranean cultures. Many religions, such as Judaism and Christianity, use sheep-related images and parables. Raising sheep provided a steady source of income to ancient farmers since the animal can give milk, wool, and meat. Even in the 21st century, sheep can provide a return on investment of up to 400% of their annual cost (including reproduction gains).

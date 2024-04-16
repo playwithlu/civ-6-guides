@@ -1,0 +1,4 @@
+# Moai Statues (Civ4)/Civilopedia
+
+The Moai Statues are the most recognizable feature of Easter Island. Nine-hundred of these massive stone heads populate the island, most weighing up to 14 tons, with some reaching 82 tons and stretching forty feet into the sky.
+Theory holds that the Moai Statues were erected by the denizens of Easter Island around 1000 AD, the workers carving them at the Rano Raraku Quarry and transporting them to every corner of the island. The statues were dedicated to the various ancestors of the Easter Island natives. They also stood as symbols of status, showing that the commissioner had the power and wealth to hire the workers necessary to have one made and transported. While the Statues could be moved at a quick pace with less than twenty people, it took nearly three hundred more workers to feed and create tools for those transporting the enormous stone structures.

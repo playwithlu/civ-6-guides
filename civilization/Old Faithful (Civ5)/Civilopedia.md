@@ -1,0 +1,3 @@
+# Old Faithful (Civ5)/Civilopedia
+
+Old Faithful is a geyser found in Yellowstone National Park, in Wyoming, United States of America. First seen by Europeans in 1870 (and by natives some 10,000 years before that), Old Faithful was thus named because of the regularity of its eruption. The geyser shoots a column of boiling water to a height of some 100-175 feet every 60-90 minutes (the interval determined by the ferocity of the previous eruption). Geysers occur when subterranean water hits magma (molten rock). The water is instantly turned to steam, which rushes out the nearest available opening at tremendously high pressure. Old Faithful and the other 250 geysers in Yellowstone are enjoyed by some three million visitors each year.

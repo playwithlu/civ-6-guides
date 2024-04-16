@@ -1,0 +1,2 @@
+# Adjacency bonuses (Civ6)
+

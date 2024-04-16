@@ -1,0 +1,3 @@
+# Leopold II (Civ5)/Civilopedia
+
+The only European monarch to personally own a colony, Leopold II (ruled 1865-1909) acquired the vast Congo Basin through treaties with a variety of tribal chieftains which transferred their lands to his personal control. Eventually, his management proved so ruthless that international opinion forced the Belgian government to assume administration of the Congo as a colony.

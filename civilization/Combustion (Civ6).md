@@ -1,0 +1,7 @@
+# Combustion (Civ6)
+
+Combustion is a [Modern%20Era%20%28Civ6%29](Modern Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by extracting an Artifact.
+In "", it requires [Steel%20%28Civ6%29](Steel) and [Refining%20%28Civ6%29](Refining).
+Strategy.
+The invention of the internal combustion engine opens the way to modern day transport as we know it. Although the steam engine had already started a revolution in transport, and the smoke-belching iron monsters were crossing [Europe](Europe) on their rails, common people couldn't make such a good use of it. After all, it proved really difficult to make the steam engine small enough for personal transport, and here's where combustion comes in: its method of transforming energy into motion could be fit into a machine the size of a carriage. And since an important technological advancement cannot pass without causing a stir in the military, we get the Modern Era [List%20of%20units%20in%20Civ6/By%20class%23Heavy%20cavalry](heavy cavalry): the [Tank%20%28Civ6%29](Tank).
+In "", Combustion unlocks the [Supply%20Convoy%20%28Civ6%29](Supply Convoy), which provides adjacent [Military%20unit%20%28Civ6%29](military units) with bonuses to and healing. In "Gathering Storm", it also unlocks the [Golden%20Gate%20Bridge%20%28Civ6%29](Golden Gate Bridge), a useful [Wonder%20%28Civ6%29](wonder) for [Victory%20%28Civ6%29%23Culture](Cultural Victory) seekers who have a place to build it.

@@ -1,0 +1,3 @@
+# Trade Agreements (CivBE)
+
+In ', the [expansion%20pack](expansion pack) for ', the leaders of each faction can purchase or sell trade agreements with . The trade agreements a [List%20of%20sponsors%20in%20CivBE](sponsor) has to trade is dependent on the [Personality%20traits%20%28CivBE%29](personality traits) a player might have. Moreover, a player's relationship level with another sponsor will also determine the availability of a particular personality trait.

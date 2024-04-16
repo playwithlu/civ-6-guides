@@ -1,0 +1,9 @@
+# Biplane (Civ6)
+
+The Biplane is a [List%20of%20units%20in%20Civ6/By%20class%23Fighter](air fighter unit) in "[Civilization%20VI](Civilization VI)".
+In the "" expansion, the Biplane requires 1 to train and 1 per turn to maintain.
+Strategy.
+The Biplane is the first air unit that becomes available, and the only one that does not require to build. It also becomes available before almost any form of anti-air defense (with the exception of the [Battleship%20%28Civ6%29](Battleship) and the [Minas%20Geraes%20%28Civ6%29](Minas Geraes)), which will allow it to provide support to nearby land units without fear of retaliation until other [Civilizations%20%28Civ6%29](civilizations) reach the [Atomic%20Era%20%28Civ6%29](Atomic Era).
+Although its Ranged Strength of 75 is respectable, the Biplane suffers from an extremely limited range of operation. Even when deployed, its effective range from base is 6 [Tile%20%28Civ6%29](tiles), which is usually not enough to reach targets for offensive operations. This means that unless you have a squad of [Military%20Engineer%20%28Civ6%29](Military Engineers) ready to build [Airstrip%20%28Civ6%29](Airstrips) on your frontiers, you will have to use Biplanes for defense only.
+If air units are an important part of your strategy, be sure to research [Advanced%20Flight%20%28Civ6%29](Advanced Flight) and upgrade Biplanes to [Fighter%20%28Civ6%29](Fighters) as quickly as possible - this will make them much more powerful, and most importantly, much more mobile with more and .
+Air fighter units, including the Biplane, cannot be deployed to tiles in the [fog%20of%20war](fog of war) or in enemy territory even when the tile is within the deploy () range of the unit.

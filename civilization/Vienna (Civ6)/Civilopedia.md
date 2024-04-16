@@ -1,0 +1,4 @@
+# Vienna (Civ6)/Civilopedia
+
+The Habsburgs have made a mess of Vienna. Once the most important city in the Holy Roman Empire, a series of ineffectual emperors has reduced this once-thriving center of culture and trade to a coach with horses mounted at opposite ends. Most recently, murderous political reprisals have left the city without an effective government.
+The Ottoman Turks watch and wait. Already they have annexed Hungary and established a Transylvanian vassal state. Their opportunity to lay siege to Vienna's walls may come soon enough. If Vienna falls, could the Polish-Lithuanian Union be next?

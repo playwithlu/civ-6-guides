@@ -1,0 +1,3 @@
+# Great Library (Civ4)/Civilopedia
+
+The Great Library of Alexandria was one of the two most important libraries of the ancient world. Ptolemy I founded it around 300 BC, and it was enhanced and expanded by his successors. The library attempted to obtain copies of all scrolls of any consequence, and eventually contained over 700,000 volumes. Religious fanatics destroyed the library in 391 AD, after nearly 700 years of operation. During this period, Alexandria served as the cultural center of the Hellenistic world. Today, only part of the catalog remains, providing us with a mere hint of what treasures the library contained.

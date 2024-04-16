@@ -1,0 +1,2 @@
+# The Neural Amplifier (SMAC)
+

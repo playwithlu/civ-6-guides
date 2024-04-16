@@ -1,0 +1,3 @@
+# Hoplite (Civ5)/Civilopedia
+
+The Greeks mastered the art of spear warfare, creating long, deadly-sharp weapons and put them in the hands of highly trained hoplite soldiers moving in phalanx formation, which were nearly impossible for standard infantry or horsemen of the day to defeat. A soldier facing a Greek phalanx had to contend with not only the enemy he faced, but also with the spears of the two or three soldiers behind that enemy. The hoplite remained somewhat vulnerable to archery fire, of course, and it was nearly impossible to maintain a phalanx's formation in difficult terrain, but in flat, open terrain, the hoplites were extremely tough opponents.

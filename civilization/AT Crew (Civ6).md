@@ -1,0 +1,6 @@
+# AT Crew (Civ6)
+
+The AT Crew (short for "Anti-Tank Crew") is a [Modern%20Era%20%28Civ6%29](Modern Era) [List%20of%20units%20in%20Civ6/By%20class%23Anti-cavalry](anti-cavalry unit) in "[Civilization%20VI](Civilization VI)". It upgrades from the [Pikeman%20%28Civ6%29](Pikeman) (or its replacements).
+In the "" expansion, the AT Crew primarily upgrades from the [Pike%20and%20Shot%20%28Civ6%29](Pike and Shot).
+Strategy.
+The AT Crew has a revolutionary weapon which finally replaces pikes and gives soldiers a chance against the terrifying [Tank%20%28Civ6%29](Tank) that enters the battlefield in the Modern Era. Its rocket launcher can pierce the vehicles' heavy armor (and is simply devastating against more primitive cavalry units), so send your AT Crews to the front lines if an enemy is trying to use Tanks to break through. Just remember that, as anti-cavalry units, they are vulnerable to the attacks of [Infantry%20%28Civ6%29](Infantry) and other [List%20of%20units%20in%20Civ6/By%20class%23Melee](melee units).

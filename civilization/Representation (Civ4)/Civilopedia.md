@@ -1,0 +1,3 @@
+# Representation (Civ4)/Civilopedia
+
+In a representative government the population elects a number of "representatives" to run the government on their behalf. The representatives serve for a limited time and then must stand for reelection. These representatives form a group (council, parliament, senate, etc.) that determines and implements government policy. In some cases the government may have a monarch at its head, while in other cases there may be a separately elected ruler (as in the United States), or the representatives themselves may elect one or more of their members to be the executive power.

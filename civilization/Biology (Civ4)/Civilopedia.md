@@ -1,0 +1,5 @@
+# Biology (Civ4)/Civilopedia
+
+Biology is the study of living organisms, and it has been around since man began to think. The biology technology specifically refers to the study of bacteria, viruses and cells that became possible once the first powerful microscopes were invented.
+The benefits to humanity from this research are incalculable. The basic knowledge of how germs spread and the importance of cleanliness has saved untold millions of lives, inside of hospitals and out. Antibiotics, such as penicillin, have saved countless more, as have vaccinations. This study of biology has also led to increased food production, as ways are learned to create better and more disease-resistant plants and livestock.
+Great strides continue to be made in biology. The study of genetics alone has the potential to do great things for mankind...or to destroy it, if the new technology is not used with the respect and caution it deserves.

@@ -1,0 +1,3 @@
+# Extended Range Systems (Civ4)/Final Frontier/Civilopedia
+
+The rapid military escalation of the past took a small hiatus with the discovery of Extended Range System algorithms, an offshoot of the intuitive computers that had pushed forward much of recent military innovation. Extended Range Systems made logical mid- to deep-future predictions with a near 75% accuracy. This meant that a missile could be fired with near pin-point precision before its target had even taken off from the landing pad, once again increasing the value of Cruisers. In the domestic sector, Extended Range Systems allowed the accurate use of previously indecipherable Piperian economic theorems, allowing Planned Economies to thrive at a level never before thought possible.

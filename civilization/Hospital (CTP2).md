@@ -1,0 +1,7 @@
+# Hospital (CTP2)
+
+The is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+A Hospital is a great step towards the control and prevention of disease in a city. Citizens who have regular visits with a medical professional tend to be healthier, and healthy citizens live longer and have better birth rates.
+Great Library entry.
+In the 1850s and 60s, hospitals were overcrowded, poorly ventilated, inadequately cleaned places. Hospital care was considerably more dangerous to peoples' health than home care, and as many as 25 percent of patients died after surgery due to poor sanitation. However, in 1865, British surgeon Joseph Lister introduced sanitation techniques that vastly increased the safety of hospitalization. The care of the patient improved with the introduction of formal nurses training schools. The first U.S. nursing schools were founded independently in 1873 by New York's Bellevue Hospital, Boston's General Hospital and the New Haven Hospital in Connecticut. The development of X rays and the clinical laboratory in the 1890s further improved the quality of care available to patients and prompted the opening of many new hospitals, including religious hospitals and hospitals that specialized in the treatment of women or children. The number of for-profit hospitals owned by doctors also increased between 1890 and 1920.

@@ -1,0 +1,3 @@
+# Technologies (Starships)
+
+In "[Sid%20Meier%27s%20Starships](Sid Meier's Starships)", all technologies are available for research right from the beginning. Each technology improves a particular aspect of your ships, and each technology can be researched multiple times to boost that aspect further and further. Each new level of a technology always costs more than the previous one. Technologies are paid with Science.

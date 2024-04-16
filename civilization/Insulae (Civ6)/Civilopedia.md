@@ -1,0 +1,3 @@
+# Insulae (Civ6)/Civilopedia
+
+Once people came pouring in on all those roads that led to Rome, they had to live someplace in the urban sprawl; thus, the 'insulae,' a kind of apartment building built of stone and concrete (which the Romans invented), evolved as housing for the lower and middle class plebs. Five or six stories high (although some were larger), the ground floor was taken up by shops with residential apartments upstairs … the best being those nearest to the ground. But the insulae were prone to collapse, and fire was an ever-present danger. Augustus and later Nero set construction standards; nevertheless, by the 4th Century it is estimated that there were around 42,000 to 46,000 insulae in the city.

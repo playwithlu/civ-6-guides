@@ -1,0 +1,4 @@
+# Liberalism (Civ4)/Civilopedia
+
+Liberalism is a political philosophy that states that a government's primary purpose is to protect its citizens' personal liberty and property. Personal liberty usually includes freedom of religion and expression. Modern liberalism is a child of the "Age of Enlightenment" in the 18th century, which sought to free the world of irrationality, superstition and tyranny.
+"Liberalism" has meant many different things in different times and places. In its early European incarnation, liberalism saw itself in opposition to the rule of absolute monarchs and (often) the Church. Later, liberalism's great enemies were communism and fascism. In the modern United States, liberals are opposed to the policies of "conservatives," whom the liberals believe seek to restrict personal freedom and favor the wealthy over the poor. Of course, conservatives have an entirely different view on the matter...

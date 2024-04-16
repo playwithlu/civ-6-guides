@@ -1,0 +1,3 @@
+# Galactic Domination (Civ4)/Final Frontier/Civilopedia
+
+The heightened conflict that arose from the dissemination of the Fusion Cannon schematics quickly swept the universe, leading to a level of warfare development heretofore not thought possible. As a new generation of Carriers made their way through the lightless battlefields of space in hopes of countering the mighty class Battleship, the time for the ultimate conflict was at hand. Galactic Domination was man's only solution.

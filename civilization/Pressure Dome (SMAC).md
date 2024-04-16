@@ -1,0 +1,6 @@
+# Pressure Dome (SMAC)
+
+ is a [base%20facility%20%28SMAC%29](base facility) in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)". Prevents base from submerging when the terrain changes (base will turn into a naval base.) Also counts as a Recycling Tanks.
+Strategy.
+Functionally useless for most bases, however it fills a very important niche. When bases get submerged its usually due to global warming and this protects them. It's a worthwhile build if a very productive base is on the coastline and in coastal bases in general if someone is cranking up eco damage. Also be wary of the council voting to melt the ice caps. 
+Another small bonus is any naval base will have pressure dome for free. This gives very new bases a small productivity boost unless you're playing as a progenitor that have free recycling tanks anyway. This makes naval bases more tempting though it doesn't compare to the terraforming options and minerals you can get on land, not to mention recycling tanks are one of the cheapest facilities anyway. However this is a significant boost to pirates if you only build naval bases, as they have a mineral boost to ocean squares to compensate.

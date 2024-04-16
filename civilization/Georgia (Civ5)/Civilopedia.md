@@ -1,0 +1,3 @@
+# Georgia (Civ5)/Civilopedia
+
+Inhabited since the early Stone Age, the complete unification of the area did not occur until the 11th century AD, under King Bagrat V. The new kingdom of Georgia quickly flourished and reached its zenith only one short century later. This Georgian Renaissance brought a multitude of advancements to the area, including breakthroughs in philosophy, the penmanship of epic poetry, and the construction of exquisite cathedrals. Despite its quick and successful development, the Georgian Golden Age came crashing to an end with the Mongol invasion in 1236; the kingdom completely collapsed by the end of the 15th century.

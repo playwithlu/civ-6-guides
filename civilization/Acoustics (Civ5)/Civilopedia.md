@@ -1,0 +1,4 @@
+# Acoustics (Civ5)/Civilopedia
+
+Acoustics is the study of sound. Sounds are waves of energy transmitted through gases, liquids and solids. The most important aspect of acoustics of course is that humans can "hear" sounds, and much of the current research involves improving human reception of sounds, especially for the deaf. Acoustics is used in other applications as well, including sonar. Sonar allows equipment to "hear" undersea vessels, animals and geological formations.
+Since acoustics require a medium in which the waves of energy can be transmitted, sound does not travel in the vacuum outside of Earth's atmosphere.

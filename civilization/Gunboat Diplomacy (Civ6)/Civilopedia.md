@@ -1,0 +1,3 @@
+# Gunboat Diplomacy (Civ6)/Civilopedia
+
+Gunboat diplomacy – or, in Teddy’s words, the “Big Stick” policy – is the pursuit of foreign policy objectives through conspicuous demonstrations of overwhelming military force, with the threat of open hostilities underlying the display by the more powerful nation. Roosevelt himself described it as “the exercise of intelligent forethought and of decisive action sufficiently far in advance of any likely crisis.” The term came into popular usage during the period of European imperialism, as the colonial powers used the presence of warships to force concessions (e.g. Perry's Black Ship, the Paknam Incident, etc.).

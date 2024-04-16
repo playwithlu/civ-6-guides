@@ -1,0 +1,3 @@
+# Advanced Ballistics (Civ5)/Civilopedia
+
+Ballistics is the science of shooting or throwing projectiles great distances with great precision. Advanced ballistics is more of the same, with the distances increased to continent-spanning scale. Modern artillerists can shoot explosive rounds dozens of miles with great accuracy, and missiles can be fired at precise targets half-way around the planet. When embellishments like GPS and laser guidance are included, there is virtually no target anywhere in the world that can't be hit by some weapon somewhere. Whether this is a good thing is open to debate; it largely depends upon whose finger is on the firing button.

@@ -1,0 +1,4 @@
+# Cuirassier (Civ4)/Civilopedia
+
+The Cuirassier was the last step in the evolution of European armored cavalry. Drawing their name from their heavy, metal breastplates - or "cuirasses" - the Cuirassiers were the heaviest of the heavy cavalry.
+The earliest Cuirassiers, born in the 15th century, were armored head-to-toe and armed with heavy saber and pistols. As European warfare began to rely more on firearms, much of this heavy armor was shed to increase mobility, eventually adapting into what is now recognized as the standard Cuirassier uniform - a breastplate and helm. Fielded almost exclusively in the battles of continental Europe, the Cuirassier saw its most widespread use under the command of Napoleon, who was fielding 14 regiments of the cavalrymen by 1812.

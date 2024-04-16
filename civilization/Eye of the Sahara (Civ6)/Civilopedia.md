@@ -1,0 +1,4 @@
+# Eye of the Sahara (Civ6)/Civilopedia
+
+A great blue eye gazes out from the sands deep within the Sahara Desert, and few alive have seen it for themselves. This unblinking Eye of the Sahara, formally known as the Richat Structure, is nearly twenty-five miles across. Its vibrant colors make an easily recognizable landmark for astronauts, some of the few who have seen it in its entirety.
+While the origins of the Richat Structure remain widely debated, the initial speculation of a meteorite impact bore no fruit. The prevailing geological theory is that the Eye of the Sahara is an “eroded symmetrical uplift” (more plainly, a type of dome made from layered rocks).

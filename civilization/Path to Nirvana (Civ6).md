@@ -1,0 +1,12 @@
+# Path to Nirvana (Civ6)
+
+&lt;choose&gt;
+&lt;/choose&gt;
+Path to Nirvana is a [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)" that was released with the [Khmer%20and%20Indonesia%20Civilization%20%26amp%3B%20Scenario%20Pack%20%28Civ6%29](Khmer and Indonesia Civilization &amp; Scenario Pack).
+Intro.
+May the blessings of Heaven descend upon you, o ruler! Many religions are practiced in these lands, and many creeds promise salvation. Will you spread your word into the hearts of the people? Or will these souls be swayed by other creeds?
+Gameplay.
+In this scenario, you control one of seven different East Asian [Civilizations%20%28Civ6%29](civilizations), each of which begins play with one or more [Civics%20%28Civ6%29](civics) discovered and its own [Religion%20%28Civ6%29](religion) with a fixed set of beliefs. , , , and [Diplomacy%20%28Civ6%29](diplomacy) are disabled, cultural [Borders%20%28Civ6%29](borders) are fixed, [Trader%20%28Civ6%29](Traders) do not build [Tile%20improvement%20%28Civ6%29%23Roads](roads), and features cannot be removed. The [Commercial%20Hub%20%28Civ6%29](Commercial Hub) and [Harbor%20%28Civ6%29](Harbor) [District%20%28Civ6%29](districts) and their [Buildings%20%28Civ6%29](buildings) provide and instead of their usual yields, and the [Mosque%20%28Civ6%29](Mosque), [Pagoda%20%28Civ6%29](Pagoda), [Stupa%20%28Civ6%29](Stupa), and [Wat%20%28Civ6%29](Wat) are all unlocked by [Printing%20%28Civ6%29](Printing) (though a civ still needs the appropriate belief to build or purchase them).
+[Units%20%28Civ6%29%23Religious](Religious units) play a pivotal role in this scenario: they all start with a , and each class has its own promotion table. They can also be trained at a cost equal to their base purchasing cost.
+Every [City-state%20%28Civ6%29](city-state) in this scenario except [Kashgar%20%28Civ6%29](Kashgar) provides a [Suzerain%20%28Civ6%29](Suzerain) bonus determined by its type, and the bonuses for becoming the Suzerain of multiple city-states of the same type are not cumulative. In addition, civs can convert city-states to their religion by sending them s, each of which adds 300 Religious pressure.
+At the end of 50 turns, you and all the other players receive [Victory%20Points](Victory Points) (VP) at the rate of 1 per point of you are generating each turn, 1 per Citizen following your religion, and 20 per foreign [City%20%28Civ6%29](city) following your religion. The player with the most VP wins.

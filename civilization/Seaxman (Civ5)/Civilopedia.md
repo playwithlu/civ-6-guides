@@ -1,0 +1,3 @@
+# Seaxman (Civ5)/Civilopedia
+
+The seax is a large knife or short, curved sword with a notched blade and favored by many warriors of Celtic and Frankish tribes. Equally useful as both a tool and a weapon, the seax was particularly effective in close-range, melee combat. Over the decades of the barbarian migrations, various versions were developed, including the schmalsax (narrow seax) and the breitsax (broad seax) as well as long and short versions of each. In the epic poem Beowulf, the hero uses a seax to chop apart a dragon and Grendel's mother uses one when fighting Beowulf.

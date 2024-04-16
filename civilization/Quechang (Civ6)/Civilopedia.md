@@ -1,0 +1,3 @@
+# Quechang (Civ6)/Civilopedia
+
+The quechang or "controlled trade site" was an Imperial Chinese area where all international trade was required to pass, in order to be subjected to trade control and taxed. They first appeared during the Jin dynasty in 1142, and the most important were located along water routes and main overland trade routes. However, despite the government effort to route all international trade through these centers, there was strong incentive to find more flexible arrangements between informal agents, especially ones not interested in paying taxes (read: Smugglers).

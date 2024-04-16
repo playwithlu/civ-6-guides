@@ -1,0 +1,3 @@
+# Skyscrapers (Civ5)/Civilopedia
+
+Early in Soviet rule in Russia, the state sought to gain prestige and pride for its people through the construction of massive projects, which would be validation of Soviet superiority and organization. The first skyscraper project was the "Seven Sisters" in Moscow, a group of seven buildings in the Stalinist style of architecture, an elaborate blend of Russian Baroque and Gothic styles; although construction was interrupted by the outbreak of war in 1941, the massive towers were eventually completed in 1956 using American technology and methods. Afterwards, the Soviet Union built dozens of modern skyscrapers in its republics and client states, from Warsaw to the Kazakhstan provincial capital.

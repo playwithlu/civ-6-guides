@@ -1,0 +1,3 @@
+# Temple of Kukulcan (Civ3)/Mesoamerica/Civilopedia
+
+The Temple of Kukulcan (also known as El Castillo or the Temple of Quetzalcoatl) is one of the best-known Mayan buildings in Chichen Itza. The structure itself is a typical four-sided step temple, but at its base rests stone pillars carved with feathered serpents (revealing the strong Toltec/Aztec influence). Many archeologists believe that its design is based upon the Mayan calendar, since each stairway has 90 steps. Add the total steps to the number of stairways plus the top platform, and you reach the number of 365 (the number of days in our typical calendar year).

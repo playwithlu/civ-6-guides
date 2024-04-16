@@ -1,0 +1,3 @@
+# Merchant Fleet (Civ5)/Civilopedia
+
+In the face of depradations from buccaneers and privateers, in the mid-1500s the Spanish and Portuguese adopted an early form of convoys for their merchant ships plying the Atlantic trade routes. Whereas the treasure fleets were usually accompanied by warships, the private merchant fleets were not; hence many of the galleons - laden with tobacco, spices, lumber, sugar, grain, pearls and other luxuries for the European markets - were armed with cannons and carronades to ward off the smaller pirate ships.

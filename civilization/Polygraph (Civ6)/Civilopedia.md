@@ -1,0 +1,3 @@
+# Polygraph (Civ6)/Civilopedia
+
+The famous "lie detector" is based on the assumption that evasive answers, lies, or deception produce physiological changes in an individual which can be detected with sufficiently sensitive equipment. In a polygraph session, the interrogator asks the subject a series of questions, some of which are designed to elicit these physiological responses by making the subject answer evasively to hard (and usually unexpected) questions. Unfortunately, polygraphy has not been shown as a reliable method for detecting evasiveness or deception, and is generally falling out of favor among scientists and evidence-based counterintelligence officers.

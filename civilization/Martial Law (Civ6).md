@@ -1,0 +1,5 @@
+# Martial Law (Civ6)
+
+Martial Law is a Military [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)". In "", it becomes a Wildcard Policy Card and is only available after adopting [Fascism%20%28Civ6%29](Fascism) as a [Government%20%28Civ6%29](government).
+Strategy.
+Martial Law reduces the rate of [War%20weariness%20%28Civ6%29](war weariness) accumulation and provides garrisoned [City%20%28Civ6%29](cities) with a [Loyalty%20%28Civ6%29](Loyalty) bonus that increases in each expansion. It's invaluable for warmongers making a late-game push toward a [Victory%20%28Civ6%29%23Domination](Domination Victory), and all but ensures that [Cyrus%20%28Civ6%29](Cyrus), the [Zulu%20%28Civ6%29](Zulus), and the [Ottoman%20%28Civ6%29](Ottomans) won't have to assign [Governor%20%28Civ6%29](Governors) to the cities they capture in order to hold them.

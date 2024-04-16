@@ -1,0 +1,3 @@
+# Celestial Knowledge (Civ3)/Civilopedia
+
+Understanding the heavens, and using the stars, the moon, and the sun to calculate time of day and to monitor the beginning and ending of seasons, was an important aspect of all Mesoamerican cultures. The Mayans, for example, used a series of detailed astronomical calculations to devise their intricate calendars. Astronomy was also very important to their ritualistic practices. The Mayans believed that the universe was filled with dangerous forces that, if not contained by the proper rituals, could do incalculable harm to the earth. Thus, an understanding and appreciation of the sky was important for the psychological and physical well being of the Mayan people.

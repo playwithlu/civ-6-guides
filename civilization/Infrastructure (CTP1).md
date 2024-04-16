@@ -1,0 +1,5 @@
+# Infrastructure (CTP1)
+
+Infrastructure converts into within the city. The government type determines the conversion rate. This improvement remains a build item until it is replaced with another item. Infrastructure requires .
+Great Library entry.
+Infrastructure is the system of public works that supports the development of a civilization. The Romans could build cities on grand scales because of their engineering feats. By 97 AD, the Romans channeled water through a system of aqueducts to provide 85 million gallons of water per day to Rome. Nearly two millennia later, the United States created the Tennessee Valley Authority in 1933 to build up America's infrastructure. The TVA built dams and irrigation, replanted crops and forests, generated electricity and taught farmers new methods to prevent the loss of topsoil. Equally important, the TVA provided jobs to thousands of Americans who lost their jobs during the Great Depression of the 1930's.

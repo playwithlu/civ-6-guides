@@ -1,0 +1,9 @@
+# Phalanx (Civ1)
+
+The Phalanx is an early defensive military unit.
+It is highly important for defending cities at the start of a game, and, fortified in a city, will usually fend off most early rival and [Barbarian%20%28Civ1%29](barbarian) attacks, at least until they bring [Catapult%20%28Civ1%29](catapults) or [Knights%20%28Civ1%29](knights) to your doorstep. 
+A city in the early game with a fortified phalanx unit will usually be safe during peace-time, or if it is far from military confrontations. For cities nearer to danger, two phalanx units, possibly backed up by an attacking unit, usually ensures a secure city.
+Phalanx units are also useful for sieging cities - they can sit on a valuable square for [Food%20%28Civ1%29](food) or [Production%20%28Civ1%29](resources), and drain a rival city of its power. This is especially effective on [Mine%20%28Civ1%29](mined) [Coal%20%28Civ1%29](coal) [Hills%20%28Civ1%29](hills). 
+Although they are slow, if you have one spare, they make useful explorers, and are less risky for entering villages, as they can usually best most, if not all, barbarians that may arise from entering that square.
+Civilopedia entry.
+A military formation developed in Greece and perfected in Macedonia, the Phalanx was a large block of men in ranks and files, generally ranging from 8 to 32 men deep. All were armed with long pikes. The first five ranks of men presented their pikes outward, forming a bristling barrier of spearpoints, while the others kept their pikes upright to deflect missiles. An enemy had difficulty closing with the men behind the pikes. On the attack, the enemy was faced with this densely-packed body of pikemen advancing, often at the run, and usually had to give ground or risk being impaled en masse.

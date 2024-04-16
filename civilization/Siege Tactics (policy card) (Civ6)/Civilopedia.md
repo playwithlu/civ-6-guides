@@ -1,0 +1,3 @@
+# Siege Tactics (policy card) (Civ6)/Civilopedia
+
+Given that most of the towns they attacked either had no walls or simple wooden palisades, and that Viking strategy relied on mobility and ferocity and surprise, Viking “siege weapons” tended at most to be improvised rams or towers. In Abbo’s account of the siege of Paris in 845 AD, crude ballistae are mentioned in passing … but no other extant works refer to the Vikings as using siege weapons; rather they just used ladders to battle over the walls and get inside.

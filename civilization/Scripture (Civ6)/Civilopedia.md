@@ -1,0 +1,3 @@
+# Scripture (Civ6)/Civilopedia
+
+The oldest religious text found so far dates to ancient Sumer around 2600 BC. It was the first example of scripture, a text that is considered to be sacred or central to a religious tradition. The oldest of a still existing religion is likely the Rigveda of Hinduism, composed between 1700 and 1100 BC. The claim of God’s (whoever it may be) Word “made manifest” is an undeniable selling point to would-be converts; it is not surprising that the five largest existing religions all have a primary scripture: Buddhism (the Tripitaka), Hinduism (Vedas and Upanishads), Islam (Qur'an), Judaism (Tanakh), and Christianity (Bible).

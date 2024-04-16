@@ -1,0 +1,5 @@
+# Joseph Paxton (Civ6)/Civilopedia
+
+Born in 1803 among a family of farmers, Joseph Paxton’s “green thumb” was cultivated from an early age. In his youth, he held a number of jobs gardening, which he took to with great enthusiasm and natural skill.
+So skilled was he, in fact, that in 1826 he was appointed head gardener at Chatsworth House, the estate of the duke of Devonshire. It was here that his interest in the design and building of greenhouses began, among other projects – a rock garden, fountain, and feeder lake. 
+All of this came to a head in 1850, when his design for a temporary exhibition hall, The Crystal Palace, was accepted as the design for the Great Exhibition of 1851. The unique structure of glass and iron was revolutionary – but more importantly, cheap. And so, it became an icon of the exhibition and an inspiration for greenhouse design even today.

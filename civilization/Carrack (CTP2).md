@@ -1,0 +1,10 @@
+# Carrack (CTP2)
+
+The Carrack is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Summary.
+Can Transport up to three land units.
+Gameplay.
+The Carrack is a large naval cargo vessel introduced in the . It is capable of transporting up to three land units across the ocean. It is a step up from the in both range and capacity.
+Great Library entry.
+One of the most popular and versatile ships of late 15th and early 16th century Europe, the carrack was ideal for both trade and warfare. Initially designed as a two-mast ship, shipbuilders eventually added a third mast to accommodate more sails. This enabled the carrack to meet the load and speed requirements that the increasing scale, frequency and range of international trade demanded. As designers added multiple masts, they also elongated the hull; keels were often two and a half times as long as the ship's beam (width). The hull, which consisted of large, caulked planks laid end to end against a frame, distinguished the carrack from clinker-style ships with hulls of overlapping planks. Weighing between 700 to 1000 tons, Carracks were two to three times heavier than their early 15th-century predecessors.
+Carracks' high sides made them easily defensible. They could be adapted to carry troops or horses, and they could withstand attacks well. Two of the most famous Carracks were the Santa Maria, one of Christopher Columbus' legendary fleet of ships, and the Mary Rose. Built in 1510 at the order of King Henry VIII of England, the 105-foot battle carrack carried cannons fired out of gun ports cut into the sides of the ship. However, gun ports were a vulnerability for the Mary Rose and similarly designed carracks. When the ship listed to the side, water could pour in and sink it. Historians speculate that the Mary Rose, which sank in 1545, most likely met this fate. Regardless of this, the carrack served both trade functions and war duties admirably.

@@ -1,0 +1,2 @@
+# Democratic Legacy (Civ6)
+

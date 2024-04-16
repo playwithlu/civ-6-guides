@@ -1,0 +1,4 @@
+# Pomare I (Civ5)/Civilopedia
+
+The founder of the Pomare dynasty, Tu-nui-ea-i-te-atua-i-Tarahoi Vairaatoa Taina Pomare I was born at Pare around 1742 or 1743, second son of the chief Teu Tunuieaiteatua. As he ascended to become chief, he united three different chiefdoms on the island Tahiti into a single kingdom. He remained king of the islands of Tahiti, Mo'orea, Meheti'a, and Teti'aroa until his abdication in 1791, but he was regent of Tahiti until his death in 1803.
+The Pomare dynasty achieved close ties to the English missionaries and traders of the Pacific, and remained in power until the French abolished the Tahitian monarchy in the 1880s. Pretenders of the Pomare still live today.

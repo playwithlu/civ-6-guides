@@ -1,0 +1,5 @@
+# Constructing cities (CivRev)
+
+This section of the [City%20%28CivRev%29](city) help is designed to provide you with all the information you will need on building and constructing cities.
+Cities are started in two ways: with [Settlers%20%28CivRev%29](Settlers) or, for the [Mongolian%20%28CivRev%29](Mongols) only, by capturing a [Barbarian%20%28CivRev%29](Barbarian) village.
+Cities are built by Settlers. You are given one Settlers [List%20of%20units%20in%20CivRev](unit) at the start of the game to construct your first city; as the game progresses you'll need to build more Settlers to found new cities and expand your empire. From time to time you may encounter villages which will provide you with Settlers, but this is rare so don't rely on this method. Instead, go to your city and build Settlers.

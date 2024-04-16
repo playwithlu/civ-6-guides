@@ -1,0 +1,3 @@
+# Tezcatlipoca's War Rage (Civ3)/Civilopedia
+
+Tezcatlipoca, also known as the “smoked mirror”, was a prominent god in Toltec society. His nature was warlike and tyrannical, and legend has it that Ce Acatl Topiltzin, the greatest Toltec ruler and priest of Quetzalcoatl, was driven from the city of Tula by followers of Tezcatlipoca. Topiltzin and his followers fled south, where they eventually captured the Mayan city of Chichen Itza.

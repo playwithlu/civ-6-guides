@@ -1,0 +1,4 @@
+# Aachen
+
+Aachen, also known as Aix-la-Chapelle, is the [German](German) [capital](capital) in "[Civilization%20VI](Civilization VI)" (under [Frederick%20Barbarossa%20%28Civ6%29](Frederick Barbarossa)), the [Holy%20Roman](Holy Roman) capital in "", and a German [city](city) in other games. In real life, it is the westernmost city in present-day Germany and the site of 31 Holy Roman Emperors' coronations.
+In [scenario](scenario)s, it may appear as the [Burgundian](Burgundian) capital in [Middle%20Ages](Middle Ages) and the [Frankish](Frankish) capital in [Vikings%2C%20Traders%2C%20and%20Raiders%21](Vikings, Traders, and Raiders!).

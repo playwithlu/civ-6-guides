@@ -1,0 +1,5 @@
+# Their Finest Hour (Civ6)
+
+Their Finest Hour is a Military [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)". In "", it becomes a Wildcard Policy Card and is only available after adopting [Democracy%20%28Civ6%29](Democracy) as a [Government%20%28Civ6%29](government).
+Strategy.
+Their Finest Hour is handy in a pinch when being invaded, especially in "Gathering Storm". On top of increasing the speed of [Air%20unit%20%28Civ6%29](aircraft), it gives [Unit%20%28Civ6%29](units) in your [Territory%20%28Civ6%29](territory) a home-field advantage they may desperately need, depending on how prepared you were for defense. The Combat Strength bonus applies to [Nihang%20%28Civ6%29](Nihang) and [Vampire%20%28Civ6%29](Vampires) but not to [Warrior%20Monk%20%28Civ6%29](Warrior Monks) or [Giant%20Death%20Robot%20%28Civ6%29](Giant Death Robots).

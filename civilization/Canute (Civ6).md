@@ -1,0 +1,3 @@
+# Canute (Civ6)
+
+Canute, King of Denmark, is a playable [Leaders%20%28Civ6%29](leader) from the [Vikings%2C%20Traders%2C%20and%20Raiders%21%20%28Civ6%29](Vikings, Traders, and Raiders!) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". He leads the [Danish%20%28Civ6%29](Danes), and his [Unique%20ability%20%28Civ6%29](leader ability) is "North Sea Empire," which provides him with an extra military [Policy%20card%20%28Civ6%29](policy slot) and the ability to train [Settler%20%28Civ6%29](Settlers), [Viking%20Longship%20%28Civ6%29](Viking Longships), and [Missionary%20%28Civ6%29](Missionaries) and build [Harbor%20%28Civ6%29](Harbors).

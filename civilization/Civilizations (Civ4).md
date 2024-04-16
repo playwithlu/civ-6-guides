@@ -1,0 +1,3 @@
+# Civilizations (Civ4)
+
+There are 18 civilizations with 26 [Leaders%20%28Civ4%29](leaders) in "[Civilization%20IV](Civilization IV)". ' adds 6 new civilizations each with their own leader, and 4 new leaders for existing civilizations. ' adds 10 new civilizations, each with their own leader, and 6 new leaders for existing civilizations. This totals 34 civilizations and 52 leaders in "Civilization IV" and its expansion packs.

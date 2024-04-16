@@ -1,0 +1,3 @@
+# Guided Missile (Civ4)/Civilopedia
+
+Artillery was the only option for long-range, earthborn destruction until the creation of the Guided Missile. Created by German scientists during WWII, the first Guided Missile, the V, was essentially a long-range flying bomb. The V Missile, and the technology behind it, was rapidly upgraded during the Cold War, and later missiles became more precise with more formidable ranges. Capable of carrying a nuclear or conventional explosive payload, modern Guided Missiles fill a wide range of defense needs.

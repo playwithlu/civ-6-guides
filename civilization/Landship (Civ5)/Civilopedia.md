@@ -1,0 +1,3 @@
+# Landship (Civ5)/Civilopedia
+
+Conceptualized by British engineers during World War I as a solution to the constant stalemates afforded by the proliferation of trench warfare, the tank grew to become a crucial component of land-based warfare. Although the earliest tank designs proved to be cumbersome, both allied and opposition forces experimented with tank concepts throughout the war. Reliability, weight, and maneuverability were all major hurdles overcome only through continued trial and error.

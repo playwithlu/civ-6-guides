@@ -1,0 +1,3 @@
+# Great Galleass (Civ5)/Civilopedia
+
+The original design of the galleass evolved from that of large merchant galleys, and remained relatively unchanged until 1660 AD when Venice built its first ship-of-the-line. It usually had three lateen-rigged masts, and was characterized by a forecastle as well as an aftcastle. Carrying more sails and oars than a standard galley for increased speed, these Venetian warships also had a gundeck that ran over the rowers heads. In the Mediterranean, the Venetian Galleass remained in service long after it had been replaced with larger, studier, more seaworthy warships by other nations.

@@ -1,0 +1,5 @@
+# Scrambled Continents Map Pack (Civ5)
+
+The Scrambled Continents Map Pack (also called Map Pack Scrambled Continents) is a [DLC](DLC) for "[Civilization%20V](Civilization V)" released on October 15, 2013. It is now available to purchase on various digital game distributors including [Steam](Steam).
+Steam Description.
+"The Scrambled Continents map pack includes real geographic locations with special scripts that produce randomized interiors each time a new game begins. While the familiar outline of the continent’s geography stays constant, the inner heart of the world changes each time you play for endless replayability on countless plausible worlds. Maps include Africa, Eastern Asia, North and South America, Western Europe, the Middle East, a thawed Antarctica, new scripted maps for Small Continents and Oceania, plus one map including all of Earth’s continents."

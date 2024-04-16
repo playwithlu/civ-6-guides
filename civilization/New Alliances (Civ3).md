@@ -1,0 +1,2 @@
+# New Alliances (Civ3)
+

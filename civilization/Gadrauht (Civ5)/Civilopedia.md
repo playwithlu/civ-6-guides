@@ -1,0 +1,3 @@
+# Gadrauht (Civ5)/Civilopedia
+
+The Gothic tribes had no standing army, instead relying on Gadrauhts, or short-term militia. Generally armed with thrusting spears, throwing spears and shields, although some had swords and bows, these unarmored levies were particularly effective in melee in rough terrain where the rigid military formations the Romans favored proved unwieldy. Commonly organized in hundafabs, literally "hundred armed men," along tribal lines, the Gadrauhts were unreliable in pitched battle, as likely to fight to the last man as to flee when the tide turned against them.

@@ -1,0 +1,7 @@
+# Hit Musicals (Civ4)
+
+Hit Musicals, like [Hit%20Singles%20%28Civ4%29](Hit Singles) and [Hit%20Movies%20%28Civ4%29](Hit Movies) and unlike other resources, cannot be obtained by improving a tile. Instead, the owner of the [Broadway%20%28Civ4%29](Broadway) wonder obtains a certain number based on the map size. Other players must trade with them or conquer the wonder to get it.
+Strategy.
+As the owner of the Broadway wonder has a monopoly on this resource and controls who does or doesn't have it, it's great for a builder playing the diplomatic game.
+Providing AI leaders with resources boosts their relations to you, which helps reduce the risk of war. If they decide to go to war with you anyway, they'll take a happiness hit from losing the resource. The risk of a happiness hit could also help put other players off trying to attack you in multiplayer, though you'd likely need a monopoly on all three resources for it to be significant enough.
+As with the other "Hit" resources, [Roosevelt%20%28Civ4%29](Roosevelt) is a very good leader to aim for the attached wonders due to [American%20%28Civ4%29](America's) unique building boosting their effectiveness and Roosevelt being an Industrious leader.

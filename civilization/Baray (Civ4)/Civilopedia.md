@@ -1,0 +1,4 @@
+# Baray (Civ4)/Civilopedia
+
+First built under the reign of the Khmer King Yasodharapura, Barays were massive reservoirs designed to provide sustenance and clean water for the surrounding populace. The first Baray, known as the East Baray, was constructed in the late ninth century. The above-ground levee relied on a series of huge earthen walls to catch falling rain water in the reservoirs, which were capable of holding over 60 million cubic meters of liquid.
+A second Baray, the Western Baray, was built under the reign of Suryavarman I. The Western Baray was similar in design to the first, if a bit larger, to provide for the increased Khmer population. This new Baray would become an invaluable source of sustenance as the kingdom of Khmer reached new heights under the reign of Suryavarman II.

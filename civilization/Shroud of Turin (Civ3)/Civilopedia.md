@@ -1,0 +1,3 @@
+# Shroud of Turin (Civ3)/Civilopedia
+
+The Shroud of Turin holy relic is a fourteen-foot long linen cloth. It is considered to be the burial shroud for Jesus Christ after his crucifixion. The cloth contains an image of a human that has been scourged, crucified, and wounded with a crown of thorns. It was removed from Jerusalem to the city of Edessa in Eastern Turkey, where it was discovered in the city walls in 544 and placed in a church. In 944, the Byzantine Emperor Romanus sent an army to capture the cloth and return it to Constantinople. It disappeared when Constantinople was sacked by Crusaders of the Fourth Crusade in 1204. It reappeared in France in the mid-fourteenth century. The shroud has been kept in Turin, Italy since 1578.

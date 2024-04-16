@@ -1,0 +1,6 @@
+# Meeting House (Civ6)
+
+The Meeting House is an advanced [Religion%20%28Civ6%29](religious) [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the [District%20%28Civ6%29](district) and requires a (or one of its replacements). It may also be purchased with .
+Strategy.
+The Meeting House boosts both and city , which helps in all instances. Choose it if you don't have any particular strategy for now, or if another Worship Belief you wanted is already taken. It is especially useful if your [City%20%28Civ6%29](cities) are in areas with lots of [Grassland%20%28Civ6%29](Grassland) (which give no on their own) or [Rainforest%20%28Civ6%29](Rainforest) (which, outside of "", cannot be improved with [Lumber%20Mill%20%28Civ6%29](Lumber Mills)) [Tile%20%28Civ6%29](tiles).
+This is undoubtedly one of the best Worship buildings, so the [AI](AI) [Leaders%20%28Civ6%29](leaders) place a special emphasis on it. If this is what you want as your Worship building, you should get it right when you found your religion - don't wait until you evangelize it.

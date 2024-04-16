@@ -1,0 +1,4 @@
+# Forum (Civ4)/Civilopedia
+
+Roman civic and commercial life was largely centered upon the "forum," an open space surrounded by markets, temples, government buildings, and the "rostra," a platform where Romans made political speeches to their fellows. The Roman forums may have been modeled upon the "agoras," which served much the same purposes in earlier Greek cities. The most famous forum is the "Roman Forum," located at the center of the Imperial City, but most other Roman cities had them as well.
+The Roman Forum in Rome contained a number of very important and beautiful buildings, including temples devoted to Romulus, Saturn and Vesta, several basilicas, and the "Curia Hostilia," which housed the Roman Senate.

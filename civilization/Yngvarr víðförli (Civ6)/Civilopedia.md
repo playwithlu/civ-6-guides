@@ -1,0 +1,3 @@
+# Yngvarr víðförli (Civ6)/Civilopedia
+
+During the 10th and 11th centuries AD, Vikings from the north as well as the Rus mounted raids in the Caspian Sea against the Saracens and others. The last, under the leadership of Ingvar “the Far-Travelled,” departed from Sweden in 1036, possibly under the auspices of old King Anund Jakob. The expedition sailed down the Volga to the lands of the Saracens, where the Vikings under Ingvar took part in the battle of Sasireti. Though, there is no mention of Ingvar’s voyage in any of the extant Norse sagas, the sole source of the fragmentary story being some 26 rune stones scattered about Uppland in Sweden.

@@ -1,0 +1,3 @@
+# The Statue of Zeus (Civ3)
+
+ is a [List%20of%20wonders%20in%20Civ3%23Great%20Wonders](Great Wonder) in "". It requires and and is made [obsolete](obsolete) by . It produces an [Ancient%20Cavalry%20%28Civ3%29](Ancient Cavalry) every 5 turns. This Great Wonder can become a [tourist%20attraction%20%28Civ3%29](tourist attraction) and may trigger a [Golden%20Age%20%28Civ3%29](Golden Age) for [Militaristic%20%28Civ3%29](Militaristic) and [Religious%20%28Civ3%29](Religious) .

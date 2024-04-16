@@ -1,0 +1,5 @@
+# Sor Juana (Civ4Col)
+
+Civilopedia.
+Lived: 1651-1695
+Sor Juana was a Mexican poet and nun born in San Miguel Nepantla in 1651. Juana's upbringing was a rare one for a seventeenth century girl. She received a full education, learning Latin by age ten. Renowned for her intelligence and wit, Juana quickly rose through the strata of society, becoming a lady in waiting to the Viceroy of New Spain's wife. With the whole of New Spanish society at her fingertips, Juana made a surprising decision. At the age of eighteen, she entered a convent and became a nun. Joining the Order of St. Jerome, Juana found it immediately to her liking, as her academic pursuits, which would have been denied to her if she had married into high society, were now her primary occupation. In time, her library numbered nearly 4000 books and the poems and plays written by her own hand were numerous. But her academic pursuits irked church officials, who ordered Juana to sell all her books and cease her writing. While Juana complied, much of her writing has survived up to the present.

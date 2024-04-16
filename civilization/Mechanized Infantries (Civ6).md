@@ -1,0 +1,2 @@
+# Mechanized Infantries (Civ6)
+

@@ -1,0 +1,6 @@
+# Big Ben (Civ6)
+
+Big Ben is an in "[Civilization%20VI](Civilization VI)". It must be built along a [River%20%28Civ6%29](River) adjacent to a [Commercial%20Hub%20%28Civ6%29](Commercial Hub) with a [Bank%20%28Civ6%29](Bank).
+Strategy.
+Big Ben is a very important wonder to build if you are focused on your economy. The added [Policy%20card%20%28Civ6%29](Economic Policy Card) slot and +6 per turn will help increase your empire's income, and the sudden influx of may give you the capital needed to patronize (especially if you finish building this wonder when you have a large amount of in your treasury). Moreover, the extra points will allow you to attract Great Merchants more quickly, many of whom will provide you with extra and [Resource%20%28Civ6%29%23Luxury](luxury resources) from the time that Big Ben becomes available onward.
+If you already have a strong generation, Big Ben might be a more worthwhile investment than the [Forbidden%20City%20%28Civ6%29](Forbidden City), because Economic policy slots are almost on par with Wildcard slots in strength. This holds especially true when going for a [Victory%20%28Civ6%29%23Domination](Domination Victory) and picking [Fascism%20%28Civ6%29](Fascism) as your Tier 3 [Government%20%28Civ6%29](government).

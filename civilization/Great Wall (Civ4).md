@@ -1,0 +1,5 @@
+# Great Wall (Civ4)
+
+The Great Wall is an awesomely famous wonder built in the time of [Qin%20Shi%20Huang](Qin Shi Huang). The Great Wall goes on for most of [Chinese](China), and was used to protect the Chinese from the [barbarian](barbarian)s. In the game, the Great Wall will appear in the limits of the territory, surrounding the country it was built in, which prevents [Barbarian%20%28Civ4%29](barbarians) from entering. As the [Borders%20%28Civ4%29](borders) change, the walls will remain in their original place but their effects will be still on the whole borders.
+Strategy.
+The Great Wall affects the area inside its owner's cultural borders on that [Continent%20%28Civ4%29](continent), even if it is physically outside of the Great Wall. The effects are that [Barbarian%20%28Civ4%29](Barbarians) cannot enter that area, and the owner receives more [Great%20General%20%28Civ4%29](Great General) points from [Combat%20%28Civ4%29](combat) within that area.

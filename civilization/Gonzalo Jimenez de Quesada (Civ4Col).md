@@ -1,0 +1,5 @@
+# Gonzalo Jimenez de Quesada (Civ4Col)
+
+Civilopedia.
+Lived: 1509-1579
+A Spanish lawyer and conquistador, Gonzalo Jimenez de Quesada was governor of the Santa Marta colony in northern Colombia. While Quesada's foundation of Bogota would leave a mark on the world, in his own lifetime, Quesada suffered from that most common of afflictions among the conquistadors - avarice. Finding a small wealth of gold and emeralds within his new territory, Quesada believed himself on the outskirts of the infamous "El Dorado." Mounting an enormous party to search for the bordering Land of Gold, Quesada soon discovered the ethereal nature of El Dorado; largely that it did not exist. Yet travails along the journey would destroy much of his party and Quesada's return would yield nothing but a title that would haunt him for the rest of his days - "Governor of El Dorado."

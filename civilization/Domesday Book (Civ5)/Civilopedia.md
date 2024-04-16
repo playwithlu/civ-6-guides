@@ -1,0 +1,3 @@
+# Domesday Book (Civ5)/Civilopedia
+
+The Domesday Book, documenting the livestock and land holdings of the people of England during the rule of William the Conqueror, was recorded during the Domesday survey in 1085 AD. Conceived of by William as a means to assess the unpaid taxes under Edward the Confessor, the Domesday would come to be known as "the Book of Judgement," as all entries made by the royal officers in the book were final.

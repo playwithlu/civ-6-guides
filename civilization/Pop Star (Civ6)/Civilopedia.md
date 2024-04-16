@@ -1,0 +1,3 @@
+# Pop Star (Civ6)/Civilopedia
+
+Specialists within the music industry are capable of refining rock music into a weaponized form for distribution over airways. This highly dangerous form of music is possessed of invidious melodies, catchy lyrics, and is never much longer than 2:20 in duration. It is accompanied by a particularly efficient system of marketing and promotion in a cycle of constant novelty, resulting in wide distribution within a culture in a very short period of time. It would be impressive if it did not portend the end of all that is good and lasting.

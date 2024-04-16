@@ -1,0 +1,4 @@
+# Babylon (city)
+
+Babylon, also known as Babil or Babili, is the [Babylonian](Babylonian) [capital](capital) and a [Persian](Persian) and [Sumerian](Sumerian) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games, and also appears as a [city-state](city-state). In real life, it is an ancient city located on the lower Euphrates river in southern [Mesopotamia](Mesopotamia) in present-day Iraq and home to [Etemenanki](Etemenanki) and the [Hanging%20Gardens](Hanging Gardens).
+In [scenario](scenario)s, it may appear as a [Sasanian](Sasanian) city in [Fall%20of%20Rome](Fall of Rome) and a [Seleucid](Seleucid) city in [Rise%20of%20Rome](Rise of Rome).

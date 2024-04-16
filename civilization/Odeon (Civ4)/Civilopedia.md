@@ -1,0 +1,3 @@
+# Odeon (Civ4)/Civilopedia
+
+Modern western drama was created in Greece around 530 BC, evolving from the "dithyramb," a fertility ritual of songs, poems and dances offered to the Greek god Dionysus. An "Odeon" is a large, open-aired structure in which such performances were held. The audience sat in a semicircle of seats around a central paved "dancing square" (orchestra). The first row of seats was reserved for important officials or priests. There was usually an altar dedicated to Dionysus somewhere in the odeon. The "logeion" was a small raised platform where the performers acted (the original dramas had at most three or four actors; the size of the stage would increase as later plays required bigger casts).

@@ -1,0 +1,5 @@
+# Lagrange Laser Station (Civ6)
+
+Lagrange Laser Station is a [Project%20%28Civ6%29](project) in "". It becomes available after researching [Offworld%20Mission%20%28Civ6%29](Offworld Mission) and completing the [Exoplanet%20Expedition%20%28Civ6%29](Exoplanet Expedition) project, and requires a [Spaceport%20%28Civ6%29](Spaceport) [District%20%28Civ6%29](district) and 30 .
+This project powers up the exoplanet spacecraft by building and launching an orbital laser (presumably at ), which uses the sun's energy to produce an ultracharged beam. It increases the speed of the Exoplanet Expedition by 1 Light Year per turn, accelerating the player's [Victory%20%28Civ6%29%23Science](Science Victory) progress.
+This project may be completed multiple times. Since its [Resources%20%28Civ6%29](resource) requirement is a one-time charge, it is guaranteed to provide its bonus as long as one has the to afford it.

@@ -1,0 +1,3 @@
+# Covert Action (Civ5)/Civilopedia
+
+According to the U.S. Department of Defense, a covert action is "an operation that is so planned and executed as to conceal the identity of or permit plausible denial by the sponsor." It is intended to create a political, military, economic or diplomatic effect without repercussions, either from the target or the nation's own citizenry. Covert actions can take many forms, from assassinations to espionage to military operations, but all are marked by secrecy.

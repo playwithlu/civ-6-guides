@@ -1,0 +1,3 @@
+# Demolitions (Civ6)/Civilopedia
+
+Sabotage, by spies or members of a resistance movement, is hard to prevent and quite effective. Pervasive “simple sabotage” (such as slashing tires, contaminating fuel, ruining machine parts, cutting electrical wires, and the like) can be conducted by almost anyone; for really big things – like the Black Tom explosion in Jersey City which destroyed warehouses and ships full of munitions and fuel in July 1916 – it takes training. During World War II, the American OSS (later renamed the CIA) taught hundreds of Allied saboteurs the tricks of identifying key components in machinery… and how to blow them up.

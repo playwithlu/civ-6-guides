@@ -1,0 +1,3 @@
+# Alhambra (Civ5)/Civilopedia
+
+Found in southern Spain, the Alhambra is a large palace complex of the Nasrid Dynasty, who controlled the region in the mid 14th century. Construction first began sometime around 1238 AD under the rule of Ibn al-Ahmar, and continued under his successors. Taking its name from the red hue of its walls, the name Alhambra is translated as the "Red Fortress." Noted for its Moorish Islamic architectural style, the Alhambra features elaborate engravings and numerous examples of the interlacing patterns known as "Arabesques" found predominately in Islamic art. Although many examples of the original Islamic style remain today, much of the palace and its interior was reconstructed and modified after the rise of Catholicism in Spain.

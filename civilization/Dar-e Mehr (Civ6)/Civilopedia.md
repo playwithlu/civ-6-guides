@@ -1,0 +1,5 @@
+# Dar-e Mehr (Civ6)/Civilopedia
+
+First seen around the Ninth Century BCE, the first Zoroastrian structures called 'Dar-e Mehr' are linked to the concept of 'Atar' ("holy fire"). The fire and clean water at the center of the Dar-e Mehr aren't worshipped, but instead a means to gain ritual purity.
+A temple would be named depending on the type of fire housed within, with the holiest being the "Fire of Victory," or 'Atash Behram,' requiring 32 priests and a year of burning fires from 16 sanctified sources to be considered consecrated.
+These temples, usually constructed on a hill or higher location, contain ritualized flames housed in a chamber called the atashgah. However, if you're a non-believer, don't expect to see the atashgah or the flame inside: tradition dictates that only the faithful be allowed to view the holy fire.

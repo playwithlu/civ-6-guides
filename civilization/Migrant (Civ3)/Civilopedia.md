@@ -1,0 +1,3 @@
+# Migrant (Civ3)/Civilopedia
+
+The barbarian nations of this period had few large settlements and were equipped to quickly pick up and resettle in a new area. The Visigoths moved from the Balkans to Rome, sacking it in 410, before settling in southern Gaul. They would then displace the Vandals from Spain. The Vandal migration was the most dramatic, for they left their home in Eastern Europe and migrated to Spain, then to North Africa, and finally up into Italy from the south.

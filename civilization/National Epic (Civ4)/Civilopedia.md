@@ -1,0 +1,5 @@
+# National Epic (Civ4)/Civilopedia
+
+An "epic" is a heroic poem celebrating the life and achievements of a heroic individual or group. Classic examples of epics include Homer's "Iliad" and "Odyssey."
+A "national epic" celebrates the exploits of an entire country. One of the earliest examples is the "Shahnama" (The Book of Kings), a Persian literary classic written around 1000 AD. The Shahnama chronicles the history of Persia from mythological pre-history through the reign of Khosrau II (590-628). The work contains over 60,000 couplets and is still read and enjoyed by modern readers.
+It is possible that the age of the literary epic is dead, and that in the future all such stories will be done as "made for TV movies." This would be a great misfortune to the world of letters - and to the rest of the world, as well.

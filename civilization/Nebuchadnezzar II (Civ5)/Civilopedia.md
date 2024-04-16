@@ -1,0 +1,15 @@
+# Nebuchadnezzar II (Civ5)/Civilopedia
+
+History.
+Nebuchadnezzar II was king of Babylon for some 43 years (605-562 BC). He is best known for his military conquests and his restoration of the city of Babylon. Nebuchadnezzar II also figures prominently in the Bible for the conquest of Judah and the forced relocation of many Israelites to Babylon.
+Early Years.
+Nebuchadnezzar (which is sometimes spelled "Nebuchadrezzar") was the oldest son of Nabopolassar, the founder of the Chaldean empire, who had done much to make Babylon into an imperial power. He served under his father in several military campaigns, and in 606 BC he commanded an army which destroyed an [Egyptian](Egyptian) army at Carchemish, securing for Babylon the control of Syria.
+Upon Assuming Power.
+Upon his father’s death in 605, Nebuchadnezzar returned to Babylon and assumed the throne. He resumed campaigning shortly thereafter, when he conquered a number of smaller states including Judah. He continued his conquests until 600, when, possibly over-extended, he lost badly to an Egyptian army. Taking advantage of Babylon’s disarray, Judah and several other subject states revolted.
+It took Nebuchadnezzar some two years to regroup and rebuild his armies, but by 598 he was on the march again, and in 597 he occupied Jerusalem, deposing the Judaian king Jehoiachin and transporting him and other prominent citizens to captivity in Babylon (most likely as hostages against further Jewish rebellions) He continued his expansionist military campaigning for the rest of his reign, clashing more or less successfully with other powers in the eastern Mediterranean, Asia Minor and the Middle East.
+Diplomacy.
+Not just a warlord, Nebuchadnezzar was also active diplomatically, sending and receiving ambassadors from nearby kingdoms. He is known to have sent an ambassador to mediate in a conflict between the Medes and the Lydians in Asia Minor.
+Domestic Policies.
+When not campaigning, Nebuchadnezzar spent much of his energy in rebuilding Babylon and improving its fortifications. He is known to have rebuilt many temples, paved roads, cut canals, and constructed a moat and wall around the city. He is also credited with the construction of the Hanging Gardens of Babylon, which according to legend he built to please his wife who was pining for the hills of her home in Media.
+Judgment of History.
+Despite his capture of Judah and relocation of the Israelites, Nebuchadnezzar appears in a mostly favorable light in the Bible. He is credited for protecting Jewish prophets and citizens from persecution; the prophet Jeremiah apparently believed that Nebuchadnezzar was God’s appointed instrument of vengeance against evil-doers. Nebuchadnezzar died in Babylon in 562 BC. He is remembered as a successful military leader who increased the size of his empire and who strengthened and improved the capital city of Babylon, and who treated his subject people well. By all measures he earned his title of "Nebuchadnezzar the Great."

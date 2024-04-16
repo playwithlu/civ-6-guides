@@ -1,0 +1,4 @@
+# Hyksos (Civ6)/Civilopedia
+
+The Hyksos arrived in the Nile region from lands to the east. Theories suggest they either migrated without resistance into a politically fragmented Egypt or arrived to conquer a land plagued with … well, a series of plagues.
+We know that the existing Egyptian dynasties collapsed in 1650 BCE. In the ensuing power vacuum, the Hyksos established the Fifteenth Dynasty. Though they would retain their hold on the region for another century, native Egyptians eventually pushed them out and removed all traces of their rule. All recorded accounts subsequently portrayed them as interlopers in Egyptian lands.

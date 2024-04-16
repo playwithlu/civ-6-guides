@@ -1,0 +1,3 @@
+# Blockade Runner (Civ5)/Civilopedia
+
+The Confederate blockade runners were light, fast merchant ships commissioned to slip past or outrun Union warships that tried to enforce the Anaconda Plan, a strategy to deprive the South of its cotton trade with the European nations. Running cotton out and medical and military supplies in was a lucrative, if dangerous, business for Southern captains; by the end of the war, the Union had captured 1100 blockade runners and destroyed 355 more.

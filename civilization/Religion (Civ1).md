@@ -1,0 +1,6 @@
+# Religion (Civ1)
+
+Religion is an [List%20of%20advances%20in%20Civ1](Advance) in the original "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)" that allows the building of [Cathedral%20%28Civ1%29](cathedrals), [J.S.Bach%27s%20Cathedral%20%28Civ1%29](J.S.Bach's Cathedral) and [Michelangelo%27s%20Chapel%20%28Civ1%29](Michelangelo's Chapel), all of which increase the number of content citizens.
+It negates the effects of the [Oracle%20%28Civ1%29](Oracle).
+Civilopedia entry.
+The evolution of Religion traces back to elementary forms of belief and practice concerning the extraordinary, the mysterious, and the supernatural. Religion gave people an object of devotion, a code of social behavior, and a reference for the individual within the group and the universe. Acceptance of the teachings of Religion brought peace of mind and the ability to get on with the work of life, because the terrifying questions of the unknown were contained. The advance of knowledge that followed the development of Writing and the study of Philosophy led to the great Religions of the modern world.

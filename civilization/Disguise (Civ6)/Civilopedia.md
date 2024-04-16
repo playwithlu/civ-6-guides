@@ -1,0 +1,3 @@
+# Disguise (Civ6)/Civilopedia
+
+Any old thing – wig, glasses, cotton stuck in the cheeks, padding over the belly, or even just a change of clothes – is a disguise, so long as it alters a person’s appearance. Disguise is the stock in trade of actors, criminals, and spies. Generally, disguises in espionage are used briefly to slip in and out of places, usually as someone who ostensibly belongs there; occasionally, as for deep-cover agents, the disguise is somewhat more permanent, and may even entail surgery. So long as the fake appearance matches the forged identity papers, all is well.

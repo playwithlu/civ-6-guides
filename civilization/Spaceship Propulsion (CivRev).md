@@ -1,0 +1,7 @@
+# Spaceship Propulsion (CivRev)
+
+The SS Propulsion is a [Building%20%28CivRev%29](building) in "[Civilization%20Revolution](Civilization Revolution)".
+Gameplay.
+The Spaceship Propulsion Module is one of the four essential pieces needed to construct a [Spaceship%20%28CivRev%29](Spaceship) and win a [Victory%20%28CivRev%29](Technology Victory)! Building extra Propulsion Modules will make your Spaceship complete its journey faster!
+Civilopedia entry.
+Travel through the empty reaches of space is vastly different from traveling through a planetary atmosphere. An aircraft must constantly fight the dragging effect of the air around it, and must apply constant thrust to maintain altitude, course and speed. A space craft, on the other hand, is flying through vacuum - once it is moving it will continue to move without further energy required (until it crashes into something or comes within the gravitational pull of a sizeable object). Therefore, a colonizing spacecraft's engines are designed to provide massive thrust at the start of the voyage to set the ship on its course, then to remain largely dormant for the majority of the journey (except as needed to provide small course corrections to avoid stellar debris), and then to provide equally massive thrust to slow the ship down once it reaches its destination.

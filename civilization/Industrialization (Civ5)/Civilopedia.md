@@ -1,0 +1,3 @@
+# Industrialization (Civ5)/Civilopedia
+
+Industrialization is viewed as the transition from an agrarian society into an industrial one, which is typically accompanied by widespread social and economic change throughout the community. The Industrial Revolution, beginning in Europe during the 18th century, brought about immense changes in the way people lived their daily lives. With increasingly complex machinery and tools available, many trades that were once left to talented craftsmen became obsolete with the advent of assembly lines operated by droves of unskilled factory laborers.

@@ -1,0 +1,3 @@
+# Victory
+
+All "[Civilization%20%28series%29](Civilization)", "[Call%20to%20Power%20games](Call to Power)", and "[Colonization%20%28game%29](Colonization)" games and "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)" have certain victory conditions, or conditions that must be met in order to win the game. There is always more than one way to win the game, depending on how you focus your [Civilizations](civilization).

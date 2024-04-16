@@ -1,0 +1,5 @@
+# Outpost (Civ3)
+
+Outposts are tile s in "[Civilization%20III](Civilization III)".
+Outposts eliminate [fog%20of%20war](fog of war). To construct an Outpost, move a to any land tile in neutral or owned territory and select the Build Outpost unit action. Construction of the Outpost consumes the Worker. The range of vision for the Outpost is 2 tiles on flat terrain, 3 on and 4 on . Outposts can only be used by the player who created them. If an Outpost falls within the territory of any other [List%20of%20civilizations%20in%20Civ3](civilization), it will be destroyed. Outposts can only be built in a tile that is empty, has a , , a and/or a . You cannot build an Outpost on a tile with an or a .
+The "Build Outpost" unit-action becomes available after the [List%20of%20advances%20in%20Civ3](advance) is researched in "".

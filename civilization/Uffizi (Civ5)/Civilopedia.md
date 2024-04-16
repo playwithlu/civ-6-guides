@@ -1,0 +1,3 @@
+# Uffizi (Civ5)/Civilopedia
+
+Originally constructed from 1560 through 1581 AD as offices (in Italian, uffizi) for the Florentine magistrates, the Uffizi Gallery is one of the world's oldest and most famous art repositories, housing the finest collection of Italian Renaissance paintings anywhere. It is also now home to priceless antiques, sculptures, and more than 100,000 drawing and prints. In 1574, the unfinished top floor was converted into a repository for art treasures amassed by the ruling de Medici family. Over the following decades, other portions of the structure were refurbished as art galleries and storage areas. According to Vasari, artists such as da Vinci and Michelangelo gathered at the Uffizi "for beauty, for work and for recreation."

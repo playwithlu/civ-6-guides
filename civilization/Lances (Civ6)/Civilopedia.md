@@ -1,0 +1,3 @@
+# Lances (Civ6)/Civilopedia
+
+The lance—a long pole with a sharp point for skewering people—was the primary weapon used by heavy cavalry during the Viking Age. Few of the Norsemen used them, but many of their foes did. The Byzantine cavalry bore lances (known as 'kontarion') during this period, couching them either overarm or underarm. But it was the Europeans that perfected the full-gallop, closed-ranks charge so effective against enemy infantry ... and anyone else in the way.

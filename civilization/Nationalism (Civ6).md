@@ -1,0 +1,6 @@
+# Nationalism (Civ6)
+
+Nationalism is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by declaring war using a [Casus%20Belli%20%28Civ6%29](Casus Belli).
+Strategy.
+The development of national identity in a society is another important step for forming a modern civilization. When a person is proud to be a member of certain state, he works gladly for promoting that state's interests, even when they are against his own...and more importantly, he is ready to accept things like higher taxes, and dying in wars started by greedy politicians. And so, the nation gains new, modern military capabilities.
+Nationalism unlocks one of the new features of the game: combining identical [Unit%20%28Civ6%29](units) into the more powerful [Unit%20%28Civ6%29%23Combining%20units](Corps or Fleets). Apart from that, you can now train and maintain an additional [Spy%20%28Civ6%29](Spy), gain another Casus Belli, and two new Military Policies, which prepare your army for the bloody carnage of modern war.

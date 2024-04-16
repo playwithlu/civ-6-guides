@@ -1,0 +1,4 @@
+# Cotton (Col)
+
+Cotton is one of the [goods](goods) in "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)". It can be grown on several different [terrain%20%28Col%29](terrain) tiles (see below), and can be woven into [Cloth%20%28Col%29](Cloth). A [Master%20Cotton%20Planters%20%28Col%29](Master Cotton Planter) increases Cotton yields. A [Master%20Weavers%20%28Col%29](Master Weaver) increases Cloth production. A [Weaver%27s%20shop%20%28Col%29](Weaver's shop) or [Textile%20mill%20%28Col%29](Textile mill) also increases Cloth production.
+Cotton is also a Bonus Resource which may be found on [Prairie](Prairie)s. Not surprisingly, it increases the production of Cotton (the good) on that tile.

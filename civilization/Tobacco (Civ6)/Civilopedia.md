@@ -1,0 +1,3 @@
+# Tobacco (Civ6)/Civilopedia
+
+Tobacco is the cured leaves of the tobacco plant, a member of the Solanaceae (nightshade) family. Serving as a stimulant, smoking or chewing tobacco also releases dopamine in the human body, which gives a sense of pleasure and reward; dopamine is normally released by eating, drinking, and other pleasurable activities. Used since 1400 BC by the natives of the Americas, both for social and religious purposes, like so many vices tobacco was introduced to the world by Spanish explorers around 1559 AD, who brought seeds and leaves back to Europe on the orders of King Philip II.

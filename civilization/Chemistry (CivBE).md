@@ -1,0 +1,8 @@
+# Chemistry (CivBE)
+
+Game Info.
+Chemistry is a [Primary%20Tech%20%28CivBE%29](Primary Tech) within Tier 1 of the [Tech_Web_%28CivBE%29](Tech Web). This technology allows the construction of [Submarine%20%28CivBE%29](Submarines), the [Laboratory%20%28CivBE%29](Laboratory) and [Recycler%20%28CivBE%29](Recycler), reveals resources and allows their improvement with [Petroleum%20Well%20%28CivBE%29](Petroleum Wells).
+There is no [Affinities%20%28CivBE%29](affinity) linked to this technology.
+In Universe Information.
+Chemistry allows humankind to understand what it cannot see. For ages on Earth chemistry was half-science, half-mystical cult, until the proper technology was developed that allowed us to finally peer into the small elements around us which we couldn't see or feel. And then, it redefined our entire scientific base. Now, on a new planet, it turns there are even more elements we weren't aware of, elements which change our basic understanding of the Universe.
+Chemistry was one of the first major sciences to undergo a thorough overhaul after the initial results of planetary surveys were in. Elements like those found in Floatstone or Firaxite opened up entire new avenues of development, and caused the appearance of new branches of chemistry, such as supramolecular chemistry and organometallic chemistry. Curiously enough, it took all these developments to rediscover one of humanity's oldest friends in the natural world - petroleum - on this planet. Which only tells us that humankind will continue to learn until it exists. 

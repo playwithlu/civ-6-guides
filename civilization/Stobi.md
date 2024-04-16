@@ -1,0 +1,3 @@
+# Stobi
+
+Stobi, also known as Stoboi, is a [Greek](Greek) [city](city) in the "[Civilization%20%28series%29](Civilization)" games, and also appears as a [city-state](city-state). In real life, it was an ancient town of Paeonia, later conquered by [Macedonian](Macedon), and finally turned into the capital of the [Roman](Roman) province of Macedonia Salutaris, located near Gradsko in present-day North Macedonia.

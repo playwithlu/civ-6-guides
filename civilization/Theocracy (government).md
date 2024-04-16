@@ -1,0 +1,2 @@
+# Theocracy (government)
+

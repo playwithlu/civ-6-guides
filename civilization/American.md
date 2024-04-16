@@ -1,0 +1,4 @@
+# American
+
+The American people represent the United States of America, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)". Their [capital](capital) is [Washington%20%28city%29](Washington), and they can be led by [Abraham%20Lincoln](Abraham Lincoln), [George%20Washington](George Washington), [John%20F.%20Kennedy](John F. Kennedy), [Susan%20B.%20Anthony](Susan B. Anthony), or a member of the [Roosevelt](Roosevelt) family.
+The [Confederate](Confederate), [New%20English](New English), [New%20French](New French), [New%20Netherlander](New Netherland) [New%20Spanish](New Spanish), and [Union](Union) people may also be represented by the Americans.

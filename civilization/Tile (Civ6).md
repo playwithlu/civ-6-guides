@@ -1,0 +1,4 @@
+# Tile (Civ6)
+
+[Hex](Hex)agonal tiles are the basic quantum of location in "[Civilization%20VI](Civilization VI)". All [Unit%20%28Civ6%29](units), [City%20%28Civ6%29](cities), s, [Tile%20improvement%20%28Civ6%29](improvements), and [Wonder%20%28Civ6%29](wonders) are located on a particular tile.
+Every tile is characterized by its base [Terrain%20%28Civ6%29](terrain) with possible features. All land tiles also have an [Appeal%20%28Civ6%29](Appeal) rating. Water tiles only have an Appeal rating if they have a [Natural%20wonder%20%28Civ6%29](Natural Wonder). Tiles are assigned to particular [Continent%20%28Civ6%29](continents) during [Map%20%28Civ6%29](map) generation for geographical organization. The usage of [Lens%20%28Civ6%29](lenses) on the UI allows players to view more detailed information on tiles.

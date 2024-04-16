@@ -1,0 +1,3 @@
+# Stela (Civ3)/Civilopedia
+
+Many Mesoamerican societies celebrated important religious events by building stone stelae. These stone carvings were often inscribed with the event’s date, and described the occasion with hieroglyphics letters and numbers. One of the most beautifully wrought stelae (called Stela H) was constructed in the Mayan city of Copan in 782 A.D. This wonderfully conceived stela shows a Mayan king in full ceremonial garb.

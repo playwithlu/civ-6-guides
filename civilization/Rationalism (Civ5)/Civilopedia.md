@@ -1,0 +1,3 @@
+# Rationalism (Civ5)/Civilopedia
+
+Rationalism is a worldview that looks to reason (rather than, say, faith) to explain the world. Rationalism believes that reason trumps all other ways of interpreting the world, including any data gathered by one's five senses. This philosophy can be traced back to the great Socrates of ancient Greece, and it enjoyed something of a resurgence during the 16th and 17th century in Europe, when it was explored by men like Descartes, Spinoza, and Kant.

@@ -1,0 +1,3 @@
+# Consulate (Civ6)/Civilopedia
+
+A consulate refers quite simply to the place of work of a consul – in this meaning, a lesser version of an ambassador and intended to carry out the functions of an embassy on a smaller scale. A country might set up a consulate in New York, for instance, in order to help its citizens who live or visit there, whereas the main embassy might be in Washington, D.C. Here, “consulate” refers not necessarily to this, but to a facility constructed to house foreign dignitaries close to the capital – and close under watch.

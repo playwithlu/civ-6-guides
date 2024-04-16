@@ -1,0 +1,3 @@
+# Courthouse (Civ5)/Civilopedia
+
+A Courthouse is a building in which the local authorities administer the law. Oftentimes the building also houses the local civil government as well, but this is by no means always the case. Generally the courthouse occupies a conspicuous place of importance in the central part of the city - either because the citizens view it with pride, or because the government wants to remind the citizens that it's got its eye on them.

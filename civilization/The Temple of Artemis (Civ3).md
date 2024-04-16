@@ -1,0 +1,3 @@
+# The Temple of Artemis (Civ3)
+
+ is a [List%20of%20wonders%20in%20Civ3%23Great%20Wonders](Great Wonder) in "". It requires and is made [obsolete](obsolete) by . It puts a [Temple%20%28Civ3%29](Temple) in every city on the same continent. This Great Wonder can become a [tourist%20attraction%20%28Civ3%29](tourist attraction) and may trigger a [Golden%20Age%20%28Civ3%29](Golden Age) for [Religious%20%28Civ3%29](Religious) .

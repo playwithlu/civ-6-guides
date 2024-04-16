@@ -1,0 +1,3 @@
+# Twilight Valor (Civ6)/Civilopedia
+
+It is said that nothing sharpens the attention and inspires the heroic quite as well as imminent, certain death. The last stand of doomed forces is the subject of countless epic poems, sad songs, and other literary works, from the Rokugo Rebellion, to the Alamo, to Masada. Perhaps the doomed soldiers buy time to save their comrades; perhaps they only have their duty and their brothers-in-arms as comfort. Perhaps, if they are fortunate, they are remembered in the ages that come after.

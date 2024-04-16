@@ -1,0 +1,8 @@
+# John Jacob Astor (Civ6)
+
+John Jacob Astor is an [Great%20Merchant%20%28Civ6%29](Great Merchant) in "[Civilization%20VI](Civilization VI)".
+Unique ability.
+Gain 500 . Gain 2 s.
+Strategy.
+Among all of the Great Merchants, Astor isn't the most memorable: he's not so weak that you can immediately disregard him, nor is he so impressive that you need to go out of your way to get him. In the [vanilla](vanilla) version of the game, he unfortunately arrives at around the same time as [Adam%20Smith%20%28Civ6%29](Adam Smith), the king of all , so there's no reason to recruit Astor if Smith is still in the pool. From "" onward, both Astor and Smith are quite a lot stronger than [John%20Spilsbury%20%28Civ6%29](John Spilsbury), the third Industrial Great Merchant, which puts them on similar ground. Between Smith and Astor, one gives you a Governor title and one gives you 2 s, so your choice will depend on your current game and preference.
+In the [Monopolies%20and%20Corporations%20%28Civ6%29](Monopolies and Corporations) [Game%20mode%20%28Civ6%29](game mode), Astor becomes more useful, as he can build a [Corporation%20%28Civ6%29](Corporation) not long after he is unlocked. If he's the last Industrial Great Merchant left in the pool, consider saving your points, since three [Modern%20Era%20%28Civ6%29](Modern) Great Merchants - [Stamford%20Raffles%20%28Civ6%29](Stamford Raffles), [John%20Rockefeller%20%28Civ6%29](John Rockefeller), and [Sarah%20Breedlove%20%28Civ6%29](Sarah Breedlove) - are a whole lot more powerful.

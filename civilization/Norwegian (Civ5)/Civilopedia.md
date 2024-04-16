@@ -1,0 +1,3 @@
+# Norwegian (Civ5)/Civilopedia
+
+Norway, under the rule of King Harald “Hard Ruler” Sigurdsson, would embark on numerous military campaigns against Denmark in an attempt to usurp the Danish throne during the 11th century. After the death of Magnus I in 1047, Harald disputed the notion that Sweyn II was the legitimate ruler of Denmark and the two became notorious rivals. Despite several attempts, Harald was never successful in conquering Sweyn, and instead set his sights on the English throne. In September of 1066, Harald would invade England, only to be killed at the Battle of Stamford Bridge by the armies of Harold Godwinson.

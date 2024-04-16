@@ -1,0 +1,33 @@
+# Combat (Civ4)
+
+Conflict is an integral part of human history. For as long as there have been people, there has been conflict. At first this conflict was individual - where one man fought another for food, or water, or because the first man didn't like the way the second man looked at his mate. But as human society has advanced in organization and sophistication, so has conflict. When men organized in tribes, they fought other tribes. Once the tribe's group of huts became a city, the citizens of opposing cities spent much time, effort, and energy beating each other up. And so on, up to today, when nations fight other nations on land, sea, air, and (soon) in space.
+When Combat Occurs.
+Combat occurs whenever a [List%20of%20units%20in%20Civ4](unit) attempts to enter a space occupied by a "hostile" unit. [Barbarian%20%28Civ4%29](Barbarians) and [Animal%20%28Civ4%29](animals) are always hostile; other [List%20of%20civilizations%20in%20Civ4](civilizations') units are only hostile if you are at with them. Unlike previous "[Civilization%20%28series%29](Civilization)" games, your units can occupy the same [Tile%20%28Civ4%29](tile) as foreign units if you are in neutral territory or have an agreement. (But see special rules for [Air%20unit%20%28Civ4%29](air units) and invisible units.)
+Combat Strength.
+Each unit in the game has a "combat strength." When one unit fights another, the computer applies any combat strength modifiers to the units' combat strengths and then determines the odds for the combat.
+Injured Units.
+If a unit is injured when combat begins, the computer uses the unit's injured combat strength to determine the odds.
+Combat Strength Modifiers.
+A variety of things can modify a unit's combat strength. Modifications are listed as percentage bonuses. If the unit gets more than one combat modifier, all modifiers are added together and then applied. (Example: a unit gets a 50% terrain bonus and a 25% bonus for experience. The two percentages are added together and then applied, giving the unit a final bonus of 75%.)
+Bonuses for Combat vs. Particular Units.
+Some units get bonuses when fighting particular units. A for instance gets a 100% bonus when fighting a mounted unit. Healthy spearmen have strengths of 4; when fighting s units their strength is increased to 8.
+Terrain Defensive Bonuses.
+ gives bonuses to many (but not all) units. A spearman being attacked while occupying a forested hillside gets a 75% bonus, raising his combat strength from 4 to 7. Units also get bonuses for defending against units attacking across rivers.
+City Defense Bonuses.
+Certain units get bonuses for defending in cities. City [List%20of%20buildings%20in%20Civ4](buildings) like provide bonuses except against gunpowder units. Culturally-advanced cities give defending units Cultural Defensive Bonuses, as well. The amount of defense a city receives from buildings and culture follows "or" logic, choosing the higher from buildings or culture to apply to units defending the city. Cities receive +20% defense at each cultural level, up to +100% at Legendary culture. Walls and Castle each provide +50% defense. However, even cities with cultural defensive bonuses higher than Walls can benefit from Walls, as Walls also reduce [Bombard%20%28Civ4%29](bombard) damage from pre-gunpowder units by 50%.
+Fortification Bonuses.
+Each turn that a unit is fortified on the same square, it gains a 5% bonus to its strength, up to a maximum of 25%. As soon as the unit moves to another tile, this fortification bonus is lost.
+Promotion Bonuses.
+Experienced units may receive bonuses from . Promotions may add to overall strength or add to a unit's strength under particular circumstances (such as against certain unit types or when defending in certain terrains, etc.)
+Examples.
+These combat strength modifiers can make a very significant difference when they are added together. A with combat strength 8 will almost always defeat an of strength 4 without modifiers, but the odds can change drastically under the right circumstances. If the Explorer is fully fortified (+25%) on a forested hill tile (+75%) and possesses the Guerilla II (+50% on hills) and Woodsman II (+50% in forests) promotions, the Explorer suddenly has his strength increased 200% to 12 overall! The Maceman may be in for an unpleasant surprise if he tries to attack.
+s and [Longbowman%20%28Civ4%29](Longbowmen) are difficult to dislodge from cities for the same reason. Archers get a natural 25% city defense bonus, which can be further improved with City Garrison promotions, and can also take advantage of a city's defensive bonus from walls and/or culture. An archer that is fully fortified (+25%) in a city with walls (+50%) and has the City Garrison I promotion (+45% total city defense) will have a strength not of 3, but of 6.6! This is the reason why those pesky archers can defeat more powerful units like Horse Archers when they are protecting cities.
+Combat Odds.
+At the beginning of a combat, the computer determines the combat strengths of each unit (see above) and then determines the odds for the combat. If two units of equal modified combat strength battle, each unit has a 50-50 chance of winning each combat "round" (see below) and inflicting damage on its opponent. If one unit's modified combat strength is twice that of the opposing unit, the stronger unit has a 2-to-1 chance of winning each round and inflicting damage on its opponent.
+Note that the combat odds determined at the opening of combat remain throughout the entire combat. Odds are not updated to reflect damage inflicted during a round.
+Combat Rounds.
+Combat is fought in rounds. During each round the computer makes a random "combat check" against the odds, and the losing side takes damage. Combat continues until a unit is destroyed or "withdraws" from combat (see below).
+Damage Amounts.
+The amount of damage that can be inflicted in a round is determined by the combat odds. If two equal units fight, the losing unit takes 20% damage per round. (In this type of battle, the first unit that loses five rounds will have taken 100% damage and thus will be destroyed.) If one unit's strength is bigger than the other, the bigger inflicts proportionately more damage when it wins a round, while the smaller inflicts less.
+Victory or Defeat.
+If the defending unit wins the combat, the attacking unit is destroyed. If the attacking unit wins, the defender is destroyed. If the space is now vacant, the attacker moves into the space. If other units still occupy the space, the attacker remains where it was when it launched the attack. If one unit is destroyed, the surviving unit gains experience (see ).

@@ -1,0 +1,3 @@
+# Infrastructure (Civ6)/Civilopedia
+
+Infrastructure is the material surface on which life is built: Roads, bridges, harbors, and so forth. Although perhaps not terribly exciting, infrastructure serves a critical role in the health of a society. Good infrastructure lowers the costs of transporting materials to markets, which improves market efficiencies and lowers prices over all. Civilizations with good infrastructure can quickly decline when the infrastructure starts to crumble.

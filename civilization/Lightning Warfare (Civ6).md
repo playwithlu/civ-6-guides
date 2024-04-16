@@ -1,0 +1,5 @@
+# Lightning Warfare (Civ6)
+
+Lightning Warfare is a Military [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)". In "", it is unlocked with [Ideology%20%28Civ6%29](Ideology).
+Strategy.
+You'll be able to make good use of Lightning Warfare if you plan on raising an army of [Tank%20%28Civ6%29](Tanks), [Helicopter%20%28Civ6%29](Helicopters), and [Modern%20Armor%20%28Civ6%29](Modern Armor) to crush your opponents in the final [Era%20%28Civ6%29](eras) of the game. It's invaluable when playing as [Scythian%20%28Civ6%29](Scythia) (who will receive two Helicopters for every one they train) or [Genghis%20Khan%20%28Civ6%29](Genghis Khan) (whose [List%20of%20units%20in%20Civ6/By%20class%23Light%20cavalry](light) and [List%20of%20units%20in%20Civ6/By%20class%23Heavy%20cavalry](heavy cavalry units) have +3 Combat Strength and a chance to capture enemy cavalry units they defeat).

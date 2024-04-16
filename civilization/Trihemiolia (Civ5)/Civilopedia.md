@@ -1,0 +1,3 @@
+# Trihemiolia (Civ5)/Civilopedia
+
+The Trihemiolia, based on a Greek design and the most common warship in the Vandal navies, was a 40-ton vessel with two-and-a-half banks of oarsmen on each side. More maneuverable and faster than the Trireme, these ships were used both for ramming and boarding actions. Used primarily as commerce and coastal raiders, the Vandal Trihemiolia had reinforced decks to counter the increasing use of catapults mounted on Roman and Byzantine warships.

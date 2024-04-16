@@ -1,0 +1,3 @@
+# Zweihander (Civ6)/Civilopedia
+
+The 'Zweihänder' (also known as the 'Beidhänder') is a type of two-handed longsword, common during the 16th century AD and much favored by the German and Swiss Landsknechte. Eventually, so deadly were they against spear and pike-armed units that the Swiss outlawed them, although the Germans kept on until muskets became common. Heavy, long and double-edged, the Zweihänder could chop through spears and pikes with relative ease, and had the reach to do so before the swordsman could be impaled ... such as at the battle of Fornovo in 1495. Hardly honorable, but quite effective.

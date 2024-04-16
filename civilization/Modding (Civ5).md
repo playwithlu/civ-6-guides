@@ -1,0 +1,4 @@
+# Modding (Civ5)
+
+Modding, short for modifying, refers to taking the game and changing aspects of it to better suit one's own tastes. "[Civilization%20V](Civilization V)" provides exceptionally good modding facilities. [Unit%20%28Civ5%29](Units) and such have their parameters defined in XML files and there is lots of the actual [gameplay](gameplay) logic in the lua files. The developers also offer free tools, downloadable via [Steam](Steam), for modding.
+Making use of the [http%3A//steamcommunity.com/workshop/browse/%3Fappid%3D8930](Steam Workshop) is the easiest way for players to mod their games.

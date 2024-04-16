@@ -1,0 +1,3 @@
+# Simeon (Civ3)
+
+Tsar Simeon (also Symeon) I the Great (864/865 – 27 May 927) ruled over Bulgaria from 893 to 927, during the First Bulgarian Empire. Simeon's successful campaigns against the [Byzantine](Byzantine)s, [Hungarian](Magyars) and Serbs led Bulgaria to its greatest territorial expansion ever, making it the most powerful state in contemporary Eastern and Southeast Europe. His reign was also a period of unmatched cultural prosperity and enlightenment later deemed the Golden Age of Bulgarian culture. A reused , he leads the s in [List%20of%20scenarios%20in%20Civ3](scenario) in "".

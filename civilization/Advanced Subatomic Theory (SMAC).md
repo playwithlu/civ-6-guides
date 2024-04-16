@@ -1,0 +1,3 @@
+# Advanced Subatomic Theory (SMAC)
+
+Discoveries in [High%20Energy%20Chemistry%20%28SMAC%29](High Energy Chemistry) point the way to a new Advanced Subatomic Theory that tries to detect and quantify the smallest possible underlying particles of matter. Using self-modifying [Polymorphic%20Software%20%28SMAC%29](Polymorphic Software), the physicists developing this theory give mankind a window on the infinitesimal building blocks of the universe.

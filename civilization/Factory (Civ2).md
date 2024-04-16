@@ -1,0 +1,7 @@
+# Factory (Civ2)
+
+ A Factory is a [List%20of%20buildings%20in%20Civ2](building) in "[Civilization%20II](Civilization II)" that increases the shield production of a [City%20%28Civ2%29](city) by 50%.
+The Factory is the prerequisite for [Power%20Plant%20%28Civ2%29](Power Plant), [Nuclear%20Plant%20%28Civ2%29](Nuclear Plant), [Hydro%20Plant%20%28Civ2%29](Hydro Plant) and [Solar%20Plant%20%28Civ2%29](Solar Plant).
+If the Factory is destroyed (by Industrial Sabotage or liquidation caused by a collapsed economy), any specialty Plants in the city will cease to function until a new Factory is built. This makes Factories an excellent target for [Spy%20%28Civ2%29](Spies).
+Civilopedia entry.
+Early examples of factory-like production, where a number of individuals work cooperatively to produce goods for sale or trade, can be found as far back as ancient Greece and Rome. Modern factories, however, evolved from the concept of specialized labor, where each worker performed a single step in the overall production of an item. This specialization allows factories to increase the speed and efficiency of the manufacturing process, far surpassing earlier means of production. The development of the factory system as a means of production played a key role in the Industrial Revolution.

@@ -1,0 +1,3 @@
+# Terracotta Army (Civ5)/Civilopedia
+
+Unearthed by Chinese farmers in 1974, the Terracotta Army of Emperor Qin Shi Huang was assembled to accompany the emperor in his burial tomb. Constructed during the 3rd century BC, workers created thousands of life-sized earthen figures, with each soldier having unique characteristics added during their construction. Positioned in proper military formation along deep pits carved within the tomb, the soldiers of the Terracotta Army are joined by horses, chariots, and cavalry which were also replicated in great detail.

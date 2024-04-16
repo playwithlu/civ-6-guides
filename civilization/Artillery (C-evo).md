@@ -1,0 +1,3 @@
+# Artillery (C-evo)
+
+"[Artillery](Artillery)" in the free-to-play game [C-evo](C-evo) is a [Special%20Feature%20%28C-evo%29](Special Feature), enables a [land%20unit%20%28C-evo%29](land unit) to ignore [City%20Walls%20%28C-evo%29](City Walls) or to attack [naval%20unit%20%28C-evo%29](naval unit)s and enables naval units to attack land units. [Air%20unit%20%28C-evo%29](Air unit)s have those properties automatically assigned to them regardless if the feature is present or not

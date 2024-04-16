@@ -1,0 +1,3 @@
+# Guerilla Leader (Civ6)/Civilopedia
+
+Romantic, historic, drenched in blood: Massoud, Che, Mao, Fidel, l’Ouverture, Avraham Stern, Michael Collins, and hundreds more. For centuries intelligence services have been supporting, financially or materially, guerrilla leaders fighting wars of revolution or resistance. In some cases, this backing is overt, and in others covert. But the goal is the same, to discomfort the power on the other side of the conflict. While these leaders are not (usually) the agents of a spy ring, their irregular warfare nevertheless benefits the sponsor. And brings ever more partisans to their standard.

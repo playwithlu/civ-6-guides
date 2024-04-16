@@ -1,0 +1,3 @@
+# Jules Grevy (Civ5)/Civilopedia
+
+President of the Third Republic (1879-1887), Jules Grevy was a fierce nationalist who engineered France's expansion in Africa, beginning with the acquisition of Tunisia in 1881. Before being forced to resign in the wake of a family scandal, Grevy established France's policy of mission civilisatrice, the principle that it was Europe's destiny to bring civilization to the "benighted" native peoples of Africa.

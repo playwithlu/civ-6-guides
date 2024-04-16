@@ -1,0 +1,7 @@
+# Nuke (CTP1)
+
+The Nuke is a [List%20of%20units%20in%20CTP1](unit) in "".
+Summary.
+The Nuke destroys everything, at a price. Developed as the ultimate weapon, the Nuke obliterates its target, but spawns fear and horror throughout the world - and ravishes the world's ecology. There is no other unit that can equal the Nuke in destructive power. [Submarine%20%28CTP1%29](Submarines) and [Stealth%20Sub%20%28CTP1%29](Stealth Submarines) may transport nukes. [Bomber%20%28CTP1%29](Bombers) and [Stealth%20Bomber%20%28CTP1%29](Stealth Bombers) may also transport nukes by loading them into cargo at [Air%20Base%20%28CTP1%29](air bases).
+Great Library entry.
+In the 1930s, Otto Hahn's conclusive evidence of fission precipitated a growing fascination with the capabilities and implications of its power. Einstein and Neils Bohr, two of America's greatest physicists, met at Princeton to discuss the implications of the new fission. Days later, Bohr briefed Enrico Fermi on the new experiment, and Fermi in turn suggested that the splitting might create further neutrons to feed back on the process – creating the possibility of a cascade reaction – an atomic bomb. With the beginning of World War II in 1939, a terrifying race to develop an atomic bomb ensued. On August 6, 1945, the first atomic bomb was used in combat. The devastation and death toll that followed in the wake of that bomb alerted the world that the door to global destruction had just been opened.

@@ -1,0 +1,3 @@
+# Atomic Bomb (Civ5)/Civilopedia
+
+The early atomic bombers were no different from other heavy bombers, except of course for their payload. The "Enola Gay," which carried the atomic bomb to Hiroshima on August 6, 1945, was an American B-29 bomber, as was the "Bockscar" which dropped the second on Nagasaki three days later. In the period since the war the nuclear powers developed special "strategic bombers" to carry the nuclear weapons deep into enemy territory. These craft can fly a very long range at very high altitudes and are equipped with sophisticated jamming and anti-missile technology. The latest strategic bombers include stealth technology, making them even harder to destroy before they can drop their deadly payloads.

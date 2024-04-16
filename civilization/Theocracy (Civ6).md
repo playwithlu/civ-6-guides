@@ -1,0 +1,7 @@
+# Theocracy (Civ6)
+
+Theocracy is a form of Tier 2 [Government%20%28Civ6%29](government) in "[Civilization%20VI](Civilization VI)". It is unlocked by the [Reformed%20Church%20%28Civ6%29](Reformed Church) [Civic%20%28Civ6%29](civic).
+In ', this government's legacy bonus is conferred by Theocratic Legacy, a Wildcard [Policy%20card%20%28Civ6%29](policy) unlocked by changing governments after adopting Theocracy and constructing a Tier 2 government [Building%20%28Civ6%29](building) ([Foreign%20Ministry%20%28Civ6%29](Foreign Ministry), [Grand%20Master%27s%20Chapel%20%28Civ6%29](Grand Master's Chapel), [Intelligence%20Agency%20%28Civ6%29](Intelligence Agency), or [Queen%27s%20Bibliotheque%20%28Civ6%29](Queen's Bibliotheque)).
+Strategy.
+Similar to [Merchant%20Republic%20%28Civ6%29](Merchant Republic's) purchases and economic focus, Theocracy focuses on purchases and [Religion%20%28Civ6%29](religion). Religious [Civilizations%20%28Civ6%29](civilizations), such as [Spanish%20%28Civ6%29](Spain), can make great use of Theocracy's benefits, even going so far as being able to attract with [Great%20People%20%28Civ6%29%23Attracting%20via%20Patronage](patronage) via .
+If you're engaging in [Theological%20combat%20%28Civ6%29](theological combat) with your neighbors, Theocracy will give +5 Religious Strength to your holy warriors. This will aid in converting more [City%20%28Civ6%29](cities) to your religion as each defeated enemy unit subtracts religious pressure from their religion while boosting pressure from yours.

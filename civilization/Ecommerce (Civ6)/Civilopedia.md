@@ -1,0 +1,3 @@
+# Ecommerce (Civ6)/Civilopedia
+
+In 1979 AD, Michael Aldrich demonstrated the first online shopping system, the beginning of electronic commerce (or e-commerce). From that primitive launch, e-commerce now uses computer networks (notably the internet) for such activities as electronic funds transfers, online marketing and sales, virtual shopping, supply chain management, electronic data exchange, inventory management. E-commerce allows consumers to electronically exchange goods and services with no barriers of time or distance. In 2012, e-commerce sales topped one billion dollars for the first time, and has expanded significantly since to blur the boundaries between conventional and electronic commerce even more.

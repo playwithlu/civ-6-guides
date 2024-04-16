@@ -1,0 +1,5 @@
+# Rationalism (Civ6)
+
+Rationalism is an Economic [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Rationalism is absolutely indispensable when seeking a [Victory%20%28Civ6%29%23Science](Science Victory), and is also quite helpful for [Victory%20%28Civ6%29%23Domination](Domination Victory) seekers who want to field cutting-edge military [Unit%20%28Civ6%29](units). Be aware that in ' and ', only [City%20%28Civ6%29](cities) that meet the Population requirement and have high [Adjacency%20bonus%20%28Civ6%29](adjacency bonuses) for their [Campus%20%28Civ6%29](Campuses) will fully enjoy the policy's bonus. The best civilization to make use of this card is the [Mayan%20%28Civ6%29](Maya), who can easily meet both conditions. To a lesser extent, [Korean%20%28Civ6%29](Korea) and [Australian%20%28Civ6%29](Australia) also love this card, since their Campuses are likely to have good adjacency bonuses, but they will have a harder time growing the Population of their cities to meet the second condition. 

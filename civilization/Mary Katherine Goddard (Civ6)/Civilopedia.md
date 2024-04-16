@@ -1,0 +1,5 @@
+# Mary Katherine Goddard (Civ6)/Civilopedia
+
+Born in New England in 1738, Mary Katherine Goddard worked with her younger brother to begin a local printing business. While her brother was often away on business, Mary labored on typesetting, printing, and writing with her mother.
+The family business moved south, beginning a shop in Philadelphia, PA and then later Baltimore, MD, where Mary’s brother had established Baltimore’s first newspaper, ‘The Maryland Journal.’ In 1775, after running the paper for some time in her brother’s absence, Mary printed “Published by M.K. Goddard” on the paper. That is, until he returned a year later. It was this same year that Mary assumed the role of postmaster, being perhaps the first female to do so in the colonies.
+In 1777, it was from Mary’s printing press that the very first copy of the Declaration of Independence came, and her legacy was set. She lived in Baltimore until her death in August of 1816.

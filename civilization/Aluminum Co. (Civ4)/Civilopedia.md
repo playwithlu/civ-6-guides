@@ -1,0 +1,3 @@
+# Aluminum Co. (Civ4)/Civilopedia
+
+Despite being the most abundant metal on Earth, aluminum in its purest form was exceedingly rare until the nineteenth century, with a price-per-pound comparable to that of pure silver. The development of the Hall-Heroult process in 1886, by which pure aluminum is drawn out of common bauxite ore, made aluminum cheap and readily available. Harnessing his invention, Charles Martin Hall created the Pittsburgh Reduction Company, which would grow into the largest provider of aluminum in the world, with its product included in everything from soda cans to spaceships.

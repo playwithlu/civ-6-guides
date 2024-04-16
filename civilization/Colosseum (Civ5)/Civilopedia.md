@@ -1,0 +1,3 @@
+# Colosseum (Civ5)/Civilopedia
+
+A colosseum is an outdoor venue where the public can watch sports events. Depending upon the time and place, the events might be gladiatorial contests, American football games, or soccer matches. Of the three contests mentioned, the gladiatorial battles were perhaps the hardest on the players involved, the soccer matches (occasionally) just about as dangerous for the participants.

@@ -1,0 +1,6 @@
+# Shipwreck (Civ6)
+
+A Shipwreck is a special [Resource%20%28Civ6%29](resource) in "[Civilization%20VI](Civilization VI)". It appears on any type of passable water [Tile%20%28Civ6%29](tile) after discovering [Cultural%20Heritage%20%28Civ6%29](Cultural Heritage).
+Strategy.
+An [Archaeologist%20%28Civ6%29](Archaeologist) who works a Shipwreck will remove it from the [Map%20%28Civ6%29](map) and excavate an [Great%20Work%20%28Civ6%29%23Artifacts](Artifact).
+Since navigation of [Ocean%20%28Civ6%29](Ocean) tiles requires [Cartography%20%28Civ6%29](Cartography) (a [Renaissance%20Era%20%28Civ6%29](Renaissance Era) [Technology%20%28Civ6%29](technology)), Shipwrecks located in Ocean tiles will generally not be from the [Ancient%20Era%20%28Civ6%29](Ancient), [Classical%20Era%20%28Civ6%29](Classical), or [Medieval%20Era%20%28Civ6%29](Medieval Eras). This information could help if you are trying to theme an [Archaeological%20Museum%20%28Civ6%29](Archaeological Museum). Exceptions, however, may occur if the [M%C4%81ori%20%28Civ6%29](Māori) or the [Norwegian%20%28Civ6%29](Norwegians) are in the game.

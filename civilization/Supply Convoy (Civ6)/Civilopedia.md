@@ -1,0 +1,3 @@
+# Supply Convoy (Civ6)/Civilopedia
+
+With the advent of mechanized infantry, logistics grew increasingly complex. A motorized army can only travel as far as its fuel provides, which is why support convoys became the lifeblood of modern warfare. Motorized transports could bear food, fuel, and medical supplies with more reliability and efficiency than carts drawn by beasts of burden. They also allowed for faster relocation of mobile field hospitals or fuel depots when operating near a more fluid front.

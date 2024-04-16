@@ -1,0 +1,3 @@
+# Pliska
+
+Pliska is the [Bulgar](Bulgar) [capital](capital) in [The%20Middle%20Ages%20%28Civ3%29](The Middle Ages) [List%20of%20scenarios%20in%20Civ3](scenario) and a [Hunnic](Hunnic) [city](city) in the [Fall%20of%20Rome%20%28Civ3%29](Fall of Rome) scenario in "". To date, it has appeared only in [scenario](scenario)s. In real life, it was the first capital of the First Bulgarian Empire during the Middle Ages and is now a small town in Shumen Province in present-day Bulgaria.

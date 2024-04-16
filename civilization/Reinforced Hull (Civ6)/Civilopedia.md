@@ -1,0 +1,3 @@
+# Reinforced Hull (Civ6)/Civilopedia
+
+The widespread use of rams lead, inevitably, to efforts to reinforce the hulls that they smashed so frequently. The Greeks experimented with reinforcing the hulls with extra timbers as bracing, and even built a few very large ships around 200 BC with double hulls, one nested inside the outer: ships such as the Tessarakonteres, Thalamegos, Syracusia, and Leontophoros. Sadly, most of these were so unwieldy and heavy that they maneuvered poorly and tended to sink abruptly. Carthage not only reinforced their hulls with braces, but also their prows so they could smash enemy ships to pieces without self-inflicted damage. When steam came to war, reinforced hulls meant ever thicker steel plating.

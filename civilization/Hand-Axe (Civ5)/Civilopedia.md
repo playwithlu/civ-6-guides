@@ -1,0 +1,3 @@
+# Hand-Axe (Civ5)/Civilopedia
+
+The always-reliable axe has shaped human history as both a tool and a weapon. From the sharpened piece of flint tied with vine to a wooden stick, to the modern steel blade set in a machined handle, axes have been used in every age and every region of the world. Short-handled axes, such as the tomahawk, capable of being wielded one-handed, have been used in hunting and war by many primitive peoples; long-handled, broad-bladed axes, such as the Viking [Danish%20%28Civ5%29](Dane) axe or [Japanese%20%28Civ5%29](Japanese) ono, were fearsome weapons in combat. Typically used in close combat, those such as the traditional battle axe deliver more cleaving power against a smaller target area, making it more effective than a sword against armor.

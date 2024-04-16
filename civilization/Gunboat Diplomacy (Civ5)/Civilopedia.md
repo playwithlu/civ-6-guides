@@ -1,0 +1,3 @@
+# Gunboat Diplomacy (Civ5)/Civilopedia
+
+In international affairs, "Gunboat Diplomacy" refers to the pursuit of foreign policy objectives through conspicuous demonstrations of overwhelming military force, with the threat of open hostilities underlying the display by the more powerful nation. The term came into popular usage during the period of European imperialism, as the colonial powers used the presence of warships to force concessions from a native kingdom. The policy proved very successful, especially as employed by militaristic autocracies...until the natives managed to obtain modern weaponry.

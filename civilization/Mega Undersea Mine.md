@@ -1,0 +1,3 @@
+# Mega Undersea Mine
+
+The Mega Undersea Mine is a [tile%20improvement](tile improvement) in the [Call%20to%20Power%20games]("Call to Power" games).

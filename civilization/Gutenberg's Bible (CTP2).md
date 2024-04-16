@@ -1,0 +1,7 @@
+# Gutenberg's Bible (CTP2)
+
+Gutenberg's Bible is a [Wonder%20%28CTP2%29](Wonder) in "[Call%20to%20Power%20II](Call to Power II)". It is meant for the [German%20%28CTP2%29](Germans) and costs 3240 production points to build.
+Gameplay.
+Gutenberg's printing press made possible the mass production of literature and religious works. Religious leaders were better able to spread their doctrines, making multiple copies of their tomes faster and cheaper than the traditional method of having monks transcribe works painstakingly by hand. An empire with Gutenberg's Bible is a more religious empire, and therefore happier. The citizens resist from foreign .
+Great Library entry.
+The Gutenberg Bible, also known as the Mazarin Bible and the 42-line Bible, was the first volume known to have been printed with movable metal type. A Latin edition of the Bible, it was printed some time between 1450 and 1456 in Mainz, Germany. Although German bibliographers claim that it was printed by Gutenberg, the edition may have been finished and perfected by Peter Schöffer, Gutenberg's assistant, and Johann Fust, a wealthy financier who acquired Gutenberg's share of the business in a lawsuit. Regardless of its exact origins, the Gutenberg Bible was one of the first religious texts mass-produced by machine. Although many copies were thought to have been printed, less than 50 copies survived until the 20th century.

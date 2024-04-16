@@ -1,0 +1,6 @@
+# Holy City (Civ5)
+
+A Holy City is the [City%20%28Civ5%29](city) where a [Great%20Prophet%20%28Civ5%29](Great Prophet) was when he founded a [Religion%20%28Civ5%29](religion). This city then becomes "holy" for that religion, and gets some bonus pressure, besides being the very first city from which the religion starts to spread.
+Most of the time, the Holy City for a particular religion is the of the [Civilizations%20%28Civ5%29](civilization) which founded it.
+There are certain [List%20of%20wonders%20in%20Civ5](wonders) that may only be constructed in a Holy City, such as the [Grand%20Temple%20%28Civ5%29](Grand Temple) and the [Borobudur%20%28Civ5%29](Borobudur).
+The [Fall%202013%20patch%20%28Civ5%29](Fall 2013 patch) made changes to the Holy Cities of religions so that they cannot be razed if [Conquered%20cities%20%28Civ5%29](captured). Note, however, that you can in fact unmake a Holy City by using an [Inquisitor%20%28Civ5%29](Inquisitor's) Remove Heresy ability on it. This will remove all religions except the one to which the Inquisitor belongs from the city, and it will also remove the Holy City status if the Inquisitor doesn't belong to the religion the Holy City represents.

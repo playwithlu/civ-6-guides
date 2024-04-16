@@ -1,0 +1,3 @@
+# Superconductor (SMAC)
+
+The power requirements of [Optical%20Computers%20%28SMAC%29](Optical Computers) and the nascent [Industrial%20Base%20%28SMAC%29](Industrial Base) stimulate research into high-temperature Superconductors, an advance long considered a ‘Holy Grail’ by physical chemists. A Superconductor is a material that does not resist a flow of electrons. Using a Superconductor, power can be transmitted at incredible speeds over vast distances with no degradation. Bulky and expensive cooling equipment for high-powered machinery or weaponry becomes unnecessary, because these materials remain cool and efficient as electricity passes through them.

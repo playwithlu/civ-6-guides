@@ -1,0 +1,6 @@
+# Sydney Opera House (Civ6)
+
+The Sydney Opera House is an in "[Civilization%20VI](Civilization VI)". It must be built on [Coast%20%28Civ6%29](Coast) adjacent to land and a [Harbor%20%28Civ6%29](Harbor). It cannot be built on a .
+Strategy.
+The Sydney Opera House can be quite useful to -oriented players, as it allows the owner to attract [Great%20Musician%20%28Civ6%29](Great Musicians) much more quickly in the final stages of the game, and combined with the [Satellite%20Broadcasts%20%28Civ6%29](Satellite Broadcasts) [Policy%20card%20%28Civ6%29](policy card), Great Works of Music will yield impressive amounts of .
+However, building the Sydney Opera House should not be too high on one's priority list, because the amount of needed to construct it could be better spent running [Theater%20Square%20Performances%20%28Civ6%29](Theater Square Performances) and gaining those points from the start. In addition, by the time most players are able to build the Sydney Opera House, they are close to winning, making the +5 points per turn mostly inconsequential. Construction of this wonder should generally be attempted only if there is clearly no one close enough to challenge the player in a [Victory%20%28Civ6%29%23Culture](Culture Victory), and in a [City%20%28Civ6%29](city) with decently high to finish it before the game ends.

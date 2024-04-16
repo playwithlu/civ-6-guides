@@ -1,0 +1,3 @@
+# Medical Lab (Civ5)/Civilopedia
+
+A medical laboratory is an institution that studies disease and human anatomy using a wide variety of extremely sophisticated and powerful instruments - from ultrasound to cameras the size of an ant to electron microscopes. Most - if not all - of the remarkable advances in medicine in the past 25 years have been made in medical labs. These include the sequencing of human DNA, retro-viruses to battle HIV-AIDS, gene therapy, nano-technology, and more. Much of the increasing cost of healthcare can be attributed to the simple fact that medical laboratories have been remarkably successful at battling illness and prolonging and improving the quality of human life - and these improvements cost huge amounts of money.

@@ -1,0 +1,4 @@
+# Highlander (Civ6)/Civilopedia
+
+In the wake of Scotland’s 1719 Jacobite rising, the British Army recruited loyal Scottish clans (the Campbells, Grants, Frasers, and Munros) to promote unity and keep the peace in the Scottish Highlands. The first of the Highland Regiments was known as the Black Watch thanks to their classic dark tartans—with prominent red waistcoats to show their loyalty to Great Britain.
+The British Army regulars carried a musket and bayonet into battle. The Highlanders took it a step further by charging into the fray with broadswords, an arguably uncommon weapon for the 18th Century. They first saw combat outside of their homeland at the Battle of Fontenoy (1745), where a French writer described them as “Highland furies” who fought with “more violence than ever did a sea driven by a tempest.” Highlanders continue to serve in modern times, though their broadswords are (presumably) ceremonial.

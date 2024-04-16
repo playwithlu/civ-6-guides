@@ -1,0 +1,4 @@
+# Blue Marble (Civ4)
+
+Blue Marble is a graphical [Mods%20%28Civ4%29](mod) for "[Civilization%20IV](Civilization IV)" and its expansions. It was developed by Kai Fiebach (ColdFever of [CivFanatics](CivFanatics)) with help from [Firaxis%20Games](Firaxis Games).
+Blue Marble uses images from NASA and the Hubble Space Telescope to improve the quality of [Terrain%20%28Civ4%29](terrain) graphics. It also provides options for different themes (which change the font, menu colors, and mouse cursor) and changes a variety of other graphical assets, such as the loading screen, [advisor](advisor), and [Civilopedia](Civilopedia) backgrounds and some of the leaderheads (most notably [Darius%20I%20%28Civ4%29](Darius I), who is given a lighter skin tone and a mustache to make his appearance more consistent with that of both [Cyrus%20%28Civ4%29](Cyrus) and historical records).

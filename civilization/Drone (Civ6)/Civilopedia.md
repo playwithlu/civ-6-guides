@@ -1,0 +1,4 @@
+# Drone (Civ6)/Civilopedia
+
+As the 20th Century gave way to the 21st, so changed the face of modern warfare and espionage. Drones (also called “unmanned aerial vehicles” or “UAVs”) allow an army to observe and attack an enemy without putting their own soldiers in danger. Although no person physically flies drones, they do require pilots—whether by preprogrammed flight patterns, or human pilots relaying commands via satellite. They can serve as “eyes in the sky” for dangerous areas, whether the battlefield or natural disaster zones, and can even perform the most banal of tasks—pizza and package delivery.
+Surprisingly, these weapons are not a new invention—although the practical use and combat efficiency of earlier attempts was questionable, at best. (The “bomb-carrying bats” plan, proposed by an American dentist during World War II, never quite panned out as an effective weapon for the Allies.)

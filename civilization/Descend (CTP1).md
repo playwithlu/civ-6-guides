@@ -1,0 +1,5 @@
+# Descend (CTP1)
+
+Cargo Pods can descend from onto land or sea. The Cargo Pod is destroyed, and the contents will appear on the land or sea tile. If the unit cannot exist on that tile, the unit will be destroyed. 
+Great Library entry.
+While most of the 20th century was concerned with getting things into space, after space ascent was well established and colonization was underway, the shift focused on how to get things back down to Earth. On April 12, 1981 the United States launched the Space Transportation Shuttle, the first spacecraft designed to return to Earth intact after a space flight. The STS, nicknamed the Space Shuttle, improved its landing capabilities in the mid 21st century so that it could land at most commercial airports. This often-overlooked development was essential in the colonization of space.

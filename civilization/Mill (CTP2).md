@@ -1,0 +1,7 @@
+# Mill (CTP2)
+
+The is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+A Mill brings an increase to the output of a city. By harnessing the power of natural running water in streams and rivers, the Mill uses clean energy to power a primitive engine that can be used to weave fabric, process grain into food or make wine.
+Great Library entry.
+From the 5th to the 10th centuries, the use of waterwheel mills dramatically increased in Middle Ages-era Europe. Often run by the church, they were an integral part of the explosion of new farming techniques and methods that became known as the Agricultural Revolution. By the 11th and 12th centuries, the waterwheel technology had spread to the textiles industry, powering great looms. Waterwheels provided a clean source of power, and enabled larger scale production operations for the processing of materials, such as grains in grist mills and wool and cotton in looms. Mills remained in service well into the 1800s, and were particularly popular in regions of the United States where coal was scarce and wood was considered an unsatisfactory fuel source. Throughout the Northeast and Midwest, mills contributed to the industrialization of many of the modern era's most productive and prominent cities.

@@ -1,0 +1,5 @@
+# Bronze Working (Civ4)
+
+Bronze Working is a [List%20of%20technologies%20in%20Civ4](technology) in "[Civilization%20IV](Civilization IV)".
+Strategy.
+Bronze Working provides strong early [Military%20unit%20%28Civ4%29](military units) and benefits production. It reveals the [Copper%20%28Civ4%29](Copper) [Resource%20%28Civ4%29](resource), access to which allows you to train [Axeman%20%28Civ4%29](Axemen) (and [Spearman%20%28Civ4%29](Spearmen) if you have researched [Hunting%20%28Civ4%29](Hunting)). Bronze Working also enables the [Slavery%20%28Civ4%29](Slavery) [List%20of%20civics%20in%20Civ4](civic), which enables hurried production, and lets your [Worker%20%28Civ4%29](Workers) [Chopping%20%28Civ4%29](chop down) [Terrain%20%28Civ4%29](forests). Clearance of forest grants a production bonus and opens up land for other [Tile%20improvement%20%28Civ4%29](improvements).

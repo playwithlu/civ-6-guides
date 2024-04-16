@@ -1,0 +1,5 @@
+# Francisco Pizarro (Civ4Col)
+
+Civilopedia.
+Lived: 1471-1541
+Francisco Pizarro was the poor, illiterate son of a soldier who became one of the most famous conquistadors in history. Pizarro began his journeys in the New World by accompanying Vasco de Balboa in his exploration of Panama. But Pizarro's ambition drove him, along with two companions, Hernando de Luque and Diego de Almargo, to begin a series of expeditions southwards. With a grant from the crown, Pizarro and his party made their way into the heart of the Incan kingdom, meeting with Atahualpa, Lord of the Incans. Managing to kidnap the Incan leader, Pizarro and his companions blackmailed rooms filled gold and silver from the Incans in ransom - then executed Atahualpa anyway. This would mark the beginning of the end for the Incans, as Pizarro would soon return at the head of an indigenous army, seizing control of Incan land and wealth. Pizarro would meet his own end when the son of Diego de Almargo slit the great conquistador’s throat with a rapier, ending his life over a dispute with the elder Almargo.

@@ -1,0 +1,3 @@
+# Legalism (Civ5)/Civilopedia
+
+Legalism is a policy in which the relationship between the ruler and his or her subjects is laid out in a series of laws, which both sides must adhere to strictly. If the law is fair and is properly enforced, the people will be content and the ruler's position will be secure. While this may seem to cover most governments that follow the rule of law, legalism almost achieved the status of a state religion in China during the Warring State Period.

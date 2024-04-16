@@ -1,0 +1,7 @@
+# Horseman (Civ5)
+
+Game Info.
+Fast and powerful [Classical%20Era%20%28Civ5%29](Classical Era) mounted unit. Requires .
+Strategy.
+The Horseman is the first true melee cavalry unit, combining speed with a powerful attack. It has 4 MPs like all cavalry, but unlike the [Chariot%20Archer%20%28Civ5%29](Chariot Archer) it can use its full in rough [Terrain%20%28Civ5%29](terrain). The Horseman packs a punch with decent weapons combined with the speed and strength of the horse; it can move after attacking, making it ideal for hit-and-run tactics, and also for attacking badly positioned enemy ranged units, then retreating before the enemy can retaliate.
+A civilization that has Horsemen can quickly cut through [Barbarian%20%28Civ5%29](Barbarian) [Encampment%20%28Civ5%29](encampments), scores of [Warrior%20%28Civ5%29](Warriors), [Archer%20%28Civ5%29](Archers), and even [Swordsman%20%28Civ5%29](Swordsmen). You can also use the Horseman's mobility and decent combat strength to explore the land and deal with any dangers single-handedly. However, like other mounted units, it can't use natural terrain defenses (although terrain combat experience acquired via [Promotions%20%28Civ5%29](promotions) is still applicable), and its weapons are quite useless against the solid ramparts of [City%20%28Civ5%29](cities). Also, as a mounted unit, the Horseman remains vulnerable to attacks from [Spearman%20%28Civ5%29](Spearmen), [Pikeman%20%28Civ5%29](Pikemen), and the like, so keep it away from these.

@@ -1,0 +1,5 @@
+# Mount Vesuvius (Civ6)/Civilopedia
+
+Perhaps most infamous for burying the city of Pompeii under approximately 15 feet of volcanic ash and debris in the year 79 AD, Mount Vesuvius is one of the world's most dangerous volcanoes. Though its last eruption was in 1944, the volcano continues to be closely monitored for any signs of activity that could endanger the 3 million people living nearby.
+Towering over the City of Naples, this stratovolcano is a large cone surrounded by another steep semicircle – the remnants of an even older and larger volcano, Mount Somma.
+As with most ancient and powerful natural sites, Vesuvius claims a long history of myth and legend. The ancient Romans associated the site with the demigod Hercules, and many believed the eruption was a sign of anger from the gods. In fact, the 79 AD eruption took place just after the festival of Vulcanalia, a celebration of the Roman fire god Vulcan.

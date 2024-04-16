@@ -1,0 +1,3 @@
+# Third Alternative (Civ5)/Civilopedia
+
+The Third Alternative, or Third Position, is a nationalist political philosophy that emphasizes its opposition to both capitalism and communism, instead synthesizing radical ideas from both. Those following this approach favor state ownership of production and the distribution of goods and services to "the productive members of society," peaceful segregation of ethnic and racial groups within the state, and have recently embraced radical environmentalism. Many political scientists have argued that the movement, which arose in the wake of World War II in countries such as Argentina and South Africa, is not a third alternative, but rather a mutation of neo-fascism and ultra-nationalism.

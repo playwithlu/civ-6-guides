@@ -1,0 +1,3 @@
+# Rhye's of Civilization (Civ3)
+
+Rhye's of Civilization is a [Mods](mod) for "" designed to simulate the history of the [Earth](Earth). It was created by [Gabriele%20Trovato](Gabriele Trovato), known as "Rhye" on various forums. The immense popularity of Rhye's of Civilization inspired Trovato to create [Rhye%27s%20and%20Fall%20of%20Civilization%20%28Civ4%29](Rhye's and Fall of Civilization), a similar [Mods%20%28Civ4%29](mod) for "[Civilization%20IV](Civilization IV)".

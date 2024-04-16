@@ -1,0 +1,6 @@
+# Advanced Ballistics (Civ6)
+
+Advanced Ballistics is an [Atomic%20Era%20%28Civ6%29](Atomic Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI). "It can be hurried by building 2 [Power%20Plant%20%28Civ6%29](Power Plants) (1 [Oil%20Power%20Plant%20%28Civ6%29](Oil Power Plant) in "[Gathering%20Storm](Gathering Storm)"). 
+Strategy.
+Regular ballistics is all well and good when dealing with cannonballs, but when air bombing gets invented and the first crude rockets lift off the ground, it becomes necessary to go way beyond normal ballistics. Thus scientists and military engineers get together, combining various branches of physics, and work out advanced dynamics which take into account a slew of other factors, such as gravity. 
+These advances prepare the way to space, but are also immediately useful to the military. The [Machine%20Gun%20%28Civ6%29](Machine Gun) replaces cannons, and the [Anti-Air%20Gun%20%28Civ6%29](Anti-Air Gun) takes care of those pesky bombers up there. 

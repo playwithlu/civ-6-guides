@@ -1,0 +1,3 @@
+# Land Leviathan (unit) (Civ5)/Civilopedia
+
+The Land Leviathan is the pinnacle of ground combat. Taking its name from the fantastic sea monster, it boasts immense firepower. It can fire from almost any angle and trek across the land at great speeds. It is outfitted with a crew of sixteen: some man the cannons, others tend the luboric engine, and a pair act as pilot and navigator. During training they learn to move and think as one unit, developing a shorthand language for giving complex commands quickly.

@@ -1,0 +1,9 @@
+# Merchant of Venice (Civ5)
+
+Game Info.
+A unique [Great%20People%20%28Civ5%29](Great Person) of the [Venetian%20%28Civ5%29](Venetian) [Civilizations%20%28Civ5%29](civilization), specialized in Trading. Replaces the [Great%20Merchant%20%28Civ5%29](Great Merchant).
+The unit is expended after performing any of these actions.
+Strategy.
+The Merchant of Venice is the second unique [Great%20People%20%28Civ5%29](Great Person) in the game and is vital to the Venetians, allowing them to expand their empire peacefully via the Purchase City-State ability. With it, the Merchant of Venice uses his considerable personal wealth to literally "purchase" a city-state, buying out and bribing his way into the highest levels of the government of the city-state and then manipulating them into officially joining the Venetian Empire. Since the Venetians can't build [Settler%20%28Civ5%29](Settlers), the Merchant of Venice is the only way for them to expand, barring military conquest (or [Diplomacy%20%28Civ5%29](diplomatic) tricks).
+Once purchased by a Merchant of Venice, a city-state becomes a puppet. It forever loses its city-state status and cannot be [Conquered%20cities%20%28Civ5%29%23Liberating](liberated), though another civilization can puppet or annex it through war. (Interestingly, a purchased city-state can also be razed, unlike a normal city-state.) This ability works on any city-states regardless of - even those allied with another civilization - though it cannot be used on a city-state with which the Merchant of Venice's owner is at war.
+Beyond the ability to purchase city-states, the Merchant of Venice also has other advantages:

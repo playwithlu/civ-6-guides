@@ -1,0 +1,3 @@
+# Space Initiative (Civ6)/Civilopedia
+
+Space programs are often wildly popular with the nation, and this public support is important given the costs and risks associated with them. A good space initiative conveys to the public the potential and actual gains from the scientific program, and secures the popular support. And even, in recent ages, it has solicited citizen- and student-scientists to contribute in meaningful ways to the ongoing research program.

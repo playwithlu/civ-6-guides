@@ -1,0 +1,2 @@
+# Kōtoku-in (Civ6)
+

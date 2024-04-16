@@ -1,0 +1,3 @@
+# Knight (Civ5)/Civilopedia
+
+Almost always comprised of a nation's nobility - the only people who could afford the equipment, horses, and extensive training required - knights were the heavy cavalry of the medieval army. During much of the Middle Ages knights dominated the battlefield. Their superior armor provided good protection from arrows and spears, and their great mobility made them able to exploit an enemy's weakness anywhere on the battlefield. It took a great deal of courage to face a knight's charge. A wall of pikemen might be a match for onrushing knights, but only if they had the discipline and guts to stand their ground. If they flinched, they were dead.

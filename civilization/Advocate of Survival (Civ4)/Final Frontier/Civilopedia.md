@@ -1,0 +1,3 @@
+# Advocate of Survival (Civ4)/Final Frontier/Civilopedia
+
+With mankind venturing into space for the first time, new questions arose for humanity to answer. What is the meaning of our existence, why are we entering this new realm? Advocates were the men with the answers. The Advocates of Power, Wealth, Survival, Knowledge and Religion all seek to spread the word of their faith and bring believers to their cause in hopes of bringing enlightenment to all of man's scattered nations.

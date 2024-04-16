@@ -1,0 +1,3 @@
+# Faith (C-evo)
+
+When playing the free game "[C-evo](C-evo)", as soon as you research [Theology%20%28C-evo%29](Theology) you may switch to the [Fundamentalism%20%28C-evo%29](Fundamentalism) form of government. It has disadvantages, but one of its benefits is that citizens' [morale%20%28C-evo%29](morale) is maintained by Faith, which obviates the need for a [colosseum%20%28C-evo%29](colosseum) and [temple%20%28C-evo%29](temple)s, [theater%20%28C-evo%29](theater)s, and [cathedral%20%28C-evo%29](cathedral)s.

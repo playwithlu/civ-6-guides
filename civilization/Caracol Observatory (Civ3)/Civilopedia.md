@@ -1,0 +1,3 @@
+# Caracol Observatory (Civ3)/Civilopedia
+
+The Caracol Observatory is located in the Mayan city of Chichen Itza. Like a modern-day observatory, Caracol has a spiral staircase leading up to the top of a stone dome where a small room looks out onto the sky. From this room, Mayan kings and priests could hold rituals and observe the stars. A small western window in the room shows the setting sun on March 21 (the vernal equinox).

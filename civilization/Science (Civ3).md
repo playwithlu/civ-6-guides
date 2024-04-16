@@ -1,0 +1,4 @@
+# Science (Civ3)
+
+Scientific Research is one of the three outputs of [Commerce%20%28Civ3%29](Commercial Revenue) and is used further advance your civilization's technological capabilities and social development.
+Every turn the sum total of all research from all the cities are contributed towards the current [Civilization%20Advances%20%28Civ3%29](national research project). Various city improvements and wonders can enhance the output of research from a city, along with the Scientist [Specialist%20%28Civ3%29](Specialist) that a [Citizen%20%28Civ3%29](free laborer) in a city can be assigned to work as.

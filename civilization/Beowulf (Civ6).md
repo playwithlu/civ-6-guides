@@ -1,0 +1,7 @@
+# Beowulf (Civ6)
+
+Beowulf is a [Heroes%20%26amp%3B%20Legends%20%28Civ6%29%23Heroes](Hero) in "[Civilization%20VI](Civilization VI)". He is exclusive to the [Heroes%20%26amp%3B%20Legends%20%28Civ6%29](Heroes &amp; Legends) [Game%20Mode%20%28Civ6%29](game mode), introduced in the [Babylon%20Pack%20%28Civ6%29](Babylon Pack).
+Strategy.
+Like all Hero units, Beowulf's Strength increases with the progression of the [Era%20%28Civ6%29](eras), as shown in the table below.
+Beowulf's Challenge is a powerful ability that can be used to eliminate an enemy in a single attack without taking any damage in return. It also has the very unique ability to target units that are in a defensible [District%20%28Civ6%29](district) such as the [City%20Center%20%28Civ6%29](City Center). This makes Beowulf exceptionally useful when laying siege to a city, letting him both dispose of a potential ranged attacker and weaken the city's Combat Strength. He also has the third-highest Combat Strength of any Hero, behind only [Arthur%20%28Civ6%29](Arthur) and the mighty [Hercules%20%28Civ6%29](Hercules), but Beowulf's Challenge is a stronger ability than Arthur's Accolade, so Arthur's 2 extra Combat Strength is not the deciding factor.
+Beowulf can also be a great Hero on the defense, as Beowulf's Challenge can kill dangerous units such as enemy Heroes besides Arthur and Hercules, and [Giant%20Death%20Robot%20%28Civ6%29](Giant Death Robots) in the [Future%20Era%20%28Civ6%29](Future Era). It is also one of the few ways to permanently kill [Vampire%20%28Civ6%29](Vampires).

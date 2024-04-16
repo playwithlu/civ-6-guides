@@ -1,0 +1,5 @@
+# Outpost (CivBE)
+
+Outposts are the first level of settlement. [Colonist%20%28CivBE%29](Colonist)s convert into them, upon being ordered to settle. Outposts do not produce any form of resources. Instead, they steadily develop into cities over a series of turns where they gradually "unpack", leaving them vulnerable to immediate attack and making it difficult to settle near hostile territory without armed escort. 
+To make an Outpost into a [Cities%20%28CivBE%29](city), you require not just the passage of time, but also must acquire all territory adjacent to it. If you establish any [Trade%20routes%20%28CivBE%29](trade routes) with an outpost, this process is sped up.
+If an enemy conquers an Outpost, it is destroyed, unless they have the Liberation Army [Virtue%20%28CivBE%29](Virtue). Then when conquered it automatically puts your own Outpost in its place.

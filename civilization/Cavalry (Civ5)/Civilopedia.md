@@ -1,0 +1,3 @@
+# Cavalry (Civ5)/Civilopedia
+
+By the end of the 19th century, European and American cavalrymen were armed with repeating rifles, small, reliable weapons holding 5-15 rounds which were accurate up to perhaps 500 yards, as well as pistols and swords. Because their equipment was so much lighter than that encumbering earlier lancer and knights, they were much faster and could ride a good deal farther than their predecessors. While the cavalry charge of old might still occur under very favorable conditions, the infantry's increased accuracy and rate of fire made that maneuver extremely dangerous. When facing infantry units the cavalry usually dismounted to fight, with one soldier holding four horses a distance to the rear while his three comrades traded shots with the enemy.

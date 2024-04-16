@@ -1,0 +1,5 @@
+# Bomber (Civ1)
+
+Bomber units ignore the effects of City Walls when attacking and must return to a city or Carrier by the end of their second turn in the air. Bombers have a visibility range of 2 map squares. An attack by a Bomber ends its turn.
+Civilopedia entry.
+The Bomber was introduced in World War I but did not become a significant weapon until World War II. Its job was to carry bombs into enemy territory, normally beyond the range of artillery, and destroy targets of military and economic value. Bombers became specialized for certain jobs, such as attacking ships, ground attack versus vehicles and railroads, daylight precision bombing, and carpet bombing. Post World War II experiences indicated that precision bombing by "smart" weapons was more effective than mass bombing with "dumb" weapons.

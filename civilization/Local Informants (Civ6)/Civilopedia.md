@@ -1,0 +1,3 @@
+# Local Informants (Civ6)/Civilopedia
+
+Surrounding oneself with a network of formal and informal observers is a valuable strategy for the agent in the field. A good network of local informants extend the agent's awareness of events in the area, and can act as a priority filter so that the agent becomes aware of only the most critical changes. Best of all, not all these informants must be professionals—indeed the clever but untrained eye sometimes catches things that the agent might miss. No matter how hard an enemy spy tries to infiltrate into the agent's home field, the spy will leave traces of their passage through the local network, which trembles like a spiderweb, warning the spider at the center of the presence of prey.

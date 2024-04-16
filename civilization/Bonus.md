@@ -1,0 +1,3 @@
+# Bonus
+
+A bonus is one of the special features of a [Civilizations](civilization) or [Leaders](leader) in the [Civilization%20Revolution%20games]("Civilization Revolution" games) that provide unique [gameplay](gameplay) advantages. One (the starting bonus) is active at the beginning of the game, and the others (the era bonuses) become active upon researching enough [List%20of%20technologies](technologies) to advance to each [era](era).

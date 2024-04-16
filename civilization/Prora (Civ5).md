@@ -1,0 +1,7 @@
+# Prora (Civ5)
+
+Game Info.
+Requires [Ideology%20%28Civ5%29](Autocracy). Must be constructed in a [Coastal%20%28Civ5%29](coastal) [City%20%28Civ5%29](city).
+Strategy.
+Prora is quite a useful wonder for players who have adopted the Autocracy ideology. The boost from [Social%20policies%20%28Civ5%29](Social Policies) is very helpful in times of war and peace alike, allowing players to cut down on the of their empire when conquering or founding new cities or struggling against foreign influence, while the free Social Policy allows them to advance faster in the Social Policy or Ideology trees.
+The only drawback to Prora is its lack of boosters, which leaves the owner's [Civilizations%20%28Civ5%29](civilization) vulnerable to the foreign influence of the wave and its unfavorable effects on public opinion. Rather than relying solely on Prora's bonuses, it is recommended for players to build many - and -boosting [Building%20%28Civ5%29](buildings) in their cities, get a lot of [Resources%20%28Civ5%29%23Luxury%20Resources](luxury resources), and obtain many [Great%20Work%20%28Civ5%29](Great Works). If a player takes all of these steps in addition to building Prora as quickly as possible after adopting Autocracy, his or her civilization should be largely immune to the cultural influence of foreign civilizations.

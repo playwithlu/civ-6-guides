@@ -1,0 +1,4 @@
+# Ice Hockey Rink (Civ6)/Civilopedia
+
+There's nothing quite as satisfying as a game of ice hockey on a frozen pond on a sunny and cold winter day. Except sometimes the pond ice is uneven. Spectators can't always comfortably see what's going on. Bright and sunny winter days are subject to the vagaries of the weather. Organs are difficult to set up and take down between games. So there's really nothing quite as satisfying as a place that addresses some of those problems: The ice hockey rink.
+The skating craze at the end of the 19th Century led to a boom in rink construction. The first organized indoor hockey game was at the Victoria Skating Rink in Montreal in 1875. Since then, ice quality has improved due to improvements in ice formation chemistry and the domestication of the wild Zamboni. Amenities at the rink have improved as well to ensure fans have food and drink and boards to protect from errant pucks.

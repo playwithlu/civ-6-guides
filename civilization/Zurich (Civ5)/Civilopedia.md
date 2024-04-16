@@ -1,0 +1,4 @@
+# Zurich (Civ5)/Civilopedia
+
+Zurich, the largest city in modern Switzerland, traces its early history to the Romans, who are thought to have founded the city some 2,000 years ago as a minor fortress. Zurich's growth into a major international center of trade and business wouldn't come until the 18th century, when vast expansions took place and the city grew exponentially.
+Zurich is presently a crucial economic center for Switzerland and Europe as a whole, with many of the world's largest banks and financial institutions having central offices within the City. The Swiss Stock Exchange, having existed for more than 150 years, is also based in Zurich.

@@ -1,0 +1,5 @@
+# Howitzer (Civ2)
+
+The Howitzer is a ground unit in [Civilization%20II](Civilization II).
+Civilopedia entry.
+The howitzer is a specialized piece of artillery. As originally designed, the howitzer was a cross between the short-ranged mortar and the long-ranged field gun. When fired in a high arc, the howitzer shell was able to achieve the mortar's effectiveness against small, concealed targets. When fired in a flat trajectory, the shell had more range than the mortar and the penetration power of the field gun. Howitzers were easier to transport than other types of heavy artillery due to their smaller size, and could be mounted on wheels and towed by a truck. Modern light howitzers fire a variety of specialized ammunition, and their accuracy now makes them more efficient and lethal than older heavy howitzers and field guns.

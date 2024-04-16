@@ -1,0 +1,4 @@
+# St. Basil's Cathedral (Civ6)/Civilopedia
+
+The large, dramatically colored cathedral near Moscow’s Moskva River officially bore the name “Cathedral of the Intercession of the Virgin by the Moat,” but most people referred to it as “St. Basil’s.” Also, the shorter name fits better on maps. Ivan the Terrible commissioned its construction in 1555 to commemorate victories achieved during his reign.
+Despite Ivan’s namesake, the cathedral turned out to be anything but terrible. The cathedral is reminiscent of a Russian nesting doll, consisting of eight separate clustered churches rather than a single one. Though St. Basil’s was originally a drab white, it received a fresh coat of bold, patterned paint in 1860 that has defined it since.

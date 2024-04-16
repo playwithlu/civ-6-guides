@@ -1,0 +1,5 @@
+# Meditation (Civ4)/Civilopedia
+
+Meditation is the practice of relaxing the body while calming and focusing the mind. Many religions - Buddhism, for example - see meditation as a religious ritual, but it is also widely used outside of religion.
+According to Buddhism, meditation is a path to spiritual enlightenment. It allows one to gain wisdom and it provides refuge from the burden of karma and the toils and misery of daily existence. The Buddha himself gained great wisdom and knowledge of the nature of human suffering from meditating under a humble Bo tree.
+Many people use meditation as a way to relieve the stress and strain of daily life. The Hindu practice of "yoga" is a formalized form of meditation that enjoys popularity across the globe. Meditation is widely believed to have healing powers, as it allows one's mind to aid the body in overcoming injury and infirmities.

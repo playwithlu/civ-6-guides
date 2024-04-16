@@ -1,0 +1,8 @@
+# Granary (Civ2)
+
+ The Granary is a [City%20improvement%20%28Civ2%29](building) in "[Civilization%20II](Civilization II)".
+Strategy.
+Granaries effectively double the rate of a [City%20%28Civ2%29](city's) growth by causing only half of the city's food store to be depleted when it grows. This isn't necessarily a good thing at the beginning of the game on harder [Difficulty%20level%20%28Civ2%29](difficulty levels), because of the [Attitude%20%28Civ2%29](discontent) these larger cities will have.
+Building the [Pyramids%20%28Civ2%29](Pyramids) will provide a Granary in all of your cities. Players may sell their Granaries if they own this [Wonder%20%28Civ2%29](wonder).
+Civilopedia entry.
+Early humans were nomadic, settling in specific regions only for brief periods of time. When the food supply was exhausted in one area, the nomads would move on to search for more. Cities became possible only when the development of agriculture made the supply of food more abundant and dependable. However, cities still needed a way to keep the food supply stable throughout all four seasons. To do so, the citizens had to come up with a way to store seasonal crops for later use. The Granary was designed for the storage and protection of surplus food. Food storage technology meant that a smaller percentage of the population could produce and store enough food for everyone, allowing the remainder to pursue other jobs and activities.

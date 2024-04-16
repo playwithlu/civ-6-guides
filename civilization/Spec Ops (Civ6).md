@@ -1,0 +1,6 @@
+# Spec Ops (Civ6)
+
+The Spec Ops is an [List%20of%20units%20in%20Civ6/By%20class%23Recon](recon unit) in "". It upgrades from the [Ranger%20%28Civ6%29](Ranger) (or its replacements).
+Strategy.
+It's not surprising that the Spec Ops' primary function isn't reconnaissance anymore, due to the minimal need for scouting in the Atomic Era. Rather, its awesome maneuverability and ranged attack make it ideal for engaging in guerrilla warfare. Moreover, its ability to directly attack support units in a formation makes it a great counter to [Supply%20Convoy%20%28Civ6%29](Supply Convoys) and [List%20of%20units%20in%20Civ6/By%20class%23Siege](siege units) with [Drone%20%28Civ6%29](Drone) support. It's a good idea to keep at least one Spec Ops around for defense in the final [Era%20%28Civ6%29](eras) of the game. Don't be overaggressive with this unit though, as its Combat Strength and Ranged Strength are on the lower end of the units in this era.
+Notably, a Spec Ops cannot paradrop onto a tile that's being patrolled by an [Air%20unit%20%28Civ6%29](air unit).

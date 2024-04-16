@@ -1,0 +1,5 @@
+# TacNet Hub (CivBE)
+
+Strategy.
+The Tacnet hub provides advanced tactical and logistical support to all friendly units in its area-of-effect. This transfers to combat bonuses and increased Healing rate. Launch it above a future or current battleground to gain the upper hand in combat.
+Thanks to its accessible technology, modest production price, and lack of strategic resource requirements, it is easy to field. It functions as a force-multiplier for ground units underneath it, so how effective it is will depend on where it is deployed and what is deployed along with it. It is ideal for bolstering defense inside your own territory against invaders, though if you have the deployment range it can help an attacking force overcome resistance in hostile territory. Attempting to deploy it near an enemy city will be ineffective, but if deployed just outside their anti-orbital strike range it can assist ranged units in wearing down the city more effectively.

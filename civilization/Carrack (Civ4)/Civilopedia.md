@@ -1,0 +1,3 @@
+# Carrack (Civ4)/Civilopedia
+
+These four-masted sailing ships were the first European ships able to reliably navigate the open ocean. Although small by modern standards, the Carrack afforded enough space for crew, cargo and small cannons. Because the ship rose high out of the water it was near impossible for smaller ships to board a carrack. This size was a double edged sword, and due to its height Carracks were prone to capsize in strong winds. The Carrack was used most prominently by the Portuguese and Spanish during their explorations in the 15th and 16th centuries. The "Santa Maria", the ship that carried Columbus to the New World, was a Carrack.

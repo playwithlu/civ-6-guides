@@ -1,0 +1,3 @@
+# Messenger (promotion) (Civ6)/Civilopedia
+
+Soothsayers often presented themselves as in direct communication with the divine. Some were inspired by sacred dreams, as were the Lao "holy men;" some claimed to possess divine texts given to them by gods, as did the early 20th-century occultist Aleister Crowley; and some even said that they themselves were related to divine figures, as did Hong Xiuquan, the leader of the Taiping Revolt, who claimed to be the brother of Jesus Christ. But all had a message from somewhere beyond that they felt compelled to deliver.

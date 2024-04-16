@@ -1,0 +1,3 @@
+# Flourishing of the Arts (Civ5)/Civilopedia
+
+"Flourishing of the Arts" generally refers to a period of heightened aesthetics characterized by great production of innovative art, usually in conjunction with a civilization's Golden Age. Along with advances in science and living conditions, the "flourishing of the arts" during a golden age affects all forms, literature and music as well as the material arts. Unfortunately, every such cycle inevitably is broken, usually due to outside influences such as war, economic collapse, religious fanaticism, or other circumstances beyond people's control.

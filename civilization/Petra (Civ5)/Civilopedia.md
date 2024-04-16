@@ -1,0 +1,3 @@
+# Petra (Civ5)/Civilopedia
+
+Constructed sometime around 1000 BC, the site of Petra in Jordan is among the most famous examples of rock-cut architecture in the world. Numerous intricately carved structures were cut into the sandstone walls of the desert canyons surrounding the area, as Petra came to serve as the capital city for the once-nomadic Nabataen people. The most famous of these structures, the Al Khazneh or "The Treasury," has been featured in numerous major motion pictures, notably a prominent role in "Indiana Jones and the Last Crusade" when the Al Khazneh was used to represent the location of the Holy Grail.

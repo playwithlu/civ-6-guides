@@ -1,0 +1,2 @@
+# Ethiopian Highlands (Civ6)
+

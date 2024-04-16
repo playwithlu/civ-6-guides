@@ -1,0 +1,6 @@
+# Mobile SAM (Civ6)
+
+The Mobile SAM (short for "Mobile Surface-to-Air Missile") is an [List%20of%20units%20in%20Civ6/By%20class%23Support](support unit) in "[Civilization%20VI](Civilization VI)". It upgrades from the .
+Strategy.
+The Mobile SAM is the most advanced anti-aircraft weapon available, relying on its surface-to-air missiles to intercept incoming enemy aircraft and [Nuclear%20weapons%20%28Civ6%29](nuclear weapons). It defends all friendly [Unit%20%28Civ6%29](units) in its [Tile%20%28Civ6%29](tile) and adjacent tiles from [Air%20unit%20%28Civ6%29](air units), damaging or destroying them before they strike. Nukes launched from [Missile%20Silo%20%28Civ6%29](Missile Silos) and [Nuclear%20Submarine%20%28Civ6%29](Nuclear Submarines) have a chance of being shot down if they target a tile within a Mobile SAM's defensive radius, and if a bomber is delivering a nuke within 1 tile, the attack will fail if the Mobile SAM brings the bomber below 50% [HP](HP).
+Like all support units, the Mobile SAM will be instantly killed if an enemy [Military%20unit%20%28Civ6%29](military unit) enters the tile it occupies. Although it cannot intercept enemy aircraft while embarked, it can still provide [Flanking%20and%20Support%20%28Civ6%29](Support bonuses) to adjacent [Naval%20unit%20%28Civ6%29](naval units) that are intercepting a target.

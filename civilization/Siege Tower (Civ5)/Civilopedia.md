@@ -1,0 +1,3 @@
+# Siege Tower (Civ5)/Civilopedia
+
+The oldest known siege towers date to their use by the armies of the neo-Assyrian Empire c. 9th century BC. Bas-reliefs from the reign of Ashurbanipal II depict siege towers at the walls of enemy towns. At the time, mud-brick walls were generally sufficient protection against the ancient armies of Mesopotamia, but siege towers used by the Assyrians allowed them to overwhelm enemy towns quickly and efficiently, providing their empire with a means to grow virtually unchecked for three centuries.

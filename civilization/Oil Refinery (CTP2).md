@@ -1,0 +1,8 @@
+# Oil Refinery (CTP2)
+
+ is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Oil Refineries make available refined fossil fuels for consumption by machines. Their by-products include large amounts of waste, as well as long-term damage from the effects of a climate in which emissions from fossil fuel burning effect air quality, water quality and global climate patterns.
+Great Library entry.
+One of the most basic methods for refining crude oil was distillation. Oil heated in kettles began to vaporize at temperatures slightly below the boiling point of water. Because the different hydrocarbons vaporized at varying temperature levels, the distillation process yielded several useful products in succession as temperatures rose. Gasoline was the first to be distilled, followed by naphtha and then by kerosene. Old still refineries would then apply acids to the residues in the kettle and steam distill even more products, including lubricants, distillate fuel oils from the upper regions and waxes and asphalt from the lower regions of the apparatus.
+In the late 19th century, there was little need for gasoline or naphtha, and the growing use of electricity and electric lights sent demand for kerosene down. These parts of the distillation process were considered an annoyance, until the development of the internal combustion engine led to an explosion in demand for gasoline. The increasing prevalence of the internal combustion engine in the modern age kept the need for crude oil, and its many distillates, growing exponentially throughout the 20th century.

@@ -1,0 +1,3 @@
+# Mystic Warrior (Civ5)/Civilopedia
+
+The braves of various North American tribes during times of conflict were consecrated in elaborate, mystical ceremonies meant to increase their courage, strength, skill and/or survival. The earliest record of such "mystic warriors" comes from the Pequot war with English colonists (1634-1638 AD), but examples abound throughout the histories of the Northeastern and Plains Indians.

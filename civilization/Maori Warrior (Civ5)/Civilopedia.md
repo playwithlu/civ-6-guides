@@ -1,0 +1,4 @@
+# Maori Warrior (Civ5)/Civilopedia
+
+The Maori were some of the most feared warriors in all of Polynesia. They decorated their faces in a series of intricate and frightful tattoos, describing in detail their many accomplishments in battle. Before a skirmish would actually begin, each side would take part in an elaborate war dance called Haka, which would pantomime the fate awaiting the enemy soldiers should they fail. It was hoped that the dance would intimidate their opponents into quitting the field and admitting defeat, saving both sides a lot of time and energy.
+The Maori were also well known for their cannibalistic tendencies - slain warriors were eaten in order to capture their fighting spirit and power. Not only was this one of the only sources of protein on the islands, but it was done out of respect for the defeated warriors.

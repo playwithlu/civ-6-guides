@@ -1,0 +1,3 @@
+# Crossbowman (Civ5)/Civilopedia
+
+The crossbow first appeared in Europe in the 10th century. Although slower than a standard bow, a crossbow requires less training and strength than a regular bow, and over time it came to be the dominant weapon on the battlefield. A crossbow consists of a fairly short but heavy bow mounted to a stock. The firer pulls back the string - often with mechanical assistance - to "cock" the bow, then lays a "bolt" (arrow) on a groove in the stock. The firer aims, then pulls a trigger to release the string, which launches the bolt at the target. Among other advantages, a crossbow can be fired from a kneeling or prone position, something which is impossible with a standard bow.

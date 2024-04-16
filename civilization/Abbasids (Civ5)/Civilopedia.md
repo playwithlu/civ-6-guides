@@ -1,0 +1,3 @@
+# Abbasids (Civ5)/Civilopedia
+
+The third of the Islamic caliphates, the Abbasid dynasty ruled the kingdom from the capital in Baghdad. The caliphate was founded by descendents of the prophet Muhammad in 750 AD, and flourished for several hundred years. The Abbasids continued to hold power for centuries, but their sway over the local provinces diminished over time. In 1258 the Mongols invaded the caliphate and sacked Baghdad, removing the Abbasids from political power. The Caliphate was formally disestablished, with the Abbasids only managing to hold onto some small amount of religious authority.

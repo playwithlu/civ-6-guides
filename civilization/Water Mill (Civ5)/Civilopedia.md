@@ -1,0 +1,3 @@
+# Water Mill (Civ5)/Civilopedia
+
+A water mill is a building which uses water power to turn grain into flour. In a mill, grain is poured between two stones, one of which is turning slowly. As it moves between the stones the grain is ground into tiny pieces (flour). Many early mills employed animal or human labor to turn the grinding stone, but in a water mill water provided that power, freeing human and animal labor which could be employed elsewhere to greater profit. Later on steam or electricity would power mills far more reliably and efficiently, but water mills were great labor-saving devices of their day.

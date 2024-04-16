@@ -1,0 +1,3 @@
+# Teutonic Knight (Civ3)/Civilopedia
+
+The Teutonic Order or The Order of German Houses began its rise in the late twelfth century, and existed as a dominant order through the thirteenth century. During this same time period two other orders, the Templars and Hospitallers evolved into major orders. The Teutonic order continued to follow the laws and orders of the Roman church and maintained their faith similar to that of monks. This type of structure was also seen in Benedictine and Augustinian rules. As the order evolved, many Knights were seen in military fortifications rather than monasteries, and became very prevalant in the third crusade.

@@ -1,0 +1,8 @@
+# Carolean (Civ5)
+
+Game Info.
+[Unique%20unit%20%28Civ5%29](Unique) gunpowder unit of the [Swedish%20%28Civ5%29](Swedish) [Civilizations%20%28Civ5%29](civilization). Replaces the [Rifleman%20%28Civ5%29](Rifleman).
+Strategy.
+Caroleans are the backbone of the early [Industrial%20Era%20%28Civ5%29](Industrial Era) Swedish army. They start with the March [Promotions%20%28Civ5%29](promotion), which allows them to heal every turn even if they perform an action. This gives them a great advantage in many circumstances, especially when they need to relocate.
+Try building or otherwise securing the [Alhambra%20%28Civ5%29](Alhambra) before you start churning out Caroleans - the free Drill I promotion will come in very handy for them. (Don't forget to have a [Barracks%20%28Civ5%29](Barracks) and an [Armory%20%28Civ5%29](Armory) already built in the same [City%20%28Civ5%29](city) in order to really make use of this combo.) Also, see if you can also later get a [Military%20Academy%20%28Civ5%29](Military Academy) along with the [Brandenburg%20Gate%20%28Civ5%29](Brandenburg Gate) in that city for increasing the ability of your elite troops further. With regards as to defense, also having the [Great%20Wall%20%28Civ5%29](Great Wall) and [Himeji%20Castle%20%28Civ5%29](Himeji Castle) [List%20of%20wonders%20in%20Civ5](wonders) will make life even easier for a player utilizing Caroleans.
+Alongside [Hakkapeliitta%20%28Civ5%29](Hakkapeliittas) and one or more [Great%20General%20%28Civ5%29](Great Generals), you will end up with an army that can give even more advanced (or merely larger) civilizations a hard time.

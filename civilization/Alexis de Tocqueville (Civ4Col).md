@@ -1,0 +1,5 @@
+# Alexis de Tocqueville (Civ4Col)
+
+Civilopedia.
+Lived: 1805-1859
+A French historian and sociologist, Alexis de Tocqueville is best known for his work, "Democracy in America," an analysis of the changes blossoming within the youthful American government and society. Born in Paris in 1805, Tocqueville would visit the United States in 1830 and publish the work's two volumes over the next decade. "Democracy in America," which garnered its author much praise and fame upon publishing, highlighted the amount of social mobility available in the United States in comparison to the Old World. According to Tocqueville, this helped create a distinctly American culture with little concern for social hierarchies. Tocqueville would also use his critical mind to speak out against his distaste for French style colonization, predicting the imminent struggles the country would have in its colony of Algeria.

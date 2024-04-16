@@ -1,0 +1,6 @@
+# Raid (Civ6)
+
+Raid is a Military [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+In the [Civilization%20VI%20February%207%2C%202018%20Update](February 7, 2018 Update), Raid gained the effect of doubling yields from [Combat%20%28Civ6%29%23Pillaging](pillaging) s when [Sack%20%28Civ6%29](Sack) was removed from the game. Prior to that, it only doubled yields from pillaging [Tile%20improvement%20%28Civ6%29](tile improvements).
+Strategy.
+This Military Policy is specifically designed for aggressive militaristic civilizations. Pillaging tile improvements is a great way to hinder the enemy, while at the same time making some lump sums of , and other yields. The Raid Policy doubles these yields! What's more, once you conquer the enemy territory, it is pretty easy to bring the pillaged improvements back online (a single [Builder%20%28Civ6%29](Builder) suffices, since its Repair action doesn't spend Charges). This is not the case when you pillage districts, for example.

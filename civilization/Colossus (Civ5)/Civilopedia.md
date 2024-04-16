@@ -1,0 +1,3 @@
+# Colossus (Civ5)/Civilopedia
+
+The Colossus of Rhodes was a bronze statue of Helios, the Greek God of the Sun, erected near the mouth of the city harbor. It stood over 100 feet high (about two-thirds the height of the Statue of Liberty). Unfortunately, an earthquake toppled it only 56 years after its construction. Taking the counsel of an oracle, the city elected to leave the statue in ruins where it lay. For over 900 years, people from all over the ancient world came to Rhodes to see the remains of the Colossus. It was destroyed in 650 AD when the city was captured by Muslim raiders, who promptly sold the statue for scrap.

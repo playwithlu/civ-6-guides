@@ -1,0 +1,3 @@
+# Public Transportation (Civ4)/Civilopedia
+
+At the turn of the twentieth century, most modern cities were cesspools of filth. In the United States, the affluent often moved to the suburbs, using automobiles to return to their jobs in the cities. In Europe, on the other hand, where most roads had been designed for horses, not cars, impressive systems of Public Transportation became the most effective way for large numbers of people to get about. As an added bonus, these mass transit systems greatly decreased the amount of pollution created. Subways, trolleys, monorails and buses have become staples in major metropolises like London, Barcelona and even in major US cities like New York City.

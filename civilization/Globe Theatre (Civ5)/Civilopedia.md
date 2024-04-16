@@ -1,0 +1,3 @@
+# Globe Theatre (Civ5)/Civilopedia
+
+Built in 1599 AD on Maiden Lane in London by the Lord Chamberlain's Men, the theatrical company of which William Shakespeare was a shareholder, the Globe Theatre incorporated a number of design innovations. In 1613 the Globe burned to the ground after the thatched roof was set alight by cannonfire during a production of Henry VIII; it was rebuilt on the same site in 1614 and continued in operation until closed by the Puritans in 1642. Although its exact dimensions are unrecorded, it is known that the Globe Theatre was a three-story, circular, open-air amphitheater roughly 100 feet in diameter and able to seat about 300 spectators. The stage was 43 feet wide, 27 feet deep and raised five feet off the ground, allowing for trap doors.

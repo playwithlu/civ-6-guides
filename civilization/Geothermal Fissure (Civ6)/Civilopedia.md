@@ -1,0 +1,3 @@
+# Geothermal Fissure (Civ6)/Civilopedia
+
+Places where the Earth's crust is fractured enough to allow heat from deep underground to escape are geothermal vents. These can take the form of natural hot springs, geysers, or smokers which do not rise to the energetic levels of volcanoes. These have attracted people since antiquity, drawn by the unusual geology and the attraction of warm water for bathing and ritual.

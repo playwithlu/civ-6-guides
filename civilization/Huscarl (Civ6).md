@@ -1,0 +1,5 @@
+# Huscarl (Civ6)
+
+The Huscarl is a [List%20of%20units%20in%20Civ6/By%20class%23Melee](melee unit) from the [Vikings%2C%20Traders%2C%20and%20Raiders%21%20%28Civ6%29](Vikings, Traders, and Raiders!) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Huscarls are quick to produce, and their enhanced defense against ranged attacks represents the shield walls they form in battle. Use them to lead the charge against enemy [City%20%28Civ6%29](cities), drawing their fire while your other [Unit%20%28Civ6%29](units) focus on weakening their defenses. In other words, they can be used as defensively orientated siege units. Try to ensure they have at least the [Tortoise%20%28Civ6%29](Tortoise) [List%20of%20promotions%20in%20Civ6%23Melee%20Units](promotion) when using them as such in order to boost their innate advantage further ([Battlecry%20%28Civ6%29](Battlecry) is another useful promotion with regards as to enemy defenders). If you have to use them offensively against a city, have a [Battering%20Ram%20%28Civ6%29](Battering Ram) close by.

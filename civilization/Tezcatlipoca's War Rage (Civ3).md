@@ -1,0 +1,3 @@
+# Tezcatlipoca's War Rage (Civ3)
+
+ is a [List%20of%20wonders%20in%20Civ3](wonder) in , a [List%20of%20scenarios%20in%20Civ3](scenario) in "". It requires and [Monarchy%20%28government%29%20%28Civ3%29](Monarchy) government. It puts a in every city on the same continent, allows to build an without a leader, allows to build larger armies and doubles city defences. This Great Wonder may trigger for civilizations.

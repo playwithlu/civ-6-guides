@@ -1,0 +1,3 @@
+# Mohawk Warrior (Civ5)/Civilopedia
+
+The Iroquois Mohawk Warriors are among the best light infantry the world has ever seen. Amazingly fast and flexible fighters, the Iroquois warriors were able to cover an incredible amount of ground in a short amount of time, surprising and overwhelming their better-armed but slower European enemies. With an armed force that "never numbered more than 3,000 fighting men," they held their own for almost two centuries against the French, British, and Americans.

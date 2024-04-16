@@ -1,0 +1,5 @@
+# Space Race (Civ6)
+
+Space Race is an [Atomic%20Era%20%28Civ6%29](Atomic Era) [Civics%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by constructing a [Spaceport%20%28Civ6%29](Spaceport).
+Strategy.
+Discovering Space Race unlocks two important [Policy%20card%20%28Civ6%29](policy cards): [Integrated%20Space%20Cell%20%28Civ6%29](Integrated Space Cell) (which helps [Victory%20%28Civ6%29%23Science](Science Victory) seekers by providing increased toward the requisite [Project%20%28Civ6%29](projects) in [City%20%28Civ6%29](cities) that have either a [Military%20Academy%20%28Civ6%29](Military Academy) or a [Seaport%20%28Civ6%29](Seaport)) and [Satellite%20Broadcasts%20%28Civ6%29](Satellite Broadcasts) (which helps [Victory%20%28Civ6%29%23Culture](Cultural Victory) seekers by tripling the output of [Great%20Work%20%28Civ6%29%23Great%20Works%20of%20Music](Great Works of Music)).

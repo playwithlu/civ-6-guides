@@ -1,0 +1,8 @@
+# Freight Transport (CTP2)
+
+The Freight Transport is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Freight Transports are the [Modern%20Age%20%28CTP2%29](Modern Age) equivalent of [Caravan%20%28CTP2%29](Caravans). Employing modern freight, including ships, trucks and railcars, Freight Transports dramatically increase the amount of [Goods%20%28CTP2%29](goods) that can be traded.
+Great Library entry.
+As the global economy began to explode in size in the late 20th century, there emerged a tremendous need for new systems of delivery of raw materials and trade goods. Most of the existing transit systems, rail, shipping and trucking already handled cargo as a primary duty. These disparate systems began to integrate into global shipping operations in order to meet the demands of the international economy. Although many large corporations employed their own private shipping operations, several shipping conglomerates emerged to facilitate most of the international freight transport in the modern era.
+A standard container size made shipping easier. A single 8 ft x 8 ft by 20 ft container could fit on a truck trailer, two of them could fit on a rail car and several thousand could fit in huge container ships. They made loading easier by requiring only one kind of crane to load and unload ships. Many of the world's largest cities expanded their ports to accommodate these behemoth watercraft. Other bulk cargo, such as oil, required specially designed ships to transport.

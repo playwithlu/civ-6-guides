@@ -1,0 +1,3 @@
+# New Deal (Civ6)/Civilopedia
+
+The Great Depression devastated the world. In some countries it led to the rise of totalitarian governments (Mussolini’s Italy, for example); in others, it led to political realignment (Britain) or the rise of Communist parties (France). In the United States, the Depression led to the New Deal, a series of domestic programs championed by then-President Franklin Roosevelt. These laws, executive initiatives, and presidential decrees aimed at relief for the unemployed and poor, recovery for American industry, and reforms to economic oversight. Although most of the New Deal programs have faded away, some of the alphabet soup remains in place: FDIC, FCIC, FHA, TVA, SEC along with the most extensive of all, the Social Security System.

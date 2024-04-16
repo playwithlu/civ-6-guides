@@ -1,0 +1,3 @@
+# Cliffs of Dover (Civ6)/Civilopedia
+
+The famed White Cliffs of Dover stand guard over the narrowest stretch of the English Channel facing the continent of Europe. Composed of chalk streaked with black flint, the cliffs reach a height of 110 meters (350 feet) in places. On a clear day, the cliffs can be seen from France. This natural wonder owes its fame as much to its symbolic value as its natural beauty, which may not last forever (either one); the cliff face is weathering away at about a centimeter a year, and occasionally large pieces break off … thus, visitors are urged to remain well back from the edge (it just wouldn’t do to have an Englishman fall off the White Cliffs of Dover).

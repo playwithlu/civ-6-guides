@@ -1,0 +1,3 @@
+# Planetary Construction (Civ4)/Final Frontier/Civilopedia
+
+With their prolonged survival eventually assured, space pioneers began developing means to add infrastructure to their newly-adopted worlds. The first widely available Construction Ships began appearing throughout the universe, replacing the dangerous makeshift construction boats used to that point. Networks of starlanes to facilitate more rapid transport began to reach out across the empty heavens thanks to these new specialized vessels. The "for the general good" public work projects of this era blossomed into minor movements among many parts of the universe, and enclaves of modern Pacifists began to up rise from among these good-hearted efforts for social improvement.

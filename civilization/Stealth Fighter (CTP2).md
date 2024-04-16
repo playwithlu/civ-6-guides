@@ -1,0 +1,8 @@
+# Stealth Fighter (CTP2)
+
+The Stealth Fighter is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The Stealth Fighter is one of the more formidable air units of the [Modern%20Age%20%28CTP2%29](Modern Age). Capable of evading radar, it is ideal for surgical strikes against well-defended targets and coordinated air defense.
+Great Library entry.
+What set the stealth fighter apart from other strike aircraft was its ability to minimize enemy radar detection. It used highly advanced composite materials and coatings to absorb radar transmissions and reduce reflections to an enemy's radar receiver. The use of smoothly rounded shapes instead of sharp edges and points also helped to reduce reflections. Stealth fighters also carried missiles and other weapons conformally rather than as protruding attachments. Weapons recessed within the structure of the aircraft further minimizing drag and radar signature.
+Stealth technology was not without its costs. The first stealth fighter, the United States Air Force's F-117, was extremely expensive to build and maintain. The rounded design demanded highly sophisticated flight control systems, the materials were heavy and reduced its range and payload capacity, existing weapons had to be modified for conformal carriage. Nevertheless, stealth fighters proved their worth in the Persian Gulf War, crippling Iraqi command and communications centers with surgical guided weapons strikes.

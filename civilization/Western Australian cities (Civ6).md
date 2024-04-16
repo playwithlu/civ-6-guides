@@ -1,0 +1,4 @@
+# Western Australian cities (Civ6)
+
+ are [City%20%28Civ6%29](cities) that can be founded by the [Western%20Australian%20%28Civ6%29](Western Australian) [Civilizations%20%28Civ6%29](civilization) in the [Outback%20Tycoon%20%28Civ6%29](Outback Tycoon) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". The first city founded is the , and the names of future cities are chosen in the order they appear on the list below. After the foundation of all cities from the list, [Outback%20Tycoon%20%28Civ6%29%23Extra%20cities](extra cities) will be founded.
+The names listed are default names; players can change their cities' names if they choose.

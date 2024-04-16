@@ -1,0 +1,2 @@
+# Georgia (Civ6)
+

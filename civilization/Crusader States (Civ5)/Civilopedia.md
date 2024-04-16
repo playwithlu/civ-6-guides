@@ -1,0 +1,3 @@
+# Crusader States (Civ5)/Civilopedia
+
+During the Western European crusades of the Holy Land, a number of small feudal states were created during the 12th and 13th centuries AD. The first four Crusader states were created in the Levant, an area along the eastern shore of the Mediterranean. Later during the Third Crusade, the Kingdom of Cyprus was founded by Richard the Lionhearted, where it continued to be a base for the Christian forces until 1571. The Mongols never made any formal attacks against the Crusader states, and the majority survived until a round of invasions led by the Ottomans in the 16th century.

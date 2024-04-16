@@ -1,0 +1,7 @@
+# Limes (Civ6)
+
+Limes is a Military [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)". In "", it is rendered [obsolete](obsolete) by [Ideology%20%28Civ6%29](Ideology).
+Strategy.
+Limes is very useful for speeding up the erection of [Walls%20%28Civ6%29](Walls) around your [City%20%28Civ6%29](cities). Given the level of aggression of the [AI](AI), especially on higher [Difficulty%20level%20%28Civ6%29](difficulties), you will need at least [Ancient%20Walls%20%28Civ6%29](Ancient Walls), and maybe not only in your border cities. 100% bonus means it will take exactly half the usual time to build defenses, so use the opportunity to build these in as many cities as you can.
+This policy is especially useful if you go with [Monarchy%20%28Civ6%29](Monarchy) as your [Government%20%28Civ6%29](government), because of the additional 50% bonus to construction speed and bonus that Walls confer to cities at a time when they're usually either close to or at their limit. [Georgian%20%28Civ6%29](Georgian) players can quickly build city walls and the [Tsikhe%20%28Civ6%29](Tsikhe) throughout their empire with this policy.
+Limes also slightly aids a player going for a [Victory%20%28Civ6%29%23Culture](Cultural Victory), since the Walls it helps them build will provide them with once [Conservation%20%28Civ6%29](Conservation) has been discovered.

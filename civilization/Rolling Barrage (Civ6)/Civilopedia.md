@@ -1,0 +1,3 @@
+# Rolling Barrage (Civ6)/Civilopedia
+
+A rolling barrage is a method to deliver massed firepower across a broad area, as effective by naval ships as for land-based batteries. The fact that the guns are firing from rolling, moving, unsteady platforms just makes it more challenging for the naval gunners. In effect, the guns are aimed at sequential points, typically 20 to 30 yards apart for modern shells, along a path from a few hundred to several thousand yards in length. With multiple ships firing, this can form a box, a rectangle where everything in the path is flattened. Rolling barrages during World War II proved very effective at blasting the enemy out of built-up areas and fortifications. So it was added to the naval repertoire of destruction.

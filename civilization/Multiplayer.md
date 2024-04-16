@@ -1,0 +1,4 @@
+# Multiplayer
+
+Multiplayer is a game mode that is available in most of the "[Civilization%20%28series%29](Civilization)" games. In this mode, two or more humans play against each other and/or [AI](AI) opponents on a [difficulty%20level](difficulty level) and with game settings of the players' choice. If a multiplayer game includes both human and AI players, the human players take their [turn](turn)s first.
+Due to how long it takes to finish a multiplayer game, it requires a lot of patience for all those playing. Several factors determine how long such a game lasts, including the size of the [map](map), the number and schedules of people playing, how long it takes everyone to decide what to do each turn, and whether or not people try to stall the game instead of admitting defeat when they're losing and unable to recover.

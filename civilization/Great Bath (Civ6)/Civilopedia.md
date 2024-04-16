@@ -1,0 +1,4 @@
+# Great Bath (Civ6)/Civilopedia
+
+The Great Bath at Mohenjo-daro was uncovered in 1926 in Sindh, Pakistan among the ruins of the Indus civilization. Though much of the life and culture of these people remains a mystery to scholars today, their ability to create this vast, water-tight structure was an impressive feat indeed. Measuring 12 by 7 meters with a depth of up to 2.4 meters, the tank was made of tightly packed bricks and mud, and sealed with a natural tar. But what was the purpose of a great public bath in a city where nearly every home contained its own bathing area? Though speculative, scholars seem to have agreed that it may have been used for religious purposes, as this was the closest structure to a temple uncovered in the area.
+Today, the archaeological site lies far from the usual tourist routes in Pakistan, but many still visit the rural location to gaze in wonder at what remains of this ancient, mysterious city.

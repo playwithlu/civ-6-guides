@@ -1,0 +1,7 @@
+# Brute (Civ5)
+
+Game Info.
+[Unique%20unit%20%28Civ5%29](Unique) melee unit of the [Barbarian%20%28Civ5%29](Barbarians). Replaces the [Warrior%20%28Civ5%29](Warrior).
+Strategy.
+The Brute is the earliest Barbarian unit. Although it is weak to stronger units, such as [Spearman%20%28Civ5%29](Spearmen) and [Swordsman%20%28Civ5%29](Swordsmen), a fortified Brute can stand toe-to-toe with most units up to the [Pikeman%20%28Civ5%29](Pikeman), especially if the Brute is in [Hill%20%28Civ5%29](hill), [Forest%20%28Civ5%29](forest), or [Jungle%20%28Civ5%29](jungle) [Terrain%20%28Civ5%29](terrain). If you lack superior units, overrunning Brutes with a melee unit backed by an archery unit, or simply multiple melee units at once will do the job. Once you have units such as [Longswordsman%20%28Civ5%29](Longswordsmen) and [Musketman%20%28Civ5%29](Musketmen), you will easily be able to destroy Brutes with one attack.
+If you play as the [German%20%28Civ5%29](Germans), you can convert Brutes to your side by capturing Barbarian [Encampment%20%28Civ5%29](encampments) early on in the game. Additionally, in the "" expansion, the [Religion%20%28Civ5%29%23Reformation%20Beliefs](reformation belief) Heathen Conversion allows [Missionary%20%28Civ5%29](Missionaries) to convert Barbarians to your side.

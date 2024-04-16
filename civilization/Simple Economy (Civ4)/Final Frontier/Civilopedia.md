@@ -1,0 +1,3 @@
+# Simple Economy (Civ4)/Final Frontier/Civilopedia
+
+Originally found in the some of the backwater Colonial Star Systems of the universe, the guideless Free Market, or Simple, economy relies on the hodge-podge interplay between sellers and buyers with absolutely no guidance from governing bodies. Relying solely on human charisma and guile rather than mechanized economic models, simple economies receive none of the benefits of their more organized associates, but also receive none of the penalties.

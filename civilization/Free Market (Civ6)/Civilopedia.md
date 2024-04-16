@@ -1,0 +1,3 @@
+# Free Market (Civ6)/Civilopedia
+
+In a “free market” system, the prices for goods and services are set by consent between sellers and buyers dependent solely on the forces of supply and demand, rather than a government, monopoly or other controlling authority. There are two pillars to a free market: voluntary exchange and private property. Compelling intellectual arguments in favor of private ownership of all things would not be made until John Locke did so in the 17th Century. A century later Adam Smith would offer the most concise argument (he is considered by normally dour economists as the “father of free market economics”) for a laisse-faire economy, which he proposed benefitted everyone (greed being good) in a civilization equally.

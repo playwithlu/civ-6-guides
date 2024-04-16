@@ -1,0 +1,3 @@
+# Broadcast Tower (Civ5)/Civilopedia
+
+A broadcast tower "broadcasts" a communications signal - radio, television, so forth - into the air, allowing the signal to be picked up by receivers for miles around. The most important feature of a broadcast tower is its height - the higher the receiver, the farther the signal can be sent. The Empire State Building in Manhattan has been broadcasting signals since 1931. Following the fall of the World Trade Towers in 2001, it is once again the primary broadcasting site in New York City, transmitting signals for nearly all of the city's commercial broadcasting stations.

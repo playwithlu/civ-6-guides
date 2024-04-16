@@ -1,0 +1,3 @@
+# Dogfighting (Civ6)/Civilopedia
+
+At first, military aviation was fairly placid, most reconnaissance, artillery spotting, and the occasional bombing of footsloggers; even in the opening months of World War I, this was the case. Then, a few pilots started taking shots at enemy pilots with pistols. Before anyone knew it, planes were equipped with machine guns (after Fokker solved that problem of shooting through a spinning propeller), and dogfighting began. Adventurous pilots invented maneuvers – such as the Immelmann and Low Yo-Yo – to give themselves an advantage in battle. Victory in a dogfight – unlike knightly jousts, it's more of a composite of fear and flames – quickly became a matter of technology and technique.

@@ -1,0 +1,5 @@
+# Claude Monet (Civ6)/Civilopedia
+
+Impressionist paintings are known for their use of color and distinct brushstrokes that lend a sense of movement to the piece. They resemble what the real world might look like if painted inside of a dream. The visionary artist Claude Monet was a master of the art style; it was his raison d’etre.
+For Monet, painting was life. This pursuit was rejected by his father, who refused to pay for his release from a military draft unless he abandon painting. His passion was again tested when he and his wife Camille lived in destitution, when debt collectors seized his paintings. Even at the end of his life, when cataracts affected his vision, he continued to paint. After the cataracts were removed he retouched his work, some believe in an attempt to capture the ultraviolet light he could now see.
+His life’s dedication to art resulted in over 2,000 paintings.

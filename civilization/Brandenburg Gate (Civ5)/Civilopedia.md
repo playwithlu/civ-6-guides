@@ -1,0 +1,5 @@
+# Brandenburg Gate (Civ5)/Civilopedia
+
+The Brandenburg Gate is the only surviving town gate of the city of Berlin. A beautiful "triumphal arch" constructed in the Greek style in 1788-91, it features many columns and is surmounted by the "Quadriga of Victory," a statue of a chariot drawn by four horses. It stands at the end of the avenue Unter den Linden.
+After World War II, Berlin was partitioned between sections controlled by the Soviet Union and its allies and the United States and its allies, and the Berlin Wall was constructed by the Soviets to keep the two parts of the city separated. The Brandenburg Gate was in a sort of a "no-man's land" between the two factions, and from 1961-1989 neither side had access. The Gate was reopened in 1989 as part of the reunification of Berlin and Germany.
+Today it stands as a proud symbol of the reunified city and country, and it is visited by tens of thousands of tourists from both east and west.

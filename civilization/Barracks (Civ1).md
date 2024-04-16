@@ -1,0 +1,6 @@
+# Barracks (Civ1)
+
+New units are Veterans when produced at a city containing a Barracks, giving them advantages in combat against similar, non-Veteran units.
+When Barracks are made obsolete, they vanish from your cities and must be rebuilt, so it can be helpful to sell them right before the discovery of Gunpowder and Combustion.
+Civilopedia entry.
+Warfare has been a recurring phenomenon in the history of civilization and continues to plague the world today. Those unprepared for war, either philosophically, materially, or technologically, soon fall out of the parade. Throughout history, warfare has been a prime agent of expansion. The neighbors of Rome joined the empire in most cases only after spirited hand-to-hand negotiations with Roman legions. When warring civilizations were closely matched in technology and material, victory normally went to the side with the best training, organization, morale, strategy, and tactics. The fostering of these skills and traditions took place in the Barracks.

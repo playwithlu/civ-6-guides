@@ -1,0 +1,4 @@
+# Dun (Civ4)/Civilopedia
+
+"Dun" is a Celtic word meaning, "hill-fort." The Celts began constructing duns around the seventh century BC, and remnants can be found scattered across Western Europe, England, Scotland and Ireland. Duns were typically small, squat towers constructed of dry-laid stone on raised, defensible terrain such as hills and promontories. Some were surrounded by ditches or artificial lakes.
+While many hill-forts were primitive and quite small, more extensive and complex Celtic duns have also been discovered. One such example is "Dun Carloway," on the Isle of Lewis, Scotland. This double-walled castle-like structure originally stood some thirteen meters high and fourteen meters in diameter. Maiden Castle in Dorset, England, is an extensive wall and ditch work surmounting a large hill some 47 acres in size.

@@ -1,0 +1,4 @@
+# Qhapaq Ñan (Civ6)/Civilopedia
+
+The Qhapac Ñan, also known as the Andean Road System, is a network of roads used by the Incan empire. What makes this site so remarkable isn't simply the distance covered – over 30,000 km – but also the terrain through which the roads travel - the mountains of the Andes, deserts, and lush rainforests. While the roads were used for transporting goods – usually by llama or alpaca – there was also in place a speedy messenger system. The chasquis were quick and agile men who would run through the extensive network of roads to pass messages to one another at relay stations until the message reached its final destination.
+The Andean Road System was a truly innovative means for keeping such a vast empire connected, and to some extent, controlled by a central power.

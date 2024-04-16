@@ -1,0 +1,4 @@
+# Gabriela Mistral (Civ6)/Civilopedia
+
+Gabriela Mistral – really Lucila Godoy y Alcayaga – won the Nobel Prize for literature in 1945, the first Latin American to do so. She was born in Chile in 1889 and was a village schoolteacher, but began writing poetry following the death of her lover. Her Sonetos de la muerte [Sonnets of Death], Desolación [Despair], and Ternura [Tenderness] eventually led to her fame. She was appointed to cultural committees for the League of Nations (the precursor to the UN), and served the Chilean government as a consul in various countries. She died in 1957.
+Mistral’s work was heavily influenced by the tragedies in her own life, reflected in her musings on the premature loss of life and love, but also in the hope that she saw in her students and in children, joy made more precious owing to how easily it can be swept away.

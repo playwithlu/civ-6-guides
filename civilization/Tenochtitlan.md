@@ -1,0 +1,3 @@
+# Tenochtitlan
+
+Tenochtitlan is the [Aztec](Aztec) [capital](capital) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. In real life, it was built in 1325 and served as the capital of the Aztec Empire from the 15th century until its capture by the [Spanish](Spanish) in 1521, after which [Mexico%20City](Mexico City) was founded on its ruins.

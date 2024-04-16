@@ -1,0 +1,5 @@
+# Capital (C-evo)
+
+In "[C-evo](C-evo)" a nation's first [City%20%28C-evo%29](city) has a [Population%20%28C-evo%29](population) of 4 and automatically becomes the Capital, with a [Palace%20%28C-evo%29](Palace) already in place. The player cannot choose the site of the first city. It is set by the program on a "[Starting%20Position%20%28C-evo%29](Starting Position)" shown on the base [Map%20%28C-evo%29](map), on a "Preferred Starting Position" if any is or are shown. In a standard random map the first city is on a [Plains%20%28C-evo%29](plain) with two irrigated plains in its radius, giving a reasonably productive start for each nation.
+Later in the game, a nation may build a Palace in another city, in which case the existing Palace (if any) is sold, returning as many units of [Gold%20%28currency%29%20%28C-evo%29](gold) as the new Palace required units of material to build, and the location of the Capital moves to the city with the new Palace.
+Distance from the Capital affects [Corruption%20%28C-evo%29](corruption) under some [Government%20%28C-evo%29](governments).

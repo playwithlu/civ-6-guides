@@ -1,0 +1,4 @@
+# Smart Materials (Civ6)/Civilopedia
+
+Materials are usually selected for use on the basis of a single quality. A brick, for instance, should not be flexible if it is to be a good basis for construction. Smart materials are materials which can assume different properties on command, in response to different situations. An analogy would be a brick that is solid when used as a building material, but which could be flat and flexible for easy storage and portability otherwise. These are becoming more and more common as material science advances. Ferrofluids, and dielectric and self-healing elastomers are representative examples of current smart materials.
+The term “programmable matter” is used to describe a hypothetical substance which could be given any property on command, and represents something of the Holy Grail of the smart material research program.

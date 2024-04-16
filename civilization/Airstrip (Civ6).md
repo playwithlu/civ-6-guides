@@ -1,0 +1,6 @@
+# Airstrip (Civ6)
+
+The Airstrip is a standard [Tile%20improvement%20%28Civ6%29](tile improvement) in "[Civilization%20VI](Civilization VI)". It provides a base for military aircraft and may be built on flat [Terrain%20%28Civ6%29](terrain) of any type. It can be built in neutral [Territory%20%28Civ6%29](territory), but not in territory belonging to other [Civilizations%20%28Civ6%29](civilizations) or [City-state%20%28Civ6%29](city-states) (even if you are their [Suzerain%20%28Civ6%29](Suzerain)).
+Strategy.
+Airstrips can be invaluable to an offensive player. They may be placed almost anywhere, including [Tile%20%28Civ6%29](tiles) close to enemy territory and far away from your own lands. With the new rules for aircraft bases in the game, being able to station your air units where you can use them in offensive (and sometimes defensive) operations proves surprisingly important.
+Once you've built an air force, keep some [Military%20Engineer%20%28Civ6%29](Military Engineers) on hand and look for strategic places to build Airstrips. Just be aware of the hit to local Appeal, especially when playing as [Australian%20%28Civ6%29](Australia).

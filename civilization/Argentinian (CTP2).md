@@ -1,0 +1,3 @@
+# Argentinian (CTP2)
+
+The Argentinian people represent a [List%20of%20civilizations%20in%20CTP2](civilization) in "[Call%20to%20Power%20II](Call to Power II)", introduced in [Apolyton%20Edition%20%28CTP2%29](Apolyton Edition). Their default leader names are [Jos%C3%A9%20de%20San%20Mart%C3%ADn](Jose de San Martin) for a male and [Eva%20Per%C3%B3n](Evita Perón) for a female, and their [Capital%20%28CTP2%29](capital) is [Buenos%20Aires](Buenos Aires).

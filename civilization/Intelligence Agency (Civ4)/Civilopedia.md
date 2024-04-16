@@ -1,0 +1,3 @@
+# Intelligence Agency (Civ4)/Civilopedia
+
+"Know thy enemy" has been an essential part of warfare since the dawn of time, with victory almost always falling into the hands of the informed. And while intrigue and backstabbing (usually quite literally) have been a part of the war since time immemorial, in the modern era, intelligence has become a multibillion-dollar endeavor. New technologies, such as spy satellites and remote microphones, have facilitated the gathering of information, giving eyes and ears all over the world to those who need to be in the know.

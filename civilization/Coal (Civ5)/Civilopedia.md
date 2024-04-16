@@ -1,0 +1,3 @@
+# Coal (Civ5)/Civilopedia
+
+Coal is ancient plant matter that has decomposed and compressed over the millennia into a highly combustible black compound. Found in substantial quantities across virtually the entire planet, coal has been one of the most important sources of energy to mankind throughout history. Coal is not a clean fuel and its extraction and burning is a major source of pollution around the world. Scientists are frantically looking for the elusive "clean coal" technology, but that remains as of yet undiscovered. Remember that coal is a strategic resource, and thus it is consumed as you construct the associated units and buildings.

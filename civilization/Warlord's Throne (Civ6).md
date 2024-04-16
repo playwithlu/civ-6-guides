@@ -1,0 +1,5 @@
+# Warlord's Throne (Civ6)
+
+The Warlord's Throne is a Tier 1 [Government%20%28Civ6%29](government) [Buildings%20%28Civ6%29](building) in "". It is built in the [Government%20Plaza%20%28Civ6%29](Government Plaza) [District%20%28Civ6%29](district) and requires a Tier 1 government ([Autocracy%20%28Civ6%29](Autocracy), [Classical%20Republic%20%28Civ6%29](Classical Republic), or [Oligarchy%20%28Civ6%29](Oligarchy)).
+Strategy.
+The Warlord's Throne is a great building to have if you plan on waging lots of wars and taking over your enemies' cities. Quite self-explanatory, anytime you plan to go down the path of a warmonger, you should pick this building. The bonus does get triggered by capturing [City-state%20%28Civ6%29](city-states) and [Free%20City%20%28Civ6%29](Free Cities), but it doesn't stack if multiple cities are captured in a 5-turn period.

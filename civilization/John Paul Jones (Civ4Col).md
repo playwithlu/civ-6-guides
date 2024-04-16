@@ -1,0 +1,5 @@
+# John Paul Jones (Civ4Col)
+
+Civilopedia.
+Lived: 1747-1792
+John Paul Jones was a Scottish sailor who fought on the side of the colonies during the American Revolution. Jones began his career working on slave ships, but found the business not to his taste. He was able to secure himself a high ranking position on a West Indian trading ship, but his reputation was permanently tarnished when he flogged to death one of his own crewmembers. He fled to America, where he became the first Lieutenant of the United States Navy. His valorous efforts during the war, including the capture of the HMS Drake and victory over the HMS Serapis made him a figure of much renown in the United States. With the completion of the war, Jones traveled to Russia, leading Russian naval engagements against the Ottoman Empire before being recalled due to political intrigues. Jones died in Paris, having been knighted by the King of France for his fearless leadership during the American Revolution.

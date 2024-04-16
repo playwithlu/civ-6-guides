@@ -1,0 +1,3 @@
+# Heavy Artillery (Civ6)/Civilopedia
+
+The Germans developed specialized siege guns to crack the defenses of the ring of forts surrounding Belgium. These proved to be very successful, causing the forts to fall sooner than the planners projected. The French developed a sophisticated and powerful 75mm artillery cannon which proved to be long-lasting and flexible. But neither was enough to break the stalemate of the trenches by themselves—new technologies in the tank and aircraft and small-unit tactics would eventually do that.

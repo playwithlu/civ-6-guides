@@ -1,0 +1,5 @@
+# Wembley Stadium (Civ4)
+
+Wembley Stadium, called Wembley in-game, is a [List%20of%20wonders%20in%20Civ4](wonder) in the [Rhye%27s%20and%20Fall%20of%20Civilization%20%28Civ4%29](Rhye's and Fall of Civilization) [Mods%20%28Civ4%29](mod) for "[Civilization%20IV](Civilization IV)". Its effects are +50% culture, +7 Hit Football Events, and 2 Great Artist People points.
+Background.
+Wembley Stadium is one of the world's most famous football stadiums, located in Wembley, London. In 2003, the original structure was demolished, to be replaced by a new one due to open in 2007. When complete, the new Wembley Stadium will be the largest roof-covered football stadium in Europe. First known as the Empire Stadium, the original stadium was built for the British Empire Exhibition of 1924. The first event held at the stadium was the FA Cup final on 28 April 1923 between Bolton Wanderers and West Ham United.

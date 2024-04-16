@@ -1,0 +1,3 @@
+# Capital Ship Doctrine (Civ4)/Final Frontier/Civilopedia
+
+The space-age equivalent of invading Russia in the winter, the construction of a successful Battleship fleet can easily end in folly for any principality that might dare to attempt it. The Capital Ship Doctrine requires an all-out commitment from those in power, with a fair share of a principality's military minds dedicating themselves solely to the support of such a fleet of behemoths. Luckily, once the mid-space riggings are constructed and the necessary industries assembled, Battleship construction quickly becomes a surprisingly reasonable effort at a significantly reduced cost.

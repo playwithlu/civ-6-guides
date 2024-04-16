@@ -1,0 +1,3 @@
+# Heavy Chariot (Civ5)/Civilopedia
+
+The Hittite war chariot, an evolution of existing chariot designs, was larger and more robust than those commonly found amongst the armies of Egypt. By reducing the overall weight of the chariot and moving the wheels further to the front, the Hittite adaptation was capable of carrying up to 3 warriors on a single chariot. These chariots were often used to crash the enemy lines, breaking through and demoralizing the scattered infantry.

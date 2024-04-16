@@ -1,0 +1,5 @@
+# Phalanx (Civ2)
+
+The Phalanx is a ground unit in [Civilization%20II](Civilization II).
+Civilopedia entry.
+The phalanx was a military formation developed in Greece, and perfected in Macedonia. It consisted of a large group of soldiers in ranks and files, usually from 8 to 32 men deep, armed with spears, swords, and large shields. The first five ranks of men pointed their weapons forward, forming a bristling barrier of spearpoints, while the others kept their spears upright to deflect incoming missiles. An enemy had difficulty approaching this formation. The attacking army was faced with a densely packed body of warriors, who were often advancing on the run. This usually caused the attackers to give ground rather than risk being impaled. Unfortunately, the phalanx lacked maneuverability, and became less prevalent when enemy forces became more professional and learned to outflank the formation.

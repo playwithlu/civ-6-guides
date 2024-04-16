@@ -1,0 +1,3 @@
+# Helmsman (Civ6)/Civilopedia
+
+Steering a ship isn't as easy as it appears; it's far more than just turning the tiller. Once sails went up, the value of a skilled helmsman escalated considerably, demanding both skill and strength. In Greek triremes, for instance, steering was achieved through two steering oars on either side of the stern controlled by a single kybernetes ("helmsman"), who usually had the Trierarch ("captain") next to him shouting advice. A good helmsman had a keen sense of how his ship would react to different conditions (wind, swells, currents, and storms) and was able to anticipate the delay between changing the helm and when the ship would respond to the rudder. The same is as true today as then.

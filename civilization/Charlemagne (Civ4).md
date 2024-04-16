@@ -1,0 +1,8 @@
+# Charlemagne (Civ4)
+
+Charlemagne (c. April 742 – 28 January 814) was King of the Franks from 768 and Emperor of the Romans from 800 until his death. He leads the [Holy%20Roman%20%28Civ4%29](Holy Romans) in "".
+General Info.
+Thanks to Charlemagne's [Leader%20trait%20%28Civ4%29](traits) and unique components, he is an incredibly powerful aggressive force in the [Medieval%20Era%20%28Civ4%29](Medieval Era). When he gets access to the devastating Landsknecht - a [Pikeman%20%28Civ4%29](Pikeman) with double attack versus both [List%20of%20mounted%20units%20in%20Civ4](mounted units) and [Melee%20unit%20%28Civ4%29](melee units) - he renders [Knight%20%28Civ4%29](Knights), some of the fastest and most powerful [List%20of%20units%20in%20Civ4](units) of the Medieval Era, much less useful. Despite his prominence in the Medieval Era, Charlemagne has the potential to be a military powerhouse throughout the entire game, with many units good at defending [City%20%28Civ4%29](cities buffed) up even more by the extra [Great%20General%20%28Civ4%29](Great Generals) he will generate from the fighting that is likely to occur. However, he does take a bit of mastery to use properly, and if used incorrectly, it can be nigh impossible to win games with him.
+[Unique%20unit%20%28Civ4%29](Unique Unit): [Landsknecht%20%28Civ4%29](Landsknecht)
+[Unique%20building%20%28Civ4%29](Unique Building): [Rathaus%20%28Civ4%29](Rathaus)
+[Starting%20technologies%20%28Civ4%29](Starting Techs): [Hunting%20%28Civ4%29](Hunting), [Mysticism%20%28Civ4%29](Mysticism)

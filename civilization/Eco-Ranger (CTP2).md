@@ -1,0 +1,9 @@
+# Eco-Ranger (CTP2)
+
+The Eco-Ranger is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The Eco-Ranger is the ultimate terrorist unit. Whereas the [Nuke%20%28CTP2%29](Nuke) merely reduces [City%20%28CTP2%29](Cities) to radioactive piles of rubble, the Eco-Ranger's Nanite Cleansing attack annihilates all manmade entities in the target range. It reduces the land to "what nature had intended" and utterly eradicates any trace of Cities, Units or [List%20of%20improvements%20in%20CTP2](Tile Improvements) that may have existed there before.
+An Ecotopia empire can only build the Eco-Ranger. It is also a stealth unit.
+Players should consider the ramifications associated with such destructive force. Its attack constitutes an Atrocity, one that will assuredly invite condemnation in the world [Diplomacy%20%28CTP2%29](diplomatic) community.
+Great Library entry.
+Developed out of the Gaia Theory experiments of the Eden Project, the Eco-Ranger's roots lied in the application of nanotechnology to pollution elimination and control. The Eden Project sought to develop a nanite that ferreted out polluting elements and eliminated them. Once the technology was successfully applied, however, a faction of Ecotopian scientists involved in the Eden Project took the application a step further, designing nanites to annihilate any trace of humanity. By seeking out any manmade entity, be it a synthetic material, non-natural chemical or polluting agent, the Eco-Ranger erased any trace of humanity on the land. Entire cities simply disappeared, their inhabitants, buildings replaced by pristine wilderness. This weapon eclipsed any other nuclear, biotech or nanotech weapon to come before it. Although the Eden Project started out in the interest of addressing global pollution, its designers scarcely envisioned that their noble intentions would beget the destructive power of the Eco-Ranger.

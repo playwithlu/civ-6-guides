@@ -1,0 +1,25 @@
+# Russian (Civ4)
+
+The: Russian people represent a [List%20of%20civilizations%20in%20Civ4](civilization) in "[Civilization%20IV](Civilization IV)".
+Unit Dialogue.
+The Russian units speak modern Russian. Corresponding English dialogue appears in parentheses.
+RussiaOrder-000: Как Вы пожелаете / Kak Vy pozhelayete (As you wish.)
+RussiaOrder-001: Пошли! / Poshli! (Let's move!/Going!)
+RussiaOrder-002: Конечно / Konechno! (Of course!)
+RussiaOrder-003: Мы приступаем / My pristupayem (We commence./We're on it.)
+RussiaOrder-004: Никаких проблем / Nikakih problem (No problems.)
+RussiaOrder-005: Считайте, что это уже сделано / Schitayte, chto eto uzhe sdelano (Consider it already done.)
+RussiaOrder-006: Очень хорошо / Ochen' horosho (Very well.)
+RussiaOrder-007: Мы выдвигаемся / My vydvigayemsya (We start moving (to position).)
+RussiaOrder-008: Пошли! / Poshli! (Let's move!)
+RussiaOrder-009: Вы можете на нас рассчитывать / Vy mozhete na nas rasschityvat (You can count on us.)
+RussiaSelect-000: К несению службы готов / K neseniyu sluzhby gotov (Ready for service.)
+RussiaSelect-001: Я в Вашем распоряжении / Ya v Vashem rasporyazheni (I'm at your command.)
+RussiaSelect-002: Скажите мне, что надо делать / Skazhite mne, chto nado delat (Tell me what to do.)
+RussiaSelect-003: Жду Ваших приказов / Zhdu Vashih prikazov (Awaiting your orders.)
+RussiaSelect-004: Мы готовы / My gotovy (We're ready.)
+RussiaSelect-005: Какой у нас план? / Kakoy u nas plan? (What's our plan?)
+RussiaSelect-006: Да / Da (Yes.)
+RussiaSelect-007: Ваши приказы? / Vashi prikazy? (Your orders?)
+RussiaSelect-008: Что Вам нужно? / Chto Vam nuzhno? (What do you need?)
+RussiaSelect-009: Все на месте, расчёт окончен / Vse na meste, raschyot okonchen (All present and accounted for.)

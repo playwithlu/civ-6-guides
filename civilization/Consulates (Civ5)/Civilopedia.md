@@ -1,0 +1,4 @@
+# Consulates (Civ5)/Civilopedia
+
+As relations between nations became more formal, consulates were established to assist and protect the interests of a country's citizens in the territory of another country, and to promote trade and friendship between the two countries. Whereas an ambassador is the singular personal representative from one ruler to another, there can be several consuls in a country, usually one in each major city.
+The concept of providing service to a nation's citizens while abroad arose out of the ancient Greek practice of wealthy merchants acting as a "proxenos" in other Hellenic city-states to aid fellow merchants. Although the role of the consulate expanded in the late 1800s to include cultural and educational exchanges, its role as a nation's representation on the local level in a distant land remains unchanged.

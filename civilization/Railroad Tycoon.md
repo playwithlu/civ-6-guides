@@ -1,0 +1,6 @@
+# Railroad Tycoon
+
+Sid Meier's Railroad Tycoon (called Railroad Tycoon for short) is a [railroad](railroad)-themed business simulation game by [Sid%20Meier](Sid Meier), published by [MicroProse](MicroProse) and released in 1990.
+Its design is further from "[Sid%20Meier%27s%20Civilization](Civilization)" than his "[Sid%20Meier%27s%20Colonization](Colonization)". Differences include that fact that it's not turn-based but real-time (though you can freeze time easily).
+[City](Cities), villages, industries, and [resource](resource)s are already on the [map](map) (and tend to increase over time). What the player builds are stations of various sizes and tracks joining them, with locomotives and carriages or freight cars. The trains are then scheduled to pick up and deliver mail, passengers, and three classes of goods. Each station produces potential freight according to how many cities, villages, and resource-producers are in its radius. Speed of delivery determines your income.
+You are competing with other railroad tycoons, and may buy shares in their railroads (as they may in yours).

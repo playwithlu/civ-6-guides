@@ -1,0 +1,3 @@
+# Crabs (Civ6)/Civilopedia
+
+Living in both salt and fresh water, and even on land, the various species (over 800) of crab have a thick exoskeleton and twin claws. Crabs have been a source of food for humans for millennia; today, they make up over 20% of all the marine crustaceans caught, farmed, and consumed worldwide. Pheromones are used by fully aquatic crabs to attract a mate – given how tasty they are, a necessary survival skill – while terrestrial dwelling crabs often use visual signals, such as male fiddler crabs waving their large claws to attract a female.

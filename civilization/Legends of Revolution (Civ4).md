@@ -1,0 +1,4 @@
+# Legends of Revolution (Civ4)
+
+Legends of Revolution is an unofficial [expansion%20pack](expansion pack) for "". It was created by phungus420 of [CivFanatics](CivFanatics).
+The goal of Legends of Revolution is to simulate a "commercially viable" expansion pack. As with any good expansion pack a new base concept is introduced: Revolutions, which carries with it concepts like barbarian civs, battles effecting national borders, and civil wars. Further certain gaping holes in the default unit progression of Civ4 are filled; like the much needed bombard, and steam ship navies of the Industrial era are flushed out. Overall Legends of Revolution has been built with the idea that more is not better, rather the goal has been to add in needed units for balance, and concepts that enhance gameplay.

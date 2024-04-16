@@ -1,0 +1,10 @@
+# Manifold Caretakers (SMAC)
+
+The Manifold Caretakers are a [Factions%20%28SMAC%29](faction) in "[Sid%20Meier%27s%20Alien%20Crossfire](Sid Meier's Alien Crossfire)". Lular H'minee is the faction's leader.
+Leader's defining quote.
+"Tau Ceti Flowering: Horrors visited upon neighboring systems must never be repeated. Therefore: if it means the end of our evolution as a species, so be it."
+-- Caretaker Lular H'minee, "Sacrifice : Life"
+Background.
+Lular H'minee was the commander of the Caretaker scout ship in battle with its Usurper counterpart above [Chiron](Chiron) shortly before their near-fatal collision. After barely escaping death in an escape pod that crash lands on Planet, H'minee is shocked to learn that not only are Humans inhabiting the planet and that fungal colonies are growing in response to their presence, but that their hated rivals, the Manifold Usurpers, also survived the battle. Although explicitly stated to be female, H'minee's true sex remains open to interpretation, as both gender and gender roles are a very fluid concept in Progenitor culture.
+Personality.
+Not much is known about Lular H'minee's personality. However, it is known that she, like the many followers of the Caretaker ideology, holds life to be sacred and is fiercely opposed to the exploitation of Planet's latent powers even if it means the extinction of her own race. This is further evidenced by accusations from her Human critics of planning to wipe out their entire race, perhaps demonstrating that she is not above enacting genocide to fulfill her agenda. Like her rival, Judaa Marr, H'minee sees Humanity as an inferior race, useful only if they share her anti-Usurper agenda. Detractors of the Caretakers accuse her of being "reactionary" and spreading her "alarmist singsong", implying that she is a very paranoid, panicky individual. Also like Marr, H'minee is remarkably cruel towards her rival, as contacting him (and vice-versa) will have [Judaa Marr] threatening to "pull out [H'minee's] mandibles with hot pincers."

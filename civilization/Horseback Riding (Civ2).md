@@ -1,0 +1,5 @@
+# Horseback Riding (Civ2)
+
+ Horseback Riding is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The horse was first domesticated for transportation and warfare by tribesmen on the Asian steppes. These tribesmen used their superior mobility and speed to overwhelm the proto-civilizations just rising in southeast Europe and the Middle East. In approximately 2000 BC, domestic horses were introduced into Babylonia. Within the next several centuries, horses had spread throughout much of Europe and northern Africa. It was not long before nearly every civilization had put horses to work as field animals and as a means of transportation. Horses also went on to play an important role in the military conflicts of nearly every civilization in the world, both as mounts for horsemen and cavalry, and as draft animals for pulling war chariots and heavy weapons into battle. 

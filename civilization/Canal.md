@@ -1,0 +1,3 @@
+# Canal
+
+The Canal is a [tile%20improvement](tile improvement) and [district](district) in the "[Civilization%20%28series%29](Civilization)" games. In games in which Canals cannot be built, [City](cities) that are founded on one-[tile](tile)-wide isthmuses can function as canals. In some games, where two cities are allowed to be built immediately adjoining, you can have the same result with two or more cities in a chain.

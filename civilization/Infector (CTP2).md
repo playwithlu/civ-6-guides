@@ -1,0 +1,8 @@
+# Infector (CTP2)
+
+The Infector is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The Infector is a pernicious unit, attacking a [City%20%28CTP2%29](City) with devastating biological weapons. The Infect City attack deals quite a blow, reducing [Production%20%28CTP2%29](Production) and [Happiness%20%28CTP2%29](Happiness) in the target city for several turns. The Plague attack, on the other hand, unleashes a highly contagious and deadly supervirus, which quickly kills a significant percentage of the target [Population%20%28CTP2%29](population).
+The Infector is a Stealth Unit.
+Great Library entry.
+Although biological warfare was an ever-looming threat in the late 20th century, it was not until major discoveries in nanotechnology that these nefarious weapons of mass destruction found wide use. The elite military unit known as the infector prevailed in covert operations around the world. Infectors had two main attacks at their disposal: a bacterial agent that attacked the respiratory system, rendering victims violently ill, and a highly lethal supervirus that infected humans with a rapidly replicating virus that could kill 90% of infected persons within fourteen days. Rather than releasing pathogens through time-release capsules or glass vials, they imbued nanites with the agents, which could replicate and spread over a wider area. Although most nations publicly denounced the use of infectors, virtually every nation employed infectors to some degree in their covert operations.

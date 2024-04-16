@@ -1,0 +1,8 @@
+# Rocket Artillery (Civ6)
+
+The Rocket Artillery is an [Information%20Era%20%28Civ6%29](Information Era) [List%20of%20units%20in%20Civ6/By%20class%23Siege](siege unit) in "[Civilization%20VI](Civilization VI)". It upgrades from the [Artillery%20%28Civ6%29](Artillery) (or its replacements).
+In the "" expansion, the Rocket Artillery requires 1 to train and 1 per turn to maintain.
+Strategy.
+The most advanced and deadliest siege unit available, the Rocket Artillery shoots long-range, high-explosive rockets at its targets that are devastating against [City%20%28Civ6%29](cities). What's more, its additional propelling power allows these missiles to travel farther than old artillery shells, even without the help of spotting equipment such as the [Observation%20Balloon%20%28Civ6%29](Observation Balloon)! Chances are your siege units will have collected enough XP to earn the Expert Crew promotion by the time you're ready to upgrade them to Rocket Artillery, but if they've earned the [Forward%20Observers%20%28Civ6%29](Forward Observers) promotion as well, they won't be able to take full advantage of their unless you have other units to spot for them.
+Be very careful when going up against a Rocket Artillery. Due to its long range, it can easily pick off most land units like [Machine%20Gun%20%28Civ6%29](Machine Guns) despite a -17 Bombard Strength penalty against units. Thus, air units will be your best bet for destroying them. If they are supported by a [Mobile%20SAM%20%28Civ6%29](Mobile SAM) and other units, however, be ready for a scuffle.
+For more details on how the move-and-shoot rule works, head [Movement%20%28Civ6%29%23Siege%20units%20and%20the%20move-and-shoot%20rule](here).

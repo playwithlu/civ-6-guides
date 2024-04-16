@@ -1,0 +1,3 @@
+# Exploration (Civ3)/Civilopedia
+
+Before large-scale colonization of the Americas, European presence consisted of small, sporadic settlements used primarily for trade with Indians and to prepare goods such as fish and furs for the long trip back to Europe. These tiny pockets of European influence occasionally grew into towns and colonies, and were the first step towards European domination of the Atlantic seaboard.

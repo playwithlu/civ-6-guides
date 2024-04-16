@@ -1,0 +1,4 @@
+# Comandante General (Civ6)/Civilopedia
+
+Gran Colombia’s history is marked by resistance, and this resistance was led by a series of brilliant military commanders. From José de St Martín to José María Córdova, Francisco de Paula Santander to José Antonio Páez, to Simón Bolívar, “El Libertador,” himself, Latin American military leaders shaped the course of South America’s history.
+As an example of their daring, during the liberation of New Granada, Bolívar led his 3,000 troops through swollen rainy-season rivers and up the flanks of the icy Andes, a move that would be nearly suicidal for another general. But Bolívar came down from the heights, outflanking the Spanish and cutting off reinforcements. Bogotá – the Spanish colonial capital – fell just days later.

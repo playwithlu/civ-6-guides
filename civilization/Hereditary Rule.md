@@ -1,0 +1,2 @@
+# Hereditary Rule
+

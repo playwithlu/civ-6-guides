@@ -1,0 +1,4 @@
+# Gdańsk (Civ6)/Civilopedia
+
+For good reason, Gdańsk desires little more than its independence. After 150 years of unwanted rule by the Teutonic Knights (who insist upon naming the city "Danzig"), Polish King Casimir IV extended the Great Privilege to Gdańsk, thereby reaffirming its autonomy and providing favorable trade relations with the Polish-Lithuanian Union. Excellent news for a Hanseatic League city, which now had privileged access to Union markets as well as other League cities throughout the Baltic.
+All good news for Gdańsk—unless the Teutonic Knights get their way and return the city to their control.

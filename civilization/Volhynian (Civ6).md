@@ -1,0 +1,3 @@
+# Volhynian (Civ6)
+
+The Volhynian people represent the Volhynian noble families, a playable [Civilizations%20%28Civ6%29](civilization) from the [Jadwiga%27s%20Legacy%20%28Civ6%29](Jadwiga's Legacy) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". They are led by [Konstanty%20Ostrogski%20%28Civ6%29](Konstanty Ostrogski), and their civilization ability is "Golden Liberty," which allows them to claim all surrounding [Tile%20%28Civ6%29](tiles) when they build an [Encampment%20%28Civ6%29](Encampment) or a [Fort%20%28Civ6%29](Fort) in their territory and changes one of their [Government%20%28Civ6%29](government's) Military [Policy%20Cards%20%28Civ6%29](Policy Card) slots into a Wildcard slot.

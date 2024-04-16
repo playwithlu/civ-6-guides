@@ -1,0 +1,3 @@
+# Marauding (Civ3)/Civilopedia
+
+Barbarians with the Marauding advance are larger groups of warriors that can actually begin to threaten the military power of Rome and defeat them on the field of battle. Historically, this level of advance occurred late in the 4th Century. Barbarians of this period became such a threat to Rome that the Romans let them settle within the empire's borders if they would help the Romans fight off other barbarians.

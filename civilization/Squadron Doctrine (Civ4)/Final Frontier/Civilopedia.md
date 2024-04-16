@@ -1,0 +1,3 @@
+# Squadron Doctrine (Civ4)/Final Frontier/Civilopedia
+
+Deadly, mobile and overwhelming. This is the motto of the adherents of the Squadron Doctrine. Being assigned to a Carrier fleet was once considered a demotion, but today, thanks to advances in Bomber and Fighter technologies, Carrier commanders have become the rising stars of the Colonies' militaries. Using coordinated mob tactics, a fully-armed Carrier can overcome even the mighty Battleship. Yet due to the numerous and varied types of ships involved, the preparation of a Carrier fleet requires a significant commitment of resources. Dedicating one's military policy specifically to the development of Carrier fleets, though, can sharply reduce these overall costs.

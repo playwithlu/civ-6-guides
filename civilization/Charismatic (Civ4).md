@@ -1,0 +1,6 @@
+# Charismatic (Civ4)
+
+Charismatic is one of the [Leader%20trait%20%28Civ4%29](leader traits), introduced in the ' and ' [expansion%20pack](expansion pack)s. Charismatic [Leaders%20%28Civ4%29](leaders) get +1 [Happiness%20%28Civ4%29](happiness) per [City%20%28Civ4%29](city), +1 happiness from [Monument%20%28Civ4%29](Monuments) and [Broadcast%20Tower%20%28Civ4%29](Broadcast Towers) and -25% [experience](experience) points needed for [List%20of%20units%20in%20Civ4](unit) [Promotion%20%28Civ4%29](promotions).
+The following leaders are Charismatic:
+Strategy.
+Charismatic is a trait of many uses, and has synergy with most other traits. While by face value it's a war trait (cheap experience means units get stronger faster, and more happiness deals with [War%20weariness%20%28Civ4%29](war weariness)), the happiness in peace-time helps your cities grow bigger - potentially 2 more population in many cities. A builder could use the trait to build large cities, switch to war traits, produce heavily-promoted defending units and switch back to peaceful traits to ensure a good defense.

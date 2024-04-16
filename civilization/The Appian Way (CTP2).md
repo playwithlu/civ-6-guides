@@ -1,0 +1,10 @@
+# The Appian Way (CTP2)
+
+The Appian Way is a [Wonder%20%28CTP2%29](Wonder) in "[Call%20to%20Power%20II](Call to Power II)". This wonder lowers the impact of the "distance from capital penalty" that cites have when they are too far from your capital. Also if you build this wonder your civilization has a higher tendency to automatically build roads when there's enough public works saved.
+This wonder is meant for the [Roman%20%28CTP2%29](Roman) civilization.
+Gameplay.
+The Appian Way is the central information route in the host nation. It links important and shipping centers with the capitol of the host empire, making trade and travel safer and easier. on the fringes the empire no longer experience associated with their distance from the capital city.
+The discovery of the renders The Appian Way obsolete.
+Great Library entry.
+The Via Appia, or Appian Way, was first and most famous ancient Roman road. Begun in 312 BC by censor Appius Claudius Caecus, it originally ran southeast from Rome 162 miles to Tarentum and was later extended to the Adriatic coast to the huge port at Brundisium. Roman roads were noted for their solid foundations, straightness and use of concrete made from volcanic ash and lime. It averaged 20 feet in width and had a slightly cambered surface to facilitate drainage. The foundation was made of heavy stone blocks cemented together with line mortar. Expertly fitted polygonal blocks of volcanic concrete formed its surface.
+Horace and Statius called the Via Appia "longarum regina viarum," or "queen of long-distance roads." It was the main highway between Rome and the seaports of southern Italy. It was so vital to trade, not only within Italy but also with Greece and other eastern Mediterranean nations, that a curator of praetorian rank was charged with administering it. Portions of the Appian Way remain intact in parts of the Italian countryside.

@@ -1,0 +1,3 @@
+# St. Petersburg
+
+St. Petersburg, also known as Sankt-Peterburg, Petrograd, or Leningrad, is the [Russian](Russian) [capital](capital) in "[Civilization%20VI](Civilization VI)" and a Russian [city](city) in other "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. In real life, it is a city in the northwest of present-day Russia, the country's largest city after [Moscow](Moscow), it was renamed Petrograd in 1914 and Leningrad in 1924 before its original name was restored in 1991, and home to the [Hermitage](Hermitage).

@@ -1,0 +1,5 @@
+# Konstanty Ostrogski (Civ6)/Civilopedia
+
+No word better reveals the character of Konstanty Ostrogski than devotion. To the Polish-Lithuanian Union, certainly—his capable command under Polish King John I earned him the title of Grand Hetman, the first to do so. To his homeland, definitely—of Volhynian stock, he has never forgotten his roots, despite his many accomplishments.
+But most of all, to his faith--that of the Orthodox Church. He pours his personal fortune into the building of Orthodox churches and schools, and is himself quite devout. A strange matter for a very Catholic Poland and Lithuania.
+Yet Konstanty's very devotion so defines him that few can reasonably question his loyalty. Tatar, Muscovy, or Ottoman alike—the Grand Hetman will break their advances, besiege their castles, and destroy their forces in detail. He is the anvil that breaks the hammer.

@@ -1,0 +1,7 @@
+# Charlemagne (scenario) (Civ4)
+
+The Charlemagne [Scenario%20%28Civ4%29](scenario) of "" designed by [Paul%20Murphy](Paul Murphy) simulates the competition for the title of Holy Roman Emperor in the Medieval era. There are five playable kingdoms ([List%20of%20civilizations%20in%20Civ4](civs)) in this game: [Charlemagne%20%28Civ4%29](Charlemagne) (Austrasia), Gundobad (Burgundy), Chilperic I (Neustria), [Eleanor%20of%20Aquitaine](Eleanor) (Aquitaine) and Alboin (Lombardy). (Note that any of these kings can be crowned Holy Roman Emperor, even though historically Charlemagne was the Holy Roman Emperor; hence the name of the scenario.) There are also six unplayable civilizations: the [Roman%20%28Civ4%29](Romans) (led by His Holiness), the [Byzantine%20%28Civ4%29](Byzantines) (led by [Justinian%20I%20%28Civ4%29](Justinian)), the [Arabian%20%28Civ4%29](Arabs) (led by [Saladin%20%28Civ4%29](Saladin)), the [Anglo-Saxon](Anglo-Saxon)s, the Bavarians, and the Saxons.
+Gameplay.
+Gameplay is similar to the actual "Civilization" game, with two new concepts:
+Victory.
+Victory can be achieved in four ways: Domination victory, outright conquest of all your other rivals, time or being crowned Holy Roman Emperor.

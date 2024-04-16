@@ -1,0 +1,3 @@
+# Norman Knight (Civ5)/Civilopedia
+
+The Knights of the Norman army who served during the conquest of England in the 11th century were equipped with knee-length shirts of chain-mail, known as "Hauberks," and typically wore a conical helmet designed (in theory) to deflect incoming arrows. Norman Knights were perhaps most famously known for carrying "Kite" shields, elongated shields designed to protect the mounted knight's leg while engaged in melee combat.

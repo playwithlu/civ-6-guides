@@ -1,0 +1,3 @@
+# Indie (Civ6)/Civilopedia
+
+Rock music which lacks even those qualities which make it palatable to the masses may be defined as “indie,” for the independent music labels which publish it in a quixotic attempt to progress the genre in any direction other than its inevitable, imminent decline. This music may be characterized as more or less experimental (mostly less—certainly less lucrative) and by the cool hostility of its audience.

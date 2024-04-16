@@ -1,0 +1,3 @@
+# Salon (Civ4)/Civilopedia
+
+In the sixteenth and seventeenth centuries, the French nobility used to gather the local "intelligentsia" to discuss the literary or artistic works of the day. The word "salon" refers to the reception room where these parties were held. The salons were almost always organized by the most beautiful, intelligent and rich women in the French nobility. During the seventeenth centuries the two most important literary salons were run by Madame de Rambouillet and her rival, Madeleine de Scudery. Virtually every important French author, poet, artist and scientist attended one or the other of these gatherings, making them the very centers of French intellectual thought.

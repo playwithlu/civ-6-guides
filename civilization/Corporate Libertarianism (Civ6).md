@@ -1,0 +1,6 @@
+# Corporate Libertarianism (Civ6)
+
+Corporate Libertarianism is a form of Tier 4 [Government%20%28Civ6%29](government) in "". It is unlocked by the [Venture%20Politics%20%28Civ6%29](Venture Politics) [Civics%20%28Civ6%29](civic).
+Strategy.
+Corporate Libertarianism is the best of the Tier 4 governments for warmongers, providing three slots for [Policy%20Cards%20%28Civ6%29](Military Policy Cards) and bonuses to and [Resources%20%28Civ6%29](resource) extraction that make it easier to raise and support a large military. Contrary to what this government's name and background suggest, it has only one Economic Policy Card slot, though the five Wildcard slots largely make up for this.
+Conversely for those who are not warmongers, it's arguably also flexible enough to be able to form the basis of a good bulwark against warmongers with designs on your empire, while not necessarily totally derailing whatever non-aggressive [Victory%20%28Civ6%29](victory) path you were on when you were forced to rapidly militarize.

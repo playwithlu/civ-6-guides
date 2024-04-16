@@ -1,0 +1,3 @@
+# Okihtcitaw (Civ6)/Civilopedia
+
+Roughly translating to “warrior,” the okihtcitaw had a much more important role within Cree society than merely serving as combatants. The sons of chiefs, they protected the tribe when it traveled and kept order when it settled. They also policed buffalo hunts to ensure that no one hunter began before any other. The Cree considered these seasoned warriors incredibly brave and skilled in combat, a step above their peers—often charismatic and clever, allowing them to serve as effective leaders in times of war and peace.

@@ -1,0 +1,4 @@
+# Metallurgy (Civ5)/Civilopedia
+
+Metallurgy is the science of metals and metallic alloys. In "Civilization V" the "metallurgy" technology covers the advancements in this field since the 19th century AD. In the 19th and 20th centuries, great strides have been made in all facets of metallurgy, from extraction, to the creation of new alloys, to the production of cheap, high-quality metals.
+Metal remains at the heart of modern civilization. Much of the world is built of steel, and what isn't is made of aluminum or titanium. Our communications networks are made of metal, and so are our vehicles, weapons, satellites and spacecraft. Without modern metallurgy 90% of the Earth's population would starve within a year.

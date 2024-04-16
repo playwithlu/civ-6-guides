@@ -1,0 +1,3 @@
+# Inquisition (Civ6)/Civilopedia
+
+A vigorous counter-reformation in pursuit of perfidious heresies can require that the religious authorities work with the secular authorities to pursue heretics as criminals, and to judge criminals committing religiously-tinged crimes by the inquisitors. The Inquisitions of Spain are most famous (infamous would probably be more accurate), but similar Inquisitions were set up throughout Europe and the New World during the Protestant Reformation. The inquisition process was, by and large, unfavorable to the accused. This had suppressive effects on free inquiry more broadly as a result, in lands where the inquisitions were most active.

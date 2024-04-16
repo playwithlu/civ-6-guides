@@ -1,0 +1,5 @@
+# Hollywood (CivRev)
+
+Hollywood is a [Wonder%20%28CivRev%29](wonder) in "[Civilization%20Revolution](Civilization Revolution)".
+This wonder can be built when the player discovers the [Mass%20Media%20%28CivRev%29](Mass Media) [List%20of%20technologies%20in%20CivRev](technology) and its benefit is that it allows the player to convert/flip enemy [City%20%28CivRev%29](cities) even if they have [Walls%20%28CivRev%29](Walls). This wonder's benefit is never cancelled.
+Note that this wonder's benefit only applies to the [List%20of%20civilizations%20in%20CivRev](civilization) that builds it, so don't worry about enemy civilizations being able to convert/flip your cities if you build it. This wonder will be quite important for most players to build in the [Modern%20Era%20%28CivRev%29](Modern Era) especially if they have low [Culture%20%28CivRev%29](culture), as it can prevent other civilizations from gaining the ability to convert/flip their cities.

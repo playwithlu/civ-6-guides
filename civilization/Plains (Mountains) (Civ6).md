@@ -1,0 +1,2 @@
+# Plains (Mountains) (Civ6)
+

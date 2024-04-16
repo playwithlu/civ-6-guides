@@ -1,0 +1,6 @@
+# List of wonders in Civ3
+
+Wonders benefit an entire [empire](empire). "[Civilization%20III](Civilization III)" added [Small%20Wonder%20%28Civ3%29](Small Wonders), which can be built once by every [List%20of%20civilizations%20in%20Civ3](civilization). Small Wonders have, for the most part, a sociological requirement to construct them, as well as a [List%20of%20advances%20in%20Civ3](technological) requirement. [Battlefield%20Medicine%20%28Civ3%29](Battlefield Medicine), for example, requires that five of the player's [City%20%28Civ3%29](cities) have [Hospital%20%28Civ3%29](Hospitals) before building.
+Many new technologies allow the player to build a new wonder. Some wonders can be made [obsolete](obsolete) by certain technologies, but these technologies must be researched by the civilization that owns them - other civilizations cannot make wonders obsolete.
+In each different age there are different wonders available. Below is a list of those wonders sorted by [Era%20%28Civ3%29](age) ([Ancient%20Times%20%28Civ3%29](Ancient Times), [Middle%20Ages%20%28Civ3%29](Middle Ages), [Industrial%20Ages%20%28Civ3%29](Industrial Ages), and [Modern%20Times%20%28Civ3%29](Modern Times)).
+When a player captures a city with a Small Wonder, it is destroyed. If it has a Great Wonder, it doesn't get destroyed unless the player razes the city.

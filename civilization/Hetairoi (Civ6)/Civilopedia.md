@@ -1,0 +1,5 @@
+# Hetairoi (Civ6)/Civilopedia
+
+The powerful hetairoi (known simply as “the Companions”) were an elite cavalry unit who served as the hammer in Macedon’s famed hammer-and-anvil tactics, popularized under Philip II and used to great effect by his son, Alexander the Great. While the Macedonian phalanx pinned a rival army in place with their extra-long spears (known as sarissas), the hetairoi would organize into a wedge and charge directly into the enemy flanks or rear.
+An abrupt attack by the shock cavalry nearly impossible to avoid or deter, and was often enough to break the will of less seasoned troops. As they fled for their lives, they were easy pickings for the hetairoi who could ride them down and dispatch them in their leisure.
+Most of the Companions came from the ranks of Macedon’s noble families, though the king could technically admit anyone to their ranks. They were armed with short spears and swords.

@@ -1,0 +1,3 @@
+# Wars of Religion (Civ6)/Civilopedia
+
+One thing is guaranteed about the faithful: their willingness to kill (or die) for their beliefs. Since the ancient Mesopotamian city-states began bashing each other, religion has been the cause of many a “holy” war – the Israelite conquest of the Canaan city-states, Muslim expansion, and the subsequent Crusades. But none matched the wars of religion that were set off when Luther nailed up his 95 theses. For much of the 16th and 17th centuries, the Protestants and Catholics went at each other with abandon, devastating most of Central Europe and causing astronomical casualties – an estimated 11.5 million in the Thirty Years' War and another four million in the French Wars of Religion alone.

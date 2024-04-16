@@ -1,0 +1,4 @@
+# Era (CivWorld)
+
+An Era is one of the 21 periods of time in the [Facebook](Facebook) [MMOG](MMOG) "[CivWorld](CivWorld)". Each Era is divided into an early period and a late period, and each of these periods has four victory conditions or goals associated with Technology, Culture, Economics, and Domination. The first [Civilizations%20%28CivWorld%29](Civilization) to achieve one of these goals is the winner for the Era, for which all the Civilization's members receive [Fame%20%28CivWorld%29](Fame) commensurate with their [Rank%20%28CivWorld%29](rank). Most Eras apply bonuses or penalties to [Resource%20%28CivWorld%29](Resource) collection, which remain in effect until the Era is won.
+Much of the information on this page comes from IGN's "CivWorld" Guide.

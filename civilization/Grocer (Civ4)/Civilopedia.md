@@ -1,0 +1,4 @@
+# Grocer (Civ4)/Civilopedia
+
+The word "grocer" is the ancient term for a grocery store. It denotes a market, usually under single ownership (unlike the older bazaar-style markets, which contain dozens or hundreds of small independent operations). The store sells fresh foodstuffs as well as canned goods and other household staples. 
+Modern groceries - also known as "supermarkets" - are much larger than the originals, thanks in large part to the invention of refrigeration. They contain an extensive variety of foods from all over the world. Comparatively, food prices are much lower than they used to be, and today's families spend a historically low portion of their income on food of much higher variety than that offered to shoppers in the past.

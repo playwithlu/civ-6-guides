@@ -1,0 +1,4 @@
+# Iroquois
+
+The Iroquois people represent the Iroquois Confederacy, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games and a [Native%20American](Native American) tribe in the "[Colonization%20%28game%29](Colonization)" games. Their [capital](capital) might be [Onondaga](Onondaga) or [Salamanca](Salamanca), and they can be led by [Hiawatha](Hiawatha) or [Logan](Logan).
+The Iroquois are one of the most well-known and historically powerful Native American "tribes" in the world. Tribes is in quotations because the Iroquois are actually made up of five (later six) other Native American tribes: the Mohawk, the Oneida, the Onodaga, the Cayuga, the Seneca, and (later) the Tuscarora.

@@ -1,0 +1,3 @@
+# Elizabeth (Civ3)
+
+Elizabeth I (7 September 1533 – 24 March 1603), also known as the Virgin Queen, Gloriana and coloquially as Good Queen Bess, was and from 1558 until her death. During her reign, she the foundations of , successfully defended England against the , and sponsored a renaissance of through figures such as [William%20Shakespeare](William Shakespeare). She leads the [English%20%28Civ3%29](English) in "[Civilization%20III](Civilization III)".

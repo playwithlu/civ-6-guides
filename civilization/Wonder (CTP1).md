@@ -1,0 +1,5 @@
+# Wonder (CTP1)
+
+Wonders represent impressive architecture or renowned achievements that are recognized throughout the world. Unlike [Tile%20improvement%20%28CTP1%29](improvements) or [List%20of%20units%20in%20CTP1](units), Wonders can only be built by one [List%20of%20civilizations%20in%20CTP1](Civilization). Wonders also have very powerful and unique bonuses creating a great strategic benefit in accumulating them. Wonders cost and each requires a specific . Wonders are sometimes [obsolete](obsolete)d by world-wide Advances.
+Great Library entry.
+In every age, a few achievements held the imagination and interest of the world like no others. These achievements were called wonders. They were as important psychologically as physically, making it impossible to imitate or reproduce them. There could be no second Sphinx, for the first held the world's imagination for all time.

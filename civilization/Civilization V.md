@@ -1,0 +1,46 @@
+# Civilization V
+
+Sid Meier's Civilization V (called Civilization V or Civ5 for short) is a [turn-based%20strategy](turn-based strategy) game released on September 21, 2010. The game's first [expansion%20pack](expansion pack), ', was released on June 19, 2012 in [North%20America](North America) and June 22, 2012 elsewhere. A second expansion, ', was released on July 9, 2013 in North America and July 12, 2013 elsewhere.
+Civilizations and Leaders.
+There are eighteen civilizations available from the start of "Civilization V", and seven additional civilizations are made available later through several small [DLC%20%28Civ5%29](DLC) add-ons. Nine more civilizations were added with the ' expansion pack, and nine other civilizations were added with the ' expansion pack, bringing the total number of civilizations to 43.
+This is the first incarnation of the series where the leaders speak in their native language in a fully animated diplomacy screen. This applies only to the audio; all text is in the language selected.
+Units.
+"Civilization V" has 87 units, ranging from military to civilian. Unlike in previous games, you can have only one unit of each type (Military/Civilian/Embarked) per [hex](hex). For example, you cannot have a [Horseman%20%28Civ5%29](Horseman) and an [Archer%20%28Civ5%29](Archer) on one tile. This also applies to [City%20%28Civ5%29](cities).
+Most units can move 2 hexes (4 hexes for mounted units) and are no longer destroyed if they lose a battle, taking damage instead. Players can swap a unit out with one next to it during battle.
+Units take longer to produce than in previous games. They also have higher upkeep costs, potentially reducing the number of units you can maintain at one time. The upkeep costs become more expensive the further you are into the game.
+There are no longer troop transports. Instead, units instantly [Embarkation%20%28Civ5%29](transform into makeshift floating transports) when moving into water after the [Optics%20%28Civ5%29](Optics) technology is researched.
+City-States.
+One new concept in the game is the addition of city-states - small countries usually limited to a single city, that don't compete to win the game. However, they can expand their [Territory%20%28Civ5%29](territory) and acquire the same resources as any player can. They provide economic and diplomatic bonuses if you befriend or ally them by doing quests or giving gifts. If you are hostile toward a city-state, its allies become hostile towards you.
+Grassland, Marsh, Plains and Desert
+Snow and Tundra
+Mountains (are impassable to all units except helicopters and [Carthaginian%20%28Civ5%29](Carthaginian) troops, after Carthage earns its first Great General) and Hills (provide more defense and negate the effect of obstacles such as trees for ranged units)
+Coast, Ocean, Lakes and Rivers (affect those attacking across them and use up all movement points)
+There are several types of Forests/Jungles representing the four major landmasses. Wounded units can hide and recover in trees/forests.
+Terrains.
+"Civilization V" also includes [Natural%20wonder%20%28Civ5%29](natural wonders) which are automatically placed around the [Map%20%28Civ5%29](map). These wonders provide bonuses to any civilization that discovers them. Some of these natural wonders are: [Old%20Faithful%20%28Civ5%29](Old Faithful), [Mount%20Fuji%20%28Civ5%29](Mount Fuji), [Krakatoa%20%28Civ5%29](Krakatoa), and [The%20Great%20Barrier%20Reef%20%28Civ5%29](The Great Barrier Reef). They also give additional bonuses to and income when cities are founded near them or cover them with their territory.
+Resources.
+There are three types of resources: strategic resources, luxury resources and bonus resources. If you have more than 1 luxury resource, you can trade the excess with other civilizations. However, the same does not hold true for strategic resources. A single deposit, for example, yields between 2 and 9 resources, letting you build that number of units that require . Therefore, acquiring as many strategic resources as you can is a must to support large armies.
+Buildings and Improvements.
+"Civilization V" has 71 buildings, 49 wonders, and 23 improvements. The number of [Unique%20building%20%28Civ5%29](unique buildings) is included in the building count. Note that not every civilization has a unique building: some have a unique improvement or two [Unique%20unit%20%28Civ5%29](unique units) instead.
+Wonders come in the form of world wonders, national wonders and [Project%20%28Civ5%29](projects), just like in "[Civilization%20IV](Civilization IV)". The concept of tile improvements has been modified slightly: in addition to [Worker%20%28Civ5%29](Workers) and [Work%20Boat%20%28Civ5%29](Work Boats), the [Great%20People%20%28Civ5%29](Great People) can now construct special improvements (or "bulb") too.
+Great People's special tile improvements replace any improvements already built on them. [Road%20%28Civ5%29](Roads) can go through these special improvements, and they automatically hook up any strategic resources on those tiles.
+The building of these special improvements consumes the Great Person, removing them from the game.
+Technologies and Research.
+"Civilization V" comes with 74 technologies divided into seven [Era%20%28Civ5%29](eras), from [Ancient%20Era%20%28Civ5%29](Ancient Era) to [Future%20Era%20%28Civ5%29](Future Era). In single-player games, the discovery of each tech is accompanied by a famous quotation from history that is voiced by [William%20Morgan%20Sheppard](William Morgan Sheppard).
+Although technology trading has been removed, a new feature was added: making a research agreement. Two civilizations at peace can form one for an initial investment in , and as long as the two civilizations remain at peace, the research agreement provides both of them with a research points boost after a set amount of turns. The amount of the research points equals half the median value of costs between the technologies available for this particular civilization. The amount of the research points can be increased with wonders and social policies. However, this can be used simply to make the other civilization spend money before declaring war. Even the [AI](AI) is known to use this.
+Social Policies.
+In "Civilization V" there is the ability to adopt social policies through accumulated . There are ten separate trees of social policies, and filling out five of the ten rewards the player with [Cultural%20victory%20%28Civ5%29](cultural victory). Instead of switching one policy with another, some policies build on others. Each policy has its own bonuses, such as starting a .
+In "Brave New World", there are also [Ideology%20%28Civ5%29](Ideologies) - end-game uber Social Policies, which not only grant powerful bonuses, but also impact a civilization's standing in the world and its relations with other civilizations. Unlike Social Policies, Ideologies compete with each other on a world level.
+Victory Conditions.
+Once again, there are many ways to achieve victory other than military conquest. You can win by focusing mainly on scientific research and be the first to assemble and launch a [Spaceship%20%28Civ5%29](spaceship) to [Alpha%20Centauri%20%28star%20system%29](Alpha Centauri). [Diplomatic%20victory%20%28Civ5%29](Diplomatic victory) requires help from other civilizations and city-states in the [United%20Nations%20%28Civ5%29](United Nations) and the [World%20Congress%20%28Civ5%29](World Congress) in later expansions. Cultural victory now requires one to complete five out of ten of the social policy "trees" and completing the [Utopia%20Project%20%28Civ5%29](Utopia Project), or becoming influential over other civilizations with in the "Brave New World" expansion. Obviously, World Domination is one option, but the victory condition has been simplified compared to the other games. Rather than completely destroying the other civilizations, the player who gains control of all s wins. You can also win by having the highest [Victory%20%28Civ5%29%23Score](score) at the year [2050%20AD](2050 AD).
+Downloadable Content.
+There are multiple downloadable add-ons to "Civilization V". This includes two expansion packs that add a massive amount of content including new civilizations, maps, scenarios, wonders, buildings, units, and gameplay elements. They are:
+Aside from the two expansion packs, several additional add-ons are available to add a few more contents. These include:
+Scenarios.
+"Civilization V" has multiple scenarios to play. All of them require downloadable content to be available.
+Achievements.
+The Steam version of the game comes with over a hundred achievements, ranging in scope from "Discover an ancient ruin" to "Beat the game on the [Difficulty%20level%20%28Civ5%29](Deity difficulty level)." They are listed on a separate page, along with explanations of the myriad of references to other works that are included in the achievement names...and there are many.
+Images.
+You can see a lot of "Civilization V" images on http://ve3d.ign.com/images/game/62125/PC/Sid-Meiers-Civilization-V
+Reception.
+"Sid Meier's Civilization V" received "universal acclaim" reviews and was tagged as a "must-play" game on Metacritic holding a metascore of 90/100 based on 70 critic reviews.

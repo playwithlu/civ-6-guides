@@ -1,0 +1,3 @@
+# God King (Civ6)/Civilopedia
+
+Not satisfied with being mere kings, some ruling dynasties took on the mantle of divinity to insure obedience, prestige, and infallibility. Egyptian pharaohs were generally believed to be incarnations of the god Horus. In imperial China at times the emperor was considered the “Son of Heaven,” ruling under the “Mandate of Heaven” with his commands believed sacred writ. Some Roman emperors were declared gods by the Senate, but generally after their death, so godhood didn’t interfere with their duties. Although all this godliness was eventually replaced with the divine right of kings to rule, it has echoed throughout the course of civilization.

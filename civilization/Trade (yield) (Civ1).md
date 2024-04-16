@@ -1,0 +1,3 @@
+# Trade (yield) (Civ1)
+
+Trade is a yield in Civilization I that is converted into [Science%20%28Civ1%29](science), [Luxuries%20%28Civ1%29](luxuries), and [Gold%20%28currency%29%20%28Civ1%29](gold). It can be increased by assigning citizens to work tiles with [Roads%20%28Civ1%29](roads) or [Improvements%20%28Civ1%29](railroads), switching to a [Republic%20%28Civ1%29](republic) or [Democracy%20%28Civ1%29](democracy) government type, or decreasing [Corruption%20%28Civ1%29](corruption). You can control how much trade goes to science, luxuries, and gold by changing the tax rate and luxury rate.

@@ -1,0 +1,5 @@
+# Broadway (Civ5)
+
+Strategy.
+One of the new -oriented Wonders, Broadway is one of only two which provides a [Theming%20bonus%20%28Civ5%29](theming bonus) for [Great%20Work%20%28Civ5%29](Great Works of Music) (the other one being the [Sydney%20Opera%20House%20%28Civ5%29](Sydney Opera House)). Activating the bonus is a bit tricky, though, because all GWM have to be from the same [Civilizations%20%28Civ5%29](civilization) and the same [Era%20%28Civ5%29](era). Since it's next to impossible to trade for three GWM of the same era with another player, they would have to be your own. This means that when you plan on building the Wonder, you should carefully time the use of your [Great%20Musician%20%28Civ5%29](Great Musicians) so that you can have 2 within the same era - their Great Works, along with the one of the free Great Musician which appears at completion of the Wonder, will be able to activate Broadway's bonus.
+It is also possible, if the [Aesthetics%20%28Civ5%29](Aesthetics) policy tree has been completed and output is strong, to purchase the required Great Musicians without requiring such careful planning.

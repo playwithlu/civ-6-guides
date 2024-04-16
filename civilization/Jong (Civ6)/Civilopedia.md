@@ -1,0 +1,5 @@
+# Jong (Civ6)/Civilopedia
+
+If you wish to dominate the high seas, confront the enemy with overwhelming force. This was the philosophy behind the massive jong ships, the schooner of the Majapahit. This vessel allowed the Empire to control Javanese waters through a combination of size and strength.
+The Majapahit sailing vessels differentiated themselves from Chinese junks with the addition of a second rudder, which made the 600 ton jong fast yet easy to control. This wasn't the only extra maneuverability option for the jong; if the winds were low, a row of oarsmen could move the schooner beyond the range of enemy fire or around seaborne obstacles.
+While primarily used as merchant ships, jongs also served as military transports. All of that weight wasn't just for show: the addition of four-layer wooden masts offered protection against incoming cannon fire, and a jong under attack could return the favor with its own opposing ordnance.

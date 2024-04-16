@@ -1,0 +1,6 @@
+# Communism (Civ1)
+
+Communism allows the building of the [United%20Nations%20%28Civ1%29](United Nations) wonder, the industrial age equivalent of the [Great%20Wall%20%28Civ1%29](Great Wall). However, it also negates the effects of both the [Pyramids%20%28Civ1%29](Pyramids) and [Michelangelo%27s%20Chapel%20%28Civ1%29](Michelangelo's Chapel) wonders.
+Communism allows the [Communism%20%28government%29%20%28Civ1%29](Communism) government type and is a prerequisite of [Labor%20Union%20%28Civ1%29](labor union).
+Civilopedia entry.
+Communism developed as a system of social organization where the real property (land) and means of production (factories) were owned by all. Experiments with this system appeared at various times in the past, but Communism in the world today arose from the often appalling living conditions that came into being for the factory workers during the Industrial Age. Outrage over the greed of the new capitalists and the poverty of the workers led to the Communist Manifesto of Marx and Engels that predicted the rise of a classless society. Communism has failed so far to fulfill its promise of an egalitarian society based on working-class values.

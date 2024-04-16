@@ -1,0 +1,3 @@
+# Kakadu (Civ6)/Civilopedia
+
+The lush natural region of Kakadu is home to such unique varieties of flora and fauna that many remain uncategorized in modern times. It is also home to Aboriginal people thought to have lived in the area for at least 20,000 years. Extensive rock art, some of it thousands of years old, reveals the history of the local Aboriginal people. Multiple attempts at European colonization in the 19th Century failed due to Kakadu’s inhospitable terrain.

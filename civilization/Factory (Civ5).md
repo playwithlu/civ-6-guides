@@ -1,0 +1,7 @@
+# Factory (Civ5)
+
+Game Info.
+[Industrial%20Era%20%28Civ5%29](Industrial era) -boosting building. Requires [Workshop%20%28Civ5%29](Workshop) or [Longhouse%20%28Civ5%29](Longhouse).
+Strategy.
+The Factory is an Industrial Era building that greatly increases a [City%20%28Civ5%29](city's) , combining a flat boost (+4), a percentage increase, and 2 slots. If you assign two s for a Factory, it gives you a total of +8 right away, plus 10% overall ! The problem is that this building requires , one of the rarest [Resources%20%28Civ5%29](resources) in the game. Fortunately, only one [Unit%20%28Civ5%29](unit) in the game requires this resource (the [Ironclad%20%28Civ5%29](Ironclad), which is quickly replaced by the [Destroyer%20%28Civ5%29](Destroyer) in the [Modern%20Era%20%28Civ5%29](Modern Era)), making it available solely for Factories after the Modern Era. Still, you should carefully consider the availability of for your empire, and build Factories first in your major centers, saving for later when you're able to trade more of it with other empires or get it from [City-state%20%28Civ5%29](city-states). A city must also have a Workshop (or Longhouse) before building a Factory.
+Once you have built a Factory in one of your cities, it continues to provide its effects even if you lose access to your supply (for example, if one of your [Mine%20%28Civ5%29](Mines) gets pillaged or a city-state that was granting you stops being your ally).

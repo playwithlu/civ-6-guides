@@ -1,0 +1,5 @@
+# Middle Ages (Civ3)
+
+The is the second [Era%20%28Civ3%29](era) in "[Civilization%20III](Civilization III)." It is preceded by the [Ancient%20Times%20%28Civ3%29](Ancient Times) and followed by the [Industrial%20Ages%20%28Civ3%29](Industrial Ages).
+Out of 22 technologies in the Middle Ages, only 14 technologies need to be discovered to advance into the next era.
+In order to advance to the next [Era%20%28Civ3%29](era), all technologies must be discovered, except for those marked with the "No" symbol, specifically [Chivalry%20%28Civ3%29](Chivalry), [Printing%20Press%20%28Civ3%29](Printing Press), [Free%20Artistry%20%28Civ3%29](Free Artistry), [Democracy%20%28advance%29%20%28Civ3%29](Democracy), [Music%20Theory%20%28Civ3%29](Music Theory), [Economics%20%28Civ3%29](Economics), [Navigation%20%28Civ3%29](Navigation), and [Military%20Tradition%20%28Civ3%29](Military Tradition).

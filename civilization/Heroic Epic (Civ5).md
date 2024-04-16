@@ -1,0 +1,8 @@
+# Heroic Epic (Civ5)
+
+Game Info.
+Military national wonder. Requires [Barracks%20%28Civ5%29](Barracks) in all [City%20%28Civ5%29](cities).
+Strategy.
+The Heroic Epic is one of the deadliest tools in a martial empire's arsenal, although largely reserved for the smallest of them. The 15% Morale bonus is an across-the-board improvement to all your [Unit%20%28Civ5%29](units) from that city. Apart from producing units, if you need to "purchase" any units outright, this city becomes the place to do it, so long as travel times aren't prohibitive to the unit's goals.
+This bonus stacks on top of promotions, terrain, and [Great%20General%20%28Civ5%29](Great Generals). As a result, these units become some of the meanest tools you can forge. Ensure that the city gets more than the [Barracks%20%28Civ5%29](Barracks) it already created. Build an [Armory%20%28Civ5%29](Armory) and [Military%20Academy%20%28Civ5%29](Military Academy) there to start each unit as the best of the best. Combine this with [Honor%20%28Civ5%29](Honor) [Social%20policies%20%28Civ5%29](policies) to push the numbers as much in your favor as possible.
+Martial [Civilizations%20%28Civ5%29](civilizations) tend to expand, making it hard (and competitively expensive) to have Barracks in all cities at all times. Thus, it's wise for an empire to build the Heroic Epic early and during peacetime when there are fewer enemies and cities to worry about. In addition, this gives you more of the game to enjoy the wonder's benefit.

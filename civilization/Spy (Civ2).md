@@ -1,0 +1,11 @@
+# Spy (Civ2)
+
+The Spy is a -era in "[Civilization%20II](Civilization II)", available with the . It succeeds the and features enhanced abilities, including access to a wider range of .
+Strategy.
+Spies have the same cost as Diplomats while featuring significant improvements: in addition to higher movement, they have a two- line of sight, allowing better evasion in the field. Spies can perform several unique missions, including , , and , and can and without forfeiting their . Most importantly, spies can evade detection and return to the player's nearest , avoiding an .
+A garrisoned spy provides the city a 40% chance to ; this chance compounds with multiple units, with three spies supplying an effective defense of 78%. cy is much more important for spies: counter-espionage effectiveness rises to 60% (for a maximum possible defense of 94%); furthermore, veterancy reduces the detection risk both before and after conducting certain city missions. produce veteran spies by default.
+Civilopedia entry.
+One of the most effective ways to compile information about an enemy (or potential enemy) is by infiltrating the enemy's ranks. This is the job of the spy. Spies can bring back all sorts of information concerning the size and strength of an enemy army. They can also find dissidents within the enemy's forces and influence them to defect. In times of crisis, spies can also be used to steal technology and to sabotage the enemy in various ways. Counterintelligence operatives can feed false information to enemy spies, protecting important domestic secrets and preventing attempts at subversion. Nearly every society has very strict laws concerning espionage, and the penalty for being caught is often death. However, the benefits that can be gained through espionage are generally felt to outweigh the risks.
+Modding.
+The Spy is defined at Line 48 of the section of . Only this unit benefits from the advanced espionage rules when assigned the .
+Spies are the only explicitly gendered unit in the game; pronouns are defined in the associated popup messages in .

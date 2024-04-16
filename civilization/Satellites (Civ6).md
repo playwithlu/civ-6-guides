@@ -1,0 +1,6 @@
+# Satellites (Civ6)
+
+Satellites is an [Information%20Era%20%28Civ6%29](Information Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)." In "", it can be hurried by building 2 [Broadcast%20Center%20%28Civ6%29](Broadcast Centers). 
+Strategy.
+After the first tentative successes of launching stuff into orbit it quickly becomes clear that satellites are the next rage in a number of fields, from communications to military espionage. Their capabilities of instantly connecting far-away command centers to [Unit%20%28Civ6%29](units) directly on the battlefield changes radically the way a battle is lead, and makes possible the development of the contemporary [Mechanized%20Infantry%20%28Civ6%29](Mechanized Infantry), not only armed to the teeth to withstand all horrors military technology can throw at it, but also being under the constant surveillance of the commander.
+Finally, the development of space launching technology paves the way to the next step in the Space Race: [Launch%20Moon%20Landing%20%28Civ6%29](sending a man to the Moon).

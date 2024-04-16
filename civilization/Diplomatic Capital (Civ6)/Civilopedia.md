@@ -1,0 +1,3 @@
+# Diplomatic Capital (Civ6)/Civilopedia
+
+A nation with a sterling reputation in conducting international affairs may be said to have an ample store of diplomatic capital, which it can use to influence the foreign policies of other nations. Usually nations gain this through mediating international disputes, providing morally unambiguous benefit to those who cannot repay it, or through participating in an internationally-sanctioned military action against a malign foe. The actual size of a nation is sometimes irrelevant—in diplomacy the value of one’s word is not always dependent on the number of divisions one commands.

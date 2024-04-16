@@ -1,0 +1,8 @@
+# Supersonic Flight (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Supersonic flight enables the development of airplanes that can fly at speeds well in excess of the speed of sound. The is such a plane, utilizing its speed to attack with devastating power.
+Great Library entry.
+On October 14, 1947, U.S. Air Force Major Charles E. Yeager piloted a Bell XS-1 rocket-powered research plane, the first aircraft to fly at supersonic speeds. This flight marked the beginning of a revolution in flight technology. Soon after, many supersonic-flight-capable aircraft were built, many of them able to achieve speeds of Mach 2 (2 times the speed of sound) or above.
+Although supersonic flight's commercial applications were limited to the Concorde passenger aircraft, it changed the nature of air combat forever. New weapons, guidance systems, tracking devices and early warning systems were needed to track high-altitude bombers and interceptors that could strike a target and, within seconds, be out of range of anti-aircraft guns. A new class of fighter and assault planes emerged in the armies of the major world powers. Planes could fly higher, farther and faster than previously possible. Some planes were even capable of hypersonic flight - Mach 5 and above - but needed to be constructed of special materials to deal with the frictional heating of the skin of the plane.

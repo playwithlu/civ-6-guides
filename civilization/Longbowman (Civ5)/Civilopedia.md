@@ -1,0 +1,3 @@
+# Longbowman (Civ5)/Civilopedia
+
+The English longbow developed during the 12th century, as the English were fighting to conquer Wales. The longbow was made from yew or elm, and was five to seven feet in height (depending upon the height and strength of the user). The longbow was extremely difficult to master, but well-trained English longbowmen could shoot farther, faster and more accurately than the crossbowmen of the day. But this did require years of training. As the country's population grew the English wilderness was transformed into farmland. Opportunities for hunting disappeared and the English yeomen became less proficient with bow and arrow. This, more so even than the advent of gunpowder, led to the decline of the English longbow.

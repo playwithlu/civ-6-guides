@@ -1,0 +1,3 @@
+# Nutmeg (Civ5)/Civilopedia
+
+Nutmeg trees are evergreens indigenous to the Banda Islands in Indonesia. Nutmeg has been used in the culinary culture of several civilizations for centuries. In Penang cuisine it is often boiled or blended as a drink; in India it used as a sweet; and in Middle Eastern cooking it is used to spice savory dishes. But it was the discovery of the source of nutmeg in Indonesia in 1511 AD by the Portuguese explorer Albuquerque that set off the rush to import the spice to the tables of Europe.

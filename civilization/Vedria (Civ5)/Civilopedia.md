@@ -1,0 +1,3 @@
+# Vedria (Civ5)/Civilopedia
+
+When the old kingdoms weakened, the growing class of academics and inventors saw the opportunity to create a new kind of nation, one that was founded on principles of reason and embraced scientific advancement. They found allies in many of the old monarchists, who were looking for a way to preserve their influence, and together they became Vedria. Their ranks mixed quickly, and before long every prominent leader was expected to be familiar with scientific processes, if not involved in research personally. Vedria is marked by optimism for the future to come, and its citizens believe that the noble pursuit of science is the clear path towards it. Scientists are consulted on matters of state, and given generous for their research.

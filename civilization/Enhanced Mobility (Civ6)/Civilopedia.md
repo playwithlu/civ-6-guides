@@ -1,0 +1,3 @@
+# Enhanced Mobility (Civ6)/Civilopedia
+
+Gunnery Deployment Rig locomotion algorithms (sometimes called "walk cycles") and locomotor feedback systems are constantly undergoing evolution. Early models relied on massively parallel brute-force calculation based on sensor networks embedded in the system, but these turned out to be relatively fragile when confronted with unusual or unexpected terrain changes. More current approaches adopt biomechanical modeling, using synthetic neurons to drive both actuation and feedback.

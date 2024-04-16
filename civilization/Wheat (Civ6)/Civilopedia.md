@@ -1,0 +1,3 @@
+# Wheat (Civ6)/Civilopedia
+
+First cultivated in the Fertile Crescent of the Middle East about 8000 BC, wheat is a remarkably versatile grain; it can be ground into flour, fed to livestock, and made into beer. By 5000 BC, wheat farming had spread far; archaeologists have found evidence of cultivation in China, India and even England. Relatively easy to grow and with relatively large yields, it was perfect for a growing, gluttonous civilization. Though wheat has found itself at the center of dietary controversy again and again, it remains a staple food across the world.

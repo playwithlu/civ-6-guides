@@ -1,0 +1,8 @@
+# Stamford Raffles (Civ6)
+
+Stamford Raffles is a [Great%20Merchant%20%28Civ6%29](Great Merchant) in "[Civilization%20VI](Civilization VI)". He was added in the [Babylon%20Pack%20%28Civ6%29](Babylon Pack).
+Unique ability.
+Absorbs this [City-state%20%28Civ6%29](city-state) into your empire. Grants you +10 per turn in the city.
+Strategy.
+Stamford Raffles is a unique Great Merchant. Here are some things to note about how he works:
+With this in mind, there is a great element of strategy to utilizing Raffles. By the time he arrives, city-states will have their infrastructure built up very strongly (aside from only having one [District%20%28Civ6%29](district)) and a high Population to boot. This, combined with the inherent bonus to Loyalty that Raffles grants the city, can make it great for sniping a cluster of enemy cities with Loyalty if you already have a couple of cities on the other side. He can be used to subsume useless city-states (like [Mogadishu%20%28Civ6%29](Mogadishu) and [Preslav%20%28Civ6%29](Preslav)) near your [Borders%20%28Civ6%29](borders) into your empire, or to deny strong city-states to your opponents if you don't have a diplomatic foothold there. The extra Loyalty can also be meaningful in helping your newly acquired city stand on its own on another [Continent%20%28Civ6%29](continent). Just remember to remove [Amani%20%28Diplomat%29%20%28Civ6%29](Amani) from the city afterward - this isn't done automatically.

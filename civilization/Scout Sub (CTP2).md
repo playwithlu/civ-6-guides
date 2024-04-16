@@ -1,0 +1,7 @@
+# Scout Sub (CTP2)
+
+The Scout Sub is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The Scout Sub relies on speed and stealth to accomplish its mission. It avoids direct conflict with a wide scope of that sees enemy units long before they are aware of it.
+Great Library entry.
+Even though commercial applications of fluid breathing systems were stymied by the unwillingness of regulatory agencies to approve their use, the military found several secret uses for the system. By far the most advanced was the scout submarine. Powered by a small nuclear reactor, it was the first manned craft to deploy with no oxygen systems or pressurized hull of any kind. The two occupants wore deep suits fitted with fluid breathing systems and could explore even the deepest trenches and underwater canyons. The military secretly contracted scout subs for scientific research missions on occasion but, more often than not, utilized its speed and wide vision range for long-range reconnaissance missions. It derived its stealth capabilities from a sonar-absorbing, composite exterior surface and a thermally shielded propulsion system that minimized its heat signature.

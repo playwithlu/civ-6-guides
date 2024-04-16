@@ -1,0 +1,3 @@
+# Opera House (Civ5)/Civilopedia
+
+Opera is a theatrical drama in which the actors sing all their dialog rather than speaking it, differentiating it from other forms of musical dramas. The opera singers are usually accompanied by an orchestra. An opera house is a theatre designed with a stage for the singers, space to seat the orchestra, and acoustics which help project the music to the audience. The Teatro San Cassiano was the first public opera house, opened in Venice, Italy, in 1637. Since that time opera houses have opened across the world - they are almost de rigueur for any city with pretensions of being a center of culture and art.

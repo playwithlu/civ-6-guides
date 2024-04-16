@@ -1,0 +1,2 @@
+# Manco Capac (Civ3)
+

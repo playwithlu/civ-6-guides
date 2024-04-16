@@ -1,0 +1,3 @@
+# Andalusian (Civ6)
+
+The Andalusian people represent Al-Andalus, a non-playable [Civilizations%20%28Civ6%29](civilization) from the [Vikings%2C%20Traders%2C%20and%20Raiders%21%20%28Civ6%29](Vikings, Traders, and Raiders!) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". They are led by [Al-Hakam%20II%20%28Civ6%29](Al-Hakam II), and their [Unique%20ability%20%28Civ6%29](civilization ability) is "Moorish," which allows them to start with the [Alhambra%20%28Civ6%29](Alhambra) [Wonder%20%28Civ6%29](wonder) in Išbiliya.

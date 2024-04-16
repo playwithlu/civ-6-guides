@@ -1,0 +1,3 @@
+# Portage (Civ6)/Civilopedia
+
+The technique of portaging (or "carrying ships overland from one body of water to another") has been around since the first caveman on a raft fetched up against a rock. Obviously, this is easier to do in some places than others—recognizing and establishing a portage was essential when Viking longships were involved. In the 8th and 9th centuries, Viking adventurers exploited a network of portages connecting the Volga, Dvina, Dneiper and Don rivers to establish and enrich the Rus kingdom. (No particular technique or technology was necessary for the act of portaging ... just a strong back.)

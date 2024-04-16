@@ -1,0 +1,4 @@
+# Francis Tresham
+
+Francis Tresham (1936 – October 23, 2019) was a British [board%20game](board game) designer who founded and ran Hartland Trefoil until it was sold to [MicroProse](MicroProse). He and his company are known for creating board games that served as [Sid%20Meier](Sid Meier)'s inspiration for "[Railroad%20Tycoon](Railroad Tycoon)" and other computer games - "[Civilization%20%281980%29](Civilization)", which Hartland Trefoil released in the U.K. in 1980, inspired "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)".
+Tresham is also considered to be the first game designer ever to incorporate a [technology%20tree](technology tree) into his games.

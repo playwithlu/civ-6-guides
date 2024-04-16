@@ -1,0 +1,4 @@
+# Circus Maximus (Civ5)/Civilopedia
+
+A massive stadium located in the heart of Rome, the Circus Maximus was the first, and largest, chariot racing venue in ancient Rome. At the time of its usage, it could hold over a quarter of a million people, over 25% of the city's population. Measuring over 2000 ft in length, twelve full-sized chariots could easily race side by side. Originally used by the Etruscan kings to host their entertainments and festivals, the first Roman Games were held at the racetrack by the fifth Roman King, Tarquinius Priscus. The site was later expanded by Julius Caesar in 50 BC to its current size.
+The last recorded race was held in 549 AD by the Ostrogoth king Totila, and was later abandoned. Now the Circus is a public park, the track covered over in grass. Some of the original structures still remain, namely a few starting gates and medians, but now the Circus is mostly used to host live concerts and meetings on the open green.

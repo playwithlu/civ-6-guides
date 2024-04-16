@@ -1,0 +1,4 @@
+# Fishing (Civ4)/Civilopedia
+
+Man has long relied on the sea to provide sustenance. The most primitive people gathered mollusks and crabs from the sand; eventually they learned to make spears to capture the rich foodstuffs out of reach of hand. The fishing technology allows sophisticated advancements in fishing: building small coastal fishing vessels, weaving and deploying large fishing nets, constructing crab traps, and so forth.
+Fishing is a major industry in the world today, and hundreds of thousands of pounds of fish are taken from the sea every day. However, this has put a serious strain on the ocean's ecology, and continued unfettered fishing may soon overwhelm and destroy this precious resource.

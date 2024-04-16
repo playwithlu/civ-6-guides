@@ -1,0 +1,4 @@
+# Alexandria
+
+Alexandria, also known by its original Egyptian names of Rhacotis or Râ-Kedet, is the [Egyptian](Egyptian) [capital](capital) in some of the "[Civilization%20%28series%29](Civilization)" games, and an Egyptian, [Greek](Greek), and [Macedonian](Macedonian) [city](city) in others and the [Call%20to%20Power%20games]("Call to Power" games). In real life, it is the second largest city in present-day Egypt and home to the [Great%20Library](Great Library) and [Great%20Lighthouse](Great Lighthouse).
+In [scenario](scenario)s, it may appear as an [Abbasid](Abbasid) city in [Middle%20Ages](Middle Ages), an [Allied](Allied) city in [World%20War%20II](World War II), an [Ayyubid](Ayyubid) city in [Into%20the%20Renaissance](Into the Renaissance), and a [Byzantine](Byzantine) city in [Fall%20of%20Rome](Fall of Rome).

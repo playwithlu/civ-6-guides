@@ -1,0 +1,7 @@
+# Great Library (C-evo)
+
+The Great Library is a [Wonder%20%28C-evo%29](Wonder) in the free-to-play game "[C-evo](C-evo)".
+It requires the [Literature%20%28C-evo%29](Literature) [Advance%20%28C-evo%29](advance). Its standard cost is 400 gold. As with all Wonders, the city that has built it gets two free [morale%20%28C-evo%29](morale) points.
+The nation that owns it (unless it is obsolete) "gets each technology that is already known to more than half of the extant nations." That includes the owner, so if you are sharing the world with only two or three other nations you need all of them to have full knowledge of a technology for you to get the technology benefit. With four others, you need three to have it. With five or six others, you need four to have it. With seven or eight others, you need five to have it, and so on. If you have only one rival, you can get no technology benefit.
+The nation does not get immediate use of the technology. It requires completion of research in the the same way as if it had been obtained in exchange or as a result of conquest while the [Temple%20of%20Zeus%20%28C-evo%29](Temple of Zeus) was also owned.
+It is obsoleted as soon as any nation discovers [Plastics%20%28C-evo%29](Plastics) unless the owner has the use of the [Eiffel%20Tower%20%28C-evo%29](Eiffel Tower).

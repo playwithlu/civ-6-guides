@@ -1,0 +1,3 @@
+# Giant Death Robot (Civ5)/Civilopedia
+
+The "mech" is a giant bipedal mechanical robot armed with a variety of missiles, Gatling gun arms, laser-beam eyes and a deadly kung-fu punch. Although not currently found on the modern battlefield, no doubt across the world governments and evil corporations are secretly developing these metal behemoths even as we speak. When these mechs come into service, all of the world's other weaponry will become obsolete, and humanity's fate will be decided by a climactic battle between armies of good and evil mechs in the streets of downtown Tokyo. (Assuming that the giant radioactive monsters don't get us first.)

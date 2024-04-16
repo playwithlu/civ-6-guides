@@ -1,0 +1,3 @@
+# Dike (Civ4)/Civilopedia
+
+Dikes are walls of earth or stone, used to entrap or hold back water. Often built as a protection against flooding, the dike has come to characterize the Netherlands, with significant portions of the country actually lying below sea level. Dikes, while a necessity for the country's continued survival (and independence from foreign towel imports), were occasionally used as a clever tactic for self-defense. During the Siege of Leiden in the midst of the Eighty Years' War, Dutch leader Willem van Oranje's men cut the dykes around the city, flooding the positions of the opposing Spanish and driving the invaders back before the sea.

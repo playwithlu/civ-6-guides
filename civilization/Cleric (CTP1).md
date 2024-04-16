@@ -1,0 +1,10 @@
+# Cleric (CTP1)
+
+The Cleric is a [List%20of%20units%20in%20CTP1](unit) in "".
+Summary.
+For the [Theocracy%20%28government%29%20%28CTP1%29](Theocracy), the Cleric carries the religious word into foreign nations, expanding Theocratic power. For this, Clerics have three special attacks: Clerics may convert [City%20%28CTP1%29](cities), who then send [Gold%20%28currency%29%20%28CTP1%29](gold) back to the Theocracy; sell indulgences to cities, raising [Happiness%20%28CTP1%29](happiness) in return for gold; and soothsay, inciting [Unhappiness%20%28CTP1%29](unhappiness) in the gullible citizens who listen. The Cleric is a [Stealth%20units%20%28CTP1%29](stealth unit), which allows him to slip past borders unnoticed. Exercising each of these abilities costs gold.
+Gameplay.
+With his long, flowing robe and holy glow, the Cleric is not all he appears to be. He'll seduce your people with promises of redemption - maybe even a little flagellation. Not only will he save their souls in the process, he'll also start collecting coffers of gold. Every turn, the flock of followers will tithe hefty sums of gold.
+What's more - they'll also give him their religious devotion - making it very difficult for their political leader to ever attack the now wealthy Cleric or his government. Whoever said salvation was free?
+Great Library entry.
+The expansion of most major religions has depended on conversion. Often, the first believers of a new faith suffered great persecution, and, just as often, once the religion became established the believers persecuted those who did not believe. The earliest Christians suffered persecution and even death throughout the Roman empire. However, by 324 AD Christians had obtained privilege within the empire, including political appointments. With their new-found power, Christians began a steady campaign against non-Christians.

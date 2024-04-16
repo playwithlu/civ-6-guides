@@ -1,0 +1,3 @@
+# Cockpit Armor (Civ6)/Civilopedia
+
+Not long after pilot Louis Quénault and observer Joseph Frantz shot down an enemy plane with a machine gun in aerial combat in October 1914, aircraft engineers started considering how to add armor to protect the most vulnerable part of a fighter plane ... the pilot. Unfortunately, weight was a concern for those wooden and canvas planes; any extra affected a fighter's performance. Nevertheless, the Deutsche Luftstreitkräfte and Royal Air Force saw some value in keeping their pilots alive, so a few planes were retrofitted with lightly armored pilot's seats. By World War II, most fighters had cockpit armor, and shatter-proof canopies, to help deflect all that fire from above and especially below.

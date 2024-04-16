@@ -1,0 +1,6 @@
+# Military Academy (C-evo)
+
+A Military Academy in the free game "[C-evo](C-evo)" is a [State%20Improvement%20%28C-evo%29](State Improvement) that replaces the [Barracks%20%28C-evo%29](Barracks) in one city. Instead of starting life "hardened" (i.e. with two stripes), as they do with a Barracks, [ground%20unit%20%28C-evo%29](ground unit)s built in association with the Military Academy start life "elite", which is the top grade of strength enhancement (200% of the basic strength), indicated by a star where lower-grade units show stripes.
+But there are costs: construction 100 resources (less the 40-gold sale price of the barracks); and whereas barracks maintenance is 1 gold per turn, the Academy costs 4 gold.
+The effect on healing of damaged troops is the same as for barracks: health double each turn until they reach 100%.
+There is no apparent relationship between a Military Academy and the [Academy%20Training%20%28C-evo%29](Academy Training) [Unit%20Advance%20%28C-evo%29](Unit Advance) (available with [Sun%20Tzu%27s%20War%20Academy%20%28C-evo%29](Sun Tzu's War Academy)).

@@ -1,0 +1,3 @@
+# Exploration (technology) (Civ5)/Civilopedia
+
+The Renaissance Age of Exploration was initiated by the Portuguese under the leadership of Henry the Navigator. Relying on the Caravel, the Portuguese pushed south down the west coast of Africa, eventually rounding the Cape of Good Hope into the Indian Ocean. By Christopher Columbus' voyage of 1492, the focus had changed to finding a western route to the riches of China and the Indies. Spain would take the lead for the next half century, achieving the first circumnavigation of the globe (in a voyage led -- but not survived -- by Ferdinand Magellan) and the conquest of many of the native civilizations of the Americas.

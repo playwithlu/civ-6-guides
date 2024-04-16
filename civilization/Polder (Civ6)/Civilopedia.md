@@ -1,0 +1,4 @@
+# Polder (Civ6)/Civilopedia
+
+Most see the shoreline as an end. For the Dutch, the coastline was a challenge and an opportunity. The Netherlands spent 800 years reclaiming a country from the sea, using dikes, canals, levees, and pumps. Polders are the low-lying bits of land revealed when the water recedes.
+The Dutch constantly maintained their polders to prevent the sea from reclaiming the land. Over the centuries, they mastered the art of keeping water out and reversing the effects of erosion. Today, more than a quarter of the Netherlands remains below sea level, leaving the country in a continuous game of tug-of-war with the North Sea.

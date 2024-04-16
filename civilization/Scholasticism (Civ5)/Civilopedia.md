@@ -1,0 +1,3 @@
+# Scholasticism (Civ5)/Civilopedia
+
+Scholasticism is a style of teaching employed in medieval European universities from around 1000-1500 AD. The method emphasized critical reasoning and debate. The teacher would choose a book for study, and then he and the students would debate the meaning of the book, examine other books on the same topic, examine any criticism of the work, and so forth, by so doing gaining a fuller understanding of the topic than might be gained by rote memorization. The movement was largely fueled by the rediscovery of the works of Greek philosophers and subsequent attempts to integrate them with Christianity.

@@ -1,0 +1,7 @@
+# Suffrage (Civ6)
+
+Suffrage is a [Modern%20Era%20%28Civ6%29](Modern Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by building 4 [Sewer%20%28Civ6%29](Sewers).
+Strategy.
+The idea of extending the right to vote to more people than just the wealthy males is the basis of the first type of modern ideology, represented by its respective [Government%20%28Civ6%29](government): [Democracy%20%28Civ6%29](Democracy). This is by no means a new notion, of course; there are many examples of primitive republics where many citizens had the right to vote, and thus decide their own country's future. But during the Middle Ages such governments became extinct in most great empires, for various reasons.
+In modern days instantaneous communications and the mass media allow people from all corners of an empire to be current on political events. This means that the old excuse - "You don't know what you're voting about" - becomes void. And the modern democracy is born.
+Besides unlocking the government itself, this civic renders many Economic policies (primarily related to commerce) [obsolete](obsolete). It replaces them with modern ones - not only Economic, but also Diplomatic and Military - which are in all cases very powerful.

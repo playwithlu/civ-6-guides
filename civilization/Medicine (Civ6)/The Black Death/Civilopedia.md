@@ -1,0 +1,3 @@
+# Medicine (Civ6)/The Black Death/Civilopedia
+
+Medicine is the practical art of balancing the humors of the body—blood, phlegm, black bile, and yellow bile—as laid out in Hippocrates. It may include the study of astrology (as the heavenly bodies influence these humors) and the four primary elements: Fire, earth, air, and water. It is a suitable course of study for those persons incapable of full appreciation of the sublime disciplines like logic and theology.

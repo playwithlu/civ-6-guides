@@ -1,0 +1,3 @@
+# Commerce Theory (Civ4)/Final Frontier/Civilopedia
+
+Perhaps in backlash to the economically-disinclined growth of Green Economic theory, Commerce Theory sprung up on many worlds, emphasizing the development and usage of capital as the primary impetus of human progress. Spaceports became the new "laboratories" of Commerce Theory, pushing the boundaries of all previous economic thought. Many fortunes were created in this period, but one of the most concrete projects borne of Commerce Theory's deep pockets was the refinement of the class Planetary Defense Ship, with the purpose of protecting the investments of the rapidly growing commercial class.

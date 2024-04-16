@@ -1,0 +1,3 @@
+# Meritocracy (Civ6)/Civilopedia
+
+Plato, among others, advocated meritocracy as the most sensible form of public administration … in his case that rulers should be philosopher-kings whose right to rule came from their intellect and insight. Simply put, a meritocracy is a system in which the most talented and worthy gain advancement in the government bureaucracy, rather than, say, those who are close personal friends of the current ruler (or congressman), or those from a certain tribe or caste or religion. Most civilizations swing back and forth between some form of meritocracy and some less sensible method of choosing those who run things. This pattern repeats itself until the sun explodes and all life is wiped off of the face of the planet.

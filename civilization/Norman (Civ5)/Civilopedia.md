@@ -1,0 +1,3 @@
+# Norman (Civ5)/Civilopedia
+
+The Duchy of Normandy, formed in the region of France known as Rouen, was originally colonized by the Vikings of Scandinavia in the late 9th century AD. Formally created by the signing of the Treaty of Saint-Clair-sur-Epte in 911, King Charles III of France would concede the territory to the Viking leader Rollo, creating the foundations of what came to be known as Normandy. William the Conqueror, the Duke of Normandy, would serve as its most famous leader, capturing the throne of England in 1066.

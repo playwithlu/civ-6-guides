@@ -1,0 +1,5 @@
+# Laissez-Faire (Civ6)
+
+Laissez-Faire is a Wildcard [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+With Laissez-Faire, [Traveling%20Merchants%20%28Civ6%29](Traveling Merchants) becomes [obsolete](obsolete) and the number of points you can earn from a single policy in one turn doubles. It's good for attracting [Sarah%20Breedlove%20%28Civ6%29](Sarah Breedlove) and [Melitta%20Bentz%20%28Civ6%29](Melitta Bentz) (both of whom increase the output of your international s), as well as three of the four [Great%20Merchant%20%28Civ6%29](Great Merchants) who provide unique [Resource%20%28Civ6%29%23Luxury](luxury resources): [Helena%20Rubinstein%20%28Civ6%29](Helena Rubinstein), [Levi%20Strauss%20%28Civ6%29](Levi Strauss), and [Est%C3%A9e%20Lauder%20%28Civ6%29](Estée Lauder). In "", Laissez-Faire's ability to quickly accumulate points is enhanced further, and large bonuses to points for [Harbor%20%28Civ6%29](Harbor) [Building%20%28Civ6%29](buildings) are added on as well, solidifying this policy's economic value.

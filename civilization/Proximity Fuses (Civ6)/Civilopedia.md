@@ -1,0 +1,3 @@
+# Proximity Fuses (Civ6)/Civilopedia
+
+Some 2800 kamikaze planes sank 34 Allied warships and damaged 368 others during the final, desperate days of the Pacific war ... thus about 14 percent of kamikaze pilots got through to score a hit. Given this, little wonder that naval gunners developed their own methods of dealing with diving kamikazes. While light, rapid-fire AA guns such as the Bofors and Oerlikon autocannons could, and did, throw up a lot of metal in the path of the oncoming plane, it was fire of the heavier AA (such as the 38-caliber) that had the punch to knock one out of the sky if they could hit it. But in early 1945, radio frequency proximity fuses – seven times more effective than previous ones – finally became available and turned the tide.

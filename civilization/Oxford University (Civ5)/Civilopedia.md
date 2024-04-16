@@ -1,0 +1,3 @@
+# Oxford University (Civ5)/Civilopedia
+
+Oxford University is the oldest university in [English%20%28Civ5%29](England), and in all of the English-speaking world. Founded sometime late in the 11th century, Oxford has been in continuous operation ever since. Famous Oxford graduates include Roger Bacon, William of Ockham, Sir Walter Raleigh, John Donne, Jonathan Swift, Dr. Samuel Johnson, Oscar Wilde, Sir Richard Burton, and J.R.R. Tolkien.

@@ -1,0 +1,6 @@
+# Coastal Fortress (Civ2)
+
+ A Coastal Fortress is a [List%20of%20buildings%20in%20Civ2](building) in "[Civilization%20II](Civilization II)" that grants defending units a 2x bonus vs naval attacks.
+Like Harbor, Offshore Platform and Port Facility, this improvement cannot be built unless the city is adjacent to at least one ocean tile.  A city that is not adjacent to an ocean tile, but includes ocean tiles in its radius, cannot build any of the littoral improvements.
+Civilopedia entry.
+The construction of defensive structures such as city walls and fortified castles dates back to ancient times. City walls were designed primarily to repel an attack launched by ground-based forces, and they performed adequately in such a situation. However, coastal cities were also vulnerable to attack from sea bombardments, since even a city wall left sea ports relatively unprotected. The best way to protect the port was to keep the enemy out of range of the city. This was accomplished by constructing fortresses to cover the approach to the city. These coastal fortresses, built at the mouth of the city's harbor or on barrier islands, would hold enemy vessels at bay, turning away or thinning out the attacking force and minimizing damage to the city's port.

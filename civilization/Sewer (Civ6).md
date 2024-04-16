@@ -1,0 +1,5 @@
+# Sewer (Civ6)
+
+The Sewer is an advanced infrastructure [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the [City%20Center%20%28Civ6%29](City Center).
+Strategy.
+The Sewer is a modern way to sustain a bigger Population in a [City%20%28Civ6%29](city). It comes at a moment when most old cities in an empire have reached or exceeded their cap, and their growth has been severely crippled. The other late game tool - the [Neighborhood%20%28Civ6%29](Neighborhood) - is a [District%20%28Civ6%29](district), and as such takes up space around the city, whereas the Sewer doesn't. However, the Neighborhood is superior in some respects, in that it provides minor [Adjacency%20bonus%20%28Civ6%29](adjacency bonuses) to other districts and allows the construction of a [Shopping%20Mall%20%28Civ6%29](Shopping Mall) or [Food%20Market%20%28Civ6%29](Food Market) in the expansions, while the Sewer does neither.

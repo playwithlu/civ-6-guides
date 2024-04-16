@@ -1,0 +1,9 @@
+# Hospital (Civ5)
+
+Game Info.
+Advanced growth-enhancing building of the Industrial Era. Requires [Aqueduct%20%28Civ5%29](Aqueduct).
+Strategy.
+The Hospital is vital for continued growth of the in already big [City%20%28Civ5%29](cities). Even with all the advancements in contemporary farming, further means are necessary to make really big cities. The Hospital comes along, directly bumping production in the city.
+The use of a Hospital can vary based on your empire, and also when the city was built. In a wide empire, you usually settle on highly productive lands; building a Hospital allows you to work one [Mine%20%28Civ5%29](Mine) instead of a [Farm%20%28Civ5%29](Farm) for bonus while still slightly aiding growth (which is useful for a city whose you intend to keep small, as it allows higher with fewer s).
+In a tall empire, the Hospital can support 5 s, provided you have taken the [Civil%20Society%20%28Civ5%29](Civil Society) tenet in Freedom. This allows you to replace two Farms with [Trading%20Post%20%28Civ5%29](Trading Posts) if you can already support all the s, which gives you more than the maintenance cost of a Hospital, a small boost to growth and a small bonus to as well.
+Finally, if you have the finances to do so, you can buy a Hospital to grow a newly settled city tall very quickly. However, if the city is [Coastal%20%28Civ5%29](coastal), an internal [Trade%20route%20%28Civ5%29](trade route) can do that much more effectively. Still, if you're at your trade route limit, want super growth or expect the city to employ lots of s, the Hospital provides a more permanent solution.

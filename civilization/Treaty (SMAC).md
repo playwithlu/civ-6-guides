@@ -1,0 +1,2 @@
+# Treaty (SMAC)
+

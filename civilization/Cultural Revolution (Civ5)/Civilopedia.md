@@ -1,0 +1,3 @@
+# Cultural Revolution (Civ5)/Civilopedia
+
+The Great Proletarian Cultural Revolution was a social movement conducted from 1966 through 1976 in the People's Republic of China. Begun by Mao Zedong and the Communist Party, the Cultural Revolution sought to re-educate the common people by removing or repressing capitalist, traditional and religious elements, through arrests and violence if necessary. The cultural struggle spread through all levels of society, students, the military, the party and urban workers, delaying China's reemergence in world affairs for decades.

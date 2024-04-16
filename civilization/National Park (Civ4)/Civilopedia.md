@@ -1,0 +1,3 @@
+# National Park (Civ4)/Civilopedia
+
+While areas of great natural beauty had often been protected or revered in the past, the modern conception of a National Park did not appear until 1872. Yellowstone National Park, located in the western United States, departed from previous nature preserves - which tended to be set aside for nobility - by opening up the land for the enjoyment of the public. After the creation of Yellowstone, National Parks began popping up throughout the world.

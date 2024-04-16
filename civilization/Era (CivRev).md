@@ -1,0 +1,5 @@
+# Era (CivRev)
+
+An era is a period of time in "[Civilization%20Revolution](Civilization Revolution)". There are four of them in the game: the [Ancient%20Era%20%28CivRev%29](Ancient Era), the [Medieval%20Era%20%28CivRev%29](Medieval Era), the [Industrial%20Era%20%28CivRev%29](Industrial Era), and the [Modern%20Era%20%28CivRev%29](Modern Era). Each era has its respective [List%20of%20units%20in%20CivRev](units), [Building%20%28CivRev%29](buildings), and [List%20of%20technologies%20in%20CivRev](technologies). Your [City%20%28CivRev%29](cities) and buildings may also change in appearance when you advance to the next era.
+A new era is unlocked once a [List%20of%20civilizations%20in%20CivRev](civilization) has researched sufficient technologies. A civ must acquire 5 techs to advance to the Medieval Era, 14 techs to advance to the Industrial Era, and 24 techs to advance to the Modern Era.
+Each civilization has a different [Bonus%20%28CivRev%29](bonus) for each era, which activates when that era is reached.

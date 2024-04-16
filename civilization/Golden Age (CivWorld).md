@@ -1,0 +1,3 @@
+# Golden Age (CivWorld)
+
+ is a [Wonder%20%28CivWorld%29%23List%20of%20Wonder%20Events](Wonder Event) in "[CivWorld](CivWorld)". It increases the Gold reserves of every member of the [Civilizations%20%28CivWorld%29](Civilization) by 50%, up to a maximum proportional to the [Era%20%28CivWorld%29](Era's) [Victory%20%28CivWorld%29](Economic Victory) total and inversely proportional to the player's Civ size. (The [Civilopedia](Civilopedia) will always display the exact cap.)

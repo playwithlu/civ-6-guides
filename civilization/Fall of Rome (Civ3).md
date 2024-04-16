@@ -1,0 +1,17 @@
+# Fall of Rome (Civ3)
+
+ is a [List%20of%20scenarios%20in%20Civ3](scenario) in "".
+Description.
+Emperor Constantine has divided the Roman Empire into two. The Western half, with its capital at Rome, is beset with barbarians on all borders. The Eastern portion of the Empire, hard at work building their new capital of Constantinople, faces danger as well, from both barbarians and the strengthening Sassanid Persians. How long can the once great empire survive? Corruption is rampant already, and if either half of the empire loses 8 cities, it will surely collapse.
+Intro.
+Background.
+It is the year 324 AD. The Roman culture has dominated the Mediterranean for the last 500 years; their vast empire spans from Britain in the northwest to Egypt in the southeast. But even the glories of Rome are starting to fade. Corruption is rampant throughout the empire, and the great Constantine was forced to split the empire into eastern and western jurisdictions. No single man can effectively rule such a vast realm. Constantine's new capital is growing quickly and may soon rival Rome in splendor. Also, a new power now rises in the east. The nomadic Huns have arrived on the plains of Eastern Europe and are moving west. Their actions will force the numerous Germanic barbarians to press the Romans for space. A confrontation with mighty Rome is surely brewing! Through shrewd diplomacy, you should recruit several other barbarians to your cause. When engaging Rome, keep in mind that any power that loses 8 cities to the enemy will crumple completely. 
+Special.
+The tech tree for this scenario contains a separate Barbarism path that the Roman powers and the civilized kingdom of Sassanid Persia will not pursue. Along this path the barbarian powers can improve their prowess in sacking and pillaging, even creating Pillagers and Warlords who have the power to enslave defeated enemies.
+Victory.
+Points are scored throughout the game using the standard VP awards. VP locations can be found scattered throughout the Roman empire, with 10 locations in the hands of Western Rome and another 10 in the east. The heaviest concentration of these sites is in Northern Italy. Bring each half of the Roman empire to its knees as quickly as possible so that you have enough time to control these sites and overtake the early Roman lead.
+Gameplay.
+There are eight playable in this scenario: the [Celtic%20%28Civ3%29](Celts), the s, the s, the s, the s, the s, the s, and the s. [Western%20Roman%20%28Civ3%29](Western Rome) and [Eastern%20Roman%20%28Civ3%29](Eastern Rome) are also present, but non-playable. The [List%20of%20advances%20in%20Civ3](tech tree) includes a [Barbarism](Barbarism) path that features five unique advances (, , , , and ) and is available to all playable civilizations except the Sassanids.
+In the multiplayer version of the scenario the Anglo-Saxons and the Ostrogoths are removed.
+At the beginning of the scenario, Western Rome and Eastern Rome each control 10 [VP](VP) locations. The goal of the other civilizations is to capture and hold as many of their [City%20%28Civ3%29](cities) as possible. If either Western Rome or Eastern Rome loses eight cities, they are immediately eliminated.
+The scenario lasts for 150 [turn](turn)s, at which point the player with the most Victory Points wins.

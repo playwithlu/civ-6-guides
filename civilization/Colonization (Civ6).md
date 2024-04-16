@@ -1,0 +1,5 @@
+# Colonization (Civ6)
+
+Colonization is an Economic [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Given the relatively high cost of [Settler%20%28Civ6%29](Settlers), this Policy is very useful to cut down production time during your initial expansion period. As with other specific -boosters, it's nice for churning out several Settlers one after another, but remember that there is the small detail of the Population of the source [City%20%28Civ6%29](city) diminishing by 1 for every Settler produced (or purchased)! Unless [Magnus%20%28Steward%29%20%28Civ6%29](Magnus) has the [Provision%20%28Civ6%29](Provision) title and is assigned to one of your cities as a [Governor%20%28Civ6%29](Governor), you should consider adopting Colonization only from time to time and producing one Settler at a time so as not to cripple your source city too much.

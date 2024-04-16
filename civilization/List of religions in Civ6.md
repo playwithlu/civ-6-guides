@@ -1,0 +1,6 @@
+# List of religions in Civ6
+
+There are twelve default [Religion%20%28Civ6%29](religions) in the game, and some leaders have a preferred religion that the [AI](AI) will choose if possible:
+Custom Religions.
+In addition to the above, there are also default icons for "custom religions" for which a player will be asked to type in a name. AI leaders will never found a custom religion; if they have no preferred religion or theirs is already taken, they will randomly choose from one of the default religions.
+All icons of the religions of the game appear to have little stars along the outlines of these icons. Images on this site have been photoshopped for ease of viewing. Six of these icons represent [https%3A//en.wikipedia.org/wiki/Zodiac](Western Zodiac) signs [https%3A//en.wikipedia.org/wiki/Cancer_%28astrology%29](Cancer), [https%3A//en.wikipedia.org/wiki/Taurus_%28astrology%29](Taurus), [https%3A//en.wikipedia.org/wiki/Leo_%28astrology%29](Leo), [https%3A//en.wikipedia.org/wiki/Pisces_%28astrology%29](Pisces), [https%3A//en.wikipedia.org/wiki/Scorpio_%28astrology%29](Scorpio), and [https%3A//en.wikipedia.org/wiki/Aquarius_%28astrology%29](Aquarius).

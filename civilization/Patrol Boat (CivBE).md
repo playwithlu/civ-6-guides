@@ -1,0 +1,18 @@
+# Patrol Boat (CivBE)
+
+Game info.
+Patrol Boats are the basic frontline and hunter-killer of the seas. It is armed with close-range cannons early on that advance into lasers and broadside energy launchers. While powerful in one-on-one combat, it suffers from being flanked if not supported with a few [Gunboat%20%28CivBE%29](Gunboats) or other ranged support. Overall, this new unit has changed the tides of the battles that rage upon Planet.
+Upgrades.
+Upgrades (Rising Tide).
+Tier 1 &amp; Tier 2 (Non Affinity).
+Patrol Boats take on an Old Earth appearance, boasting grey and red paint with cannons, very much like modern technology. Cutters similarly appear like a small battleship, although oddly it sports cannons on either side, like that of a [Frigate](Frigate). It can receive early-game perks that let it excel in clearing Alien Nests and attacking other sponsors. They have the same affinity requirements than that of Soldiers, their land counterpart.
+Tier 3 (Primary Affinity).
+At Tier 3, sponsors are beginning to adapt their military to that of their affinity and the Patrol Boat is no exception. Depending on your primary affinity, the appearance and choice of perks are presented to you which change the way Patrol Boats are used. Screamers can be used to raid coastal or aquatic cities, Broadsides can form defensive clusters to prevent you from other Patrol Boat attacks while Tenets function akin to naval [Combat%20Rover%20%28CivBE%29](Combat Rovers) that depending on which Tier 2 upgrade has been chosen can be used in formations to defeat other melee naval units (including aquatic aliens) or launch disruptive close ranged attacks versus the Ranged Gunboats or even [Submarine%20%28CivBE%29](Submarines).
+Tier 4 (Final &amp; Hybrid Affinities).
+In Tier 4, players may continue following a single Affinity or could invest in hybrid units that are typically more versatile.
+Primary affinity units (Tier 4).
+Primary affinity units have access to more powerful perks than Hybrid unit due to the sponsor's continued focus on their affinity. Although this is present in Soldiers and Rangers, the Cannonade fails to have a relatively unique Perk so they are considered the weaker of the three primary affinity Patrol Boats. This could be due to Purity's combat strategy as being primarily long-ranged, immobile units and agile Patrol Boats may not suit this strategy. On the other side, Edicts show their Supremacy spirit by strengthening around friendly units or by revealing stealth units such as Submarines at extended range and Reavers cut through the battleground by ignoring Zone of Control. As usual, these units are typically slower to acquire than hybrid units due to their high affinity requirement.
+a: March means the unit heals 10HP per turn, even if they have attacked. This is a borrowed promotion from Civilization V.
+Hybrid Units (Tier 4).
+Hybrid units blend elements from the primary affinities and do not focus on a specific one. This means that they receive rather generic but still useful perk choices. The Vortex can assist in detecting stealth units that could defeat their hunter-killer strategy and the Argo is in line with their rapid regenerative ability themes. Their main bonus is that they can be acquired earlier than primary Affinity units due to their low Affinity requirements, so they can be used to overwhelm a sponsor that is focusing one affinity.
+a: March means the unit heals 10HP per turn, even if they have declared an attack. This is a borrowed promotion from Civilization V.

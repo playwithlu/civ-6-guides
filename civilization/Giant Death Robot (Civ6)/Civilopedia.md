@@ -1,0 +1,4 @@
+# Giant Death Robot (Civ6)/Civilopedia
+
+Almost no one calls them Gunnery Deployment Rigs, because pop culture anticipated the rise of the bipedal combat platform for more than fifty years prior to the first operational deployment of a GDR, and has given them dozens of evocative names: Mechs, walkers, Giant Death Robots, and so forth. There is something psychologically affecting about seeing one stride across the landscape—reassuring for friendly forces, and terrifying for enemies. There is a certain purity to the GDR, a recapitulation of the human form, as well as an improvement on it.
+The GDR is not a stealthy weapon, but it is an effective one. The use of a roughly-human anatomy allows pilots a more intuitive grasp of the weapon and defensive systems, and allows motion feedback systems to tap into human locomotion to assist. Indeed, some people regard the locomotion controls of the GDR to be the most impressive advancement in the entire system.

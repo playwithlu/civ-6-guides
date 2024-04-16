@@ -1,0 +1,4 @@
+# Album Cover Art (Civ6)/Civilopedia
+
+The “album” is a collection of “music” by the rock band. Each album is given an iconographic image which stands as a visual synecdoche for the entire work and is placed on the cover of the album. At one point, album cover art was large and easy to view, but with the virtual extinction of the LP the cover art has shrunk for the compact disc and eventually the streaming service. If the “music” is “good” on an album, then often the album cover art would achieve something of an iconic stature with the kind of people who like to listen to rock music.
+No album cover art has ever graced the walls of any self-respecting museum.

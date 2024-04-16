@@ -1,0 +1,4 @@
+# Companion Cavalry (Civ5)/Civilopedia
+
+The "hetairoi", or "companion cavalry," were elite horsemen who accompanied [Alexander%20%28Civ5%29](Alexander the Great) into battle. The term "hetairoi" derives from the name of the Macedonian aristocracy, and the companion cavalry came from only the best Macedonian families (though later this was expanded to include the nobility of allied and subject peoples). Each cavalryman carried a "xyston" (thrusting spear) and "kopis" (curved sword), and wore a bronze cuirass, shoulder pads, and helmet.
+In battle, Alexander usually held back the companions until the enemy was fully engaged with his phalanx units. Alexander himself would then lead his companions against the enemy's flank or rear, sowing confusion and dismay in the enemy army. The opposing forces never found a satisfactory answer to this combination, and with it Alexander conquered most of the known world.

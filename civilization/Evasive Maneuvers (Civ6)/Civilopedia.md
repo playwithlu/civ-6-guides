@@ -1,0 +1,3 @@
+# Evasive Maneuvers (Civ6)/Civilopedia
+
+Bombers – especially four-engine ones – aren't very maneuverable, and tended to trust to the formation's massed firepower when attacked by enemy interceptors. So, usually straight and steady was the best defense, and it gave the plane's gunners at least some chance of hitting their targets. But, upon (desperate) occasion they would engage in aerial hijinks. Lone bombers would try air-braking or the corkscrew (a series of steep diving and climbing turns) when attacked. Against ground fire, these might work, but most bomber pilots preferred to jink to throw off the aim of the AA gunners below. In general, however, none of these worked very well; bombers were still big, lumbering targets.

@@ -1,0 +1,3 @@
+# Pacal's Laws (Civ3)/Civilopedia
+
+Pacal, meaning “Shield,” became ruler of the Mayan city of Palenque in 615 AD, when he was only 12 years old. He was a man of enormous power and his influence lived beyond his death in 682 AD. Through warfare, political maneuvering, and marriage, Pacal extended his control and made Palenque one of the most important cultural centers of the Mayan civilization. The grand Temple of the Inscriptions, one of Mesoamerica’s finest structures, holds Pacal’s tomb.

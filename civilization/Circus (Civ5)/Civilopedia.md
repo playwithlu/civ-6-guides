@@ -1,0 +1,3 @@
+# Circus (Civ5)/Civilopedia
+
+A circus is a company of performers that often includes clowns, acrobats, jugglers, high-wire acts, trapeze artists, musicians, and animal trainers. Most circuses are traveling companies which move from city to city over the course of a season, while some remain in a single location year-round. In ancient Rome the circus was the name of a building where chariot racing, staged battles, jugglers, and other entertainments were held. The first Roman circus was the Circus Maximus, which at its largest could seat some 250,000 screaming citizens - roughly 25% of the city's population.

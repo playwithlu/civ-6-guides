@@ -1,0 +1,3 @@
+# Machine Gun (Civ5)/Civilopedia
+
+Machine Gun crews make use of powerful, fully-automatic firearms capable of laying down heavy suppression fire, typically at a rate of several hundred rounds per minute. The Gatling gun, predecessor to many modern machine gun designs, was first developed during the 19th century in the United States. This concept later evolved into the Maxim gun, the first of many self-powered machine guns.

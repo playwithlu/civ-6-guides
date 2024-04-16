@@ -1,0 +1,3 @@
+# Contractor (Civ6)/Civilopedia
+
+Governments often issue contracts to the public sector to handle matters, in the hopes that the public sector can handle the details efficiently and cost-effectively. This process has inevitably led to the specialization of public servants who can draft and oversee these contracts, bother the contractors for updates, and file endless status reports about how the contracts are playing out.

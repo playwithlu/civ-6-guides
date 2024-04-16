@@ -1,0 +1,7 @@
+# Corporation (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The development of Corporations gave rise to a fundamental change in the role and power of business entities. As the power of corporations expands, they begin to have more rights and legal protections than individuals do. The is the active unit of the corporate world, establishing and in across the world. The is one of the first corporate monuments to be co-opted as a national symbol.
+Great Library entry.
+The modern, private business corporation gradually formed out of a fusion of the joint-stock company and the medieval form of a corporation in the 19th century. This fusion took place in Great Britain, the United States, France and Germany with laws that made incorporation more or less standard for business entities. This development took flight particularly in the United States, because its Constitution delegated the powers of incorporation to the individual states. This prompted a competition in the late 19th century amongst states to liberalize their incorporation laws, since free interstate commerce, guaranteed by the Constitution, allowed would-be incorporators to choose the state in which they wished to incorporate without infringing on their freedom to transact business in any other state. The 20th century saw the emergence of private corporations as major political, social and economic forces.

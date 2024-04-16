@@ -1,0 +1,4 @@
+# Bunker (Civ4)/Civilopedia
+
+The term "bunker" is often used to denote military bomb shelters, often those housing high officials of the military and government. As shown in the second United States-Iraq War, a country with air dominance over a foe can do significant amounts of damage to a city with just a few bombs. Military and political leaders are prime targets for such attacks; often these officials will be protected in bunkers far below city streets. Bunkers are also used to protect communications networks, another important target. 
+Any improvement in defense usually sparks an improvement in offensive weapons. The United States is building special "bunker-buster" bombs, designed to burrow deep into the ground before exploding. While such bombs may not destroy the deepest bunkers, they can cut off their communications, escape routes and air supply.

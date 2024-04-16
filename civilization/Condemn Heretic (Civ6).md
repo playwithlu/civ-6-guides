@@ -1,0 +1,2 @@
+# Condemn Heretic (Civ6)
+

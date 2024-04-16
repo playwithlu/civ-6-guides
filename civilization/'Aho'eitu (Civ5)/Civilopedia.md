@@ -1,0 +1,5 @@
+# 'Aho'eitu (Civ5)/Civilopedia
+
+'Aho'eitu was the oldest son of Ilaheva Va'epopua, daughter of Niu, and Tangaloa Eitumatupua, a god of the sky. 'Aho'eitu had four older half-brothers, who were jealous of him because he was so handsome. The brothers cut off 'Aho'eitu's head in secret and hid it under a poisonous hoi bush. Then they roasted and ate 'Aho'eitu.
+Later Tangaloa Eitumatupua came down from the sky and asked the four brothers what had become of 'Aho'eitu. The brothers were ashamed and repented, and asked to have 'Aho'eitu restored. Tangaloa Eitumatupua had the brothers regurgitate into a large bowl, then covered the bowl with a mat. Through magic, 'Aho'eitu was restored to life.
+The four brothers of 'Aho'eitu were punished by Tangaloa Eitumatupua. They and their descendants were made to serve 'Aho'eitu on the island of Tonga, and that is how 'Aho'eitu became the first Tu'i Tonga.

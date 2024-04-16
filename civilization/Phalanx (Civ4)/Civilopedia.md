@@ -1,0 +1,3 @@
+# Phalanx (Civ4)/Civilopedia
+
+Phalanxes were well-trained citizen-soldiers of ancient Greece. Armed with spears and durable armor, they fulfilled the heavy infantry role in most engagements. Phalanxes are tightly packed groupings of eight or sixteen rows of soldiers, who move and attack in unison, scattering less densely organized enemy forces. Phalanxes worked well against the forces of the day, but broke down when facing more mobile and well-trained professional soldiers. The Roman legions victory over the Macedonian phalanx at Pydna in 168 BC effectively ended the phalanx's battlefield usefulness.

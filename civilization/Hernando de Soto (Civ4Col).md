@@ -1,0 +1,5 @@
+# Hernando de Soto (Civ4Col)
+
+Hernando de Soto.
+ Lived: 1496-1542
+Hernando de Soto was a Spanish conquistador and explorer of the interior of North America. De Soto had previously accompanied Francisco Pizarro on his conquest of the Incan people and returned to Spain a rich man, easing himself into a comfortable life. Yet when word came from the New World that there was an unexplored land as rich as the Andes, the call for de Soto was too great and he began to plan his journey to La Florida. With over 1000 men, de Soto returned to the New World, and began a journey into the interior of the North America, assured that fortune lay before him. Unfortunately, fortune was nowhere to be found. Instead, hunger, bloodshed and sickness struck the expedition. In northern Alabama, de Soto's expedition ran afoul of the Choctaw, and while the Europeans emerged victorious, their party's resources were greatly depleted. De Soto himself succumbed to a fever on the banks of the Mississippi in 1542, never having found his new fortune.

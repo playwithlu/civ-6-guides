@@ -1,0 +1,3 @@
+# Default (Civ4)/Final Frontier/Civilopedia
+
+The Classical or Free Market Labor Force is an application of the ancient policies of theorist Adam Smith. While allowing employers to select their employees and employees to solicit a number of employers for positions was once considered acceptable labor practice, most advanced principalities have now done away with the process and its inherent inefficiencies and waste. Free from all government interference, the Classical Labor force carries with it neither bonuses nor penalties.

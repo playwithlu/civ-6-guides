@@ -1,0 +1,3 @@
+# Cusco
+
+Cusco, also known as Cuzco or Qusqu, is the [Incan](Incan) [capital](capital) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and elsewhere. Founded around 1100 AD, it was originally the capital of the . In the 13th century, it became the capital of the Incan Empire and retained this status until its conquest by the [Spanish](Spanish) in 1532.

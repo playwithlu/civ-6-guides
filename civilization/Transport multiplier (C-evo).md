@@ -1,0 +1,5 @@
+# Transport multiplier (C-evo)
+
+A "transport multiplier" in the free game [C-evo](C-evo) is simply the number of [Air%20unit%20%28C-evo%29](air unit)s that can be carried in one module on a [Carrier%20%28C-evo%29](Carrier) or the number of [Ground%20unit%20%28C-evo%29](ground unit)s that can be carried in one module on an air unit or a [Naval%20unit%20%28C-evo%29](naval unit).
+Initially each is set at 2, from the discovery of [Combined%20Arms%20%28C-evo%29](Combined Arms) for air transport, and from the discovery of [Map%20Making%20%28C-evo%29](Map Making) for unit transport on naval units. Later [Advance%20%28C-evo%29](advances) make some increases.
+In all cases, there is no numerical limit on the number of transport modules, but each module takes up part of the [Weight%20%28C-evo%29](weight) quota.

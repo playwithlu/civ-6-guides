@@ -1,0 +1,3 @@
+# Hubble Space Telescope (Civ5)/Civilopedia
+
+Named for renowned American astronomer Edwin Hubble, the Hubble Space Telescope has proven to be among the most crucial astronomical research tools ever developed. Launched in 1990, the telescope has continually provided breathtaking images of far-off constellations and nebulas, attracting widespread attention from both scientists and the general public. As the only space telescope capable of being repaired by astronauts, the service life of the Hubble has been continually extended through a series of space walks. However, despite its notable legacy, the Hubble Space Telescope will be replaced in 2018 by the more advanced James Webb Space Telescope.

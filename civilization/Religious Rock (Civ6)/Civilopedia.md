@@ -1,0 +1,3 @@
+# Religious Rock (Civ6)/Civilopedia
+
+Heterodox practitioners of some faiths believe the best way to gain converts is to adopt some of the forms of modern culture. This has led to the folly that religious truths can be conveyed meaningfully through rock music, with an attempt to gain adherents through this course. It is a testament to the forbearance of the gods that they do not smite the religious rock band dead.

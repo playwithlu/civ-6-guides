@@ -1,0 +1,3 @@
+# Combat
+
+Combat or battle is a regrettable but necessary part of most strategy games. The attacker's [Strength](attack strength) and the defender's [Defense](defensive strength) are major factors in the outcome. In most games, the raw strengths can be increased by "[veteran](veteran)" status or similar [experience](experience)-based enhancements, and defenders may in addition have a [terrain](terrain) bonus, making them stronger in [forest](forest) or hilly ground, for example.

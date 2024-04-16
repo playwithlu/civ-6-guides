@@ -1,0 +1,4 @@
+# Horseback Riding (Civ5)
+
+Game Info.
+With riding techniques, large animals that were previously used only for food or work can also be used as a means of transportation. A human being sitting directly on a horse's back is the first and most immediate application of this technique, and provides the basis for development of a mounted soldier. The Horseback Riding technology allows you to train the first real cavalry unit in the game - the [Horseman%20%28Civ5%29](Horseman) - and to build a [Stable%20%28Civ5%29](Stable), enhancing your [Pasture%20%28Civ5%29](Pastures) and boosting mounted unit training speed in this city. In "[Brave%20New%20World](Brave New World)" it also allows the construction of the [Caravansary%20%28Civ5%29](Caravansary) building, specialized in maintenance for Land Trade routes.

@@ -1,0 +1,5 @@
+# Desert (Civ2)
+
+Deserts are a type in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+Deserts are arid stretches of land characterized by an annual rainfall of less than ten inches. Adding to the dry environment is the fact that, because the desert atmosphere has such low humidity, evaporation of moisture from the ground exceeds precipitation. Many deserts are characterized by extremely high daytime temperatures and equally low night time temperatures. Only the hardiest plants and animals can survive in the harsh desert environment. Despite the perception that deserts are composed of useless sand, most desert soil is naturally fertile because little water moves through the desert to carry away nutrients. Through the use of artificial irrigation, humans have managed to grow crops in desert environments. If this is not done carefully, it can lead to irreversible environmental damage when the meager water supply that is tapped for the irrigation process is depleted.

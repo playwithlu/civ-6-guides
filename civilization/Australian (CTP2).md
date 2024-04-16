@@ -1,0 +1,5 @@
+# Australian (CTP2)
+
+The Australian people represent a [List%20of%20civilizations%20in%20CTP2](civilization) in "[Call%20to%20Power%20II](Call to Power II)". Their default leader names are [Gough%20Whitlam](Gough Whitlam) for a male and [Carmen%20Lawrence](Carmen Lawrence) for a female, and their [Capital%20%28CTP2%29](capital) is [Sydney](Sydney) (or [Canberra](Canberra) in [Apolyton%20Edition%20%28CTP2%29](Apolyton Edition)).
+History.
+Australian civilization began as part of the former British Empire. The British Empire evolved from its predecessor civilization, the [English%20%28CTP2%29](English). Up until 1931 AD, the British controlled these people directly but after this year they no longer did so. In the year 1931 a treaty was made between the different powers inside of the British Empire. This treaty was called the Westminster Statute. From this point on it was set in motion that the British Empire become moribund and be broken up. In the year 1949 the treaty was ratified. After this happened the Australian civilization was born.

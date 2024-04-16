@@ -1,0 +1,3 @@
+# The Great Barrier Reef (Civ5)/Civilopedia
+
+The Great Barrier Reef is the world's largest reef. A chain of almost 3000 reefs and 1000 islands, it stretches almost 1600 miles along the coast of north-east Australia. Constructed over 500,000 years by billions of coral polyps, the Great Barrier Reef is the largest single structure made by living creatures. The Great Barrier Reef is home to a hugely diverse population of whales, dolphins, porpoises, dugongs, turtles, fish, octopi, and snakes, not to mention over 200 species of birds.

@@ -1,0 +1,4 @@
+# Exoplanet Expedition (Civ6)
+
+Exoplanet Expedition is a [Project%20%28Civ6%29](project) in "" and the fourth step toward winning a [Victory%20%28Civ6%29%23Science](Science Victory). It becomes available after researching [Smart%20Materials%20%28Civ6%29](Smart Materials) and completing the [Launch%20Mars%20Colony%20%28Civ6%29](Launch Mars Colony) project, and requires a [Spaceport%20%28Civ6%29](Spaceport) [District%20%28Civ6%29](district).
+The exoplanet expedition brings the space pioneer beyond the borders of our solar system! Once completed, it triggers the fifth and final Science Victory step: it launches a spacecraft that travels to a distant star system (50 Light Years away on Standard [Speed%20%28Civ6%29](speed)) at a base speed of 1 Light Year per turn. When the spacecraft arrives at its destination, the player wins.

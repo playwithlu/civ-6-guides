@@ -1,0 +1,7 @@
+# Theocracy (Civ5)
+
+Theocracy is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Piety%20%28Civ5%29](Piety) tree and requires [Organized%20Religion%20%28Civ5%29](Organized Religion).
+The introduction of a theocratic regime is a natural consequence of developing a truly pious society. It is, after all, God who governs, and it is only natural that His intermediaries hold the secular power. Thus even the country's economy starts concentrating in religious venues, and Temples and Holy Sites become relevant to your commerce.
+Strategy.
+Theocracy is great for increasing your empire's output during all stages of the game. However, you should consider when exactly to adopt it - its effect depends on the presence of [Temple%20%28Civ5%29](Temples) in your [City%20%28Civ5%29](cities), and the establishment of [Holy%20Site%20%28Civ5%29](Holy Sites) in your lands. Since these both become more common a little later in the game, you may want to wait until after you've constructed some before adopting this Policy.
+Also note that the output bonus for Temples is a percentage over base output, and does "not" add a base output to cities! Do not expect great effect in cities which produce 2-3 .

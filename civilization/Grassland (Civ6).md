@@ -1,0 +1,6 @@
+# Grassland (Civ6)
+
+Grassland is a base [Terrain%20%28Civ6%29](terrain) in "[Civilization%20VI](Civilization VI)". It is found in temperate and tropical sections of the world.
+Strategy.
+Grassland, along with [Plains%20%28Civ6%29](Plains), is one of the two most widespread terrains in the game, and with a +2 base yield is the most fertile base terrain. It may be considered the most settler-friendly terrain, because it all but ensures a rapid Population growth regardless of other nearby features. It is found in large sections of the world, particularly close to the middle of the [Map%20%28Civ6%29](map). Additional terrain features such as [Woods%20%28Civ6%29](Woods) and [Marsh%20%28Civ6%29](Marshes) are abundant on it, as well as many [Resource%20%28Civ6%29%23Luxury](Luxury Resources).
+Grassland ensures strong population growth for cities - especially with farmland developed - but does not provide by itself without [Hills%20%28Civ6%29](Hills), Woods, or certain [Resource%20%28Civ6%29](resources). A city with an abundance of Grassland Hills will still have better growth than flat Plains, but more restricted options for farming.

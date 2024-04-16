@@ -1,0 +1,25 @@
+# Spanish (Civ4)
+
+The Spanish people represent a [List%20of%20civilizations%20in%20Civ4](civilization) in "[Civilization%20IV](Civilization IV)".
+Unit Dialogue.
+The Spanish units speak modern Spanish. Corresponding English dialogue appears in parentheses.
+Order000: Como lo desee. (As you wish!)
+Order001: ¡Vamos! (Let's go!)
+Order002: ¡Ciertamente! (Certainly!)
+Order003: De eso nos ocupamos. (That is our mission.)
+Order004: ¡No hay problema! (No problem!)
+Order005: ¡Tómelo como un hecho! (Consider it done!)
+Order006: ¡Muy bien! (Very good!)
+Order007: ¡En camino! (Underway!)
+Order008: ¡Vámonos! (Let's go!)
+Order009: Puede contar con nosotros. (You can count on us!)
+Select000: ¡Presentándome para la misión! (I'm here for the mission!)
+Select001: ¡A sus ordenes! (At your orders!)
+Select002: ¡Dígame qué hay que hacer! (Tell me what to do!)
+Select003: Espero sus ordenes. (Awaiting your orders!)
+Select004: ¡Listo para la acción! (Ready for action!)
+Select005: ¿Cúal es su plan? (What's your plan?)
+Select006: ¿Sí? (Yes?)
+Select007: ¿Sus ordenes? (Your orders?)
+Select008: ¿Qué necesita usted? (What do you need?)
+Select009: ¡Todos presentes sanos y salvos! (All present, healthy, and safe!)

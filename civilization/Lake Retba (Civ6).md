@@ -1,0 +1,11 @@
+# Lake Retba (Civ6)
+
+Lake Retba is a two-tile passable in "". Lake Retba appears as a on or s. Each wonder tile provides 2 , 2 , and 1 (instead of the normal yields from Lake tiles). Lake Retba increases the of adjacent tiles by +2.
+In "Rise and Fall", Lake Retba provides to adjacent tiles. Land s also suffer a penalty when they embark/disembark from Lake Retba's tiles onto dry land.
+Discovering Lake Retba grants +1 [Era%20Score%20%28Civ6%29](Era Score), or +3 Score if the player is the first to do so.
+In "", Lake Retba is treated as a [Coast%20%28Civ6%29](Coast) tile. It only provides 1 extra from settling nearby, its yields can be changed by the [Mausoleum%20at%20Halicarnassus%20%28Civ6%29](Mausoleum at Halicarnassus), and every [Wonder%20%28Civ6%29](wonder) and [Tile%20improvement%20%28Civ6%29](improvement) that has to be built on the coastline can be built next to Lake Retba, provided that all other conditions are satisfied.
+Strategy.
+Each Lake Retba tile has a yield of 2 , 2 , and 1 . Since is often hard to generate early in the game, incorporating natural wonder tiles can provide a vital head start through the [List%20of%20civics%20in%20Civ6](civics tree).
+Like ordinary lake/coast tiles, the yields of Lake Retba's tiles can be increased using certain bonuses. If the wonder tiles are owned by a with a and , the yield of the tiles will increase by 1 and 2 respectively. Owning the wonder will also increase the Lake's yields by 1 and 1 . The [Auckland%20%28Civ6%29](Auckland's) bonus also increases the tile yields by 1 , and a further 1 upon reaching the . [Nan%20Madol%20%28Civ6%29](Nan Madol's) bonus of +2 will apply to any [District%20%28Civ6%29](district) built next to Lake Retba.
+Unfortunately, as with all natural wonders, Lake Retba's tiles cannot be developed or improved. Because of this, it may be more of a hindrance than an asset later in the game - a natural wonder in the heart of a city can spoil adjacency bonuses for [Farm%20%28Civ6%29](Farms) and districts. In general, passable wonder tiles are significantly better than an unimproved tile of any kind, but are often less productive than an ordinary tile with an improvement or a district.
+Note that the wonder tiles can be incorporated into s - if a player wishes to found a Park, then it is often wise to include as many wonder tiles as possible within a city.

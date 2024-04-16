@@ -1,0 +1,3 @@
+# Coffee (Civ6)/Civilopedia
+
+Coffee beans are cultivated in over 70 countries, and the bitter drink produced from them consumed worldwide. Like cocoa and tobacco, coffee acts as a stimulant … in this case due to the presence of caffeine, an adenosine antagonist. According to legend, it all began when Kaldi, a 9th Century Ethiopian, noticed that his goats became energized after nibbling beans from a wild coffee plant. Probably an apocryphal tale, but it is known that by the 15th Century coffee beans were being roasted, ground, and used in drinks across Arabia.

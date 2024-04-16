@@ -1,0 +1,3 @@
+# Staatsmuseum (Civ5)/Civilopedia
+
+The first Staatsmuseum was built in 1892 AD in Pretoria, with the avowed purpose of "improving and maintaining public awareness towards cultural aspects of worth," focusing specifically on the history, ethnography, archeological and natural sciences of the region. When the Anglo-Boer War broke out, the patriotic aspects of the staatsmuseum became even more pronounced, as the burghers in Boer commandos were encouraged to donate memorabilia from the battlefields. After the Boers were defeated, the staatsmuseums were no longer supported with public funds; instead, they were funded by private committees in towns across the Transvaal and Orange Free State.

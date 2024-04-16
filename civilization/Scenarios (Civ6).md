@@ -1,0 +1,2 @@
+# Scenarios (Civ6)
+

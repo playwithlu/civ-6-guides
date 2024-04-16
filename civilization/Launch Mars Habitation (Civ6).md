@@ -1,0 +1,5 @@
+# Launch Mars Habitation (Civ6)
+
+Launch Mars Habitation is a [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)" and part of the third and final step toward winning a [Victory%20%28Civ6%29%23Science](Science Victory). It becomes available after researching [Robotics%20%28Civ6%29](Robotics) and completing the [Launch%20Moon%20Landing%20%28Civ6%29](Launch Moon Landing) project, and requires a [Spaceport%20%28Civ6%29](Spaceport) [District%20%28Civ6%29](district).
+The habitation module is the place where humans will live in the future [Mars](Mars) colony. By completing this project, the player makes a step towards the ultimate goal of near-future space travel: establishing a human colony on another planet! Once this project, [Launch%20Mars%20Hydroponics%20%28Civ6%29](Launch Mars Hydroponics), and [Launch%20Mars%20Reactor%20%28Civ6%29](Launch Mars Reactor) are completed, the player establishes a Martian colony and wins a Science Victory.
+In "", this project is removed and replaced by [Launch%20Mars%20Colony%20%28Civ6%29](Launch Mars Colony).

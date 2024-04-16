@@ -1,0 +1,8 @@
+# Factory (CTP2)
+
+ is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+With factories in , production is no longer limited to small shops and ateliers. Factories bring the power of large-scale manufacturing to , increasing a city's output dramatically.
+Great Library entry.
+One of the most profound and far reaching developments brought about by the Industrial Revolutions in Western Europe over the course of the 18th and 19th centuries was the factory system. Whereas manufactured goods were the domain of craftsmen and artisans before the Industrial Revolution, a distributed labor system, coupled with the invention of such devices as the spinning jenny and the power loom enabled a more expansive production of goods, such as textiles, with a minimum of human effort. The American inventor Eli Whitney invented the cotton gin, a device that mechanically removed cotton fibers from the seed, in 1793. In 1801, French inventor Joseph Jacquard created a loom that employed cards with punched holes to automate the placement of threads in the weaving process.
+Eli Whitney also introduced the concept of interchangeable parts to the factory system in 1798. Because repairs and assembly could be done with previously manufactured parts rather than custom made ones, interchangeable parts made it possible to produce goods quicker and cheaper. This idea led to the development of the assembly line and the manufacturing of products in discrete stages. Developments in steam power and, later, the internal combustion engine freed factories up from the needs for water-sourced based power, such as mills, and led to an explosion of manufacturing power that ushered in the modern age.

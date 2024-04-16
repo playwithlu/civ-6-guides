@@ -1,0 +1,3 @@
+# Tactical Nuke
+
+The Tactical Nuke is an [air%20unit](air unit) in the "[Civilization%20%28series%29](Civilization)" games. It is similar to the [ICBM](ICBM); however, the Tactical Nuke must be launched from a [Nuclear%20Submarine](Nuclear Submarine). It damages [unit](unit)s but causes less [pollution](pollution) as a side effect (meaning that they cannot be used in bulk to wipe enemies out). They are cheaper to build than the ICBM.

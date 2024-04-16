@@ -1,0 +1,3 @@
+# Forward Observers (Civ6)/Civilopedia
+
+A forward observer, or "spotter," is the one (or ones) set up far in advance of the battery so artillery or mortar fire can be called down on the enemy like the wrath of God ... accurately. Because these are indirect fire weapons, so long as a battery commander knew where the target was, impediments to line of sight such as hills, trees, buildings, and such were no problem. Although there had been some use of forward observers since the Crimean War, World War I made them indispensable. Using binoculars and rangefinders, and the terrain for concealment, communicating with the battery commander via field phone or radio, a spotter could change the course of a modern battle with one well-placed and unexpected barrage.

@@ -1,0 +1,3 @@
+# Rocket Artillery (Civ5)/Civilopedia
+
+Throughout most of history, artillery have used chemical explosives to propel inert shells toward their targets. Rocket artillery, on the other hand, shoots rocket shells that provide their own propellant. This allows for artillery tubes that are much smaller and lighter than traditional artillery, making for fast, mobile artillery vehicles that still pack a serious wallop. The more advanced artillery systems may contain guidance systems, allowing the projectiles to correct their course in mid-flight.

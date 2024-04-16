@@ -1,0 +1,5 @@
+# Charismatic Leader (Civ6)
+
+Charismatic Leader is a Diplomatic [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Charismatic Leader is one of the first Diplomatic Policy Cards in the game, which conveniently becomes available right when you unlock access to the first group of more advanced [Government%20%28Civ6%29](governments) that have the relevant slots. It is suitable as a "permanent" Diplomatic Policy all the way until [Machiavellianism%20%28Civ6%29](Machiavellianism) becomes available, because it will considerably speed up your production at all times and circumstances, which in turn will permit you much greater influence with [City-state%20%28Civ6%29](city-states). In fact, you may keep using it well into the late game, when it will finally become [obsolete](obsolete). After all, charisma works equally well with the uncouth upstarts from early nations and experienced diplomats from mature [Civilizations%20%28Civ6%29](civilizations)!

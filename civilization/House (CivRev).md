@@ -1,0 +1,10 @@
+# House (CivRev)
+
+Houses are essential in "[Civilization%20Revolution](Civilization Revolution)" and improve the visual and productive aspects of every [City%20%28CivRev%29](city).
+Houses.
+Houses are present in "all" cities at the beginning of the game and continue to appear or upgrade as the course of time is followed. Houses are fairly simple at the start of the game but, as your [List%20of%20civilizations%20in%20CivRev](civilization) grows, so will your citizen's homes. Homes, as you will have probably deduced from the previous sentences, hold families of citizens of your city. The residents of these houses will then go on to farm, research and maybe even take part in the construction of [Building%20%28CivRev%29](buildings), one of the most important aspects of development and victory in "Civilization Revolution".
+Construction of Houses.
+Unlike in some other games in [Civilization%20%28series%29](this series), houses do "not" need to be constructed in "Civilization Revolution". As your civilization grows, so do your houses (so to speak!). Actually, your houses do not grow, they expand; either more houses are added to your city or the old houses are upgraded. Both of the improvements stated before automatically add new citizens to your city.
+Keeping the National Heritage of your City Correct.
+Although new houses are being built at every [Population%20%28CivRev%29%23Growth](population growth), some of the "older" houses have to be kept in your city. This procedure is done so that even as you enter the [Modern%20Era%20%28CivRev%29](Modern Era), an [Egyptian%20%28CivRev%29](Egyptian) city can still be distinguished from a [Roman%20%28CivRev%29](Roman) or [American%20%28CivRev%29](American) city. For example: houses at the start of the game can be easily distinguished from each other:
+But as each civilization enters the Modern Era, the houses change drastically to the incredible tall houses that are skyscrapers. These houses improve your cities' population but partially destroy the nationally unique build style. To avoid this, some of the old houses are kept to maintain that national heritage unique to every civilization.

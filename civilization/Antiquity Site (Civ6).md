@@ -1,0 +1,9 @@
+# Antiquity Site (Civ6)
+
+An Antiquity Site is a special [Resource%20%28Civ6%29](resource) in "[Civilization%20VI](Civilization VI)". It appears on any type of passable land [Tile%20%28Civ6%29](tile) (even those that generally preclude resources, such as [Floodplains%20%28Civ6%29](Floodplains) and [Oasis%20%28Civ6%29](Oases)) after discovering [Natural%20History%20%28Civ6%29](Natural History).
+Strategy.
+An [Archaeologist%20%28Civ6%29](Archaeologist) who works an Antiquity Site will remove it from the [Map%20%28Civ6%29](map) and excavate an [Great%20Work%20%28Civ6%29%23Artifacts](Artifact). A single Archaeologist can work multiple Antiquity Sites (usually 3) to complete the collection of its [City%20%28Civ6%29](city's) [Archaeological%20Museum%20%28Civ6%29](Archaeological Museum).
+ Antiquity Sites' locations apparently depend on past events in the game, such as important battles, previously existing [Tribal%20Village%20%28Civ6%29](Tribal Villages), and similar historically significant sites. They may appear underneath existing [Tile%20improvement%20%28Civ6%29](tile improvements) and even s!
+Considering that Antiquity Sites prevent further development of their tile until their Artifacts have been excavated, it becomes almost imperative to produce Archaeologists quickly so that you can at least remove the Artifacts in your [Territory%20%28Civ6%29](territory). You can safely ignore the ones that are underneath districts or existing improvements that you don't intend to replace, but each Artifact exhibited in a Museum provides a nice bonus to , which comes in handy even to non-[Victory%20%28Civ6%29%23Culture](Culture Victory) pursuing players.
+An Antiquity Site produced by a Tribal Village will only provide Artifacts from the [Civilizations%20%28Civ6%29](civilization) that activated it. Therefore, it may be helpful to pin the sites of Tribal Villages.
+Settling a city on an Antiquity Site will remove it without excavating an Artifact.

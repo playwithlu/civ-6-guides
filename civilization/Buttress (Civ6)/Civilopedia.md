@@ -1,0 +1,3 @@
+# Buttress (Civ6)/Civilopedia
+
+Buttresses are architectural elements that reinforce walls, allowing for the construction of higher walls than unsupported construction would permit. The oldest known buttresses were used in the Temple of Eanna in Uruk, dating to around 3200 BC. Gothic architecture saw the proliferation of the flying buttress, where the lateral force of the wall is transmitted via half-arch to a supporting column or pier, allowing the construction of lighter and larger walls. Cathedrals in Europe are particularly illustrative of this construction technique which allowed the builders to add large stained-glass windows to the cathedrals.

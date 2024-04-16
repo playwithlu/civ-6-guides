@@ -1,0 +1,13 @@
+# Conquests of Alexander (Civ6)
+
+Conquests of Alexander is a [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)" that was released with the [Persia%20and%20Macedon%20Civilization%20%26amp%3B%20Scenario%20Pack%20%28Civ6%29](Persia and Macedon Civilization &amp; Scenario Pack).
+Intro.
+The intro narration for the [Classical%20Era%20%28Civ6%29](Classical Era) is used.
+Gameplay.
+This is a timed [Single%20player](single-player) scenario in which you control [Alexander%20%28Civ6%29](Alexander), rushing to expand your empire and earn the title of "Alexander the Great." It emphasizes territorial expansion, [Combat%20%28Civ6%29](combat), and calculated use of your [Great%20General%20%28Civ6%29](Great Generals). The [Technology%20%28Civ6%29](technology) and [Civic%20%28Civ6%29](civics) trees, [Policy%20card%20%28Civ6%29](policy cards), [Diplomacy%20%28Civ6%29](diplomacy), and [Religion%20%28Civ6%29](religion) are all disabled, and the [City%20%28Civ6%29](city) [City%20combat%20%28Civ6%29%23Occupied%20cities](occupation penalty) lasts until the end of the scenario.
+Since , , and are not used in this scenario, all yields are converted to . In addition, [Pillaging%20%28Civ6%29](pillaging) [Tile%20improvement%20%28Civ6%29](tile improvements) provides different rewards than it does in the base game, as detailed in the table below.
+[Persian%20%28Civ6%29](Persia) is your opponent in this scenario, and you are locked into war with them. They are allied with all three of the [City-state%20%28Civ6%29](city-states), each of which can field a different [Unique%20unit%20%28Civ6%29](unique unit). [Alexander%20the%20Great%20%28unit%29%20%28Civ6%29](Alexander the Great) makes an appearance as a Great General in this scenario, and all of the Great Generals provide different benefits. You will receive one or two free [Unit%20%28Civ6%29](units) if Alexander the Great is within one [Tile%20%28Civ6%29](tile) of a city containing a [Palace%20%28Civ6%29](Palace) or a [Wonder%20%28Civ6%29](wonder) when you capture it, but if he dies, the scenario ends in defeat.
+To achieve victory, you must conquer all 28 cities on the [Map%20%28Civ6%29](map) within a number of [turn](turn)s determined by the [Difficulty%20level%20%28Civ6%29](difficulty level): 60 for Settler, 55 for Chieftain or Warlord, 50 for Prince or King, 45 for Emperor or Immortal, and 37 for Deity. You are awarded 5 points for each city in your empire to determine your final score.
+Special features.
+City-States.
+Because the player cannot obtain s in Conquests of Alexander, it is not possible to interact with city-states diplomatically. As such, city-states do not provide any bonuses or [Suzerain%20%28Civ6%29](Suzerain) bonuses.

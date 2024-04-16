@@ -1,0 +1,5 @@
+# Steel (Civ2)
+
+ Steel is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The iron alloys produced up until about the 14th century were made by heating a mixture of iron ore and charcoal in a forge, then pounding the moltedn metal to drive out the impurities or "slag". Occasionally, the iron mixture would absorb more carbon, creating steel rather than wrought iron. Because steel proved to be less brittle and more resistant to corrosion than iron, techniques were developed to produce steel. This was done by blowing a coal derivative called coke through molten iron. Most modern steel making utilizes the "blast furnace", developed by Henry Bessemer in 1855, to accomplish this task on a large-scale basis. The strength and other qualities of steel make it the material of choice for warships, planes, and many other vehicles.

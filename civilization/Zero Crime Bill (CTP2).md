@@ -1,0 +1,7 @@
+# Zero Crime Bill (CTP2)
+
+The Zero Crime Bill is a [Wonder%20%28CTP2%29](Wonder) in "[Call%20to%20Power%20II](Call to Power II)". It costs 8600 production points to build.
+Gameplay.
+By re-examining the criminal code, the Zero Crime Bill decriminalizes a range of petty crimes, bringing with it a dramatic reduction in nationwide . The criminal justice system, from police to courts, becomes free of the burden of minor crimes and can concentrate on crimes that are more nefarious. It also reduces the criminal population and recidivism.
+Great Library entry.
+In the late 20th century, a society of litigiousness permeated much of the Western World. Countries like the United States constituted a small fraction of the world's population, but employed half of its lawyers. The complexity of the criminal code, particularly the huge regulations on personal freedom enacted by reactionary moralists, reached a breaking point in the early 21st century. The criminal justice system, bogged down by the massive burden of prosecuting petty offenses was poised to collapse under the weight of its own labyrinthine depth. The Zero-Crime Bill sought to decriminalize a range of crimes limiting individual freedoms, such as narcotics use, prostitution and private sexual conduct. This ridded prisons of hundreds of thousands of petty criminals, freeing up the justice system to concentrate on criminals and crimes that were more heinous.

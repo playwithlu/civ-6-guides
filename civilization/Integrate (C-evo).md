@@ -1,0 +1,5 @@
+# Integrate (C-evo)
+
+Any [unit%20%28C-evo%29](unit) in the free game [C-evo](C-evo) can be integrated into the [resource%20%28C-evo%29](resource) cost of a new unit being produced in the same [city%20%28C-evo%29](city) - but contributing only two-thirds of its original resource cost, multiplied by the current [health%20%28C-evo%29](health) of the unit (rounding down fractions). "Z" is the quick key. Take care not to integrate a transporter that is carrying any units: those units will be lost; integrate or unload them first.
+The same procedure can apply to [building%20%28C-evo%29](building)s, "rebuilding" (a bad translation, it should say "recycling") two-thirds of the original material cost of one into a building under construction; but it is more rarely used because few buildings become obsolete in the same way as units do. Click on any building, and you will be invited to "rebuild" it if another is being built, or to sell it (for full value) if no building (which includes [State%20Improvement](State Improvement)s but not Wonders) is under construction.
+In each case, any surplus above what is needed to finish the unit or building is likely to be lost.

@@ -1,0 +1,7 @@
+# Slaver (CTP2)
+
+The Slaver is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The Slaver is one of the first Stealth Units in the game. He captures slaves by attacking [City%20%28CTP2%29](Cities) or defenseless units (such as the [Settler%20%28CTP2%29](Settler)) roaming the land. When combined with an army of offensive units, he will enslave the defeated enemy units in each battle.
+Great Library entry.
+The Vikings of Northern Europe often raided other countries in order to capture slaves for sale on the open market. Throughout the ancient world, conquering empires often enslaved the populations of cities they conquered, sending them to their home countries to work. The international slave trade proliferated in one form or another for much of the first two millennia AD. The Ottoman Turks gave the Slavic people of central Europe plots of land in exchange for their sons, who were employed in special regiments of the Ottoman armies. Those "sclavi" ("sclavus," meaning Slavic, the origin of the modern word slave) who survived could return home to their land and live as free men. Although this was not a forceful slave raid, it was an exchange born out of duress and intense pressure from Ottoman rulers intent on conquering Europe.

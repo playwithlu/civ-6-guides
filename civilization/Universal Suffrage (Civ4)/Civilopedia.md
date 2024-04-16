@@ -1,0 +1,4 @@
+# Universal Suffrage (Civ4)/Civilopedia
+
+Universal suffrage means extending the vote to everyone, regardless of race, creed, or gender. Note, however, that even the most universal suffrage is usually less than totally universal; in the United States, for example, one must be 18 years of age to vote, and being convicted of certain criminal offenses results in permanent loss of suffrage.
+The positive side of universal suffrage is that everyone is allowed an equal say in electing those who will run the country. The negative side is that this includes everyone, regardless of intelligence, honesty, or any other characteristic. As someone once said, "I reject any form of government in which the opinion of the village idiot is given the same weight as the opinion of Aristotle."

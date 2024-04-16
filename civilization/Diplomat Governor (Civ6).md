@@ -1,0 +1,2 @@
+# Diplomat Governor (Civ6)
+

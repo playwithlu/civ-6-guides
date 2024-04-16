@@ -1,0 +1,3 @@
+# Fur Trader's House (Col)
+
+One of the first things your colonists notice when they get to America is the incredible abundance of fur-bearing mammals and the tremendous use that some of the Indians make of these pelts. They also realized the profit that can be made from selling the [Furs%20%28Col%29](fur) or making clothing from it. A Fur trader's house can be upgraded to a [Fur%20trading%20post%20%28Col%29](Fur trading post).

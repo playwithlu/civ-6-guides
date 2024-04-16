@@ -1,0 +1,3 @@
+# The Colossus (Civ3)
+
+ is a [List%20of%20wonders%20in%20Civ3%23Great%20Wonders](Great Wonder) in "[Civilization%20III](Civilization III)". It requires and is obsoleted by . It can only be built in a coastal . It causes its city to produce one extra in every square that already produces at least one. This Great Wonder can become a [tourist%20attraction%20%28Civ3%29](tourist attraction) and may trigger [Golden%20Age%20%28Civ3%29](Golden Age) for , and .

@@ -1,0 +1,6 @@
+# Persian (Civ5)
+
+The Persian people represent a [Civilizations%20%28Civ5%29](civilization) in "[Civilization%20V](Civilization V)".
+Strategy.
+The Persian civilization could well be considered the master of s: first, their s last 50% longer (a bonus cumulative with other, similar bonuses like that of [Chichen%20Itza%20%28Civ5%29](Chichen Itza)); second, their [Unit%20%28Civ5%29](units) become much more effective during a ; and third, their [Unique%20building%20%28Civ5%29](unique building), the [Satrap%27s%20Court%20%28Civ5%29](Satrap's Court), has an additional enhancement, which helps in achieving s more often. Keeping that in mind, play on the strengths provided by a - the , , and bonuses - and choose a path to [Victory%20%28Civ5%29](victory) which uses these strengths. Because of their diversity, this could be in fact any of the four paths! Try to accumulate lots of extra to reach s more often, and time your battle moves accordingly to use the and Combat Strength bonuses for your units.
+The [Immortal%20%28Civ5%29](Immortal) is a nice early game unit which will allow the Persians to fight [Barbarian%20%28Civ5%29](Barbarians) effectively (by recovering from battle much faster than usual), although this bonus isn't very useful in large melees.

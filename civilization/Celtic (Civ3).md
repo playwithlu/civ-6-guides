@@ -1,0 +1,8 @@
+# Celtic (Civ3)
+
+The Celts are a playable [List%20of%20civilizations%20in%20Civ3](civilization) in the "" expansion pack to "[Civilization%20III](Civilization III)". They are led by [Brennus%20%28Civ3%29](Brennus), a rather minor Celtic leader.
+Civilopedia entry.
+In "Civilization III: Play the World", the Celts are considered a [Militaristic%20%28Civ3%29](Militaristic) and [Religious%20%28Civ3%29](Religious) civilization; therefore, they start with [Warrior%20Code%20%28Civ3%29](Warrior Code) and [Ceremonial%20Burial%20%28Civ3%29](Ceremonial Burial) and have significant bonuses to military and cultural activities. This was changed to [Religious%20%28Civ3%29](Religious) and [Agricultural%20%28Civ3%29](Agricultural) in "".
+Unique Unit: the Gallic Swordsman.
+While the bulk of a Celtic army would typically consist of poorly armored spearmen, it was the warrior nobles who wielded swords that were the most feared. These Gallic Swordsmen were wealthier than their peers, and could afford to equip themselves not only with their slashing and stabbing sword, but also with a helmet and shield. They often charged into battle bare-chested or completely naked, occasionally wearing vividly patterned pants or cloaks. Similar to the Viking Berserker, Gallic Swordsman began their battles by viciously taunting their enemies, followed by a mad rush against enemy lines. Celtic warriors were also known to serve as mercenaries to numerous armies of the classical period. The best-known instance of this is when Celtic mercenaries joined Hannibal in his invasion of Italy during the 2nd Punic War, contributing to victories against Rome.
+A Celt city must have Iron to build a Gallic Swordsman. They replace the Swordsman and are much faster.

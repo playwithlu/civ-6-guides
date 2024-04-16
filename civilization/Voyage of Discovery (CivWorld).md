@@ -1,0 +1,3 @@
+# Voyage of Discovery (CivWorld)
+
+ is a [Wonder%20%28CivWorld%29%23List%20of%20Wonder%20Events](Wonder Event) in "[CivWorld](CivWorld)". It doubles the accumulated Science of every member of the [Civilizations%20%28CivWorld%29](Civilization), up to a maximum proportional to the amount of Science needed for the current [Era%20%28CivWorld%29](Era's) winning [List%20of%20technologies%20in%20CivWorld](tech) and inversely proportional to the player's Civ size. (The [Civilopedia](Civilopedia) will always display the exact cap.)

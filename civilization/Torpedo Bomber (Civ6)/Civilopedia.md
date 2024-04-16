@@ -1,0 +1,3 @@
+# Torpedo Bomber (Civ6)/Civilopedia
+
+In June 1914, Arthur Longmore dropped the first aerial torpedo at the Royal Navy Air Station at Calshot. While aerial torpedoes weren't used much during World War I (their warheads tended to explode when hitting the water), several nations thought there was potential in them – notably Britain, America, and Japan. During the inter-war years, all three devoted significant efforts to developing more reliable torpedoes and designing special aircraft to deliver these. Torpedo bombers, both land-based and carrier-launched, would prove pretty effective during the upcoming war, as at Taranto and at Pearl Harbor. Although aerial torpedoes are generally obsolete now, naval warfare changed forever under the shadow of the torpedo bombers.

@@ -1,0 +1,3 @@
+# Hammer (FreeCol)
+
+A hammer in the free game [FreeCol](FreeCol), exactly as in the original [Colonization%20%281994%29](Colonization (1994)), is the somewhat curiously-named output of a [Carpenter%27s%20Shop%20%28FreeCol%29](Carpenter's Shop) or [Lumber%20Mill%20%28FreeCol%29](Lumber Mill). It is used for constructing [building%20%28FreeCol%29](building)s, [ship%20%28FreeCol%29](ship)s or [artillery%20%28FreeCol%29](artillery). A [Master%20Carpenter%20%28FreeCol%29](Master Carpenter) initially produces twice as many hammers per turn as an ordinary [colonist%20%28FreeCol%29](colonist), but that ratio may change a little after bonuses are counted.

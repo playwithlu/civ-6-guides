@@ -1,0 +1,3 @@
+# Fortifications (Civ6)/Civilopedia
+
+The invention of the machinegun and the new high explosive artillery rounds meant that fortifications changed as well in the years leading up to the first World War. The extensive trench systems of the Western Front can be seen as physical expression of the supremacy of defense over offense for much of the war. Likewise, the modern tactics for infantry and tanks developed from 1916-oneward can be seen as an effort to overcome this supremacy of defense.

@@ -1,0 +1,3 @@
+# Patronage (Civ5)/Civilopedia
+
+Patronage is the policy where the wealthy and powerful - often the nobility - support the talented artisans in a society. In many ancient societies, a society's wealth was concentrated in a few individuals: the Royal Family, say, or the merchant princes. Painters, sculptors, musicians, and other gifted artists worked for the elite, as they were the only ones who could afford to pay them. While perhaps unfair to commoners, this system has produced brilliant works by the likes of Leonardo da Vinci, Ben Jonson, and Mozart. The system is enjoying something of a revival today, with the role of patron being taken by mega-corporations rather than individuals.

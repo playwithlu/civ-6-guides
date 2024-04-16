@@ -1,0 +1,3 @@
+# Arena Rock (Civ6)/Civilopedia
+
+Some rock bands are popular enough to require large venues to perform. Sports arenas are advantageous in that the rock music is contained within a given space, protecting the ears and sensibilities of the surrounding population. Since arenas generally have terrible acoustical qualities (not that rock fans would notice), “arena rock” usually has simple melodies and memorable lyrics, usually on the nature of “having fun” and “sticking it to the man,” so that the audience may shout along. I suppose that sounds like a lot of fun to some of you.

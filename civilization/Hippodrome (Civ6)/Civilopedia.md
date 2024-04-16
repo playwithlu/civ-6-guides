@@ -1,0 +1,3 @@
+# Hippodrome (Civ6)/Civilopedia
+
+The Byzantines, like the Romans before them, loved their chariot races. At the hippodrome (from the Greek “horse way”), teams of four-horse chariots would careen around the U-shaped track – a slight improvement to the bloody gladiatorial pits of Rome. Rivalries between teams were so intense that they put modern-day soccer or football rivalries to shame. In 532, the “Nika riots” between rival fans burned down half of the city of Constantinople and nearly killed the emperor Justinian. The hippodrome was vitally important, then, to the happiness (and, sometimes, unhappiness) of the city’s inhabitants, and was a site where citizens could see and cheer along with (or against) their Emperor.

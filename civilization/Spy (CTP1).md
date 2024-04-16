@@ -1,0 +1,7 @@
+# Spy (CTP1)
+
+The Spy is a [List%20of%20units%20in%20CTP1](unit) in "".
+Summary.
+The Spy slips behind enemy lines, unleashing a campaign of deception and terror with special abilities. The Spy can incite a [Revolution%20%28CTP1%29](revolution), encouraging an enemy [City%20%28CTP1%29](city) to start its own [List%20of%20civilizations%20in%20CTP1](Civilization); spy into a city, showing the player the city's contents; steal [List%20of%20advances%20in%20CTP1](advances); or plant a [Nuke%20%28CTP1%29](nuke) in a city. A Spy inside a city can also defend against an enemy Spy who is attempting to attack that city. Exercising these abilities, however, is not free. Each time one is used, the Civilization is charged [Gold%20%28currency%29%20%28CTP1%29](gold). The Spy can also detect other Spies, [Cleric%20%28CTP1%29](Clerics), [Slaver%20%28CTP1%29](Slavers), [Abolitionist%20%28CTP1%29](Abolitionists), [Ecoterrorist%20%28CTP1%29](Ecoterrorists), and [Infector%20%28CTP1%29](Infectors).
+Great Library entry.
+Spies are as old as time, but the impact of the Spy increased greatly with new technology. Whereas in ancient times technology limited spies to eavesdropping, assassination, and bribery, in modern times, explosives give spies the ability to wipe out entire groups of important officials like parliaments and cabinets.

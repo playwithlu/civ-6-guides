@@ -1,0 +1,4 @@
+# Tachyon Field (SMAC)
+
+ is a [base%20facility%20%28SMAC%29](base facility) in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)". The Tachyon Field increases the base defense modifier by an additional 100%, in addition to the 100% provided by its prerequisitely built [Perimeter%20Defense%20%28SMAC%29](Perimeter Defense). Unlike Perimeter Defenses, however, it increases the modifier for all areas of combat; land, sea, and air. Thus, a base with both a Perimeter Defense and a Tachyon Field has its effective defensive ability tripled against land units, and doubled against air units (or tripled if the base also has an [Aerospace%20Complex%20%28SMAC%29](Aerospace Complex).
+It requires [Probability%20Mechanics%20%28SMAC%29](Probability Mechanics) to build. Like any other base defense system, however, it can be bypassed by units bearing the [Blink%20Displacer%20%28SMAC%29](Blink Displacer) ability.

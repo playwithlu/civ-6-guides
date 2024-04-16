@@ -1,0 +1,5 @@
+# Taoist Pagoda (Civ4)/Civilopedia
+
+In "Civilization IV", a cathedral is defined as an especially large and ornate religious building where the faithful worship. Only the most prosperous cities can afford to create cathedrals, as they require huge amounts of raw material and years of dedicated labor by skilled craftsmen. For example, the Notre Dame Cathedral in Paris, France, took over two centuries to complete.
+Many of the most elaborate and extensive Taoist religious buildings are pagodas - tiered towers with multiple eaves. This building style originated in Nepal and has since spread across much of Asia. Unfortunately, many great Taoist pagodas were constructed of wood - wood holds special religious significance for Taoists - and have not withstood the onslaught of time.
+Taoist pagodas tend to be bright and colorful structures, with broad curving roofs that are adorned with divine figures and traditional symbols of luck such as dragons and carp. Taoism is not a selfish faith, and the pagodas may have rooms or shrines dedicated to Buddhist meditation and/or Hindu deities.

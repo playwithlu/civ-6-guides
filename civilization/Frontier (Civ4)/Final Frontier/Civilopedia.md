@@ -1,0 +1,3 @@
+# Frontier (Civ4)/Final Frontier/Civilopedia
+
+Known also as "adhocracies", Frontier Governments tend to be rushed affairs, with new services and branches added as necessary, without any specified ideology to guide them. They suffer none of the penalties of other, more ideologically-driven governments, but receive none of the benefits. They are typically a stopgap measure undertaken prior to adopting a more stable and effective government.

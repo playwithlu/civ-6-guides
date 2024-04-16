@@ -1,0 +1,3 @@
+# Market (Civ5)/Civilopedia
+
+A market is a location where farmers and tradesmen and merchants bring their wares to sell. While the earliest and most primitive markets may have operated under a barter system, a truly successful market requires a working trusted currency to allow for the free exchange of goods and services. For obvious reasons, markets are located where the customers are, in villages, towns and cities. Smithfield has been a meat-trading market in London for over a thousand years, which helps to explain some of the street names like, "Cow Cross Street."

@@ -1,0 +1,4 @@
+# Tobacco (Col)
+
+Tobacco is one of the raw materials which may be produced by working on land tiles surrounding your colonies. It is found most abundantly in [Grassland](Grassland) (where it may also appear as a bonus Resource). It is also found on [Marsh](Marsh), [Conifer%20forest](Conifer forest), and [Wetland%20forest](Wetland forest). [Master%20Tobacco%20Planters%20%28Col%29](Master Tobacco Planters) increase the yield per turn.
+Tobacco may be fabricated into [Cigars%20%28Col%29](Cigars) at a [Tobacconist%27s%20house%20%28Col%29](Tobacconist's house), [Tobacconist%27s%20shop%20%28Col%29](Tobacconist's shop) or [Cigar%20factory%20%28Col%29](Cigar factory).

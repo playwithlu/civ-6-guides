@@ -1,0 +1,5 @@
+# Building
+
+A building is a permanent structure that is built in a [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games or a [colony](colony) in the "[Colonization%20%28game%29](Colonization)" games. Some buildings, such as [Fortress](Fortress)es, may be built outside cities (and are called [tile%20improvement](tile improvement)s in later games). Each building adds value in some respect, such as defensive strength or the rates of production of resources or knowledge.
+[Great%20Wonder](Wonders of the World) are counted as buildings. In "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)" they are listed with other [city%20improvement](city improvement)s, but later games give them separate listings.
+Most buildings (except wonders) in the "Civilization" games have an ongoing [maintenance](maintenance) cost. The cost may be larger than the benefit at times. For example, a [Bank](Bank) typically costs 3 [Gold%20%28currency%29](gold) per turn, which is bad business if it gains fewer than 3 gold per turn and conveys no other benefit.

@@ -1,0 +1,3 @@
+# Observation (Civ6)/Civilopedia
+
+Germany sent out two waves of surface merchant raiders during World War II, mostly converted refrigerator ships which tended to be faster and have more reinforcement than ordinary merchant ships. Armed with naval guns and a few torpedoes and mines, it was planned they would raise havoc in the Pacific among Allied shipping there ... but their greatest advantage may have been that some were equipped with naval radar, able to spot prey over the horizon. In fact, radar served the Kormoran when it surprised and sank the Australian cruiser Sydney in one of the more infamous episodes. Submarines, both Axis and Allied, had to rely on sonar for the purpose of locating distant ships since radar didn't work so well underwater.

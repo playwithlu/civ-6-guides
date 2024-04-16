@@ -1,0 +1,7 @@
+# Coal Power Plant (Civ6)
+
+The Coal Power Plant is an advanced [Production%20%28Civ6%29](production) [Building%20%28Civ6%29](building) in "". It is the first power-producing building in the game; it is built in the [Industrial%20Zone%20%28Civ6%29](Industrial Zone) [District%20%28Civ6%29](district) and requires a [Factory%20%28Civ6%29](Factory) (or one of its replacements).
+Strategy.
+The Coal Power Plant is the earliest available [Power%20Plant%20%28Civ6%29](Power Plant) type. On top of serving as an early source of , it provides a large bonus in well-planned Industrial Zones with high [Adjacency%20bonus%20%28Civ6%29](adjacency bonuses), especially when [Craftsmen%20%28Civ6%29](Craftsmen) or [Five-Year%20Plan%20%28Civ6%29](Five-Year Plan) is active.
+Notice that the Coal Power Plant is the only Power Plant that gives equal to its adjacency bonus, so you may lose (or gain, in some rare cases) for switching from the Coal Power Plant. So if possible, prioritize getting renewable energy sources instead of switching to [Oil%20Power%20Plant%20%28Civ6%29](Oil Power Plants) or [Nuclear%20Power%20Plant%20%28Civ6%29](Nuclear Power Plants).
+However, the Coal Power Plant is inefficient in its resource consumption and emits the largest amount of CO2. This will likely have the following implications:

@@ -1,0 +1,8 @@
+# Continent1ExitBigMap14 (C-evo)
+
+This very large map (499%, with more than 50% land) is one of several designed by "[mifudd](mifudd)" for [C-evo](C-evo) and uploaded in 2009 with the following comments:
+"Hello Guys, I have designt some maps. On most of the maps the human player has a good starting point: The human position lies on a bridge point between several enemys, and he has a little continent for settlement. On some maps are additional ressources added. Must See! Mike PS: On some maps the location of cities is marked with a placed road. "
+Good start.
+As with other maps by mifudd, the start position for the human player is heavily weighted towards the human, with fish, game, and a good mixture of terrain for the capital and with nearby land that has more than its share of fish and other good tiles. Experienced players should have selected the "Hard" [difficulty%20level%20%28C-evo%29](difficulty level) for a fairly even game or the Insane level for a challenge. The map creator has added roads to indicate some of the best potential sites for new cities, but not all players will agree with all of those selections and there may be too many to occupy unless in Easy or Beginner mode.
+Other nations.
+Two nearby nations will be found easily but you may need ships to find others (which has the advantage that other warmongering nations will not find you soon if ever). Make friends with at least the first half dozen who are willing, but expect to lose most or all as the game progresses.

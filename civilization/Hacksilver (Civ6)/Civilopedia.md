@@ -1,0 +1,3 @@
+# Hacksilver (Civ6)/Civilopedia
+
+Vikings had little use for coinage. Instead, the Norsemen preferred to horde their wealth in “hacksilver”—cut or bent silver items with which they traded or took as plunder. Once the blood was washed off, it took much less effort to chop up silverware, jewelry and crucifixes than to cast actual coins. Vikings preferred hacksilver for many generations—silver was by far the most common precious metal, and the easiest to work.

@@ -1,0 +1,3 @@
+# Strategos (Civ6)/Civilopedia
+
+In the Hellenic world, a strategos meant, literally, “army leader” … although over time it came to mean a “great general.” When the Macedonians overran Greece, it was used by Philip II and his son Alexander for commanders on detached assignments as quasi-representatives of the king. Later, during the Diadochi empires, it was a gubernatorial office combining civil and military duties. In Greek-speaking Byzantium, a strategos was the supreme military officer of a field army, usually groomed from birth for the semi-hereditary position.

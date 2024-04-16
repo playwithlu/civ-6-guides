@@ -1,0 +1,3 @@
+# Redeploy (Civ6)/Civilopedia
+
+Column, line, and square. The basic infantry formations until modern weapons like machine guns and rapid-firing artillery made bunching together butchery. Each formation had its benefits and its non-benefits. The ability to rapidly change from one to another was often the difference between victory and defeat for an infantry unit, and the subject of much training. Thus, redeploying from a mobile column into a line formation, capable of bringing all the muskets or pikes to bear on the battle, was a necessity; and woe to the line that couldn't form a square quickly when the cuirassiers – "big men on big horses" – charged.

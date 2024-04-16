@@ -1,0 +1,5 @@
+# Press Gangs (Civ6)
+
+Press Gangs is a Military [Policy%20card%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)". 
+Strategy.
+Press Gangs replaces [Maritime%20Industries%20%28Civ6%29](Maritime Industries) as a policy that expedites the production of [Naval%20unit%20%28Civ6%29](naval units). It's particularly beneficial when playing as the [Portuguese%20%28Civ6%29](Portuguese) (whose [Nau%20%28Civ6%29](Nau) replaces the [Caravel%20%28Civ6%29](Caravel)), the [Dutch%20%28Civ6%29](Dutch) (whose [De%20Zeven%20Provinci%C3%ABn%20%28Civ6%29](De Zeven Provinciën) replaces the [Frigate%20%28Civ6%29](Frigate)), the [English%20%28Civ6%29](English) (whose [Sea%20Dog%20%28Civ6%29](Sea Dog) replaces the [Privateer%20%28Civ6%29](Privateer)), or the [Brazilian%20%28Civ6%29](Brazilians) (whose [Minas%20Geraes%20%28Civ6%29](Minas Geraes) becomes available in the [Industrial%20Era%20%28Civ6%29](Industrial Era)), or for building a massive navy after constructing the [Venetian%20Arsenal%20%28Civ6%29](Venetian Arsenal).

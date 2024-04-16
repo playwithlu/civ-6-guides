@@ -1,0 +1,4 @@
+# Launch Earth Satellite (Civ6)
+
+Launch Earth Satellite is a [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)" and the first step toward winning a [Victory%20%28Civ6%29%23Science](Science Victory). It becomes available after researching [Rocketry%20%28Civ6%29](Rocketry) and requires a [Spaceport%20%28Civ6%29](Spaceport) [District%20%28Civ6%29](district).
+Through this project man makes the first bold step into space. Once completed, it launches a satellite into space that confirms the player's ability to conduct space travel and reveals the entire [Map%20%28Civ6%29](map).

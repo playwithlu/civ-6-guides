@@ -1,0 +1,3 @@
+# Abdul Hamid II (Civ5)/Civilopedia
+
+Abdul Hamid II (ruled 1876-1909), Caliph of the Faithful, 34th sultan of the Ottoman Empire, was the last sultan to exert effective control over the empire's African territories. Following the Russian victory in 1878, the Congress of Berlin forced Abdul Hamid to "rent" Cyprus to Great Britain and allow British forces to occupy Egypt and the Sudan in 1882 to "bring order" to these contentious Ottoman provinces, a role that the British Empire did not relinquish until 1922.

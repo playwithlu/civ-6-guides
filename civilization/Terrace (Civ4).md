@@ -1,0 +1,7 @@
+# Terrace (Civ4)
+
+The Terrace is the [Unique%20building%20%28Civ4%29](unique building) of the [Incan%20%28Civ4%29](Inca).
+Strategy.
+Compared to the [Granary%20%28Civ4%29](Granary) which it replaces, the Terrace provides +2 [Culture%20%28Civ4%29](Culture) . 
+The Granary/Terrace are critical for the quick [Population%20%28Civ4%29](growth) of cities, as they essentially double cities' growth rate, given enough -producing tiles are available. The [Whipping%20%28Civ4%29](whipping) mechanic of [Slavery%20%28Civ4%29](Slavery) essentially constitutes an efficient conversion of Food to Production , at the expense of producing . Additionally, the Granary/Terrace give +1 to grain resources, making it the earliest -multiplying building in the game. Therefore, it is advisable to build Granaries/Terraces in most every city, at some point.
+Due to the Granary being such critical infrastructure, the Incan player will be building Terraces in most every city. As the Terrace gives +2 , the Incan player can forgo the [Monument%20%28Civ4%29](Monument) to gain early culture and pop out the city radius; this saves valuable early [Production%20%28Civ4%29](Hammers). As each city gets +2 in the course of normal play, this is effectively equivalent to playing as a [Creative%20%28Civ4%29](Creative) leader. Consequently, [Huayna%20Capac%20%28Civ4%29](Huayna Capac) can almost be considered as having "three" traits: [Financial%20%28Civ4%29](Financial), [Industrious%20%28Civ4%29](Industrious), "and" [Creative%20%28Civ4%29](Creative).

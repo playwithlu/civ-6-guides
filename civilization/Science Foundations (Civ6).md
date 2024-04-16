@@ -1,0 +1,5 @@
+# Science Foundations (Civ6)
+
+Science Foundations is a Wildcard [Policy%20card%20%28Civ6%29](Policy Card) in "". It replaced [Nobel%20Prize%20%28Civ6%29](Nobel Prize).
+Strategy.
+Science Foundations provides a lot of points per turn, greatly hastening your generation of Great Scientists. It's immensely valuable if you're trying to attract [Carl%20Sagan%20%28Civ6%29](Carl Sagan) and [Stephanie%20Kwolek%20%28Civ6%29](Stephanie Kwolek), whose abilities will spur you toward a [Victory%20%28Civ6%29%23Science](Science Victory). After the [Civilization%20VI%20December%202020%20Update](December 2020 Update), Science Foundations enjoys a massive buff compared to its previous incarnation. The extra and points for [Campus%20%28Civ6%29](Campus) and [Industrial%20Zone%20%28Civ6%29](Industrial Zone) [Building%20%28Civ6%29](buildings) are now far stronger, further accelerating your acquisition of important .

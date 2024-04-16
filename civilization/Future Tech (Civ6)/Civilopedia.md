@@ -1,0 +1,4 @@
+# Future Tech (Civ6)/Civilopedia
+
+Anything worth saying about “future tech” has already been said by science-fiction authors. There are a few broad things that all of them seem to agree upon. Sooner or later, medical breakthroughs will cure cancer and other diseases, dramatically increase the human lifespan, and hook the human brain up to machines. Cheap, clean forms of energy will be discovered. Computers will get faster and smaller; robots will take over the daily grind. Games will get more immersive and realistic. Nasty weapons will be invented ... but not used. Extinct species wiped out by man (or asteroids) will be reborn. Ecologists will end pollution and recover lost ecosystems. Mankind will move beyond the heavens to other worlds. Civilization will be saved.
+Or, perhaps not ...

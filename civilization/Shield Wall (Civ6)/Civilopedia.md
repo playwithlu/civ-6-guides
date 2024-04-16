@@ -1,0 +1,3 @@
+# Shield Wall (Civ6)/Civilopedia
+
+Mentioned in both Nordic sagas and Christian chronicles, the shield wall—evolved from Greek and Roman formations—was a simple battle tactic involving overlapping shields to form a barrier against light missile fire, massed infantry, and even cavalry charges. It was a favorite formation among some Viking clans, and used as well by their Saxon and Germanic foes. Though Viking raiders preferred axes for many reasons, they were ideal for cleaving legs below a shield wall. In the late Middle Ages, the tactic was abandoned in favor of long polearms. These required two hands to wield and were even more effective at keeping both enemy infantry and cavalry at bay.

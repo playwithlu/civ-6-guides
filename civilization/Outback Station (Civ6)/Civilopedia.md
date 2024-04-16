@@ -1,0 +1,3 @@
+# Outback Station (Civ6)/Civilopedia
+
+Outback stations are known for their broad expanses of land, livestock herds, and self-sufficiency. Somewhat analogous to a ranch, the distinctly Australian stations are run by graziers in remote and somewhat inhospitable areas. They are often immense to compensate for thinly productive grazing ground and the occasional drought. Predictably, cattle stations stock cattle and sheep stations stock sheep. Wild dingoes find sheep to be delicious and defenseless, so graziers in dingo-infested areas traditionally shifted their stock to the (mostly) dingo-proof cattle.

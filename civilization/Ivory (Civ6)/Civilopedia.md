@@ -1,0 +1,3 @@
+# Ivory (Civ6)/Civilopedia
+
+Harvested from the teeth and tusks of various animal species – elephant, whale, hippo, walrus, and the like – ivory’s luster and durability made it (before plastic proved better suited) one of the most valuable commodities in civilization. The Greeks, Romans, and Chinese prized it for its ability to be carved into long-lasting decorations, statuettes, cups, utensils, and false teeth. This was unfortunate for the animals, who were hunted to near extinction. The demand for ivory in 1831 AD in Great Britain alone accounted for the deaths of over 4000 elephants in that single year.

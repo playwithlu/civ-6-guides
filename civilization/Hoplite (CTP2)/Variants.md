@@ -1,0 +1,3 @@
+# Hoplite (CTP2)/Variants
+
+In "[Call%20to%20Power%20II](Call to Power II)" there are 3 types of Hoplites: Regular, Elite, and Phalanx. The term Elite in the later type has nothing to do with [Veterans%20%28CTP2%29](veteran) status as both types of Hoplites can become veterans if they win battles. The term Elite just simply means that this unit is better trained so it will have slightly higher abilities. A Phalanx will look like a Hoplite but the difference is that they don't have a distance from [City%20%28CTP2%29](city) penalty because they are trained for long distance missions, whereas a Hoplite is meant as a homeland defense unit and not a long distance travel unit.

@@ -1,0 +1,7 @@
+# Trap (Civ6)
+
+The Trap is a special [Tile%20improvement%20%28Civ6%29](tile improvement) in "[Civilization%20VI](Civilization VI)". It is exclusive to the [Zombie%20Defense%20%28Civ6%29](Zombie Defense) [Game%20mode%20%28Civ6%29](game mode), introduced in the [Portugal%20Pack%20%28Civ6%29](Portugal Pack). It can be built by a [Builder%20%28Civ6%29](Builder) on any [Tile%20%28Civ6%29](tile) inside your own or neutral [Territory%20%28Civ6%29](territory).
+Strategy.
+The Trap is one of the two early defenses used in the Zombie Defense game mode. In contrast with the [Barricade%20%28Civ6%29](Barricade), which does light damage to all surrounding tiles, the Trap does moderate damage to a single tile.
+Traps are mainly useful to hold chokepoints, especially when [Encampment%20%28Civ6%29](Encampments) or [Fort%20%28Civ6%29](Forts) are not available. Another use is for spawn-camping [Zombie%20%28Civ6%29](Zombies), since they appear at the location of previously defeated [Unit%20%28Civ6%29](units). In general, Traps are inferior to multiple [Barricade%20%28Civ6%29](Barricades), and both are inferior to [Walls%20%28Civ6%29](city defenses).
+The upgraded version of this improvement is the [Modernized%20Trap%20%28Civ6%29](Modernized Trap).

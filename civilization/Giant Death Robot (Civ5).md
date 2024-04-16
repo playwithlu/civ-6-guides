@@ -1,0 +1,8 @@
+# Giant Death Robot (Civ5)
+
+Game Info.
+Ultimate military unit of the [Information%20Era%20%28Civ5%29](Information Era). Upgrades from the [Modern%20Armor%20%28Civ5%29](Modern Armor). Requires .
+Strategy.
+The Giant Death Robot is the battle machine of the future and the toughest unit in the game - a towering mass of guns, rockets, and futuristic death-rays. It is one and a half times as strong as the next-strongest land units (the Modern Armor and the [XCOM%20Squad%20%28Civ5%29](XCOM Squad)) and can attack anything, including [City%20%28Civ5%29](cities), with little fear of being outmatched. Also, the Giant Death Robot can move after attacking, making it one of the most strategically flexible units in the game. Although it doesn't benefit from defensive [Terrain%20%28Civ5%29](terrain), its simple brute strength serves to compensate.
+Despite all these perks, the Giant Death Robot is most certainly not invincible. Being a melee attacker, it is susceptible to focused ranged attack (especially aerial bombardment). It can also be easily mobbed by large groups of lesser units. With all this in mind, the robot should never be sent alone. However, the Giant Death Robot can defeat many units single-handedly, and with the support of other powerful late game units (XCOM Squad/Modern Armor/[Mechanized%20Infantry%20%28Civ5%29](Mechanized Infantry)) world conquest is almost inevitable.
+Finally, keep in mind that you need to build the Giant Death Robot. If you intend to make them the backbone of your military, minimize the number of [Nuclear%20Plant%20%28Civ5%29](Nuclear Plants) and [Nuclear%20weapons%20%28Civ5%29](nukes) built to save more for the robots.

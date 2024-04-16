@@ -1,0 +1,8 @@
+# Human Cloning (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Human cloning is the ability to reproduce flawless copies of existing human beings.
+The relieves women of the burden of childbirth, producing children through a cloning process, and increasing in as a result.
+Great Library entry.
+Human Cloning was a radical discovery affecting every aspect of life. Although early efforts in the 20th century to achieve this goal were met with great controversy, scientists continued to pursue it until they finally achieved their goals. Although many people had ethical, religious and philosophical concerns about the implications of human cloning, the temptation to crack the genetic code and experiment with the replication of human life was too great to resist. Long after the success of the Genome Project, geneticists set about exploring ways in which human genetic material could be created. In the late 21st century, they succeeded in synthesizing a human kidney, which was successfully implanted into a subject. On February 10, 2098, the first human clone was born in the Center for Genetic Creation in Santa Monica, California. Using a prototypical incubation machine, geneticists at the CGC were able to provide a perfect environment for cell replication and fetal nurturing. In the coming years, incubation centers sprang up across the world, making available the opportunity to have a child without in utero gestation.

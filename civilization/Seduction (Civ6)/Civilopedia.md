@@ -1,0 +1,3 @@
+# Seduction (Civ6)/Civilopedia
+
+Seduction, as an espionage tactic, is as old as sin (so they say); in a classic honeypot mission, an illicit liaison would lead to blackmail, by which the patsy would be forced to reveal classified information or perform other chores – in other words, to act as an agent for the seducer. During the height of the Cold War, the Soviet KGB and East German Stasi actively trained agents (termed “swallows” if female or “ravens” if male) to entrap foreigners … the most notorious case being that of the Marine Clayton Lonetree.

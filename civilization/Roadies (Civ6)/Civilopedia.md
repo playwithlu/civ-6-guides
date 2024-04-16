@@ -1,0 +1,3 @@
+# Roadies (Civ6)/Civilopedia
+
+Roadies are the caste within the rock band responsible for the staging and execution of a rock concert, short of playing the instruments or singing. Roadies are forbidden by ancient taboo against performing, although legends exist of roadie heroes doing so from concealment when the band was incapable of performing. These skilled individuals speak an obscure dialect of their mother language, one whose vocabulary consists primarily of in-jokes, technical words for the equipage of the concert, and profanity. Roadies refer to their own people as “crew” or “tour staff” or “you can't be back here, man.”

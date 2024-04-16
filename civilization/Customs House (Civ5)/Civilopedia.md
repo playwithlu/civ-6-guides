@@ -1,0 +1,3 @@
+# Customs House (Civ5)/Civilopedia
+
+A Customs House is a governmental building where taxes are paid on a country's imported and exported goods. It ensures that the government gets its cut (or "fair share," if you prefer) of profits on every cargo moving through a harbor. Given the amount of money involved, the opportunity for corruption is unlimited. Throughout history customs officials have not been famous for resisting temptation.

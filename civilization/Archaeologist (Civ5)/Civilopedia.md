@@ -1,0 +1,3 @@
+# Archaeologist (Civ5)/Civilopedia
+
+Archaeologists study human behavior in the past, primarily through the excavation and analysis of human fossils, the ruins of buildings, and the remains of human artifacts. In undertaking this effort, archaeologists work to understand the common beliefs and daily activities of various peoples throughout history. Although controversies now rage about the ownership of artifacts, treasures, and human remains recovered, thousands of archaeologists operate around the world at excavations sites, in museums, and on university campuses to further our understanding of our own past.

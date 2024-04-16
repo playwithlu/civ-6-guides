@@ -1,0 +1,3 @@
+# Tradition (Civ5)/Civilopedia
+
+Tradition is the policy of honoring the decisions made by one's ancestors and all earlier rulers of the state. New policies are viewed with deep suspicion and distrust. Even in allegedly forward-thinking countries like the United States, tradition can be quite powerful indeed, as may be seen in the tension between those who favor strict adherence to the original literal meaning of the US Constitution, and those who believe that the Constitution must be more broadly interpreted in light of the changing nature of the United States and the world. The former group would be considered to be more traditionalist than the latter.

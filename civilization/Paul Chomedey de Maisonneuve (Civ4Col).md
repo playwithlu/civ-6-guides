@@ -1,0 +1,5 @@
+# Paul Chomedey de Maisonneuve (Civ4Col)
+
+Civilopedia.
+Lived: 1612-1676
+Paul Chomedey de Maisonneuve was a French military leader, missionary and founder of the city of Montreal. Maisonneuve and expedition reached the island that would become Montreal in 1641, located in the St. Lawrence River, initially naming their new colony Ville-Marie. While initial relations with the local Algonquians were cordial, a constant fear of eradication permeated the young colony. Maisonneuve's military background became essential when the formidable Iroquois Confederacy grew aggravated with French meddling. At one point, he and thirty of his fellow colonists found themselves ambushed by 100 Iroquois, and only flight and luck protected Maisonneuve from premature death. But Maisonneuve's defensive strategic skill was unmatched, and Montreal would become a key French outpost until its surrender to the British in 1760.

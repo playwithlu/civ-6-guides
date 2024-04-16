@@ -1,0 +1,6 @@
+# Military Science (Civ6)
+
+Military Science is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by killing a unit with a [Knight%20%28Civ6%29](Knight).
+Strategy.
+Military science is tactics elevated to the highest possible level, a level almost as sophisticated as one of the real sciences. It encompasses not only the study of modern weapons (since these are advancing at an unbelievable pace, making it a frequent occurrence a weapon a cadet studied to become obsolete right after he finishes school), but also of employing the terrain to one's advantage, using transport and logistics (and denying the enemy their use), and so on. And it emphasizes something the good general knows instinctively: how important organization and discipline are on the field.
+This approach to warfare provides the ultimate boost to military preparation, in the form of the last military [Building%20%28Civ6%29](building) of the [Encampment%20%28Civ6%29](Encampment): the [Military%20Academy%20%28Civ6%29](Military Academy). It also manages to modernize mounted soldiers one last time, creating the [Cavalry%20%28Civ6%29](Cavalry) - a mounted brigade that combines the mobility of traditional cavalry with the fighting power of rifle-wielding soldiers.

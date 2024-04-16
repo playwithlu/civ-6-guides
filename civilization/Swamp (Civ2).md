@@ -1,0 +1,5 @@
+# Swamp (Civ2)
+
+Swamp is a type in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+Swamps are wetlands which are largely uninhabitable by humans. These areas are usually flooded with water, ranging in depth from a few inches to several feet, due to heavy rainfall and overflow from nearby lakes and rivers. Although inhospitable for human life, swamps are teeming with both animal and plant life. Certain spices and useful substances such as peat, which is used as a fertilizer, can be found in abundance in certain swamp areas. Swampland is often drained, and converted into grassland and plains in order to make it more useful for resource and food production. However, environmental groups have been successful in slowing the destruction of wetlands, and setting up sanctuaries for the wildlife that inhabits these regions.

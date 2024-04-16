@@ -1,0 +1,11 @@
+# Pharmaceuticals (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Pharmaceuticals bolster the health and wellness of an empire by reducing mortality rates and providing treatment and control measures for various human and animal diseases.
+The makes pharmaceuticals available to people, making for a healthier, and therefore faster growing, city.
+ is one of the most versatile and widely used of drugs, and its discovery contributes to the growth of the empire as a whole.
+Great Library entry.
+Although medicine and the creation of curatives were a well-established practice throughout ancient and renaissance times, the founding of the Society of Apothecaries, London, in 1617 marked the emergence of pharmacy as a distinct profession. King James I authorized the separation of apothecaries from grocers, and, from then on, only member of the society could make or sell pharmaceuticals or keep an apothecary's shop. This event was one of the many improvements in pharmaceutical practice throughout the 16th and 17th centuries.
+In 1546, the first pharmacopoeia (a list of drugs and medicinal chemicals with directions for preparing them) appeared in Nuremberg, Germany. Before this, the preparation of medicines varied in ingredients, concentration and method. Other pharmacopoeias appeared in Basel (1561), Augsburg (1564) and London (1618), the London pharmacopoeia being the first national pharmacopoeia, adopted by all of England.
+In 1841, the Pharmaceutical Society of Great Britain, was founded, with an intent to give pharmacists in a thoroughly scientific basis. From this point on, pharmacology was considered a scientific pursuit. Pharmacists throughout the subsequent modern era became subject to the same government and peer reviews as medical doctors. The rigidity of scientific processes led to advances in pharmacology that, along with new discoveries of drugs like Penicillin, made better, more consistent and more effective drugs available to the public.

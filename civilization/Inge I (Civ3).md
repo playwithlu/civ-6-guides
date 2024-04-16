@@ -1,0 +1,3 @@
+# Inge I (Civ3)
+
+Inge I (c. 1040 – 1110), also known as Inge the Elder, was a king of Sweden. In English literature he has also been called Ingold. While scant sources do not allow a full picture of his term of kingship, he is known to have led a turbulent but at length successful reign of more than two decades. A reused , he leads the [Swedish%20%28Civ3%29/The%20Middle%20Ages](Swedes) in [List%20of%20scenarios%20in%20Civ3](scenario) in "".

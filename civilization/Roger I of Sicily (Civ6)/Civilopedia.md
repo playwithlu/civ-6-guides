@@ -1,0 +1,3 @@
+# Roger I of Sicily (Civ6)/Civilopedia
+
+Roger (also known as Jarl Rogeirr) was the self-styled Norman Count of Sicily from the opening of his efforts to reclaim the island from the Muslims until his death 29 years later. Roger first went to Italy in 1057 AD to aid his greedy brother Robert Guiscard in taking Calabria from the Byzantines. In May 1061 the brothers decided to conquer the whole of Sicily. After they took Palermo in January 1072, Robert as suzerain invested Roger as “Count of Sicily.” In 1098 the Pope granted Roger and his heirs the Apostolic Legateship of the island as well.

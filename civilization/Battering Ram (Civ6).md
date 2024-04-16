@@ -1,0 +1,7 @@
+# Battering Ram (Civ6)
+
+The Battering Ram is an [List%20of%20units%20in%20Civ6/By%20class%23Support](support unit) in "[Civilization%20VI](Civilization VI)". Its purpose is to breach [City%20%28Civ6%29](city) [Walls%20%28Civ6%29](defenses).
+Strategy.
+A siege in ancient times was a grueling experience. [List%20of%20units%20in%20Civ6/By%20class%23Melee](Melee units) do significantly reduced damage versus city fortifications, which makes taking down [Ancient%20Walls%20%28Civ6%29](Ancient Walls) difficult. The Battering Ram solves this problem, allowing melee units (and [List%20of%20units%20in%20Civ6/By%20class%23Anti-cavalry](anti-cavalry units), in "") to do full damage to Walls! Note that you will still need to beat the Walls before attacking the city proper.
+The Battering Ram becomes [obsolete](obsolete) (cannot be produced anymore) after developing [Civil%20Engineering%20%28Civ6%29](Civil Engineering); it also becomes useless when the target [Civilizations%20%28Civ6%29](civilization) has itself developed [Urban%20Defenses%20%28Civ6%29](Urban Defenses). It can be upgraded then to a [Medic%20%28Civ6%29](Medic) and salvage at least some of its usefulness.
+In "Gathering Storm", the Battering Ram is useless against anything but Ancient Walls. This plays much better into the historical accuracy of the unit, and adds a new layer of sophistication to early-to-middle game tactics.

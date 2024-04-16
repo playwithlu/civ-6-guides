@@ -1,0 +1,3 @@
+# Utopia Project (Civ5)/Civilopedia
+
+The Utopia Project is the name for a somewhat amorphous vision of the future of the world. Depending upon who is doing the envisioning, it may include nuclear disarmament, universal peace, or a one-world government. Its proponents hope that it will stop nations and people from killing each other so often, increase the prosperity of everybody, and allow the world to address some growing global problems like climate change and international terrorism. Its opponents see the Utopia Project as a polite name for American (or now Chinese) hegemony.

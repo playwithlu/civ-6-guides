@@ -1,0 +1,5 @@
+# Ball Court (Civ4)/Civilopedia
+
+The Mesoamerican "Ball Game" (no native name has ever surfaced for the sport) originated in Southern Mexico, roughly two thousand years before the Common Era. By the time of the arrival of the Spanish, the game had become popular throughout Mexico, Guatemala and Belize, drawing crowds from both the upper echelons of society and the masses.
+While much of the game is still not understood, what is known is that two teams of two to four players each took to the field with the goal of keeping a small, rubber ball in the air by bouncing it off arms, hips and thighs. How the winner was decided is not known, but we do know that the losers often became the next sacrifice to the gods.
+The Ball Court held a deep religious significance for the Maya. Mayan Kings would often reenact a famous game between the God of the Underworld and the Heroes from the Popol Vuh, a Mayan sacred text. The King's victory on the Ball Court was said to be an omen of the continued survival of his city.

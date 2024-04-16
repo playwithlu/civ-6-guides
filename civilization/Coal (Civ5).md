@@ -1,0 +1,9 @@
+# Coal (Civ5)
+
+Game Info.
+Mid-game strategic resource. Used by [Factory%20%28Civ5%29](Factories) and [Ironclad%20%28Civ5%29](Ironclads).
+Strategy.
+ Coal is the first new strategic resource to become available after a long time with only and . is accessed with a [Mine%20%28Civ5%29](Mine) and used for two very specific things: [Ironclad%20%28Civ5%29](Ironclads), which are a transition between ships with sails and modern engine-based ships; and the construction of [Factory%20%28Civ5%29](Factories).
+Of these, the second is much more important, firstly because Factories are a major booster for a [City%20%28Civ5%29](city), and what's more, they're required for a [Civilizations%20%28Civ5%29](civilization) to adopt an [Ideology%20%28Civ5%29](Ideology) early. Since each Factory consumes 1 Coal, you will need at least 3 Coal to be among the first to adopt an Ideology and reap the free bonus Tenets.
+Along with , Coal is perhaps the rarest of all strategic resources - it is found in locations that are difficult to access, like [Jungle%20%28Civ5%29](Jungles), and its sources are much fewer than or . You will often realize that you have practically no Coal that you can easily access, or that the sources within your reach are much closer to another empire, and you will have to expand further to get it. You should be prepared for that come the [Industrial%20Era%20%28Civ5%29](Industrial Era), or you will be forced to trade for Coal for the rest of the game. Luckily, once you build a Factory, there doesn't seem to be any negative effect if you start consuming more Coal than you produce.
+Its second use, the Ironclads, are only a temporary drain - when you replace them with the later [Destroyer%20%28Civ5%29](Destroyer) you will liberate the Coal they used for more Factories.

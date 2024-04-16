@@ -1,0 +1,4 @@
+# Malietoa Savea (Civ5)/Civilopedia
+
+The Tu'i Tonga's empire included the Samoan islands, and Tu'i Tonga Talakaifaiki was among the most ruthless of those kings, an oppressive tyrant who took up residence in the Samoas.
+Three brothers, Savea, Tuna, Fata, and their nephew Ulumasui resisted the rule of Talakaifaiki. Samoan lore says that the campaign began with civil disobedience, but grew into a military campaign. Talakaifaiki was captured in the end, but Savea and his brothers and nephew spared the tyrant and sent him back to Tonga in canoes. Upon his departure, Savea gave a great oratory in honor of the occasion, and he was given the honorific "Malietoa", meaning "great warrior", and he became the first king of the Samoans. The title of Malietoa has since passed from king to king on the island of Samoa.

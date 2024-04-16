@@ -1,0 +1,3 @@
+# Double Agents (Civ5)/Civilopedia
+
+Double Agents in counterintelligence espionage are employees or member of an enemy organization who have agreed to spy on it but in fact remain loyal and spy on their controllers. The use of Double Agents to penetrate enemy spy rings has a long history, but came to the fore during World War II and the Cold War. British MI5 proved particularly adept at "turning" enemy agents, while during the Cold War the Soviet Union infiltrated both the CIA and British intelligence operations successfully.

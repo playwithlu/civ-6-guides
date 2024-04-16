@@ -1,0 +1,5 @@
+# Pottery (Civ2)
+
+ Pottery is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The invention of pottery was essential to the development of agricultural societies. To get the most out of seasonal crops and domesticated animals, a tribe needed sturdy, waterproof containers in which to store and protect surplus food. The discoveries of the properties of clay, the invention of the kiln, and the potter's wheel made it possible to build such containers. The earliest examples of Western pottery date back to as early as 6500 BC. Most of the examples from this period were strictly utilitarian. Although use continued to be primarily practical, decorative pottery soon became a ritualistic and aesthetic art form in cultures all over the world. Some of the most impressive examples of artistic pottery came from the pre-Columbian cultures of South America, and from the Ming dynasty in 14th century China.

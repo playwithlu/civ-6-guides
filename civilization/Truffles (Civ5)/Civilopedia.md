@@ -1,0 +1,3 @@
+# Truffles (Civ5)/Civilopedia
+
+A rare and expensive delicacy, truffles are the fruit of a family of mushrooms that grow underground. With a pungent aroma and powerful taste, truffles are used primarily for seasoning dishes in a variety of international cuisines. One of the more unusual aspects are the means by which they are acquired, that is via "truffle hog." These pigs, domesticated and used specifically for the purposed of finding underground truffles, are naturally gifted in the hunt. With an uncanny sense of smell, truffle hogs are said to have been in use since the Roman Era.

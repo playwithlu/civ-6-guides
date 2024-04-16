@@ -1,0 +1,3 @@
+# Laser (Civ4)/Civilopedia
+
+The laser, short for "Light Amplification by Stimulated Emission of Radiation," is a focused beam of photons, light energy released by excited atoms. Lasers rely on a phenomenon that occurs when a collection of atoms of certain elements are excited to the same state: they all release the same color of photon. When properly focused through reflective mediums, the result is a high-density beam of photons with innumerable uses, from military targeting to earthquake prevention.

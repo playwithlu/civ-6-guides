@@ -1,0 +1,3 @@
+# Military Strategy (Civ3)/Mesoamerica/Civilopedia
+
+There’s more to a military campaign than the tactical expertise of the soldiers involved. The broader, more “strategic” aspects of warfare play an important role, and in Mesoamerica, strategic concerns consistently played a role. For example, the Maya often utilized their priests to determine the proper ground and the proper time at which to fight. Military alliances were often forged to ensure military victory.

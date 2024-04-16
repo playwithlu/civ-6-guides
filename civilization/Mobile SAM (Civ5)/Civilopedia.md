@@ -1,0 +1,3 @@
+# Mobile SAM (Civ5)/Civilopedia
+
+As helicopters developed into more efficient killing machines, the infantry in turn developed weapons designed to combat the growing menace - not to mention the danger posed by jet fighters. Modern "SAMs" (surface-to-air missiles) are fast, light, and contain radar, allowing them to "lock on" to enemy aircraft and fly into them, exploding violently and doing all sorts of probably lethal damage to the fragile planes and choppers. In response more stealthy vehicles have been created and also better missile-jamming technology has been employed. Still, SAM launchers make it hot indeed for enemy aircraft, providing good protection to fellow ground-pounders from the airborne menace.

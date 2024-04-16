@@ -1,0 +1,3 @@
+# Lightning Warfare (Civ5)/Civilopedia
+
+Lightning Warfare, better known by the German term blitzkrieg, is a strategy that concentrates motorized forces to create a high-speed breakthrough of an enemy's lines. Using combined arms and tactical air power, Lightning Warfare seeks to keep an enemy off-balance, penetrating deep into the rear and attacking units flanking the breakthrough. Pioneered by Heinz Guderian and perfected by Erich von Manstein and Erwin Rommel, so effective was the blitzkrieg in Poland, France and Russia that the Soviet Union and Western Allies adopted it to ultimately defeat Nazi Germany.

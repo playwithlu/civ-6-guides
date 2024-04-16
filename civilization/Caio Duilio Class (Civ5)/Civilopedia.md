@@ -1,0 +1,3 @@
+# Caio Duilio Class (Civ5)/Civilopedia
+
+Two of the planned three Caio Duilia-class were built by the Italian Regia Marina in 1870s. These ocean-going ironclads were so revolutionary for their time, equipped with 100-ton rifled muzzle loaders and with 50mm armor plate, that the British scrapped their planned new class of battleship to design a counter to the Italian ships. Although the Caio Duilia and Enrico Dandolo never saw action and were scrapped in 1909 and 1920 respectively, they were deployed to the Mediterranean coast of Africa several times to protect or promote Italian interests.

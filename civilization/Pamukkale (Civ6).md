@@ -1,0 +1,8 @@
+# Pamukkale (Civ6)
+
+Pamukkale is a two-tile impassable available in "". Cities that own at least one wonder tile receive +1 , or +2 if an is built adjacent to the wonder. Pamukkale also provides a major to , , and districts and extra standard adjacency bonus (+3 total) to the [Holy%20Site%20%28Civ6%29](Holy Site) district.
+Each Pamukkale Wonder tile provides [Fresh%20water](Fresh water) and +2 to adjacent tiles.
+Discovering Pamukkale grants +1 [Era%20Score%20%28Civ6%29](Era Score), or +3 Score if the player is the first to do so.
+Strategy.
+Pamukkale is a decent Natural Wonder to settle nearby, as this Wonder makes it easier to get high adjacency bonus for districts, the most notable being the Theater Square which lacks natural map bonuses. It combines particularly well with [Australian%20%28Civ6%29](Australia), as they also get extra adjacency bonus from the [Appeal%20%28Civ6%29](Appeal) next to Natural Wonder, on top of the bonus of the Wonder itself. This Natural Wonder is usually decent for any type of Victory route you are going, but don't go out of your way to settle it if it becomes heavily contested as the bonuses fall off quickly and are not that important for having a strong game.
+Note that the bonus is given to a city when it gains control one of the wonder's two tiles. This bonus is permanent, so losing control of the wonder tile will not remove the bonus amenities. With careful planning up to 5 nearby cities can get the amenity bonus by swapping control of the Pamukkale tiles. For receiving the extra amenity from an (also permanent) the city needs to control one of the wonder tiles when completing the district, otherwise the bonus will not be awarded.

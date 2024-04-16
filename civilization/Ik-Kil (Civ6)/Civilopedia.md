@@ -1,0 +1,5 @@
+# Ik-Kil (Civ6)/Civilopedia
+
+Perhaps not the best place to visit for those with thalassophobia, Ik-Kil is a natural sinkhole into groundwater – a cenote – found in Yucatán, Mexico near Chichen Itza. The water can be found 85 feet below ground level, down a carved stairway amongst draping vines and falling water. The water at the base of the hole is 200 ft across and 164 ft deep, and available for tourists looking to swim or snorkel among the black catfish.
+Cenotes were sacred to the Mayan residents of the area, providing fresh water and a space for ritual ceremonies, including human sacrifice – though there is no evidence that Ik-Kil was used for this purpose.
+These geographic marvels can be found throughout the world, but there is a very high concentration in Mexico - over 6000 of varying sizes known in Yucatán alone.

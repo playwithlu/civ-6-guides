@@ -1,0 +1,3 @@
+# Dál Riata
+
+Dál Riata, also known as Dál Riada, Dalriada, or Dalraida, is the [Celtic](Celtic) [capital](capital) in the [Fall%20of%20Rome%20%28Civ3%29](Fall of Rome) and [The%20Middle%20Ages%20%28Civ3%29](The Middle Ages) [List%20of%20scenarios%20in%20Civ3](scenarios) in "". To date, it has appeared only in [scenario](scenario)s. In real life, it was a Gaelic kingdom that encompassed the western seaboard of [Scottish](Scotland) and north-eastern [Irish](Ireland), on each side of the North Channel.

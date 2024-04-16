@@ -1,0 +1,5 @@
+# Integrated Space Cell (Civ6)
+
+Integrated Space Cell is a Military [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Integrated Space Cell enables players who focused on building their army and navy in the earlier [Era%20%28Civ6%29](eras) to shift their focus to a [Victory%20%28Civ6%29%23Science](Science Victory) once they start building [Spaceport%20%28Civ6%29](Spaceports). Every [City%20%28Civ6%29](city) with a [Military%20Academy%20%28Civ6%29](Military Academy) or a [Seaport%20%28Civ6%29](Seaport) will receive a bonus toward Space Race [Project%20%28Civ6%29](projects) ([Launch%20Earth%20Satellite%20%28Civ6%29](Launch Earth Satellite), [Launch%20Moon%20Landing%20%28Civ6%29](Launch Moon Landing), etc.), which will provide an overview of the [Map%20%28Civ6%29](map) and a massive bonus that even players who aren't aiming for a Science Victory can enjoy.

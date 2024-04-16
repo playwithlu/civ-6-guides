@@ -1,0 +1,11 @@
+# Pantheon (Civ6)
+
+Pantheons in "[Civilization%20VI](Civilization VI)" are simple religious structures that focus on [Terrain%20%28Civ6%29](terrain) bonuses.
+Pantheons are the first demonstrations of spirituality, preceding established [Religion%20%28Civ6%29](religions). Pantheons worship a number of minor gods, usually related to nature and natural phenomena, and provide minor bonuses, usually based on terrain, or linked to specific [Tile%20improvement%20%28Civ6%29](tile improvements).
+Mechanic.
+A Pantheon is founded automatically by each empire as its starts accumulating. In "Civilization VI", all Pantheons require 25 (on Standard [Speed%20%28Civ6%29](speed)), regardless of how many other Pantheons have been created already. 
+Unlike in "[Civilization%20V](Civilization V)", a civilization's Pantheon will not get overwritten by foreign religions converting its [City%20%28Civ6%29](cities); only that religion's will be replaced that way. This means that a player will be able to use his or her Pantheon bonus even without managing to found a full religion, or after founding a religion that gets wiped out. However, despite staying with you through the whole game this time, most Pantheons are still mostly just a stepping stone towards creating a religion, and thus it is encouraged not to just settle with a pantheon if you are hoping to gain power from .
+Strategy.
+Pantheons can be sorted into three broad types: Additional yield, Adjacency bonuses and other bonuses.
+Generally, adjacency-bonus pantheons are a safe choice if you are already near the relevant terrain, with their large influx of faith enabling religious war and compensating for low yields by providing a different currency to buy units or resources (through , the or certain ). On the other hand, additional-yield ones are more risky, as you may not have enough territory explored to evaluate how much of a given resource sets you are likely to have access too. In one case (), you will probably not be able to see more than one, if any, of the possible resources! Some of the generic bonuses are quite weak and not worth the trouble, but others (notably and ) are almost always a potentially useful choice.
+For strategic details about specific pantheons, see their individual pages.

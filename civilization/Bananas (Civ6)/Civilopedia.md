@@ -1,0 +1,3 @@
+# Bananas (Civ6)/Civilopedia
+
+Tasty and nutritious, bananas and the less-sweet plantains are the product of large, herbaceous flowering plants found in tropical climates. First cultivated in New Guinea and Southeast Asia, records (mostly folk tales) suggest that bananas were first purposely grown in the Kuk Swamp around 5000 BC. In time, traders carried banana plants to Madagascar, and the cultivation of these spread across Africa to be discovered by Europeans looking for a new treat.

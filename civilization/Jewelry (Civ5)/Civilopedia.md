@@ -1,0 +1,3 @@
+# Jewelry (Civ5)/Civilopedia
+
+Jewelry is a term used to refer to articles of gold, silver, gems, and other precious materials, worn with no other purpose in mind aside from personal adornment. Ancient forms of jewelry discovered in Africa indicate that these adornments were used more than 50,000 years ago, when beads, shells, and bone were worn in a decorative fashion. In the past 5,000 years, gold has been the primary material used in jewelry, as its malleable nature and distinctive styling allowed for increasingly complex designs that spoke to the wealth of its owner.

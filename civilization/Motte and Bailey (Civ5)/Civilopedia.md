@@ -1,0 +1,3 @@
+# Motte and Bailey (Civ5)/Civilopedia
+
+A design first attributed to the Normans in the 10th century, the motte-and-bailey was a type of elevated castle built on top of a raised earthwork mound. The Motte was formed by digging a trench around the prospective castle site. The leftover fill-dirt was then used to construct an artificial hill or mound, upon which the castle itself was built. The "Bailey" refers to the lower courtyard, typically enclosed by a large wall, containing a barracks, servants' quarters, and storage buildings.

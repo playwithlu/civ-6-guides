@@ -1,0 +1,5 @@
+# Leaning Tower of Pisa (Civ4)
+
+The Leaning Tower of Pisa is a [List%20of%20wonders%20in%20Civ4](wonder) in the [Rhye%27s%20and%20Fall%20of%20Civilization%20%28Civ4%29](Rhye's and Fall of Civilization) [Mods%20%28Civ4%29](mod) for "[Civilization%20IV](Civilization IV)".
+Background.
+The Leaning Tower of Pisa, or simply The Tower of Pisa (Italian: La Torre di Pisa) is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa. It is situated behind the Cathedral and it is the third structure in Pisa's Campo dei Miracoli (field of Miracles). The tower is the most famous leaning building in the world. While intended to stand vertically, it began leaning to the southeast soon after the onset of construction in 1173 due to a poorly laid foundation and loose substrate that has allowed the foundation to shift.

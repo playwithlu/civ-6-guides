@@ -1,0 +1,3 @@
+# Economic Union (Civ5)/Civilopedia
+
+An Economic Union is a trade bloc composed of a common market and a customs union. Participating nations have common policies on production regulations, freedom of commerce across borders, tariffs and taxes, and a joint external trade policy; in some cases, the union may also have or promote a common currency. The most successful economic unions to date have been the European Union formed in 1993 and the Caribbean Community formed in 1973.

@@ -1,0 +1,3 @@
+# Conquistador (Civ4)/Civilopedia
+
+Following Columbus, a Spanish military group known as Los Conquistadores, "The Conquerors", were directed by Hernan Cortes to the New World with the sole purpose of seeking out new frontiers and riches in the unknown. The Conquistadors undertook their expeditions in the vast landmasses of the Americas at their own expense, risking their lives without aid from the Spanish royalty. Horses adorned with many bells enabled the Conquistadors to launch successful offenses against the American Indian natives, who had never seen a horse before the arrival of the Conquistadors. Spanish-Conquistador conquests include campaigns in Mexico, Guatemala, Peru, Cuzco, Colombia, Chile, the Bay of Honduras, and the Pacific Coastal regions.

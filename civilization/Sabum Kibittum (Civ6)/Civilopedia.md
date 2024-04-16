@@ -1,0 +1,3 @@
+# Sabum Kibittum (Civ6)/Civilopedia
+
+After Hammurabi’s time, Babylon was occupied by the Assyrians, who reshaped Mesopotamian warfare. The Assyrian king Tiglath Pileser III took up what was originally a collection of conscripted farmers and made from them an integrated army, with different units taking up different tasks (e.g. supply lines, communication, engineering, etc). Further, the Assyrian troops used iron weapons, when most of their contemporaries were still using bronze. The Assyrian sabum kibittum – shock troops – would have been terrifying. What they left behind certainly was; in their monuments, Assyrian kings repeated, “I destroyed, I devastated, and burned with fire.”

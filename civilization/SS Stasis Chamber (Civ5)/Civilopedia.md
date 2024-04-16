@@ -1,0 +1,3 @@
+# SS Stasis Chamber (Civ5)/Civilopedia
+
+The Alpha Centauri spaceship will carry over 3000 colonists plus a variety of plants and animals. Carrying enough food, water and oxygen for that many people for a trip of many years is impossible, even with close to 100% recycling of waste products. Instead, the colonists will make the journey in "cold sleep," which reduces their need for oxygen and nutrients to a fraction of what they would need if awake and active. Aging is slowed somewhat by this process but not halted, and the colonists will emerge some two years older biologically for each decade that passes in flight.

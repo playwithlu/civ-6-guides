@@ -1,0 +1,8 @@
+# Byzantine (Civ3)
+
+The people (or Eastern Romans) represent a [Civilizations%20%28Civ3%29](civilization) in "". They are led by [Theodora%20%28Civ3%29](Theodora).
+Civilopedia entry.
+In "Civilization III: Conquests", the Byzantines are considered a [Seafaring%20%28Civ3%29](Seafaring) and [Scientific%20%28Civ3%29](Scientific) civilization. They start the game with [Bronze%20Working%20%28Civ3%29](Bronze Working) and [Alphabet%20%28Civ3%29](Alphabet) and are able to build the [Dromon%20%28Civ3%29](Dromon) instead of the [Galley%20%28Civ3%29](Galley).
+Unique Unit: the Dromon.
+Byzantine Dromons are a type of galley with an enhanced offensive capability, as it can let loose a hot stream of "Greek Fire". The Dromon has Lethal Sea Bombardment. The dromon was the end result of Byzantine ingenuity applied to old Greek ship designs. Powered by rowers, its primary virtue was its versatility -- the wide, flat decks could be mounted with a variety of weapons. There were many classes of dromon, from light escort and reconnaissance designs to heavy warships. Dromons often included mini-forts made of wood from which marines could sally forth or fire bows, as well as catapults, rams, ballistae, and later, Greek fire launchers. These dangerous and devastating primitive flamethrowers spelled death to enemies in an age where all ships were made of flammable wood and crew were constantly exposed on the upper decks.
+Byzantine Dromons are a type of Galley unit which enjoys enhanced offensive capabilities.

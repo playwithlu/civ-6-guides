@@ -1,0 +1,7 @@
+# Caravansaries (Civ6)
+
+Caravansaries is an Economic [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+One of the earliest Economic Policy Cards, Caravansaries isn't much good in the beginning of the game, simply because you have few s and precious few Economic slots in your [Government%20%28Civ6%29](government) (so usually you have better cards to use, such as [Urban%20Planning%20%28Civ6%29](Urban Planning)). However, when you develop the first real governments, and have 3+ s, Caravansaries becomes very useful for maintaining a full treasury. One of the best things about it is that it affects both international "and" domestic routes, so it doesn't matter whether you're trading proper with other [Civilizations%20%28Civ6%29](civilizations), or boosting your own [City%20%28Civ6%29](cities) - the bonus will apply to all your routes!
+Civilizations with the ability or motivation to trade in the early game can make great usage of this card, most notably [Roman%20%28Civ6%29](Rome), [Malian%20%28Civ6%29](Mali), and [Portuguese%20%28Civ6%29](Portugal).
+Caravansaries becomes obsolete only in the [Renaissance%20Era%20%28Civ6%29](Renaissance Era), so it will be good for a good half of the game.

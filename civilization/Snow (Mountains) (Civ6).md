@@ -1,0 +1,2 @@
+# Snow (Mountains) (Civ6)
+

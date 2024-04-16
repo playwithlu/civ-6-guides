@@ -1,0 +1,4 @@
+# Ballista Elephant (Civ4)/Civilopedia
+
+Used as weapons of war from Rome to China, nowhere did the War Elephant become a more essential part of battle than in Southeast Asia. The animals' massive size allowed them to trample infantry and their unsettling smell caused horses to panic and flee, giving the beast a stunning tactical advantage in the field. But it was the sheer strength of the War Elephant that proved to be its greatest asset.
+While towers and howdahs were an essential part of a War Elephant's accoutrement across the world, it was the Khmer that perfected the deployment of the great siege crossbow, the ballista, deployed on the back of a mountainous pachyderm. This made both elephant and ballista more deadly than ever: the panic-inducing character of the elephant granted the ballista protection from flanking cavalry, while the elephant suddenly became a fearsome ranged implement of destruction.

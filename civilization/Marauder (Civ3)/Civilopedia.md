@@ -1,0 +1,3 @@
+# Marauder (Civ3)/Civilopedia
+
+The marauder is the second level of barbarian in Fall of Rome. They represent the increased level of barbarian activity after 370 AD, the year that the Huns swept into Europe from the steppes and forced the Germanic barbarians to move west against Rome. The most decisive battle of this period was the Visigoth defeat of the Eastern Emperor Valens at Adrianople in 378 AD.

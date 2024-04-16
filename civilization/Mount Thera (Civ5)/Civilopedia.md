@@ -1,0 +1,3 @@
+# Mount Thera (Civ5)/Civilopedia
+
+The Thera eruption (also known as the Minoan Eruption), was a devastatingly powerful volcanic blast on a small island off the southeast coast of Greece that destroyed a number of small Minoan settlements. Occurring sometime around 1600 BC, the eruption is considered one of the most powerful in human history, reaching a magnitude 7 on the Volcanic Explosivity Index scale of 1 to 8. Today, the small chain of islands formed from the volcanic caldera is known collectively as Santorini, a popular tourist destination on the Aegean Sea.

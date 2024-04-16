@@ -1,0 +1,3 @@
+# Cinnamon (Civ6)/Civilopedia
+
+According to the Roman writer Pliny, a Roman pound (about 11.5 ounces) of cinnamon cost up to 300 denarii … ten months wages for a common laborer in the city. Cinnamon has been used since antiquity, as a medicine, aphrodisiac, and to flavor both sweet and savory foods. It was imported into Egypt as early as 2000 BC, and was so highly prized among the Greeks that small amounts were given as gifts to Apollo at his temple at Miletus. So valuable was the spice that traders kept the source (the bark of Cinnamomum trees found in Sri Lanka and on the Malabar coast of India) secret for centuries.

@@ -1,0 +1,3 @@
+# Parks and Recreation (Civ6)/Civilopedia
+
+Expanding awareness about the importance of public land and public recreation (especially around the Progressive Era in the 20th Century) led to the formation of government agencies to oversee the effective use of these public goods. The sight of a busy public park on a pleasant day is calculated to raise the spirits—not only of the Parks and Recreation Commission, but of any civic-minded citizen.

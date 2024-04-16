@@ -1,0 +1,6 @@
+# Port Facility (Civ2)
+
+ A [Port%20Facility](Port Facility) is a [List%20of%20buildings%20in%20Civ2](building) in "[Civilization%20II](Civilization II)" that allows the production of sea units. Any sea unit that spends its entire turn in the city is also completely repaired.
+Like Harbor, Coastal Fortress and Offshore Platform, this improvement cannot be built unless the city is adjacent to at least one ocean tile.  A city that is not adjacent to an ocean tile, but includes ocean tiles in its radius, cannot build any of the littoral improvements.
+Civilopedia entry.
+Seagoing vessels have been used for both commercial transport and military purposes for thousands of years. Cities built on rivers and on the coasts of seas and oceans built facilities to receive cargo and to house military vessels stationed in the area. Many of the larger cities built large port facilities that included shipyards for the construction of new vessels, large warehouse and docking facilities, and dry-docks for the repair of damaged vessels. Heavily damaged ships can be repaired much more quickly when such facilities are available.

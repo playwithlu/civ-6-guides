@@ -1,0 +1,3 @@
+# Pracinha (Civ5)/Civilopedia
+
+After 18 Brazilian merchant ships were sunk by German submarines in the Atlantic, Brazil declared war against Nazi Germany and Fascist Italy in December 1942 AD, joining the Allies. In early 1944, 27,500 men and women were trained for the Brazilian Expeditionary Force, known in their homeland as "pracinhas brasileiros". Their combat exploits were followed closely by the Brazilian populace, proud of the fact that their nation was the only one in South America to take an active role in Europe. Although lighter armed than their American and British counterparts, the Brazilian regiments fought with an elan and ferocity that brought praise and honors, but suffered almost 1000 killed in the campaign.

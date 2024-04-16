@@ -1,0 +1,3 @@
+# Silk (Civ6)/Civilopedia
+
+A natural protein fiber, silk is produced by insect larvae to create cocoons. The best quality of silk comes from the cocoons of the mulberry silkworm, as the Chinese discovered around 3630 BC (archeologists uncovered the body of a child of that period in silk wrappings). Legend presents the Empress Leizu as developing silk weaving, which spread throughout the Far East during her reign. Soon enough it was carried along the Silk Road, becoming China’s notable export to the West.

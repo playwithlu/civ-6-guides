@@ -1,0 +1,3 @@
+# German
+
+The German people represent Germany, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)". Their [capital](capital) might be [Aachen](Aachen), [Berlin](Berlin), [Munich](Munich), or [Regensburg](Regensburg), and they can be led by [Brunhild](Brunhild), [Frederick%20II%2C%20Holy%20Roman%20Emperor](Frederick II, Holy Roman Emperor), [Frederick%20Barbarossa](Frederick Barbarossa), [Frederick%20the%20Great](Frederick the Great), [Ludwig%20II](Ludwig II), [Maria%20Theresa](Maria Theresa), [Otto%20the%20Great](Otto the Great), or [Otto%20von%20Bismarck](Otto von Bismarck).

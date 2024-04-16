@@ -1,0 +1,3 @@
+# Field Hospitals (Civ5)/Civilopedia
+
+Before the Civil War, armies tended to be small, mostly due to logistic and mobilization issues. But the larger, more rapidly moving armies and the increasing lethality of the weaponry brought a demand by civilians and officers alike for a better method of treating the wounded. On the Union side, following the Battle of Bull Run General McClellan appointed surgeon Charles Tipler the first medical director for the Army of the Potomac; in 1862 William Hammond was named Surgeon general of the United States and launched a number of reforms in the evacuation, treatment and recovery procedures for the wounded, including integrated field hospitals operating right at the front lines.

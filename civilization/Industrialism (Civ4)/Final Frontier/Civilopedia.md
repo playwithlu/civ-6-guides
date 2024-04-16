@@ -1,0 +1,3 @@
+# Industrialism (Civ4)/Final Frontier/Civilopedia
+
+The inevitable malaise that ensued after the widespread implementation of the Mechanized Workforce was wiped away by a manufacturing organization known as MaKGarry Corp, creators of the Universal Recycler. Bringing a shock of human creativity to a stale mechanized industrial landscape, MaKGarry Corp collected an immense sum of investment capital and subsequently set the new gold standard in Industrialist achievement. Its forethinking engineers created the first truly grand-scale Manufacturing Plants, some encompassing entire planets, and many of which have the highest production output of any facilities to date.

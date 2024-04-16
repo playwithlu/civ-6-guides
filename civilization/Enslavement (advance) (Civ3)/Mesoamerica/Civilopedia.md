@@ -1,0 +1,3 @@
+# Enslavement (advance) (Civ3)/Mesoamerica/Civilopedia
+
+Slaves were an integral part of Mesoamerican society. Slaves were obtained, primarily, through warfare. For the Maya, the acquisition of slaves through battle was a primary reason for war. Slaves were used as cheap laborers and for ritual sacrifice to the gods. Some of the most powerful and prestigious people in Aztec society were the tlaltlani (or “bathers of slaves”) slave traders.

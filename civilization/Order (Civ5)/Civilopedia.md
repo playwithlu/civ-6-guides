@@ -1,0 +1,3 @@
+# Order (Civ5)/Civilopedia
+
+The policy of order values stability above all else. Order is what people most crave - that tomorrow will be the same as today - and that society won't come crashing down on their heads, leaving them prey to the barbarians waiting in the wilderness. Chaos is the most terrible affliction that mankind can suffer, and all so-called "freedoms" are subservient to the necessity to protect against it.

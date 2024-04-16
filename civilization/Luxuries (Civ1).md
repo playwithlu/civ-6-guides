@@ -1,0 +1,5 @@
+# Luxuries (Civ1)
+
+Luxuries are a resource in the city resource window shown as diamonds. They are used to make citizens content or happy (stopping [Civil%20disorder%20%28Civ1%29](civil disorder) and creating [We%20Love%20the%20King%20Day%20%28Civ1%29](We Love the King Days)). They are produced by [Specialists%20%28Civ1%29](Entertainers) and from [Trade%20%28Civ1%29](trade); the amount of luxuries created by trade can be changed by adjusting the luxury rate (directly under the tax rate option).
+Civilopedia entry.
+The supply of luxury goods for the inhabitants of your city is indicated by the shining diamonds in the resource window of the city display screen. Each pair of the luxuries makes an unhappy citizen content or a content citizen happy. The amount of luxury goods made by a city depends primarily on your civilization's rate of luxury goods, and the percentage of each city's trade that arrives as luxury goods. You can change this rate by re-adjusting your tax rate from the Game menu.

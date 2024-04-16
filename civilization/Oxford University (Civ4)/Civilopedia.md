@@ -1,0 +1,5 @@
+# Oxford University (Civ4)/Civilopedia
+
+The University of Oxford, England, is the oldest university in the English-speaking world. It is also one of the most prestigious. The exact date of the university's founding is unknown, but scholars believe it was some time around 1100 AD.
+Oxford is made up of 39 colleges and seven "permanent private halls" (which are religious organizations). Each is housed in a separate building usually built in a square around a quadrangle. The colleges generally consist of a great hall, a chapel, a library, a bar, several common rooms, classrooms, and lodging for around 300 students. Built in the 1250s, Balliol, Merton, and University Colleges are among the oldest.
+For most of its existence, Oxford has been one of the world's great universities, and it remains so to this day. Many famous people have passed through its halls, including four English and eight foreign kings, over 50 presidents and prime ministers (including US President William Clinton), 47 Nobel Prize winners, and one pope.

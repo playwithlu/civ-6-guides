@@ -1,0 +1,4 @@
+# Aleppo
+
+Aleppo, also known by its historical names of Ḥalab or Halep, is an [Arabian](Arabian), [Assyrian](Assyrian), [Hittite](Hittite), [Mongol](Mongol)ian, [Ottoman](Ottoman), and [Persian](Persian) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and a [Babylonian](Babylonian) city in "[C-evo](C-evo)". In real life, it is a city in present-day Syria and the country's most populous city after [Damascus](Damascus).
+In [scenario](scenario)s, it may appear as the [Turkish](Turkish) [capital](capital) in [Into%20the%20Renaissance](Into the Renaissance) and an [Abbasid](Abbasid) city in others.

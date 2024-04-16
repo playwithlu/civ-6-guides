@@ -1,0 +1,5 @@
+# Specialists (CTP1)
+
+Specialists are workers that have been removed from working on map tiles and dedicated to the creation of one type of game resource. Each type of specialist produces one distinct effect. s increase city happiness, s earn extra gold, s conduct extra research, and s augment the city production. As a city's population grows, it will become more desirable to remove workers from the workview and hire them as specialists. Remember that specialists produce no food. If you want to support a large number of specialists in a city, you will need to have the city's workers grow enough food for all.
+Great Library entry.
+By the end of the 20th century, less than 2 percent of the population in most post industrial countries were engaged in the production of food. Without the need to spend their days hunting or tilling the soil people were freed to spend their time in a variety of specialized pursuits. Entertainment, science, finance, retail, and marketing replaced farming and fishing as the primary occupations in most urban areas, leading to an overall increase in material wealth, education, and industrial output. 

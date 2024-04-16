@@ -1,0 +1,5 @@
+# University of Sankore (Civ6)/Civilopedia
+
+Located within and around the pyramidal Sankore Mosque in Timbuktu, Sankore Madrasah was an ancient higher learning center that became especially prominent during the reign of Mansa Musa.
+The university operated differently than most modern universities today – instead of a central administration, the school was made up of independent schools with their own professors, and classes would take place outside in the courtyards or private homes. Though this may seem a bit more casual than what modern students experience, the University of Sankore was a renowned Islamic learning center. Curricula included Qur'anic studies of course, but also secular studies such as medicine, geography, physics, history, and art. The university offered four tiered degrees followed by graduation ceremonies during which students wore traditional turbans to represent their great accomplishments.
+In the 1590s, the Moroccan invasion of Mali pushed many scholars to leave – some were deported, while others fled – and much of the work of the university was destroyed.

@@ -1,0 +1,6 @@
+# Desert (Hills) (Civ6)
+
+Desert (Hills) is a base [Terrain%20%28Civ6%29](terrain) in "[Civilization%20VI](Civilization VI) "which is a variant of other [Tile%20%28Civ6%29](tiles). Like other Desert tiles, they are usually found in equatorial regions.
+Desert Hills provide 1 . Desert Hills may be improved with s, which makes them vastly more productive than other Desert tiles. All [Hills%20%28Civ6%29](Hills) have a +3 Combat Strength modifier, which can strengthen city defenses, as well as protect vulnerable units.
+Strategy.
+Desert Hills are rarely a first choice for improvement or priority when settling, considering their relative lack of yields even with a [Resource%20%28Civ6%29](resource). However, for civilizations like [Australian%20%28Civ6%29](Australia) and [Malian%20%28Civ6%29](Mali), or a city intending to build [Jebel%20Barkal%20%28Civ6%29](Jebel Barkal), [Petra%20%28Civ6%29](Petra), or the [University%20of%20Sankore%20%28Civ6%29](University of Sankore), they can be useful or even highly productive!

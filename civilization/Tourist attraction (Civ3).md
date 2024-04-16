@@ -1,0 +1,3 @@
+# Tourist attraction (Civ3)
+
+A [List%20of%20wonders%20in%20Civ3](Great Wonder) can become a Tourist attraction once it has "stood the test of time" for over 1000 years. A tourist attraction then begins to attract [Commerce%20%28Civ3%29](commerce) to the [City%20%28Civ3%29](city) in which it is constructed, which steadily increases as time passes and its fame spreads. An attraction that has been built for over 1000 years but less than 1501 years produces two gold for its owning city; one that's been around for over 1501 years but less than 1751 produces four gold, etc.

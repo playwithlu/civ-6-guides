@@ -1,0 +1,7 @@
+# Greek (Civ3)
+
+The Greeks are a playable [List%20of%20civilizations%20in%20Civ3](civilization) in "[Civilization%20III](Civilization III)". They are led by [Alexander%20%28Civ3%29](Alexander), who is inaccurately portrayed with dark hair.
+The Greeks are [Scientific%20%28Civ3%29](Scientific) and [Commercial%20%28Civ3%29](Commercial). They start the game with [Bronze%20Working%20%28Civ3%29](Bronze Working) and [Alphabet%20%28Civ3%29](Alphabet) and build [Hoplite%20%28Civ3%29](Hoplites) instead of [Spearman%20%28Civ3%29](Spearmen).
+Unique Unit: Hoplite.
+The Hoplite was one of the first soldiers of the ancient world to fight in formation. The well-known "phalanx" formation that has become synonymous with the Greek hoplite was actually first used by the Sumerians as early as 2500 B.C, but the Greeks made it famous. Armed with a sword and a 6-foot-long pike, clad in a helmet, breastplate, greaves, and a shield, the Hoplite was the biggest, baddest bully on the playgrounds of the Mediterranean.
+The Hoplite is an upgraded version of the standard Spearman. Its defense rating of 3 makes it a formidable protector for cities and colonies that will not be outclassed until the [Pikeman%20%28Civ3%29](Pikeman) is available.

@@ -1,0 +1,3 @@
+# Trading Dome (Civ6)/Civilopedia
+
+One of the most innovative architectural features of Samarkand are its domes. Not content with building one dome above a structure, architects piled dome upon dome, linking them together to make a stable but spacious internal space. On the inside, many of these are decorated with elaborate Islamic muqarnas – ornate decorative vaults. The Chorsu bazaar, the trading dome at the intersection of the roads linking Bukhara, Samarkand, and Tashkent, is an example of this kind of architecture. Inside the bazaar during Samarkand’s height would have been goods and people from China, India, Europe, and the Middle East – virtually the entire known world.

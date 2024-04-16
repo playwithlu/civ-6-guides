@@ -1,0 +1,4 @@
+# Religious Orders (Civ5)/Civilopedia
+
+In many world religions, there exist special communities and organizations of devout individuals who live apart from the majority of society, usually to keep more perfectly in line with their specific religious beliefs. These religious orders often take the physical form of monasteries, a building or complex where the pious can work and live.
+While in some religious orders were content to reside and pray in their native countries, some instead were founded for the sole purpose of expansion and spreading their beliefs to new peoples. The Jesuit missionaries in the Americas were one such religious order. These Jesuits traveled across the Atlantic and set up monasteries and missions on the American soil, where they taught the local people the tenants of their faith and the basics of western education.

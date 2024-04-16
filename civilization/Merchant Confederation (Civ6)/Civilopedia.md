@@ -1,0 +1,3 @@
+# Merchant Confederation (Civ6)/Civilopedia
+
+More commonly referred to as a commercial league, a merchant confederation was created to protect the economic interests and diplomatic privileges of merchants in cities and kingdoms along trade routes. Although such confederations rarely had official standing, several – such as the Company of Merchant Adventurers of London (founded in 1407 AD) and the even more powerful Hanseatic League (formed c. 1356) – had enormous influence. These, and others, could dominate the trade in a specific commodity or across a specific region for lengthy periods. These merchant confederations would reach their peak during the 15th and 16th centuries, but rapidly decline afterward.

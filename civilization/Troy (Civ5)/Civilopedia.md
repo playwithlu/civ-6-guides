@@ -1,0 +1,3 @@
+# Troy (Civ5)/Civilopedia
+
+The legendary city of Troy, presumed to have reached its pinnacle in the 3rd and 2nd millennium BC, was a prosperous center of trade on the Aegean Sea. Featured predominantly in Homer's epic poem the "Iliad," the city was long thought to have been purely mythological. However, archaeological discoveries in the 19th century unearthed remnants in modern Turkey believed to have been the city of Troy.

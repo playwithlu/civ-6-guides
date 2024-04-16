@@ -1,0 +1,5 @@
+# Jacques Marquette (Civ4Col)
+
+Civilopedia.
+Lived: 1637-1675
+The discoverer of the Mississippi River, Jacques Marquette was an important early French explorer. Trained as a Jesuit priest, Marquette was sent to the New World in 1666 to convert the natives to Catholicism. Learning numerous Huron dialects to further his mission, Marquette took upon himself the task of searching out new tribes to convert and mapping the area along the Mississippi so that forthcoming missionaries could bring religion to the natives of the region. Setting off in 1673, Marquette and his party made their way down the Mississippi, meeting and mapping all they encountered. Near the tributary to the Arkansas River, they found what they sought - that the great Mississippi River flowed into the Gulf of Mexico. Returning northwards, the information which the party provided was to be essential for further expansion and protection of this new acquisition into the French colonies. Marquette and his party had effectively discovered what would later become the heart of all commerce within New France.

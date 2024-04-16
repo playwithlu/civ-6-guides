@@ -1,0 +1,4 @@
+# Monasticism (Civ3)/Civilopedia
+
+During the Dark Ages, many Christian clergy came to the view that withdrawal from the fallen world was the only way to maintain spiritual purity and to properly atone for one's sins. Some monastic orders depended entirely on charity to support their works; others tried to be self-sufficient.
+Another element of monasticism was to offer particular honor to a saint whose values deserved special veneration. Two of the most influential monastic orders were the Dominicans, who emphasized learning and theological research (the great Catholic theologian St. Thomas Aquinas was a Dominican) and the Franciscans, whose vows of poverty were perhaps the most demanding of any order's.

@@ -1,0 +1,4 @@
+# Ikanda (Civ6)/Civilopedia
+
+The ikanda (also known as a “kraal” or “umuzi”) were self-sufficient, fortified Zulu homesteads. A double palisade protected its residents—the inner wall kept livestock in and the outer wall kept interlopers out. Ikanda were ideally placed uphill for reasons both practical and strategic: rainwater flowed downhill to clean the ikanda, while opponents were forced to attack an elevated position.
+Shaka’s revolutionary changes to the military capitalized on the traditional Zulu age-grade system. Young men of the same age lived, trained, and fought together in regiments, relying on the ikanda’s bounty to provide their food, arms, and armor.

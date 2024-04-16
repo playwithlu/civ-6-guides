@@ -1,0 +1,4 @@
+# Hit Singles (Civ4)/Civilopedia
+
+Music is an art form that involves audible sound. The sound may be created by human voices, percussion, by hitting or strumming strings under tension, by blowing air across a reed, and so forth. It is impossible to date the origins of music, but instruments made of stone and bone have been discovered dating back more than 45,000 years. Every culture known has developed its own forms of music.
+It is impossible to imagine what the earliest forms of music sounded like. It was impossible to record any kind of music until the invention of musical notation. It is believed that ancient Egypt had some form of musical notation dating to 3000 BC, while the Greeks were notating music in 200 BC. The current western style of musical notation is credited to Guido d'Arezzo around 1020 AD.

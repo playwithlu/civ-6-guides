@@ -1,0 +1,3 @@
+# Civil Society (Civ5)/Civilopedia
+
+In a civil society, the people freely and of their own volition work to better the world around them. They join civic organizations. They pick up the trash in front of their homes and places of business. They adopt stray pets. They attend school board meetings and vote in elections. Countries with active civil societies are generally cleaner, more efficient, and happier than those without.

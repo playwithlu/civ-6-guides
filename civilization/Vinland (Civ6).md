@@ -1,0 +1,5 @@
+# Vinland (Civ6)
+
+Vinland is a 3-tile impassable available from the [Vikings%2C%20Traders%2C%20and%20Raiders%21%20%28Civ6%29](Vikings, Traders, and Raiders!) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". Vinland may be found in [Ocean%20%28Civ6%29](Ocean) [Tile%20%28Civ6%29](tiles) on the western boundary of the map. It is not connected to any other land tiles, though it does provide +1 and +1 to the adjacent Ocean tiles.
+Strategy.
+Activating [Great%20Admiral%20%28Civ6%29](Great Admirals) next to Vinland provides the player with a large chunk of [Victory%20Points](Victory Points) (1000 VP for activating the first Great Admiral adjacent to Vinland, 500 VP for the second, 300 VP for the third, and 100 VP for each one thereafter). Though reaching Vinland early in the game can determine its outcome, Vinland is impassable, featureless, and very remote (roughly 30 tiles away from the western coast of Europe), and therefore has little tactical value once it has been claimed.

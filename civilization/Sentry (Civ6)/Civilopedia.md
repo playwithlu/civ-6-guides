@@ -1,0 +1,3 @@
+# Sentry (Civ6)/Civilopedia
+
+The importance of holding the high ground has been recognized since Sun Tzu advised that any general hoping for victory should seize it – or at least make sure the enemy didn't. It was hard to charge uphill, or throw rocks, javelins, and the like uphill. Conversely, it was easier to charge or throw things downhill. Holding the high ground also provides longer lines of sight than mucking about in valleys. General Ji Ling of the Eastern Han dynasty sent lookouts to positions of high ground to provide early warning of encroaching barbarians. He wasn't the first, or last, to post sentries on hilltops.

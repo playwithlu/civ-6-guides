@@ -1,0 +1,4 @@
+# Cultural Hegemony (Civ6)/Civilopedia
+
+Certain cultures become so ubiquitous that they produce an almost gravity-like effect on the other cultures around them, shaping those cultures either by directly replacing them, or by being substantially incorporated within the culture. Rome, for instance, was a cultural hegemon of the Mediterranean. China exerted a hegemonic effect on a greater area of Asia, and for longer. The English language is accused of being a hegemonic force in the present age.
+Cultural Hegemony is seen as a negative by those cultures affected by it, as the hegemony can overwrite centuries of cultural values, language, ritual, and relationships, often in a breathtakingly short period of time. Television, for example, exported a tremendous amount of American entertainment around the world in the latter half of the Twentieth Century.

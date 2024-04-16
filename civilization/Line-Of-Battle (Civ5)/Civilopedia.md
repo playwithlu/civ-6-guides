@@ -1,0 +1,3 @@
+# Line-Of-Battle (Civ5)/Civilopedia
+
+Although its first use in battle is a matter of debate (ranging from 1502 to 1652 AD), by 1675 the "line-of-battle" tactic was the most common formation being used by European navies. In contrast to the usual naval melees, in line-of-battle each warship could fire its broadside without hitting friendly vessels, allowing for both concentrated and continuous fire.

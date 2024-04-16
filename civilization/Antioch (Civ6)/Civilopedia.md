@@ -1,0 +1,5 @@
+# Antioch (Civ6)/Civilopedia
+
+As with any proper Macedonian city, an eagle sent by the gods helped decide Antioch’s founding location. Luckily for Seleukos, the city’s founder (and a former general of Alexander the Great), the eagle chose a spot situated in a valley beside the Orontes River in what is now modern day Turkey. The river was a double-edged sword for the growing city—a boon for transportation, defense, and fishing, but also an unpredictable disaster whenever the floods came.
+Antioch became the capital of the Roman province of Syria after its annexation in 64 BCE. Over the years, it grew into a proper Roman settlement, complete with temples, aqueducts, amphitheaters, palaces, and bathhouses. As Christianity spread, so did churches, which replaced the shrines of the old gods.
+The holy city of Antioch continued to prosper until disasters, famine, and attacks by multiple invaders (Huns in the 5th Century and Arabs in the 7th) led to its eventual decline. Little remains of the ancient city today; most is buried under the river, long forgotten.

@@ -1,0 +1,3 @@
+# Niter (Civ6)/Civilopedia
+
+Better known as saltpeter, niter is the mineral form of potassium nitrate. Although known for millennia, it didn’t become important until the Chinese figured out it could be combined with sulfur to make gunpowder in the mid-1st century AD. And gunpowder is really good for making fireworks and blowing things up. Niter is also useful as a fertilizer and food preservative, but few people remember that.

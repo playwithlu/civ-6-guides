@@ -1,0 +1,7 @@
+# Infector (CTP1)
+
+The Infector is a [List%20of%20units%20in%20CTP1](unit) in "".
+Summary.
+The Infector threatens the enemy with the smallest, yet most terrifying attacks, the bio-engineered plaque. Designed not to kill but instead horrify and confuse, the bio-plague produces lysergic acid within the victims' bloodstream, leading to hallucinations and therefore, [Unhappiness%20%28CTP1%29](unhappiness). Dropping the plague, however, is not free. Each time he launches his attack, the [List%20of%20civilizations%20in%20CTP1](Civilization) is charged [Gold%20%28currency%29%20%28CTP1%29](gold). The Infector is a [Stealth%20units%20%28CTP1%29](stealth unit), which allows him to hide from regular armies.
+Great Library entry.
+In the early 21st century genetic engineers turned microbes into living protein factories. Exposure to outside lab conditions killed them almost instantly but in the proper nourishing fluids, the bio-agents pumped out insulin, growth hormone, and other useful pharmaceuticals. By the 22nd century bioengineering broke through the laboratory barrier with new symbiotic infections that replaced the medicinal pill. Yet from this medical success, a new arena of warfare appeared. New bio-agents targeted the population with the intent of temporarily disabling the citizens.

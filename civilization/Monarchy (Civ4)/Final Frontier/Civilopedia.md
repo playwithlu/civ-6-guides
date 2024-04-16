@@ -1,0 +1,3 @@
+# Monarchy (Civ4)/Final Frontier/Civilopedia
+
+Giving a nod from the absolutist rulers of the seventeenth century, the Monarchy Government Policy establishes a hereditary lineage to rule your principality. This centralized power structure allows for a much more direct means to command an empire. Because Monarchies focus all power into a single household, the capital cities of these governments often blossom into centers of commerce and production, as resources from across the breadth of the universe rush to fulfill the whims of the royal family.

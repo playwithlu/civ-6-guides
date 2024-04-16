@@ -1,0 +1,5 @@
+# Francisco de Coronado (Civ4Col)
+
+Civilopedia.
+Lived: 1510-1544
+Francisco de Coronado was a conquistador who had arrived in the New World in the early 16th century. Before long, he had attained a cushy governorship in New Spain, but as tales of immense metropolises made completely of gold began to reach the young governor, de Coronado's lust of the Seven Cities of Gold began to build. Following the paths laid out by various explorers who had passed into what today is the United States, de Coronado set off on an expedition to seize all the riches of the Seven Cities of Gold. Nearly 2000 men were assembled in the great traveling party, but as Texas, Oklahoma, Kansas came and went, none of the rumors panned out. Coronado was eventually ordered back to Mexico, returning home hungry and empty handed.

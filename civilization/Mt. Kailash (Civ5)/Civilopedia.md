@@ -1,0 +1,3 @@
+# Mt. Kailash (Civ5)/Civilopedia
+
+The sacred peak of Mount Kailash, found in the Himalayas of Tibet, is cherished by a number of religions, particularly the followers of Hinduism. It is believed to be the home of Lord Shiva, who dwells on the mountain in a state of eternal bliss. Mount Kailash is said to be among the most difficult of all religious pilgrimages, as the harsh conditions dissuade many would-be pilgrims, and the mountain is not accessible by any forms of modern transportation.

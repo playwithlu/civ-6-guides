@@ -1,0 +1,3 @@
+# Western Xia (Civ5)/Civilopedia
+
+The Western Xia Dynasty, or Tangut Empire, was founded in 1038 AD when a Tangut chieftain named himself emperor of the Da Xia region. Not much later, the kingdom suffered massive destruction from rounds of Mongol invasions led by Genghis Khan - six different attacks over the course of twenty-two years. Genghis died during the last round of attacks (the cause of death still being debated), and the enraged horde overran the capital in 1227, destroying buildings and written records, murdering the emperor, and killing tens of thousands in the process.

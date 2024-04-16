@@ -1,0 +1,4 @@
+# Score
+
+Score is a numerical measure of a player's performance in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. Founding a [city](city), building a [Great%20Wonder](wonder), and researching a [List%20of%20technologies](technology) are just a few of the different ways to increase one's score. In a standard game, the player with the highest score wins a [Score%20Victory](Score Victory) if no one has achieved any of the [victory](victory) conditions when the game's final [turn](turn) ends.
+Victory Points (often abbreviated VP) are frequently used to track players' scores and determine who achieves victory in [scenario](scenario)s.

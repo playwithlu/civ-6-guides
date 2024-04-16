@@ -1,0 +1,5 @@
+# Cristo Redentor (Civ6)
+
+Cristo Redentor is a in "[Civilization%20VI](Civilization VI)". It must be built on .
+Strategy.
+Cristo Redentor's bonuses are quite useful to -oriented [Civilizations%20%28Civ6%29](civilizations), especially if [Religion%20%28Civ6%29](religion) has been a part of their strategy. It combines particularly well with [Mont%20St.%20Michel%20%28Civ6%29](Mont St. Michel) (since it stops the produced by defeated [Apostle%20%28Civ6%29](Apostles') Relics from diminishing in the later [Era%20%28Civ6%29](eras)) and the [Eiffel%20Tower%20%28Civ6%29](Eiffel Tower) (which increases the yield of all [Seaside%20Resort%20%28Civ6%29](Seaside Resorts) by 4 and 2 even before the effects of Cristo Redentor kick in). Any cultural civ attempting to win primarily using Seaside Resorts should make building both Cristo Redentor and the Eiffel Tower a high priority, although [Mvemba%20a%20Nzinga%20%28Civ6%29](Mvemba's) [Kongolese%20%28Civ6%29](Kongo) and [Jadwiga%20%28Civ6%29](Jadwiga's) [Polish%20%28Civ6%29](Poland) have even more incentive to build Cristo Redentor in order to take full advantage of their Relic-related bonuses.

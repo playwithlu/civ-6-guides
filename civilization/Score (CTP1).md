@@ -1,0 +1,5 @@
+# Score (CTP1)
+
+Leaders are given scores based on the following factors: celebrations, s, s, population, cities, years of peace, year of victory, difficulty, map size, number of opponents, and type of victory. Leaders lose points for units lost, riots, revolutions, and .
+Great Library entry.
+While history records the rise and fall of Civilizations, humanity focuses on the leaders of such Civilizations and their triumphs and tragedies. Heroic leaders have the awe-inspiring grace and the cunning wisdom to triumph while overcoming economic, militaristic, and natural pitfalls. Tragedy claims the reputation of those leaders who fail. Humanity condemns the ruthless leaders who cause evil atrocities or wage war against the world. The leader who achieves the goal of overall excellence will win a victory in the annals of history.

@@ -1,0 +1,8 @@
+# Palace (Civ2)
+
+ A Palace is a [List%20of%20buildings%20in%20Civ2](building) in "[Civilization%20II](Civilization II)" that eliminates [Corruption%20%28Civ2%29](corruption and waste) in the and decreases it in all other cities. It serves as the seat of government, making its host city the capital. When a civilization's diplomats and spies are expelled from foreign territory, the units are returned to their respective capital. Capital cities cannot be subverted or incited to revolt. The Courthouse can be built in other cities to reduce corruption and waste, and improve counterintelligence.
+Once a civilization discovers Masonry, they can build the palace in different cities, thereby moving the capital, as each nation is allowed a maximum of one Palace at a time.
+Much like with the [Courthouse%20%28Civ2%29](Courthouse), under [Democracy%20%28government%29%20%28Civ2%29](Democracy), one content becomes happy.
+The Palace used in the game is modeled on the [Taj%20Mahal](Taj Mahal) in Agra, India.
+Civilopedia entry.
+When populations began to organize their communities into cities, their governments became more structured and formalized. At an early stage, the ruler of the city established headquarters from which the business of running the city was conducted. In many cases, these buildings also served as the living quarters of the ruler. In wealthy cities, these facilities often expanded into immense, sprawling palaces. These richly adorned, imposing buildings were a source of civic pride, and helped to reinforce the aura of power surrounding the ruler.

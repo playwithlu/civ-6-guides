@@ -1,0 +1,5 @@
+# Antananarivo (Civ6)/Civilopedia
+
+The capital of Madagascar began as a sleepy highland town of the Vazimba people, until Imerinan King Andrianjaka took it for himself in the early 17th Century. From his royal compound he could look down upon the ever-expanding rice paddies that would keep his people fed. After a period of expansion and order, a decades-long Imerinan civil war turned Antananarivo into one of four capitals—but once the dust settled, it regained its status as the political center of the kingdom.
+In the early 19th Century, King Radama I decreed the city open to European settlement. The city's booming economy drew artisans, manufacturers, and settlers. Factories flourished, infrastructure kept pace with the city's expansion, and distinctive architectural styles transformed the city's appearance. Radama's successors continued to cultivate cultural and technological advances, eventually decreeing a mandatory education for the city's citizens.
+Then, in 1894, France invaded. Madagascar regained its independence from colonial authority in 1960, and with it, a modernized Antananarivo.

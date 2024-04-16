@@ -1,0 +1,4 @@
+# Marie-Anne Collot (Civ6)/Civilopedia
+
+Marie-Anne Collot thoroughly understood art, once a model which inspired portraitists and then becoming a renowned sculptor herself who captured the expressive personas of her subjects. Born in Paris in 1748, Collot was the daughter-in-law of sculptor Etienne Falconet, through whom she would meet the philosopher Diderot and Catherine the Great. The Empress requested a bust of herself, as well as one of Falconet, and Diderot. Her bust of Diderot so captivated Falconet that he destroyed the bust he sculpted himself.
+The art of hers that was not lost or is in a private collection is displayed at museums such as the Louvre in Paris, the State Hermitage Museum in S. Petersburg.

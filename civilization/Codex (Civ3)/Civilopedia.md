@@ -1,0 +1,3 @@
+# Codex (Civ3)/Civilopedia
+
+By definition, a Codex is a book, much like an encyclopedia, that defines a set of instructions, or provides information about a certain cultural event or activity. Mesoamerican codices were constructed out of bark paper, treated with lime to make a nice white surface on which highly stylized hieroglyphics could be written. These codices listed king lineages, defined the role of spies and warriors, the founding of important cities, the proper way to raise children, the role of priests in ceremonial rituals, etc.

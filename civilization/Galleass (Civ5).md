@@ -1,0 +1,9 @@
+# Galleass (Civ5)
+
+Game Info.
+First ranged naval unit in the game.
+Strategy.
+The Galleass is a powerful [Medieval%20Era%20%28Civ5%29](Medieval Era) ship that was used by countries in and near the Mediterranean Sea in the 1500s and 1600s. Still depending on the sail-oar combination, the Galleass can't enter [Ocean%20%28Civ5%29](deep ocean), and its bulk makes it slower than the [Trireme%20%28Civ5%29](Trireme); however, it possesses an on-board projectile launcher, which allows it to attack with impunity from 2 tiles away, both in the sea and on land. This makes it very dangerous for both naval and land units, and even [City%20%28Civ5%29](cities). Use it to support naval and land armies (if the latter are acting sufficiently close to the sea, of course) for total control of land and sea.
+One of the [Promotions%20%28Civ5%29](promotions) eventually available to the Galleass increases its attack range by 1. A Galleass with this promotion can outrange [City%20%28Civ5%29](cities), allowing you to bombard [Coastal%20%28Civ5%29](coastal) cities in safety, then capture them with a melee ship. Of course, this requires a [Coast%20%28Civ5%29](shallow) route from one of your cities to the enemy's city, which will probably be hard to find unless you are playing on a small Archipelago or similar [Map%20%28Civ5%29](map).
+Galleasses have one less point than the standard Trireme. While inferior at combat, Triremes will still be superior at exploration in the Medieval Era.
+When promoting the unit, there are two distinct paths: either anti-naval, or anti-land capabilities. Consider current enemies' strengths when making the choice.

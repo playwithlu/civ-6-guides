@@ -1,0 +1,3 @@
+# Seaport (Civ5)/Civilopedia
+
+A seaport is a modern super-harbor. It is a deep-water port which has facilities to handle the largest tankers and transports. Seaports usually contain a forest of cranes for the rapid unloading of cargo, which is then transported away via a bewildering maze of railroad tracks and roads. Modern seaports are controlled by harbor-masters in high-tech control rooms equipped with radar, satellite feeds, and sophisticated computers employing complex tracking software.

@@ -1,0 +1,9 @@
+# Helicopter Gunship (Civ5)
+
+Game Info.
+Advanced hovering unit of the [Atomic%20Era%20%28Civ5%29](Atomic Era). Upgrades from the [Anti-Tank%20Gun%20%28Civ5%29](Anti-Tank Gun). Requires .
+Strategy.
+The Helicopter Gunship is an air unit that behaves a little differently from airplanes. Its flying system allows it to stay in the open field (something airplanes can't do), which also means that it's vulnerable to enemy attacks, especially if they're dedicated anti-air (such as the [Mobile%20SAM%20%28Civ5%29](Mobile SAM)). At the same time, helicopters aren't restricted to bases as airplanes are and can be moved freely to any point on the [Map%20%28Civ5%29](map). They also don't suffer from Interception. However, you'll need [Resources%20%28Civ5%29](resources) for them.
+The Helicopter Gunship is armed with machine guns and air-to-ground missiles. In most respects it acts just like other land units, with a couple of advantages:
+While the Helicopter Gunship is used primarily to take down enemy armored units, it also makes a great first-response defender, being able to reach an invading enemy regardless of difficult terrain. An armored horde can be stopped cold by a small number of Helicopter Gunships, buying time for the rest of one's army to react. It also excels in its own assaults, its speed meaning it can take down key targets such as artillery and armor so your own army can storm in relatively unhindered. It's never a bad idea to keep a few of these around, but be wary of Mobile SAMs and aircraft, as they can deal massive damage if you let them close in on your gunships.
+Note that Helicopter Gunships use the [Embarkation%20%28Civ5%29](Embarkation) ability to cross water, and will sustain damage if they end their turn on a mountain. However, being essentially the same as land units, they can be packed into containers and moved between [Airport%20%28Civ5%29](Airports) with the Airlift ability.

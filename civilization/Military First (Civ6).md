@@ -1,0 +1,7 @@
+# Military First (Civ6)
+
+Military First is a Military [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+Military First will boost your military [Units%20%28Civ6%29](units') training speed significantly. Like all other policy cards it obsoletes - [Agoge%20%28Civ6%29](Agoge), [Feudal%20Contract%20%28Civ6%29](Feudal Contract) and [Grande%20Arm%C3%A9e%20%28Civ6%29](Grande Armée) - it can be very useful for those aiming for a [Victory%20%28Civ6%29%23Domination](Domination Victory) to start prepping up for a (very) late-game war to overthrow the last few [Civilizations%20%28Civ6%29](civilizations) that remain after the early-game conquests.
+However, civilizations reacting to a war declared by a stronger enemy could also use the Policy effectively, and come up with armies of [Mechanized%20Infantry%20%28Civ6%29](Mechanized Infantry) where before there were only a few [Machine%20Gun%20%28Civ6%29](Machine Guns) for defense.
+Note that the bonus does not apply to siege units! So if you are the defending side and suddenly you are now counter-attacking, this policy will not be useful for training machines to take down enemy walls. It doesn't apply to light and heavy cavalry either, so if you would now like to pillage everything in retribution, [Lightning%20Warfare%20%28Civ6%29](Lightning Warfare) is suggested.

@@ -1,0 +1,3 @@
+# Exploration (Civ5)/Civilopedia
+
+Since man first settled in one place, there have always been those among them who have been driven to see what lies over the horizon. Whether motivated by profit, adventure, religion, necessity or just curiosity, explorers have widened our knowledge of the world and its wonders. In the process of exploring, they have also linked diverse and distant cultures, for good or ill. Great explorers from the Carthaginian Hanno to the Chinese admiral Wang Dayuan to the Englishman Sir Richard Burton and thousands of others have driven the expansion of civilizations and shaped history.

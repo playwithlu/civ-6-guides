@@ -1,0 +1,3 @@
+# Invention (Civ6)/Civilopedia
+
+Since the fall of Rome, things hadn’t changed much in Europe – although to the east, the Arabs had certainly been busy inventing all sorts of things. The old knowledge and technology of the ancients defined the European world. But with the Renaissance, as the Church’s strictures on curiosity loosened, all sorts of tinkerers like Leonardo da Vinci and Johannes Gutenberg began inventing “new” things. Too, many of the Islamic inventions, from the crank-connecting rod to the guitar to the toothbrush to the vertical-axle windmill, seeped into Europe by way of the Moors. All this inventing would lay the foundations for the Scientific Revolution still to come.

@@ -1,0 +1,3 @@
+# Great War Bomber (Civ5)/Civilopedia
+
+By the outbreak of World War I, several nations, including Great Britain, France, and Germany, all had experimented with the concept of explosive bombardment via plane. In the earliest days of the war, bombs were dropped from all types of aircraft, including reconnaissance and fighter planes. One of the first genuine bombers introduced during the war, the Voisin III, was designed by the French aircraft manufacturer Gabriel Voisin. Featuring a standard biplane design reinforced with a steel frame, the Voisin III was capable of carrying payloads of over 300 lbs.

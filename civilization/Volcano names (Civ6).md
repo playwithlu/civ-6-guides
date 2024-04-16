@@ -1,0 +1,2 @@
+# Volcano names (Civ6)
+

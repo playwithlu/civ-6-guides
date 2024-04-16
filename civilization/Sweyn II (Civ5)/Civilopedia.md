@@ -1,0 +1,3 @@
+# Sweyn II (Civ5)/Civilopedia
+
+Sweyn II was King of Denmark from 1047 until 1074. During his rule, a longstanding feud with Harald Hardrada of Norway (who frequently attempted to conquer Sweyn) would lead to numerous battles between the two foes. During his lifetime Sweyn would father over 20 children, including 5 future kings of Denmark who would peacefully succeed one another for the next 60 years.

@@ -1,0 +1,3 @@
+# Iron (CivRev)
+
+Iron is a [List%20of%20resources%20in%20CivRev](resource) in "[Civilization%20Revolution](Civilization Revolution)". It becomes available after researching [Iron%20Working%20%28CivRev%29](Iron Working). Iron provides two production (including one from the [Hill%20%28CivRev%29](hill) it's on), and since it is always on a hill it is highly recommended to build a [Workshop%20%28CivRev%29](Workshop) there. This will make the Iron source provide a whopping five production.

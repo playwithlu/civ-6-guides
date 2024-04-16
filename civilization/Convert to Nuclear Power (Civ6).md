@@ -1,0 +1,4 @@
+# Convert to Nuclear Power (Civ6)
+
+Convert to Nuclear Power is a [Project%20%28Civ6%29](project) in "". It becomes available after building an [Industrial%20Zone%20%28Civ6%29](Industrial Zone) [District%20%28Civ6%29](district) (or one of its replacements) and researching [Nuclear%20Fission%20%28Civ6%29](Nuclear Fission).
+A [City%20%28Civ6%29](city) must have a [Coal%20Power%20Plant%20%28Civ6%29](Coal Power Plant) or an [Oil%20Power%20Plant%20%28Civ6%29](Oil Power Plant) to undertake this project. When completed, it removes the existing Power Plant and replaces it with a [Nuclear%20Power%20Plant%20%28Civ6%29](Nuclear Power Plant).

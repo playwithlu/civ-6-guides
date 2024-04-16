@@ -1,0 +1,7 @@
+# Artillery (Civ6)
+
+The Artillery is a [Modern%20Era%20%28Civ6%29](Modern Era) [List%20of%20units%20in%20Civ6/By%20class%23Siege](siege unit) in "[Civilization%20VI](Civilization VI)". It upgrades from the [Bombard%20%28Civ6%29](Bombard) (or its replacements).
+In the "" expansion, the Artillery requires 1 to train and 1 per turn to maintain.
+Strategy.
+The Artillery is the logical development of the long-range cannon, fitted with a rifled barrel for both greater accuracy and range. Lobbing explosive shells, it is, in fact, so much better than the lumbering [Bombard%20%28Civ6%29](Bombard), that even modern [Urban%20Defenses%20%28Civ6%29](Urban Defenses) can't stand against it. In conjunction with an [Observation%20Balloon%20%28Civ6%29](Observation Balloon) - a [List%20of%20units%20in%20Civ6/By%20class%23Support](support unit) that becomes available upon discovering [Flight%20%28Civ6%29](Flight) - it can attack from outside of a city's firing range, bombarding it with impunity. It also requires no [Resource%20%28Civ6%29](resources) in [vanilla](vanilla) "Civilization VI" and "", making it easier to build than the Bombard before it. However, it lacks the Combat Strength of other Modern-era military units, so make sure you have [Infantry%20%28Civ6%29](Infantry), [Tank%20%28Civ6%29](Tanks), or [AT%20Crew%20%28Civ6%29](AT Crews) on hand to protect your Artillery.
+For more details on how the move-and-shoot rule works, head [Movement%20%28Civ6%29%23Siege%20units%20and%20the%20move-and-shoot%20rule](here).

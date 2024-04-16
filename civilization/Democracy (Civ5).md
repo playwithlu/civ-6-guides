@@ -1,0 +1,3 @@
+# Democracy (Civ5)
+
+Democracy is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the [Freedom%20%28Civ5%29](Freedom) tree and requires [Civil%20Society%20%28Civ5%29](Civil Society). It is removed from the game in "" and its effects are transferred to [Universal%20Suffrage%20%28Civ5%29](Universal Suffrage), a Level 2 [Ideology%20%28Civ5%29%23Freedom](Freedom) tenet.

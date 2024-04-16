@@ -1,0 +1,5 @@
+# Riflemen (Civ2)
+
+The Rifleman is a ground unit in [Civilization%20II](Civilization II).
+Civilopedia entry.
+Two developments in the 19th century made early firearms such as the musket obsolete. The first was the use of a spiral groove, or "rifling", inside the barrel of a gun. Second, was the development of the repeating rifle, which could fire multiple shots before it required reloading. The rifle was a better weapon than its ancestors, with much more accuracy over a greater range than the musket. Riflemen were first employed in large numbers during the American Civil War. The rifle gave a strong defensive advantage, since riflemen could fire several times while the attackers advanced. This was normally enough to hold any position. Riflemen held the advantage on the battlefield until the appearance of armored attack vehicles.

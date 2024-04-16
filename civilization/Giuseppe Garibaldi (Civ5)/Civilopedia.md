@@ -1,0 +1,3 @@
+# Giuseppe Garibaldi (Civ5)/Civilopedia
+
+One of the architects of Italian unification, Garibaldi (lived 1807-1882) was a general, politician statesman and fervent nationalist. As a nationalist, Garibaldi was outspoken in his support for a rebirth of mare nostrum, and in his last years lent his name and prestige to various political movements agitating for Italian involvement in the scramble for Africa, beginning with Italy's failed first effort to claim Tunisia which was thwarted by France and England in 1881.

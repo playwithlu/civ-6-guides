@@ -1,0 +1,3 @@
+# Aluminum (Civ6)/Civilopedia
+
+The Greeks and Romans used aluminum salts as astringents and bath powders. For centuries, that’s all aluminum was good for, until in 1825 AD the Danish chemist Hans Orsted managed to create a lump of aluminum metal. In the 1850s, pure aluminum was so difficult to produce that bars of it were more valuable than gold and even exhibited as a curiosity at the Exposition Universelle in 1855. Scientists, of course, just had to find uses for it, and now aluminum is found in everything from spacecraft to skillets.

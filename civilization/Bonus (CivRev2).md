@@ -1,0 +1,4 @@
+# Bonus (CivRev2)
+
+A bonus is one of the special features of a [List%20of%20civilizations%20in%20CivRev2](civilization) or [List%20of%20leaders%20in%20CivRev2](leader) in "[Civilization%20Revolution%202](Civilization Revolution 2)". Bonuses provide unique gameplay advantages that may make it easier to win certain kinds of [Victory%20%28CivRev2%29](victories).
+All civilizations have starting bonuses that are active throughout the game, whereas leaders have era bonuses that become active once the player researches enough [List%20of%20technologies%20in%20CivRev2](technologies) to enter that [Era%20%28CivRev2%29](era). Since era bonuses are now specific to each leader, the same civilization may play very differently depending on who leads it.

@@ -1,0 +1,3 @@
+# Treasure
+
+The Treasure is a [unit](unit) in the "[Civilization%20%28series%29](Civilization)" and "[Colonization%20%28game%29](Colonization)" games. Its exact use varies between games, but it represents valuable commodities that provide rewards, such as [Gold%20%28currency%29](gold) and [Score](Victory Points), when delivered to designated [City](cities) (or in "Colonization", [Europe](the home country)).

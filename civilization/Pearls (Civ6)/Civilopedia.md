@@ -1,0 +1,3 @@
+# Pearls (Civ6)/Civilopedia
+
+Composed of calcium carbonate in concentric layers, a pearl is secreted by an oyster around something that is irritating its soft, inner tissues. Some people find these little coated irritations quite attractive, and so pearls have been highly prized for centuries. Since at least the 6th Century BC, divers in the Indian and Pacific oceans have brought pearls up from the depths to serve as jewelry, to be sewn onto clothing, and to grace crowns and thrones.

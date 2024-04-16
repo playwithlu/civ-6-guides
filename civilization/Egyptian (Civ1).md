@@ -1,0 +1,5 @@
+# Egyptian (Civ1)
+
+The Egyptians are a playable [List%20of%20civilizations%20in%20Civ1](civilization) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Their [Leaders%20%28Civ1%29](leader) is [Ramesses%20%28Civ1%29](Ramesses), their [Capital%20%28Civ1%29](capital) is [Thebes](Thebes), and their color is yellow (which they share with the [Aztec%20%28Civ1%29](Aztecs)).
+While not overly expansionist, they are capable of keeping up with almost any nation in scientific development, and in the later game they can be among the most difficult civilizations to play against.
+On [Earth%20%28map%29%20%28Civ1%29](Earth), their placement by the Nile makes for a tactically interesting situation, with the bottleneck by the Suez Canal and Sinai area enabling control over [Africa](Africa), and easy access into the Near East.

@@ -1,0 +1,3 @@
+# Tortoise (Civ6)/Civilopedia
+
+The Romans, bedeviled by barbarians who insisted on shooting at them, devised the testudo – or "tortoise" – formation to counter that foolishness. In effect, the outer ranks of a packed formation aligned their shields to form an all-round wall, while those within raised theirs to cover the top. So long as the tortoise held, they were covered from shin to skull. Once the enemy stopped throwing things, the legionnaires could quickly break the formation and get on with slaughtering the savages. Plutarch was the first to describe the testudo, used by Mark Anthony during his invasion of Parthia in 25 BC.

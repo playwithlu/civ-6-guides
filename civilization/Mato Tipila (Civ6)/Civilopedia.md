@@ -1,0 +1,5 @@
+# Mato Tipila (Civ6)/Civilopedia
+
+The first National Monument of the United States is Mato Tipila, also known as the Devils Tower. The rocky butte reaches just over 264 meters high, and attracts geographic enthusiasts and adventurous climbers to North East Wyoming every year. A true wonder of nature, the tower's formation continues to be a point of speculation among geologists, though most believe it is an igneous intrusion formed beneath the surface and revealed as a result of erosion.
+Although it is perhaps most famous for its appearance in a classic science fiction movie, legends surrounding the stony tower date back thousands of years among Native American tribes. Today, the site is still used for ceremonies including the Sun Dance and sweat lodge rites, and prayer offerings can be found throughout the trails and tied to surrounding trees, sometimes in the form or tobacco or colorful cloth.
+And what of its top? Successful climbers are met with rocks, sagebrush, and small rodents, along with a breathtaking view of the surrounding landscape.

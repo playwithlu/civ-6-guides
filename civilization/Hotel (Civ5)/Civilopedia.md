@@ -1,0 +1,3 @@
+# Hotel (Civ5)/Civilopedia
+
+Inns have existed for millennia, supplying shelter and safety to merchants and travelers. Marco Polo reported an extensive system of houses to provide lodging for travelers in 13th Century China. The modern hotel was largely a result of the coming of the railroad, for not only did travel increase but travelers needed lodging for shorter periods. The oldest hotel in continuous operation is the Nishiyama Onsen Keiunkan in Japan, opened in 707 AD and operated by the same family for 46 generations.

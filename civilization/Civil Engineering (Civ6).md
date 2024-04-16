@@ -1,0 +1,7 @@
+# Civil Engineering (Civ6)
+
+Civil Engineering is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by constructing 7 different specialty s.
+Strategy.
+Engineering has always been used by the powerful first, and by common people later, if at all. Thus for the greater part of ancient and medieval history, the great engineers were busy building walls, castles, catapults, and weapons, and - from time to time - roads, aqueducts, bridges, and some other infrastructure which could be used for something other than war.
+But the Industrial Revolution brings progress at an unprecedented scale, and it makes clear for the first time ever that civilian infrastructure can benefit the powerful, as well as the common people. And all of a sudden engineers find themselves commissioned to plan and execute public works.
+Adopting Civil Engineering is an important milestone for a nation, required to further its urban development. First, it replaces a bunch of outdated Economic and Military Policies with new, contemporary ones. Second, it develops important farming technology improvements, which allow [Farm%20%28Civ6%29](Farms) to be built on [Hills%20%28Civ6%29](Hills). It also allows [Canadian%20%28Civ6%29](Canadians) to farm [Tundra%20%28Civ6%29](Tundra) [Tile%20%28Civ6%29](tiles) - something to get excited "aboot."

@@ -1,0 +1,3 @@
+# Trebuchet (Civ5)/Civilopedia
+
+The trebuchet is a powerful Medieval siege weapon. First appearing in Europe in the 12th century, the trebuchet could hurl a 300-lb missile into or over the enemy's walls at long distance. The Medieval European version of the trebuchet was a "counterweight" machine. It consisted of a very long wooden arm with a sling on one end and a heavy weight on the other, mounted on a heavy wooden framework. The long arm was winched down, raising the heavy weight, and a missile was placed in the sling. When released, the weight would come down and the arm would whip up into the air, hurling the missile a huge distance. These machines were generally not mobile and required a long process of assembly, limiting their effective use to protracted sieges.

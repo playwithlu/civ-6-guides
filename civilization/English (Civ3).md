@@ -1,0 +1,8 @@
+# English (Civ3)
+
+The English are a playable [List%20of%20civilizations%20in%20Civ3](civilization) in "[Civilization%20III](Civilization III)". They are led by [Elizabeth%20%28Civ3%29](Elizabeth I).
+Civilopedia entry.
+The British are [Seafaring%20%28Civ3%29](Seafaring) and [Commercial%20%28Civ3%29](Commercial) ([Expansionist%20%28Civ3%29](Expansionist) and Commercial prior to ""). They start the game with [Alphabet%20%28Civ3%29](Alphabet) and [Pottery%20%28Civ3%29](Pottery) and build the [Man-O-War%20%28Civ3%29](Man-O-War) instead of [Frigate%20%28Civ3%29](Frigates).
+Unique Unit: the Man O'War.
+By the middle of the 17th century cannons arrayed along the sides of fighting ships had become the decisive weapon of naval warfare. Heavy guns required a gun deck and a short, sturdy hull, which were at odds with the galley's requirements of lightness and length. The late Elizabethan galleon that became the true man-o-war class reached its culmination in England's Prince Royal of 1610 and the larger Sovereign of the Seas of 1637, mounting guns on three decks; the Sovereign of the Seas, the most formidable ship afloat in its time, carried 100 guns. By the mid-1700s, great ships-of-the-line such as the British Victory and French L'Orient dominated naval warfare, and would continue to do so until the advent of the ironclad.
+The Man O'War is an upgraded version of the frigate. Like the frigate, it requires iron and saltpeter to build, but its heavier guns give it upgraded attack and bombard ratings, which make it a more formidable vessel.

@@ -1,0 +1,3 @@
+# Empowered Citizenry (Civ4)/Final Frontier/Civilopedia
+
+Now established firmly on their adopted homeworlds, interstellar colonists began the slow creation of their own unique cultures. While Sports Arenas became ubiquitous in this period, sating man's continued need for salty snacks, the most overwhelming effect of this era was the rapid resurgence of Religion, which ignited revivals across entire worlds. The needs of HAPPY and defense remained during this time of revitalization, and defenses were improved to incorporate the newly-developed class Fighter.

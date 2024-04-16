@@ -1,0 +1,8 @@
+# Ice (Civ6)
+
+Ice is a [Terrain%20%28Civ6%29%23Features](terrain feature) in "[Civilization%20VI](Civilization VI)". Ice is found on [Coast%20%28Civ6%29](Coast) and [Ocean%20%28Civ6%29](Ocean) [Tile%20%28Civ6%29](tiles) near the extreme north and south boundaries of the [Map%20%28Civ6%29](map).
+Ice is (mostly) an unusable terrain. It contains no [Resource%20%28Civ6%29](resources) or other features of any kind. s and [Wonder%20%28Civ6%29](wonders) cannot be placed on Ice tiles.
+Strategy.
+Ice tiles usually make the polar regions impassible, restricting [Movement%20%28Civ6%29](movement). Many times they form a solid barrier which connects with land and makes it impossible to circumnavigate [Continent%20%28Civ6%29](continents). However, sometimes icebergs are distributed among the solid ice in such a way as to form canals and allow [Naval%20unit%20%28Civ6%29](naval) and embarked units to pass through. So, don't give up completely on trying to find a path until you hit a solid wall! You may need to wait until you've researched [Cartography%20%28Civ6%29](Cartography) before trying, though, because many times the canals are formed by both Coast and Ocean tiles.
+Note that, unlike in "[Civilization%20V](Civilization V)", [Submarine%20%28Civ6%29](Submarines) and [Nuclear%20Submarine%20%28Civ6%29](Nuclear Submarines) cannot enter Ice tiles, so they're no longer able to hide under the ice to evade pursuit.
+In "", Ice isn't entirely useless - with the [Marae%20%28Civ6%29](Marae) and [Forestry%20Management%20%28Civ6%29](Forestry Management), it can provide , , and [Appeal%20%28Civ6%29](Appeal). Additionally, up to 85% of the Ice on the map can melt as the world's [Climate%20%28Civ6%29](climate) changes.

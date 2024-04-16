@@ -1,0 +1,5 @@
+# Persona Packs (Civ6)
+
+The Persona Packs were [DLC%20%28Civ6%29](DLC) for "[Civilization%20VI](Civilization VI)", released at the same time as the [Ethiopia%20Pack%20%28Civ6%29](Ethiopia Pack), the July 2020 component of "". The Persona Packs are not included in the Ethiopia Pack, but freely available to all players who bought the "New Frontier Pass." They included alternate [Persona%20%28Civ6%29](personas) for two leaders: [Teddy%20Roosevelt%20%28Civ6%29](Teddy Roosevelt) and [Catherine%20de%20Medici%20%28Civ6%29](Catherine de Medici).
+Persona Packs.
+"Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader’s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass..."

@@ -1,0 +1,2 @@
+# Global warming (Civ6)
+

@@ -1,0 +1,2 @@
+# Pact of Brotherhood (SMAC)
+

@@ -1,0 +1,3 @@
+# Shōtoku
+
+Shōtoku refers to Prince Shōtoku, a [Yamato](Yamato) [Leaders](leader) in the [Call%20to%20Power%20games]("Call to Power" games).

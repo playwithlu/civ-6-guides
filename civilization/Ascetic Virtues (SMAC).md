@@ -1,0 +1,2 @@
+# Ascetic Virtues (SMAC)
+

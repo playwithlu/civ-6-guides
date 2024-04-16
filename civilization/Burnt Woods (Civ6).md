@@ -1,0 +1,2 @@
+# Burnt Woods (Civ6)
+

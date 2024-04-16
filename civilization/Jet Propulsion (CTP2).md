@@ -1,0 +1,8 @@
+# Jet Propulsion (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Jet Propulsion revolutionizes the world of . By outfitting planes with jet engines, one can increase the range and speed of aircraft. The is such a plane, capable of flying great distances and attacking with devastating power.
+Great Library entry.
+In 1930, British aeronautical engineer Sir Frank Whittle was awarded a patent for a gas turbine engine. Although others had developed similar engines, his design became the first practical application of modern jet propulsion technology. In 1935, he applied his design to the development of the W-1 turbojet engine, which made its first flight in 1941. Over the next five decades, jet propulsion technology continued to advance. Late in World War II, the first jet-powered fighters entered service. The first commercial jet airplane, the British Comet, flew in 1952 but stopped service after two serious accidents in 1954. The Boeing 707 was the first U.S. commercial jet airplane tested and it began commercial service in 1958.
+Jet propulsion technology revolutionized aeronautics, rocketry and space flight. Continued developments resulted in piloted aircraft reaching speeds several times greater than the speed of sound. Intercontinental ballistic missiles rely on jet technology to propel them, as do satellites rely on powerful rockets to send them into space.

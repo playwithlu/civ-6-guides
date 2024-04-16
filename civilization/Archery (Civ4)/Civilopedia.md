@@ -1,0 +1,5 @@
+# Archery (Civ4)/Civilopedia
+
+An important technological innovation, bows were perhaps the first machines built to store energy slowly and then release it quickly. Bows and arrows have been in existence for 30,000 years. The original bows were made of springy wood - yew, bamboo, palm, and so forth. By 1300 BC, bows were made of composite material - wood, horn, and sinew. The first arrows were probably straight wooden sticks with one end sharpened and fire-hardened. Stone tips were added once man learned to sharpen flint.
+The bow was a crucial element of ancient warfare, and remained so through the Middle Ages. The English longbow was a formidable weapon in the hands of a well-trained archer, who was able to punch through light armor at a distance. Compared to a longbow, the crossbow was slower and less accurate; however, a crossbowman could be trained to use his weapon in far less time than it took to train a good archer.
+The bow and arrow were eventually supplanted by the musket. The bow has all but vanished now, used mostly for sport by a few enthusiasts, but for thousands of years it ruled the battlefield.

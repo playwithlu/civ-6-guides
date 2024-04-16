@@ -1,0 +1,3 @@
+# Medieval Infantry (Civ3)/Civilopedia
+
+Troops who fight on foot, even though transported to the battlefield by horses, ships, aircraft, tanks and other motorized vehicles, skis, or other means are classified as Infantry. This term applies equally to troops armed with weapons such as the spear, sword, and mace in ancient and medieval times. As with most foot-soldiers, the objective of the Medieval Infantry was to seize and hold territory, often in an attempt to occupy enemy territory. Despite the temporary dominance of cavalry in the feudal and Middle Ages, infantry has been the largest single element in Western armies since ancient times.

@@ -1,0 +1,3 @@
+# Great Mosque of Djenne (Civ5)/Civilopedia
+
+The largest mud-brick structure in the world, the Great Mosque of Djenne is found in the African Republic of Mali. Thought to have first been constructed sometime in the 13th Century by the sultan Koi Kunboro, the mosque has since been destroyed and rebuilt several times. The incarnation that stands today, assembled from mud bricks and mortar, was built in 1906 through the combined efforts of the surrounding community. Today, the mosque is maintained by the people of Djenne during an annual festival created specifically to ensure its longevity.

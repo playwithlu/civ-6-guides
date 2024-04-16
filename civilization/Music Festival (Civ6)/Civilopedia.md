@@ -1,0 +1,3 @@
+# Music Festival (Civ6)/Civilopedia
+
+Listeners of rock music are occasionally compelled to seek each other's company, to share in the “joy” of listening to live rock music together. These shared ecstatic experiences serve not just to showcase the bands, but to communicate nuances of the broader culture within the practitioners, including fashion. During this time, many cheaply-made shirts will be sold for extraordinary prices, which the audience gladly pay, as souvenirs of the “amazing time” they had getting sunburnt with thousands of near-strangers while listening to a band perform in demonstrably poorer audio quality than they could experience at home.

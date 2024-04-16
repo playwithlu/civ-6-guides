@@ -1,0 +1,3 @@
+# Great Artist (Civ6)/Civilopedia
+
+Artists are the visionaries of civilization. They daub paint on canvas or chip away at stone, and leave it to others to find vision and meaning therein. They interpret the world and give beauty, brilliance, form, and color to the mundane; these are those who paint the pictures, carve the statues, take the photos, and make the films that define and reinforce our humanity. Sometimes they are appreciated in their lifetime; usually, not. Sometimes they make a living with their art; usually, not. However, the work of these artists can, occasionally, surpass its time and place, enlightening and elevating a people, making a civilization far greater than its material wealth and worldly power.

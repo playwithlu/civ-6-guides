@@ -1,0 +1,5 @@
+# Terraform (CTP1)
+
+As populations grow and cities need to take advantage of their surroundings, Civilizations can Terraform the landscapes into useful terrain. Each terrain requires a certain to terraform. Terraforming destroys s and . 
+Great Library entry.
+Thousands of years ago, ancient settlers clear cut forests to make room for farms and roads. As time went on, man's ability to recreate the natural environment grew constantly. Swamps were drained to fight disease, while rivers were redirected to make dry lands green. Later, conservationists planted forests to replace those hacked down by the swelling population, while engineers blasted highways through mountains of solid rock. The days of steam shovels and pick axes ended when Nanotechnology gave developers the power to mold the Earth like clay. Modern Terraforming is as much artistry as practicality, bringing all the nations of the world together to compete for the title of the ultimate Eden. 

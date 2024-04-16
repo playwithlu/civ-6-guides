@@ -1,0 +1,10 @@
+# Great Person (CivRev)
+
+A Great Person is a special kind of [Non-combat%20unit%20%28CivRev%29](non-combat unit) in "[Civilization%20Revolution](Civilization Revolution)". Great People can significantly upgrade your [City%20%28CivRev%29](cities') production of [Culture%20%28CivRev%29](Culture), [Gold%20%28currency%29%20%28CivRev%29](Gold), or [Science%20%28CivRev%29](Science); increase their rate of [Population%20growth%20%28CivRev%29](population growth); reduce the cost of constructing [List%20of%20buildings%20in%20CivRev](buildings); or upgrade military units.
+Great People will be born in your cities as culture grows throughout them. It is also possible to acquire Great People by reaching milestones of Gold reserves, discovering [List%20of%20technologies%20in%20CivRev](technologies) first, capturing them with a city, or by kidnapping them with a [Spy%20%28CivRev%29](Spy).
+Using Great People.
+The actual avatar of the Great Person is essentially a unit with a movement of 2 spaces per turn. It can be moved like all other units, but as a civilian unit, it cannot attack or defend itself. Each Great Person can either be used to provide an immediate one-time bonus (which consumes the Great Person) or settled in a city to provide a permanent bonus, which is dependent on its type. The permanent bonuses they can provide are as follows:
+While the permanent bonuses provided by settling Great People are highly beneficial, using them for their immediate one-time bonuses makes it impossible for another civilization to acquire them (either by kidnapping them with Spies or conquering the city in which they have settled). You can have multiple Great People living in any one city; however, only one type of Great Person can live in a single city.
+Other civilizations may offer peace for a set number of turns in exchange for a Great Person. If this request is met, you lose that particular Great Person, but may still settle another Great Person of the same type in your city.
+List of Great People in Civilization Revolution.
+Here are all of the Great People in "Civilization Revolution":

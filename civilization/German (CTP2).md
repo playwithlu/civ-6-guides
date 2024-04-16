@@ -1,0 +1,3 @@
+# German (CTP2)
+
+The German people represent a [List%20of%20civilizations%20in%20CTP2](civilization) in "[Call%20to%20Power%20II](Call to Power II)". Their default leader names are [Frederick%20the%20Great](Frederick) (or [Otto%20von%20Bismarck](Otto Von Bismarck) in [Apolyton%20Edition%20%28CTP2%29](Apolyton Edition)) for a male and [Brunhild](Brunhild) (or Brunhilde in Apolyton Edition) for a female.

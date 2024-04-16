@@ -1,0 +1,7 @@
+# Irrigation (Civ4)
+
+[Farm%20%28Civ4%29](Farms) require irrigation to work efficiently. Unirrigated Farms lose 1 from their [Tile%20%28Civ4%29](tile) production.
+Any Farm built adjacent to fresh water is irrigated. [Fresh%20water%20%28Civ4%29](Fresh water) sources are rivers, lakes, and oases. You can see if a tile has fresh water by mousing over it; the information is displayed in the tooltip.
+Before a [List%20of%20civilizations%20in%20Civ4](civilization) discovers [Civil%20Service%20%28Civ4%29](Civil Service), it cannot build any unirrigated Farm except for Farms on food [Resource%20%28Civ4%29](resource) tiles ( [Wheat%20%28Civ4%29](Wheat), [Corn%20%28Civ4%29](Corn), and [Rice%20%28Civ4%29](Rice)). So you will not see the penalty for unirrigated Farms except on such tiles.
+After Civil Service has been discovered, Farms also spread irrigation, and civs can build Farms on many more tiles. This capability is sometimes referred to as chain irrigation. Chain irrigation makes it possible to build a line of Farms to irrigate areas that do not have direct adjacency to fresh water. Chain irrigation from foreign civilizations is allowed.
+After discovering [Biology%20%28Civ4%29](Biology), Farms no longer require irrigation to be built, but they still produce less food if not irrigated. That is, you can build them on any flat tile, but you still need a chain of irrigation back to a fresh water source to get full food production.

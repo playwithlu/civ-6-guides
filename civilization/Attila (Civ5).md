@@ -1,0 +1,18 @@
+# Attila (Civ5)
+
+Attila the Hun (406 AD – 453 AD) was the great king of the Hunnic Empire. He leads the [Hunnic%20%28Civ5%29](Huns) in "".
+In-Game.
+Attila speaks modern , which is used because it is the only surviving language of the branch of the to which the Hunnic language is believed to have belonged. On his diplomacy screen, he is sitting on his throne in his headquarters, which appears to be modeled after the court in Mór Than's "The Feast of Attila".
+[Capital%20%28Civ5%29](Capital): Attila's Court
+[Unique%20unit%20%28Civ5%29](Unique Units): [Battering%20Ram%20%28Civ5%29](Battering Ram), [Horse%20Archer%20%28Civ5%29](Horse Archer)
+[Unique%20ability%20%28Civ5%29](Unique Ability): Scourge of God
+Voice Actor: [Vitali](Vitali)
+Personality and Behavior.
+Given his exceptional boldness and hostility, Attila is undoubtedly the most aggressive [Leaders%20%28Civ5%29](leader) in the game. He will always go for a [Domination%20victory%20%28Civ5%29](domination victory) over others, and will declare war on every [Civilizations%20%28Civ5%29](civilization) and [City-state%20%28Civ5%29](city-state) he meets all the time (even among his fellow warmongers). Don't try to befriend him, because even if you do, he will backstab you anyway.
+Attila will include many mounted and ranged [Unit%20%28Civ5%29](units) in his offensive army, which will be one of the best in the game. However, he fares poorly in defensive combat, and his [City%20%28Civ5%29](cities) tend to be poorly developed with weak defenses. If he manages to capture one of your cities, expect him to raze it to the ground.
+Be extremely careful when facing Attila, as he is relentlessly aggressive in the early game and all too willing to declare war on anyone he meets (particularly the civilizations with severe early game disadvantages like [Indian%20%28Civ5%29](India) and [Venetian%20%28Civ5%29](Venice)). Counter his invading army with lots of [Spearman%20%28Civ5%29](Spearmen), [Pikeman%20%28Civ5%29](Pikemen), and [Lancer%20%28Civ5%29](Lancers) should he initiate a war against you. Consequently, his [Warmongering%20%28Civ5%29](warmongering) behavior will most likely help you gain a lot of allies from many city-states and other civilizations (particularly those who hate warmongers) for better late-game dominance.
+Lines.
+Attila's voice actor is not a native speaker of Chuvash, so his speech contains many grammatical errors, and even native speakers have a hard time understanding the exact lines.
+Intro.
+Your men stand proudly to greet you, Great Attila, grand warrior and ruler of the Hunnic empire. Together with your brother Bleda you expanded the boundaries of your empire, becoming the most powerful and frightening force of the 5th century. You bowed the Eastern Roman Emperors to your will and took kingdom after kingdom along the Danube and Nisava Rivers. As the sovereign ruler of the Huns, you marched your army across Europe into Gaul, planning to extend your already impressive lands all the way to the Atlantic Ocean. Your untimely death led to the quick disintegration and downfall of your empire, but your name and deeds have created an everlasting legacy for your people.
+Fearsome General, your people call for the recreation of a new Hunnic Empire, one which will make the exploits and histories of the former seem like the faded dreaming of a dying sun. Will you answer their call to regain your rightful prominence and glory? Will mount your steadfast steed and lead your armies to victory? Will you build a civilization that stands the test of time?

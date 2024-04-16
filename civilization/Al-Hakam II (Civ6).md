@@ -1,0 +1,3 @@
+# Al-Hakam II (Civ6)
+
+Al-Hakam II, Caliph of Al-Andalus, is a non-playable [Leaders%20%28Civ6%29](leader) from the [Vikings%2C%20Traders%2C%20and%20Raiders%21%20%28Civ6%29](Vikings, Traders, and Raiders!) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". He leads the [Andalusian%20%28Civ6%29](Andalusians), and his [Unique%20ability%20%28Civ6%29](leader ability) is "Pious," which allows him to start with a [Theocracy%20%28Civ6%29](Theocracy) and the ability to train [Knight%20%28Civ6%29](Knights).

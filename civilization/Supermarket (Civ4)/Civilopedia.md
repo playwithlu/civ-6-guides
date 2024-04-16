@@ -1,0 +1,3 @@
+# Supermarket (Civ4)/Civilopedia
+
+Supermarkets are large, self-service retail stores that sell a wide variety of food items and household goods to the general public. The first true supermarket, King Kullen, was established in 1930 in the borough of Queens, New York City, by Michael Cullen. Improved storage techniques and refrigeration allowed supermarkets to stock and sell perishable foods in large quantities, reducing the price to the consumer. The combination of ready availability and low prices made the supermarket an instant success in the U.S. during the years of the Great Depression. The supermarket continues to grow in popularity in countries around the world.

@@ -1,0 +1,5 @@
+# Memphis
+
+Memphis is the [Egyptian](Egyptian) [capital](capital) in the [Apolyton%20Edition%20%28CTP2%29](Apolyton Edition) [Mods%20%28CTP2%29](mod) for "[Call%20to%20Power%20II](Call to Power II)" and an [American](American) and Egyptian [city](city) in other "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. It refers to several places in real life:
+Memphis, Egypt was the ancient capital of Inebu-hedj, the first nome of Lower Egypt that was known as mḥw ("North"), its ruins are located in the vicinity of the present-day village of Mit Rahina, in markaz Badrashin, Giza in present-day Egypt, and home to the [Pyramids](Pyramids), referring to the Memphis Pyramid Necropolis that spans the sites of Saqqara, Dahshur, Giza, and Abusir. Most games specifically mention the pyramids at only one of these sites: the Great Pyramids at Giza.
+Memphis, Tennessee is a city in the U.S. state of Tennessee and home to [Rock%20%27n%27%20Roll](Rock 'n' Roll), a.k.a. Graceland.

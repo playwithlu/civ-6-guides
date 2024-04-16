@@ -1,0 +1,3 @@
+# Great Writer (Civ6)/Civilopedia
+
+Great writers are those men and women who express our desires, insights, fancies, foibles, fears, and joys in the written word. History has been marked by their voices; indeed, “history” is one of their voices. Whether in poetry, in novels and stories, for the stage or screen, these are the artists who have defined their civilizations and cultures. Some write prose and poetry about imaginary worlds; others write tracts of philosophy, politics, religion, and science about how our world is or should be. And let’s not forget those who put down facts on paper. Whatever their muse, whatever their intent, their words echo through time, binding us all together ... or sometimes setting us all apart.

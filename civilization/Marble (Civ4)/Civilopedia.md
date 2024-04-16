@@ -1,0 +1,4 @@
+# Marble (Civ4)/Civilopedia
+
+Marble is a kind of limestone, used by man for millennia. It is a useful material for construction, especially in dry climates. Marble is an excellent material from which to make statues, as well. Marble surfaces can be polished to a beautiful sheen, but the rock remains attractive even when the surface is left rough.
+The Egyptians used marble blocks to line the outside of the Pyramid of Cheops. The Greeks used blocks of marble to construct some of their buildings; they also used the material to sculpt some of the world's great artworks. The Romans were the first to use slabs of marble as wall coverings. Marble remains one of the most popular construction and artistic materials extant.

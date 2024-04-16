@@ -1,0 +1,3 @@
+# Fortress (Col)
+
+A Fortress is an upgraded [Fort%20%28Col%29](fort) that can be built when the population of the colony reaches 8 and already has a fort in place. The stout wooden barricade is reinforced and, in critical spots, replaced by stone masonry. Embrasures now house the artillery, which is more extensively used. Well-planned, overlapping fields of fire characterize the exterior approaches. A fortress overlooking the ocean will slow the progress of foreign vessels and open fire on them if they venture too close.

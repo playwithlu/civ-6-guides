@@ -1,0 +1,3 @@
+# Chiron
+
+Chiron is a fictional [planet](planet) in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)". Located in the [Alpha%20Centauri%20%28star%20system%29](Alpha Centauri) system, it is where the game begins as the [Earth](Earth)ling crew and colonists aboard [U.N.S.%20Unity%20%28SMAC%29](U.N.S. "Unity") organize themselves into [Factions%20%28SMAC%29](factions) and escape the ship in [Colony%20Pod%20%28SMAC%29](colony pods).

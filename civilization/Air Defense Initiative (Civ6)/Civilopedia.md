@@ -1,0 +1,3 @@
+# Air Defense Initiative (Civ6)/Civilopedia
+
+The rise of strategic bombing of cities in the 20th Century led to the creation of systems of air defense for city centers. The real boom in city air defense began during World War I with searchlights and artillery, and continued well into the early Cold War with radar networks and missile launchers. Eventually nuclear weapons and intercontinental ballistic missiles became so powerful that the whole idea of air defense became somewhat quixotic, and interest in civil air defense waned.

@@ -1,0 +1,9 @@
+# Ranger (Civ6)
+
+The Ranger is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [List%20of%20units%20in%20Civ6/By%20class%23Recon](recon unit) in "[Civilization%20VI](Civilization VI)". It upgrades from the [Scout%20%28Civ6%29](Scout) (or its replacements).
+In the ' expansion, the Ranger can upgrade to a [Spec%20Ops%20%28Civ6%29](Spec Ops). In the ' expansion, it primarily upgrades from the [Skirmisher%20%28Civ6%29](Skirmisher).
+Strategy.
+The Ranger is an Industrial recon unit, which pretty much sums up how useful this unit can be: you shouldn't need to do much scouting at this point in the game, and if you do, a Scout should still be able to handle it. [Combat%20%28Civ6%29](Combat)-wise, it has the same Ranged Strength as the [Field%20Cannon%20%28Civ6%29](Field Cannon) that also becomes available in this [Era%20%28Civ6%29](era), but its cost is higher and its lower and Combat Strength make it inferior on both offense and defense. Under the [vanilla](vanilla) ruleset, chances are good that you'll ignore the Ranger unless you're swimming in and have nothing better to spend it on than upgrading your Scouts.
+With the introduction of Spec Ops in "Rise and Fall", the Ranger can actually serve as an [XP](XP) stepping stone for the top-tier recon unit, which is pretty decent in combat thanks to its outstanding maneuverability.
+Bugs.
+Rangers are incorrectly affected by modifiers that affect ranged units, such as the [Coursers%20%28Civ6%29](Coursers) . However, this also allows them to be used with [Ambiorix%20%28Civ6%29](Ambiorix's) [List%20of%20leader%20abilities%20in%20Civ6](leader ability).

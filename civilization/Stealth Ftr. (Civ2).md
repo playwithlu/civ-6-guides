@@ -1,0 +1,2 @@
+# Stealth Ftr. (Civ2)
+

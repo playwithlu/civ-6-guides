@@ -1,0 +1,3 @@
+# Cloves (Civ5)/Civilopedia
+
+Cloves are the dried flower bud from a tree native to the Maluku Islands in Indonesia; an aromatic spice, it is used in cuisines worldwide. Now harvested primarily in Indonesia, India, Zanzibar and Madagascar, cloves have a numbing effect on mouth tissues and have been used in the past as a medicine and a drug as well as a spice. Until planted outside the islands, the Dutch East India Company had a virtual monopoly on the spice; in Europe in the 17th and 18th centuries, cloves were quite literally worth their weight in gold due to the demand.

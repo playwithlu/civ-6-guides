@@ -1,0 +1,3 @@
+# Hippodrome (Civ4)/Civilopedia
+
+The Hippodrome of Constantinople (literally "Horse Path" in Greek) was constructed in 203 AD by the Emperor Septimius Severus. The building was a massive venue for chariot races. While the art of charioteering saw great advances in the Hippodrome - the first four-horse races were held here - much of the venue's renown would stem from its involvement in one of the most terrible massacres in Byzantine history. During the Nika Revolts, a brutal uprising between rival racing factions, nearly 30,000 rioters were slain by Byzantine troops within the Hippodrome.

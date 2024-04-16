@@ -1,0 +1,3 @@
+# Resettlement (Civ5)/Civilopedia
+
+Forced resettlement, or "population transfer" in Soviet jargon, took several forms: deportations of "anti-Soviet" groups ("enemies of the people"), deportations of ethnic groups, labor force transfers, or forced migrations into "ethnically cleansed" regions. At their height during Stalin's rule, involuntary resettlement programs, usually into unpopulated areas of Asiatic Russia, involved those of Polish, Baltic, Finnish, Rumanian, Tatar, Kalmyk, Chechen and dozens of other peoples. Communist leaders believed it an efficient and relatively humane manner to bring order to such a vast and diverse land.

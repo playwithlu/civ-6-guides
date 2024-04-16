@@ -1,0 +1,4 @@
+# City Park (Civ6)/Civilopedia
+
+Urban environments offer a number of advantages for human activity, but the urban environment also can prove to be stressful for residents over time. To this end, publicly-established and maintained spaces offer an opportunity to bring more natural elements into the city. Romantic sensibilities about nature and progressive attitudes towards public recreational spaces in the 19th and 20th Centuries informed both the creation of some of the most famous parks (such as Central Park in New York) and the opening of previously-restricted parks (like Regent's Park in London or the Casa de Campo in Madrid).
+The City Park will be viewed fondly by the citizens of the city, because it provides many things: An oasis of nature, a space for civic gathering and engagement, and sometimes as a venue for the performing arts. Here, beneath the trees, people can take a moment to be people, and not merely the role they play in their daily business.

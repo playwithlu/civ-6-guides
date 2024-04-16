@@ -1,0 +1,3 @@
+# Discipline (Civ5)/Civilopedia
+
+In a military structure, discipline refers to a soldier's willingness to follow legitimate orders, to respect superior officers, and to put their life in jeopardy or even die when required. Disciplined soldiers are expected to uphold the dignity of their uniform when off-duty and to protect the weak and helpless. Lapses in discipline may lead to military punishment or even courts-martial and discharge.

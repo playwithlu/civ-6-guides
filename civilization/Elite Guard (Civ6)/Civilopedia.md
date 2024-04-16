@@ -1,0 +1,3 @@
+# Elite Guard (Civ6)/Civilopedia
+
+Many a king, emperor, and general had an elite guard, hand-picked and highly trained soldiers that accompanied him (or her) when he (or she) went on campaign. Although the primary duty of these "imperial" guards was the continued breathing of their commander, they were also the best shock troops available in a battle: better armed, better disciplined, and willing to fight to the death (supposedly). History recounts the stirring exploits of many of these – Persian Immortals, Ottoman Janissaries, the Tang Dynasty's Forbidden Troops, Napoleon's Old Guard, and Britain's Household Division. So these units were much more than just pretty uniforms.

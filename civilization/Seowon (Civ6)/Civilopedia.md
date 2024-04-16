@@ -1,0 +1,3 @@
+# Seowon (Civ6)/Civilopedia
+
+An educational crisis in 16th Century Korea brought about the seowon, a private institution designed to fill the scholarly void. The heavy emphasis on Confucian teachings and rituals were often expressed in the modest appearance of its structures. The preponderance of aristocratic children attending made the seowon ideal for discussing politics. This blend of Neo-Confucianism and topical matters created an ideal setting to explore new ideas about Korea’s contemporary culture and government.

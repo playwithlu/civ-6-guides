@@ -1,0 +1,9 @@
+# Map (Civ5)
+
+The map is the world on which a game of "[Civilization%20V](Civilization V)" takes place. Most [List%20of%20scenarios%20in%20Civ5](scenarios) use premade maps, but other types of games allow players to choose their own map script and let the game generate a world for them.
+The map consists of a rectangular set of [hex](hex)agonal tiles, and comes in six sizes. In most cases, the map will be cylindrical with wraparound on an east–west axis, with impassible ice caps at the northern and southern edges. However, there are some map scripts, such as Inland Sea, that do not feature wraparound with hard borders on all four edges.
+Map scripts.
+Maps can be randomly generated through scripts, some of which were added with the ' and ' expansions. These scripts arrange the continental land and open sea into various configurations. There are also advanced map settings, which allow players to adjust aspects of a map such as [Ocean%20%28Civ5%29](ocean) levels, rainfall levels, [Resources%20%28Civ5%29](resource) abundance, and the age of the world.
+Map size.
+As mentioned above, "Civilization V" separates maps into six distinct sizes. The size of a map determines the default numbers of players and city-states and the number of [Natural%20wonder%20%28Civ5%29](natural wonders) in the game, as shown in the table below. It also affects penalties related to [Warmongering%20%28Civ5%29](warmongering). These are the default sizes for most maps, but individual maps can use different sizes. Of the official maps, Tilted Axis and Terra have the largest dimensions, while Four Corners, North vs South, and West vs East have the smallest.
++ Additive

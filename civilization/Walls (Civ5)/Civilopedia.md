@@ -1,0 +1,3 @@
+# Walls (Civ5)/Civilopedia
+
+Ever since people have gathered together in groups - towns, cities, whatever - other people have wanted to steal their stuff. From earliest history people have constructed defensive works of mud, wood or stone to keep their enemies away from their food, wealth, and women and children. By medieval times walled villages and cities dotted the European countryside, some accompanied by elaborate moats and ditches. Some of these elaborate works are still visible today. The city of York, England, has extensive walls which date back to Roman times.

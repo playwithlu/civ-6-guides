@@ -1,0 +1,5 @@
+# Tribalism (Civ4)/Civilopedia
+
+Tribalism is a form of organization which emphasizes the tribe as the sole unit of importance. Individuals have no rights; each man, woman and child exists only to support the tribe. Tribalism is a fairly useful form of government for a small group of people who exist on the edge of catastrophe. In a tribe everyone knows everybody else; who is strong and who is weak, who is intelligent and who is not, who is skilled and who is unskilled.
+Leadership in the tribe is usually determined by merit, according to the tribe's needs: if the tribe is hungry, the best hunter becomes the leader. If the tribe is surrounded by enemies, the best warrior is chosen. And so forth. A tribe must quickly learn how to pick successful leaders; otherwise it will perish.
+Tribalism tends to break down when the tribe becomes overly large. People no longer know everyone in their tribe. Groups (or factions) appear, and everyone no longer shares the same objective. The tribe must find a more sophisticated system of government or fracture into smaller squabbling units.

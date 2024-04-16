@@ -1,0 +1,3 @@
+# Ship of the Line (Civ5)/Civilopedia
+
+Ships of the line are the largest and most powerful sailing vessels ever built. They formed the backbone of Europe's great navies from the 17th to the mid 19th centuries. Ships of the line were named for the classic formation that these ships fought in. In battle, each side's ships would approach the enemy in a line, and as the opposing ships passed, each would let off a thundering broadside of cannon fire, doing horrific damage to the vessels and to those aboard her. Victory usually went to the side with the most cannon and the best-trained sailors. The English were masters at this form of warfare, and their ships of the line dominated the world's oceans for more than a century.

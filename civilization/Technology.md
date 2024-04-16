@@ -1,0 +1,3 @@
+# Technology
+
+Technology or technologies (or advances in the early "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games) are what you research to further advance your [empire](empire) to enable the use of new types of [unit](unit)s, [building](building)s, [Great%20Wonder](wonders), or other things. Most technologies have prerequisites - that is, they need one or two other technologies to be researched first. However, in some games they can be stolen from or obtained via trading with other [civilizations](civilizations) without the prerequisites.

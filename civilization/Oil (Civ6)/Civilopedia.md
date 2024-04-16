@@ -1,0 +1,3 @@
+# Oil (Civ6)/Civilopedia
+
+Oil greases the wheels of modern civilization, so to speak. For centuries before the coming of the internal combustion engine, oil was used for fire, lubrication, and to make asphalt. In 347 AD, oil was being produced from bamboo-drilled wells in China. But it wasn’t until 1847 when James Young discovered a method for distilling kerosene from oil that oil drilling became a booming industry. A boom only fueled by the discovery of the methods to refine gasoline from crude oil.

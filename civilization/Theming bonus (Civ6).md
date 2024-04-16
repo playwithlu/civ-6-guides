@@ -1,0 +1,11 @@
+# Theming bonus (Civ6)
+
+A theming bonus is a and bonus received by filling [Museum%20%28Civ6%29](Museums) with [Great%20Work%20%28Civ6%29%23Great%20Works%20of%20Art](Great Works of Art) or [Great%20Work%20%28Civ6%29%23Artifacts](Artifacts) that satisfy certain criteria. When activated, the bonus doubles the yields of all items in the Museum.
+When playing as [Kongolese%20%28Civ6%29](Kongo), the , , and bonuses also get doubled if you manage to theme an [Art%20Museum%20%28Civ6%29](Art Museum) with Sculptures or an [Archaeological%20Museum%20%28Civ6%29](Archaeological Museum) with Artifacts. Theming also doubles the bonus to Great Works granted by the [Anshan%20%28Civ6%29](Anshan) [City-state%20%28Civ6%29](city-state).
+Archaeological Museum.
+To receive the theming bonus from an Archaeological Museum, its slots must be filled with Artifacts from the same [Era%20%28Civ6%29](era) and different [Civilizations%20%28Civ6%29](civilizations). Each city-state and [Free%20City%20%28Civ6%29](Free City) counts as a distinct civilization for this purpose, as do the [Barbarian%20%28Civ6%29](Barbarians).
+In [vanilla](vanilla) "[Civilization%20VI](Civilization VI)" and "", [English%20%28Civ6%29](England's) [List%20of%20civilization%20abilities%20in%20Civ6](civilization ability) automatically themes their Archaeological Museums once all their slots have been filled.
+Art Museum.
+To receive the theming bonus from an Art Museum, its slots must be filled with Great Works of Art of the same type (i.e., Sculptures, Portraits, Landscapes, or Religious) made by different [Great%20Artist%20%28Civ6%29](Great Artists). This means that a minimum of three Great Artists are needed to activate each Art Museum's theming bonus.
+Kristina.
+In "", [Kristina%20%28Civ6%29](Kristina's) [List%20of%20leader%20abilities%20in%20Civ6](leader ability) automatically themes all her [Building%20%28Civ6%29](buildings) with at least three Great Work slots and all her [Wonder%20%28Civ6%29](wonders) with at least two Great Work slots once all their slots have been filled.

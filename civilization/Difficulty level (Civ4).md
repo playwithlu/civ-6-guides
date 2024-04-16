@@ -1,0 +1,5 @@
+# Difficulty level (Civ4)
+
+The difficulty level is a game setting in "[Civilization%20IV](Civilization IV)" that allows players to compete against [AI](AI) opponents matched to their skills and desire for challenge. In order from lowest to highest, the difficulty levels are as follows:
+Since the computer players are not controlled by advanced AI (i.e., cannot learn from and react to the player's strategies by changing their own accordingly), but instead behave based on a very long list of if-then statements, the game makes the AI [Leaders%20%28Civ4%29](leaders) more challenging opponents by giving them advantages on higher difficulty levels. The bonuses conferred to both human and AI players on each difficulty level are listed in the table below.
+All of the information presented here comes from a forum post on [CivFanatics](CivFanatics) and the game's XML files.

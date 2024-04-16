@@ -1,0 +1,5 @@
+# Terracotta Army (Civ5)
+
+Strategy.
+In ', the Terracotta Army is a rich source of early ; in ', it is a unique wonder with the powerful effect of instantly creating [Military%20unit%20%28Civ5%29](military units) for you. There's a catch, though: the extra [Unit%20%28Civ5%29](units) are created for each "type" of unit you possess, not for each "individual" unit. If you want to make the most of the Terracotta Army, try to produce as many types of units as you can before completing it. Note, however, that the sudden rush of units may turn against you - there will be a sharp increase in maintenance costs for your army, so be prepared for that!
+Typically, the Terracotta Army is a pretty poor wonder in "Brave New World". The expensive cost will only be worth it with a diverse army, and diverse armies are rarely used, whether by warmongers or peaceful players. It's often better to focus on infrastructure.

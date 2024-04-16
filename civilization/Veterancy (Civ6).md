@@ -1,0 +1,7 @@
+# Veterancy (Civ6)
+
+Veterancy is a Military [Policy%20Cards%20%28Civ6%29](Policy Card) in "[Civilization%20VI](Civilization VI)".
+Strategy.
+This simple Military Policy lets you build the most militaristic and its [Buildings%20%28Civ6%29](buildings) more efficiently. However, depending on how many Military Policy slots you have available in your [Government%20%28Civ6%29](government), it may not be worth your while - a 30% boost isn't such a big deal, and unless you're constructing [Encampment%20%28Civ6%29](Encampments) and/or buildings in them in multiple [City%20%28Civ6%29](cities), then there are other Policy cards which are more useful (such as [Conscription%20%28Civ6%29](Conscription)). But if you have more than 1 slot, and no pressing concerns, Veterancy will speed up these constructions.
+Of course, don't forget to use it only when you are actually building the aforementioned district and buildings, and then swap it out.
+In "", Veterancy also accelerates the construction of the [Harbor%20%28Civ6%29](Harbor) district and its buildings. Given the [Lighthouse%20%28Civ6%29](Lighthouse's) value of providing , , and a , Veterancy can now give a boost to your growth, not just your military.

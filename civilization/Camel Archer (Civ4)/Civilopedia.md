@@ -1,0 +1,3 @@
+# Camel Archer (Civ4)/Civilopedia
+
+In the Arabian Peninsula, cavalrymen ride on either horse or camel. While horses are somewhat easier to train than camels, camels are the obvious choice for forces operating in the deep desert. Arab tribesmen such as the Bedouin have always been fearsome warriors, and their prowess with bow and arrow (and later, rifle) from atop a mount has become the stuff of legend.

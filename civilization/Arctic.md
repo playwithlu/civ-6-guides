@@ -1,0 +1,3 @@
+# Arctic
+
+Arctic (or snow) is a type of [terrain](terrain) in the "[Civilization%20%28series%29](Civilization)" games. It consists of frozen tracts of land found near the north and south poles. No [food](food), [resource](resource)s, or trade can be obtained here except on the occasional bonus tile or a small amount of resource in some games. Contact is sometimes hazardous to land units and primitive ships.

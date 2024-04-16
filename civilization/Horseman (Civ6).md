@@ -1,0 +1,9 @@
+# Horseman (Civ6)
+
+The Horseman is a [Classical%20Era%20%28Civ6%29](Classical Era) [List%20of%20units%20in%20Civ6/By%20class%23Light%20cavalry](light cavalry unit) in "[Civilization%20VI](Civilization VI)". It requires .
+In the "" expansion, the Horseman can upgrade to a [Courser%20%28Civ6%29](Courser) and requires 20 to train.
+Barbarian.
+[Barbarian%20%28Civ6%29](Barbarian) outposts located near can spawn [Barbarian%20Horseman%20%28Civ6%29](their own variant of the Horseman).
+Strategy.
+The Horseman is the first true cavalry unit in the game, available to all that don't have special earlier units (and have access to , of course). It has very decent Combat Strength for its [Era%20%28Civ6%29](era), and its mobility conveys it great advantage on the battlefield. Just beware of [List%20of%20units%20in%20Civ6/By%20class%23Anti-cavalry](anti-cavalry units), such as the [Spearman%20%28Civ6%29](Spearman) - it makes up for having 11 less Combat Strength with its bonus vs. cavalry, and is also available earlier (which means that by the time the Horseman is available, players will have had enough time to raise a sizable army of Spearmen).
+Use the Horseman for crushing flanking attacks, to run around the enemy formation and hit at their back, or to harass [City%20%28Civ6%29](cities) and [Combat%20%28Civ6%29%23Pillaging](pillage) their [Tile%20improvement%20%28Civ6%29](improvements) and s. (Light cavalry even has a special for pillaging.) Note, however, that "Civilization VI" doesn't give cavalry an inherent hit-and-run capability, so make sure your Horsemen won't be overwhelmed after attacking.

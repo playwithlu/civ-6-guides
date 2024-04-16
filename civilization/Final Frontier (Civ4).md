@@ -1,0 +1,18 @@
+# Final Frontier (Civ4)
+
+Final Frontier is one of three [Mods%20%28Civ4%29](mods) that come with the "[Beyond%20the%20Sword](Beyond the Sword)" expansion pack. It takes place in the future on an intergalactic [Map%20%28Civ4%29](map), with very little left unchanged from the standard game. It was designed by [Jon%20Shafer](Jon Shafer).
+The player takes the role of leader of one of humanity's colonies at the beginning of the 24th century. [Earth](Earth) has mysteriously disappeared without warning, throwing her interstellar colonies into chaos and forcing them to survive for themselves.
+Civilizations.
+"Final Frontier" contains eight civilizations:
+Tech Tree.
+"Final Frontier" has its own tech tree with 38 new [Final%20Frontier%20%28Civ4%29/Technology](technologies).
+Units.
+"Final Frontier" provides 16 completely new units, most of which come with upgraded delta (Δ) and omega (Ω) versions for a total of 44. The combat units all have their own unique qualities: stealth ships are fairly weak but have hidden nationality, destroyers are cheap, expendable and weak but can defend against enemy squadrons (the equivalent of vanilla's fighters and bombers), cruisers are moderate strength and can carry missiles, battleships are slow, expensive and heavy, while carriers are equally slow but can carry squadrons into battle. Starbases are the strongest unit in the game, but require the sacrifice of a Construction Ship, a hefty gold investment and are immobile. However, they have a powerful long-range attack ability, spread a civilization's borders, can be used as bases for squadrons and automatically manufacture anti-ship missiles.
+Solar Systems.
+Players can found new cities only on select solar system tiles, which are strewn across the map. Each system has a preset number of planets with their own individual yields, which can be improved through certain buildings. Rather than directly work plot tiles, players instead assign population points to a planet; each planet can also only be worked by a limited number of population points, although certain buildings can increase this limit.
+Terrain.
+The terrain system has been more or less completely revamped. The base tile is simple space, which all units can move through. Strewn throughout are features such as asteroids (which provide defense bonuses, resources and movement penalties), nebulas (impassable), black holes, radiation clouds and supernovae. The last three are all dangerous and can damage or potentially kill units.
+Values.
+Values act as the [Religion%20%28Civ4%29](religions) of "Final Frontier" and are spread by [Advocate%20%28Civ4%29](Advocate) units. Each value also has a corresponding special building. In addition to the usual happiness bonus of possessing a state religion in a city, each value provides its own special benefits when present in a solar system and its building is built. "Final Frontier" contains five values:
+Victory.
+The [United%20Nations%20%28Civ4%29](United Nations) wonder has been replaced by "the [United%20Planets%20%28Civ4%29](United Planets)," by which players can pursue the traditional [Victory%20%28Civ4%29%23Diplomatic](Diplomatic Victory). A new victory condition replacing the [Spaceship%20%28Civ4%29](Space Race), the Ascendancy Victory, requires the construction of 5 [Astral%20Gate%20Piece%20%28Civ4%29](Astral Gate Piece)s in the late game which would theoretically allow the player's civilization to transcend to a higher plane of existence. (It is heavily implied that the Earth was trying to do this itself, but a miscalculation caused its destruction and thus the entire scenario.)

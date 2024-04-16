@@ -1,0 +1,3 @@
+# Mercantilism (Civ5)/Civilopedia
+
+Mercantilism is a form of economic nationalism that encourages a nation to engage in policies of "protectionism" to promote its own exports and to limit imports from other nations. As a nation's "balance of trade" increases, the nation gains in wealth and prosperity, and if it dips below zero (the nation imports more stuff than it exports), the nation and its people grow poorer and more vulnerable to external threats. The theory was popular in Western Europe from the 16th to the 18th centuries. Today most western nations seek to open their borders to trade, albeit often with some level of taxation or quotas to protect their most important national industries.

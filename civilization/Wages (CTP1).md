@@ -1,0 +1,5 @@
+# Wages (CTP1)
+
+Wages are the amount of a Civilization pays each citizen per turn. This amount is deducted from the pool of gold the Civilization is generating. If the amount paid to the citizens meets their expectations, the citizens will be content. If it falls short, their will decrease. Slaves are not paid wages.
+Great Library entry.
+Citizens have never worked without some inducement. In ancient times, most citizens grew their own food or bartered for food. Failure to work meant failure to eat. The arrival of capitalism and the demise of the barter system changed this. Suddenly, workers found themselves laboring for cash. Wages were very low as workers had little leverage to use in negotiations. To address this, workers began to unionize in the 19th Century. Against hired goons and death threats, the early unionist fought valiantly for the chance of a living wage. Never again would the worker meekly accept his offered share.

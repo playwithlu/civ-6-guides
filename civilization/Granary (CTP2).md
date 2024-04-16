@@ -1,0 +1,7 @@
+# Granary (CTP2)
+
+ is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The Granary is one of the most vital Improvements in "Call To Power II". Agriculture gives empires the ability to markedly increase their Food production. A Granary ensures that a city can store Food year-round.
+Great Library entry.
+Although the earliest agriculturalist civilizations existed in the Indus River valley around the 8th millennium BC, it wasn't until the 6th millennium BC that the developed pottery techniques sufficient to enable the construction of storage devices. At Merhgarh near the Indo-Iranian border, some of the first granaries were built. They consisted of holes dug into the ground and covered by stone or clay bricks. They often contained compartments, as well as pots and urns used to store food surpluses. They were a crucial step in enabling people to settle land and expand their civilizations. With proper food storage techniques, societies could cope with the unpredictability of weather, soil and natural forces. Some archaeological excavations suggest that some cultures employed massive granaries of brick, stone and clay, with enough storage space to house food to feed small groups of people for hundreds of days.

@@ -1,0 +1,3 @@
+# Ambush (Civ6)/Civilopedia
+
+Anthropologists and archaeologists have suggested that Neolithic hunters used ambush on dangerous prey, and later on each other. So the art of taking advantage of concealment and stealth to surprise the enemy, get in a couple of blows, and then run away has been a staple of warfare for a long time. Ambush is intended to hit the stronger enemy hard, cause disproportionate casualties through the element of surprise, and then fade away into the brush rather than stand and fight. It has been the favored tactic of raiders for millennia.

@@ -1,0 +1,5 @@
+# Combustion (Civ2)
+
+ Combustion is an in "[Civilization%20II](Civilization II)".
+Civilopedia entry.
+The development of the internal combustion was a great advance of the Industrial Age. The forerunner of today's internal combustion engine was built in 1876 by German engineer Nikolaus Otto. Refinements on Otto's design over the next ten years led to more efficient and powerful engines. The internal combustion engine forever changed world transportation. Early automobiles utilizing steam engines had proven to be both under-powered and impractical, but the fuel efficiency and compact size of the internal combustion engine allowed the automotive industry to flourish. Several variations, including the diesel engine designed by Rudolf Chistian Karl Diesel, went on to revolutionize propulsion in shipping and other transportation industries.

@@ -1,0 +1,4 @@
+# Barbarian Horse Archer (Civ6)/Jadwiga's Legacy/Civilopedia
+
+We continue to lose our people to the Tatars. They take so many as slaves—tens of thousands—it's as though each year they pluck entire towns from the map. Their horse archers launch lightning raids on our outlying settlements and return with their living spoils. Practically raised in the saddle, these Tatars see themselves as the successors to Genghis Khan himself.
+The horse archers pour through our borders, harass our patrols, and fill our militias with arrows before retreating to their khanate. The only walls they fear are those made of pikes.

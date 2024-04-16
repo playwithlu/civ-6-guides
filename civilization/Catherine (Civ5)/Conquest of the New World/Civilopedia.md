@@ -1,0 +1,3 @@
+# Catherine (Civ5)/Conquest of the New World/Civilopedia
+
+An infanta of Castile, Catherine was the daughter of Joanna of Castile and Philip of Habsburg. At the age of 18 she was married to her first cousin John III of Portugal in 1525 AD, eventually bearing him nine children, two of which survived to majority. With John's death in 1557, she became regent for the heir, her grandson Sebastian. In 1562 she surrendered the regency to her brother-in-law Cardinal Henry, John's younger brother. As queen and later regent, Catherine had advocated Portugal's expansion in Brazil, as well as colonial ventures in Africa. She died at the age of 71 in February 1578, just months before King Sebastian's own demise in Morocco.

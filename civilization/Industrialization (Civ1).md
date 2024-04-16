@@ -1,0 +1,6 @@
+# Industrialization (Civ1)
+
+Industrialization allows the building of [Factory%20%28Civ1%29](factories), [Transport%20%28Civ1%29](transports) and [Women%27s%20Suffrage%20%28Civ1%29](Women's Suffrage). It will cause your cities to start producing [Pollution%20%28Civ1%29](pollution).
+It is a prerequisite of [Communism%20%28Civ1%29](Communism), [Steel%20%28Civ1%29](Steel) and [The%20Corporation%20%28Civ1%29](The Corporation).
+Civilopedia entry.
+The invention of the Steam Engine and other technology, especially the Railroad, led to the Industrialization of the West. Industrialization was the use of machines to dramatically increase the productivity of workers. Industry became concentrated in factories, allowing new products to become available in huge quantities. Industrialization revolutionized living standards, but not always for the better. The new worker class often suffered a grinding, subservient existence that eventually fostered the social philosophy of Communism and the more practical Labor Union. Both were attempts to improve the lot of workers.

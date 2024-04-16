@@ -1,0 +1,5 @@
+# Drone (Civ6)
+
+The Drone is an [Atomic%20Era%20%28Civ6%29](Atomic Era) [List%20of%20units%20in%20Civ6/By%20class%23Support](support unit) in "". It upgrades from the [Observation%20Balloon%20%28Civ6%29](Observation Balloon).
+Strategy.
+The Drone provides unparalleled support for [List%20of%20units%20in%20Civ6/By%20class%23Siege](siege units), increasing both the range and power of their attacks. It also has a sight radius of 5, which is exactly how far [Rocket%20Artillery%20%28Civ6%29](Rocket Artillery) with the [Forward%20Observers%20%28Civ6%29](Forward Observers) can fire with a Drone spotting for them. This incredible range will make it easy for them to attack enemy [City%20%28Civ6%29](cities) (and the [Unit%20%28Civ6%29](units) defending them) from behind mountain ranges, bodies of water, or protective lines of friendly units.

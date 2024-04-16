@@ -1,0 +1,3 @@
+# Lakes (Civ5)/Civilopedia
+
+A lake is any body of water ten tiles or smaller in size that is completely surrounded by land tiles (any larger body of water is considered ocean). When worked, lakes provide 2 food and 1 gold to nearby cities. Lakes are sources of fresh water, allowing the construction of farms on adjacent hills and tundra. Farms next to fresh water receive an additional +1 food when the [Civil%20service%20%28Civ5%29](Civil Service) technology is researched.

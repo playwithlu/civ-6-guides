@@ -1,0 +1,3 @@
+# Barbarian Horse Archer (Civ6)/Civilopedia
+
+Tools for subsistence could also be weapons of war. Many hunting groups would move between raiding and hunting as a way of life – trading when they could, finding food where they could, and taking from their neighbors when they had the opportunity. While the horse archer’s composite bow (a blend of wood and bone) was unapparelled when it came to putting firepower into a small device, foot-based archers could use a variety of different weapons. East African nomads’ arrows, for instance, were cruelly barbed – all the better to allow poisoned tips more time to deliver their payload. North American groups, too, fought back (at least at first) against European settlers (and each other) using bows as a principal weapon.

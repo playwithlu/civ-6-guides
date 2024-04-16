@@ -1,0 +1,5 @@
+# Terrestrial Laser Station (Civ6)
+
+Terrestrial Laser Station is a [Project%20%28Civ6%29](project) in "". It becomes available after researching [Offworld%20Mission%20%28Civ6%29](Offworld Mission) and completing the [Exoplanet%20Expedition%20%28Civ6%29](Exoplanet Expedition) project, and requires a [Spaceport%20%28Civ6%29](Spaceport) [District%20%28Civ6%29](district). 
+This project builds a high-tech laser station that shoots an ultracharged high-precision beam toward the exoplanet spacecraft to power it up. It increases the speed of the Exoplanet Expedition by 1 Light Year per turn, accelerating the player's [Victory%20%28Civ6%29%23Science](Science Victory) progress.
+This project may be completed multiple times. However, it increases the [City%20%28Civ6%29](city's) requirement by 5 each time it is completed, and will cease to provide its bonus if the city is not powered.

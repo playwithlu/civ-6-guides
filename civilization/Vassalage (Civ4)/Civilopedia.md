@@ -1,0 +1,4 @@
+# Vassalage (Civ4)/Civilopedia
+
+Vassalage is a feudal term referring to a person who enters a contract with his or her lord, agreeing to serve and protect the lord in return for monetary rewards or ownership or sovereignty over a parcel of land. The contract is often of both political and religious significance, binding both parties by the rules of man and of God.
+Vassalage is often tribal in nature. One tribe conquers another, and rather than killing the conquered tribe or taking over its direct management, the conquering ruler makes the conquered his vassal: the lower ruler continues to maintain control over his people and territory, while paying tribute to his or her lord in the form of money, goods, soldiers or slaves.

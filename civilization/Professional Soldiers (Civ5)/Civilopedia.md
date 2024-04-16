@@ -1,0 +1,4 @@
+# Professional Soldiers (Civ5)/Civilopedia
+
+Professional soldiers are a marked improvement over the rag tag, cobbled-together militias exhibited by most early civilizations. These full-time soldiers are better-equipped, better trained, and are all-in-all more effective than your average farmer with a leather jerkin and a pitchfork. The Roman Empire created one of the world’s first standing armies staffed with professional soldiers, who were a key part to their sweeping military victories. In Europe, some of the first professional soldiers were employed by Charles VII of France in 1445, and later by King James II of Britain in 1685.
+Professional soldiers are a staple part of a modern civilization's army and defense system, and can be found employed in many of the world’s developed countries.

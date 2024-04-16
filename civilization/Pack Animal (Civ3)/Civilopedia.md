@@ -1,0 +1,3 @@
+# Pack Animal (Civ3)/Civilopedia
+
+The Mesoamericans never discovered the wheel, nor did they have horses, but that did not keep them from using pack animals to portage goods. The Incas used llamas. Too small to carry people, llamas were useful in other ways as well: for food and for making sacks and rope. The use of llamas, coupled with their extensive way station (or [tambo]) system, the Incas were able to build and maintain trade lines over the entire coastline of South America.

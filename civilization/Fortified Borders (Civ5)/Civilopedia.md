@@ -1,0 +1,3 @@
+# Fortified Borders (Civ5)/Civilopedia
+
+As long ago as the construction of the Great Wall, autocratic nations have sought to limit perceived threats from invaders - as well as limit their own people's departure - through extensive fortifications along the borders. While military engineering changed dramatically from time of Hadrian's Wall in Britain to the Bar Lev Line across the Sinai, the precept remains the same, strongpoints linked by lesser fortifications and protected by anti-personnel obstacles such as stakes, pits, wires and mines. Currently the most intimidating border fortifications line the Korean Demilitarized Zone, displaying the result of opposing Fortified Borders.

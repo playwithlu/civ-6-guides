@@ -1,0 +1,2 @@
+# Gold Edition (Civ3)
+

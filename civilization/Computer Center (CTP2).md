@@ -1,0 +1,7 @@
+# Computer Center (CTP2)
+
+ is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+By providing scientists with sophisticated computing equipment, the Computer Center increases a city's production. Empires with many Computer Centers have an edge on their rivals, and the prevalence of these could mean the difference between discovering a and merely reading about it in the newspaper.
+Great Library entry.
+Throughout the 1940s, 50s and 60s, several public and private organizations endeavored to create computers for the purposes of solving mathematical problems. Some of the earliest computers, including the ENIAC (Electronic Numerical Integrator and Computer), were designed to deal with very specific problems. Later models, such as the UNIVAC (Universal Numerical Integrator and Computer) were more programmable, and, hence, more versatile, enabling users to give the computer instructions for solving more than one problem. Companies like International Business Machines (IBM) developed large "mainframe" systems in which multiple users could share time on a single computer system. The invention of the transistor in 1948 introduced a more reliable, more efficient semiconductor device that eventually replaced the vacuum tube a decade later. Soon, major research laboratories employed mainframes in their research.

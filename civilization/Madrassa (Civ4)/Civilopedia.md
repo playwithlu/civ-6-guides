@@ -1,0 +1,4 @@
+# Madrassa (Civ4)/Civilopedia
+
+A "madrassa" is an Arabic institute of higher learning, usually religious in nature. The earliest madrasses were formed in Islamic mosques, where scholars gathered to study and debate religious and secular issues of the day. Over time students would come to study with the most learned scholars; the most popular teachers often had to construct separate buildings to hold their growing student population.
+At the madrassas the students would learn to read and write and study religious doctrine, history and law. Some madrassas also taught logic, world history, foreign language, mathematics, art and science. Since state-run colleges and universities did not appear until later in history, the madrassas were critical centers of learning in many early Arabic cities.

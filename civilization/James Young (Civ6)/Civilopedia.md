@@ -1,0 +1,4 @@
+# James Young (Civ6)/Civilopedia
+
+Scottish chemist James Young devised an improvement for Michael Faraday’s battery, proposed a method of combating potato blight, is responsible for advancements in rustproofing the Royal Navy’s fleet, iterated upon Hippolyte Fizeau’s speed of light measurement technique, and is best recognized for his patented technique of crude oil refinement. Young devised technique after observing how crude oil was affected by heated coal seams. Experimenting with artificial methods of reproducing this process would yield a variety of useful oils.
+In 1850, he and his close friend and business partner Edward Meldrum established the world’s first commercial oil company. He would eventually withdraw from the company, enjoying the fortune earned from his paraffin oil patent.

@@ -1,0 +1,3 @@
+# Master Cotton Planters (Col)
+
+A Master Cotton Planter increases the production of [Cotton%20%28Col%29](Cotton). As with all outdoor workers, a [Free%20Colonists%20%28Col%29](Free Colonist) has a chance to become a Master Cotton Planter each turn that it produces Cotton. This skill "cannot" be trained in [Europe](Europe), but it can be learned from some of the [Indians%20%28Col%29](Indian tribes). A Master Cotton Planter may teach his skill in a [College%20%28Col%29](College) or [University%20%28Col%29](University).

@@ -1,0 +1,3 @@
+# Populism (Civ5)/Civilopedia
+
+Populism is a policy in which politicians attempt to gain power by playing on the resentment that the common people have for the country's elites, be they the wealthy or the hereditary nobility, or the ruling tribe. The tactic has a somewhat unsavory reputation, and it is often labeled as "incitement to class warfare," but this is not always the case. Certainly some appeals to populism may be excessive - "The rich should be killed and eaten and you should get all of their stuff!" But they may also be justified - "All children, rich or poor, should have equal access to good schools!" As with most political rhetoric, it all depends upon the honesty and honor of the person doing the speaking.

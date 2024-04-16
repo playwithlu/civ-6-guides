@@ -1,0 +1,9 @@
+# Golem (CivBE)
+
+Game info.
+The Golem is a Purity - Supremacy ultimate hybrid unit that has superb combat strength and defense for its relatively low production cost. When upgraded, it has the second highest melee combat strength in the game, surpassed only by the Xeno Titan. While it excels in close quarters combat, it has one falling weakness - it only has 2Movement and has no conventional way of increasing this. Thus the Golem, while powerful, is slow and struggles to keep up with the rest of your army which is typically more mobile, especially as Purity. When fortified, the Golem blocks incoming ranged attacks from the front, allowing you to plant a lethal wall of angry drones in the way of approaching armies.
+Unit Upgrades.
+Tier 1.
+Early game Golems are not as spectacular as one might think in terms of military prowess—they cost a plethora of Production and resources and, while their Strength is high, it is only 16 more than an [Autosled%20%28CivBE%29](Autosled) and is available much later due to its technology requirements. It is also less mobile. Golems are usually better to pull out during early game rushes to prevent enemies from attacking cities—a 56 Strength unit is usually unkillable, especially in tandem with a [Drone%20Cage%20%28CivBE%29](Drone Cage).
+Tier 2.
+Tier 2 Golems are much more powerful than their Tier 1 cousins due to incredible Strength bonuses and perk choices. Their Strength is now 106, which is higher than most other units in the game, allowing it to be very versatile on a relatively flat battlefield as it is not situational when it comes to Strength bonuses. Its generic bonus encourages stationary defense, although Golems are often useful on the offense as a blocker for ranged units. Its Purity perk, splash damage, can be very effective against infantry-based armies, especially CNDRs and CARVRs as the splash damage pierces their Strength.

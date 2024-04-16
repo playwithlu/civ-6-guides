@@ -1,0 +1,3 @@
+# New South Wales
+
+New South Wales is a [city-state](city-state) in the "[Civilization%20%28series%29](Civilization)" games. To date, it appeared only in [Scenario](scenarios). In real life, is a state on the east coast of present-day [Australian](Australia). It borders [Queensland](Queensland) to the north, [Victorian](Victoria) to the south, and [South%20Australian](South Australia) to the west. Its state [capital](capital) is [Sydney](Sydney).

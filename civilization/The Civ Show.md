@@ -1,0 +1,7 @@
+# The Civ Show
+
+The Civ Show is a weekly "[Civilization%20VI](Civilization VI)" where online hosts MoySauce, Nystagmus, and Razing Zozo mix engaging conversation with in-game hints and strategies. The first episode was published on March 8, 2020. The show streams on Sunday evenings from 7 p.m. to 12 a.m. ET on Twitch. With a motto of "We suck, so you don't have to," The Civ Show hosts are always looking to improve their game, while engaging in playful jeering and rivalries.
+Show format.
+Most sessions feature a full game of "Civilization VI" that is split up between two 5-hour sessions. At the end of each session, the winner determines the theme of the next game (e.g. only [South%20America](South America)n [Civilizations%20%28Civ6%29](civilizations)). Players draft in a reverse order where last place chooses their civilization first, and the winner will pick theirs last. Some example themes that have been played before include:
+Podcast.
+The Civ Show airs a weekly podcast from 10:30 p.m. to 11:30 a.m. ET every Thursday night. Topics range from current Civ Show games, industry news in the "[Civilization%20%28series%29](Civilization)" community, and general strategy to improve both the viewers and the hosts alike.

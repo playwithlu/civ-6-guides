@@ -1,0 +1,3 @@
+# Pinnacles (Civ6)/Civilopedia
+
+Near the southwestern coast of the Australian continent are a series of strange rock formations reminiscent of fingertips reaching forth from the sands in which they are situated. These limestone formations are formed from decomposed marine life of an earlier era, though no one theory reveals how they came to exist in their current form. Until their incorporation into a national park in the 1960s, their most common living visitors were kangaroos.

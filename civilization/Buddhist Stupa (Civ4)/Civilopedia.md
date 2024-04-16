@@ -1,0 +1,5 @@
+# Buddhist Stupa (Civ4)/Civilopedia
+
+In "Civilization IV", a cathedral is defined as an especially large and ornate religious building where the faithful worship. Only the most prosperous cities can afford to create cathedrals, as they require huge amounts of raw material and years of dedicated labor by skilled craftsmen. For example, the Notre Dame Cathedral in Paris, France, took over two centuries to complete.
+Buddhist stupas are monuments holding holy relics. The first eight stupas were created to hold the Buddha's remains. During his reign, the Emperor Asoka took portions of the Buddha's ashes and spread them among the thousands of stupas he created. Stupas can now be found across Asia and the world.
+The oldest surviving stupa can be found in Sanchi, India. The "Great Stupa" was constructed by Emperor Asoka some time in the third century BC.

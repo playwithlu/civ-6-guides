@@ -1,0 +1,8 @@
+# Art Museum (Civ6)
+
+The Art Museum is an advanced [Culture%20%28Civ6%29](cultural) [Building%20%28Civ6%29](building) in "[Civilization%20VI](Civilization VI)". It is built in the and requires an (or one of its replacements).
+Strategy.
+The Art Museum is the second building inheriting the features of the old [Museum%20%28Civ5%29](Museum) [Building%20%28Civ5%29](building) from "", and this one is exclusively dedicated to artwork rather than artifacts. That means that you cannot display any Artifacts at all in it! You can, however, display any of the multiple types of Great Works of Art in the game.
+Activating its [Theming%20bonus%20%28Civ6%29](theming bonus) is more challenging, though. You must fill all three of the Art Museum's slots with "one" of the following types of Great Works of Art, each of which must be created by a "different" [Great%20Artist%20%28Civ6%29](Great Artist):
+This means that a single Great Artist can fill an Art Museum's slots, but they cannot activate its theming bonus. You will either need to trade with other players to get Great Works of the same type from Great Artists they had, or wait for a Great Artist who produces the type of Great Works you need and attract them to your [Civilizations%20%28Civ6%29](civilization). Displaying a Great Work of Art in an Art Museum that's already displaying a Great Work of Art by the same Great Artist reduces its and yields to 1, so moving your Great Works of Art between Art Museums is essential to maximize the and you get from them.
+In "", each cultural [City-state%20%28Civ6%29](city-state) with 6 or more s gives an additional +2 in each Art Museum.

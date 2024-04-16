@@ -1,0 +1,3 @@
+# Chariot Archer (Civ5)/Civilopedia
+
+Before the invention of the stirrup, it was virtually impossible to fight from horseback. There was no way to brace oneself, and the slightest push could unhorse the warrior, with disastrous results. Horses first appeared on the battlefield pulling chariots. A chariot team usually consisted of one or two horses, a driver, and an archer. The chariots' mobility made them especially dangerous to infantry: they could rush within range, fire off a volley, then escape before the foot-bound soldiers could close with them. The greatest weakness of a chariot archer team was its inability to deal with difficult terrain. On open plains they were the kings of the ancient battlefield; in hills or woods they were at a significant disadvantage.

@@ -1,0 +1,3 @@
+# Ziggurat (Civ5)/Civilopedia
+
+A hallmark of Sumerian, Babylonian and Assyrian construction efforts, the Ziggurat evolved from early temple designs that were built upon elevated platforms (probably to avoid flooding). The colossal Ziggurats typically featured large shrines on the highest level, to be viewed only by priests and other religious figures. Predominantly featured as part of larger overall temple complexes, the exact purpose of the Ziggurats remains a mystery today.

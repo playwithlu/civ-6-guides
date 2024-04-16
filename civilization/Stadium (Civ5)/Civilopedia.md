@@ -1,0 +1,3 @@
+# Stadium (Civ5)/Civilopedia
+
+A stadium is a modern version of a colosseum, probably with a better selection of snacks. Modern stadiums hold upwards of 100,000 screaming fans watching a sports event, concert, or perhaps a political rally. Modern sports enthusiasts are not noticeably more sedate than their Classical Age ancestors, and today's stadiums come equipped with fences, guard rails, and loads of security guards for rampaging fans.

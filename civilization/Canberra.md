@@ -1,0 +1,3 @@
+# Canberra
+
+Canberra is the [Australian](Australian) [capital](capital) in the "[Civilization%20%28series%29](Civilization)" games, the [Apolyton%20Edition%20%28CTP2%29](Apolyton Edition) [Mods%20%28CTP2%29](mod) for "[Call%20to%20Power%20II](Call to Power II)", and elsewhere and the Australian [city](city) in other [Call%20to%20Power%20games]("Call to Power" games). In real life, it was chosen as the site of present-day Australia's capital in 1908 as a compromise between [Sydney](Sydney) and [Melbourne](Melbourne).

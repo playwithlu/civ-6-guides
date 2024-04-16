@@ -1,0 +1,3 @@
+# Secret Police HQ (Civ3)
+
+ is a [Small%20Wonder%20%28Civ3%29](Small Wonder) in "". It requires [Espionage%20%28Civ3%29](Espionage) and only civilizations under [Communism%20%28government%29%20%28Civ3%29](Communist) [Government%20%28Civ3%29](government) can build it. Changing from Communism will cause the Secret Police HQ bonuses to stop. Functioning somewhat similarly to the [Palace%20%28Civ3%29](Palace), it strongly reduces [Corruption%20%28Civ3%29](Corruption and Waste) in the city in which it is built, and imparts a similar but more limited benefit to other nearby cities.

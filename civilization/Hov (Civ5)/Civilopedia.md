@@ -1,0 +1,3 @@
+# Hov (Civ5)/Civilopedia
+
+A Hov was a structure, sometimes no more than a roofless palisade but far more substantial in large Goth settlements, where the pagan "blot" (ritual animal sacrifice) took place. Amid great fanfare, the blot was conducted by the Germanic druids to insure good harvests, hunting or victory in war. The sacrifice was usually by means of decapitation; Agathias of Myrina wrote during the Gothic War (535-554 AD) that the Goths would "sacrifice horses, cattle and countless other animals by beheading them, and imagine that they are performing an act of piety thereby." If the tribe was under extreme threat, it was not unknown for the druids to even conduct human sacrifice of captives or slaves in the Hov.

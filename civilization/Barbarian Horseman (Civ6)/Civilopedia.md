@@ -1,0 +1,3 @@
+# Barbarian Horseman (Civ6)/Civilopedia
+
+For many plains nomads, horses were more than livestock; they were a way of life. For groups such as the Vedics, Jurchen, Huns, the ancestors of the Mongols, and for New World groups post-contact, warriors lived in close symbiosis with their horses. Horse milk for Central Asian nomads was a staple part of the diet, and people moved constantly in search of new pastureland. Further, the sheer speed and maneuverability of horse-bound nomads made them a serious threat to more sedentary agriculturalists: horsemen could appear, raid, and disappear before settled people could mount any kind of response.

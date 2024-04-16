@@ -1,0 +1,3 @@
+# Rain Forest (Civ3)/Civilopedia
+
+The Amazon Jungle is an ecological wonder, a treasure trove of exotic animals, plants, and mysterious tribes. The riches it contained so impressed the Incas that they made several attempts at piercing its darkness, only to be thrown back time and time again. Eventually, the Incas gave up their quest and turned their attention to expanding their empire throughout the Andes Mountains.

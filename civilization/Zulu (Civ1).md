@@ -1,0 +1,4 @@
+# Zulu (Civ1)
+
+The Zulus are a playable [List%20of%20civilizations%20in%20Civ1](civilization) in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Their [Leaders%20%28Civ1%29](leader) is [Shaka%20%28Civ1%29](Shaka), their [Capital%20%28Civ1%29](capital) is [Zimbabwe](Zimbabwe), and their color is green (which they share with the [Babylonian%20%28Civ1%29](Babylonians)). The Zulus are replaced by the [Japanese%20%28Civ1%29](Japanese) in the SNES version of the game.
+On [Earth%20%28map%29%20%28Civ1%29](Earth), their starting location in southern [Africa](Africa) gives a relatively peaceful early game, especially if the Sinai area can be secured and fortified quickly. As [NPC](NPC)s, the Zulus do not develop their [City%20%28Civ1%29](cities) or nation quickly enough to present a significant threat.

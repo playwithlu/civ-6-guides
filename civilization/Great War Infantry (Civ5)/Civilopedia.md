@@ -1,0 +1,3 @@
+# Great War Infantry (Civ5)/Civilopedia
+
+As the 20th century opened, the world experienced two of the deadliest and most destructive wars in human history. It was a time of remarkable advancement in the technology of killing, and the infantrymen of World War I faced every conceivable terror the world's scientists and engineers could throw at them. Typically armed with little more than a bolt-action rifle and simple uniform, these troops braved the horrors of trench warfare to defend their homes and families.

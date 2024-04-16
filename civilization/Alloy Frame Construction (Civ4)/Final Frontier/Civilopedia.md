@@ -1,0 +1,3 @@
+# Alloy Frame Construction (Civ4)/Final Frontier/Civilopedia
+
+The sheer precision of new intuitive battle computers made even the minutest flaws in a modern ship's armor a deadly weakness. If a piece of ordinance could slip through a vessel's shields, then that vessel's destruction was nearly assured. The remedy to such stunning offensive capabilities was the creation of the universe's first complete Alloy Frames, effectively a cocoon that surrounded the whole of the ship to decrease concussion damage and greatly limit the opportunities for ever-watching intuitive computers to inflict fatal damage. By adding this ultra-light weight, yet durable cocoon, larger and lighter Carriers and Destroyers could fair better against heavily-armed Capital ships.

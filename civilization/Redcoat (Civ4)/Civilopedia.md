@@ -1,0 +1,3 @@
+# Redcoat (Civ4)/Civilopedia
+
+A soldier of the British Army. The usual uniform of British soldiers during the 18th and 19th centuries (prior to the introduction of khaki) was a red (or scarlet) coat and white breeches. The epithet "Redcoats" was used throughout the world, but is particularly associated with the American colonists. The term is still used in Ireland to refer to the British Army, and sometimes to all British people.

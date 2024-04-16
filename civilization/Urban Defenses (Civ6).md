@@ -1,0 +1,4 @@
+# Urban Defenses (Civ6)
+
+Urban Defenses is a [City%20%28Civ6%29](city) upgrade in "[Civilization%20VI](Civilization VI)". It is unlocked with [Steel%20%28Civ6%29](Steel).
+Unlocking Urban Defenses builds modern fortifications in all cities (both existing and future ones) and their [Encampment%20%28Civ6%29](Encampment) [District%20%28Civ6%29](districts) (and also [Oppidum%20%28Civ6%29](Oppida), if playing as the [Gallic%20%28Civ6%29](Gauls)). This includes the ability to perform ranged strikes, as well as an advanced form of [Walls%20%28Civ6%29](Wall) with 400 HP. In [vanilla](vanilla) "Civilization VI" and "", it also makes them immune to the bonuses of [Battering%20Ram%20%28Civ6%29](Battering Rams) and [Siege%20Tower%20%28Civ6%29](Siege Towers).

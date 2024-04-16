@@ -1,0 +1,3 @@
+# Thrust (Civ6)/Civilopedia
+
+Spears – both those for throwing and those for thrusting – have been used since prehistoric times for the hunt and for war. The ones meant for thrusting tend to be heavier, sturdier, and used with one or two hands. By the Bronze Age, spears with socketed metal heads were the most common weapon; and around the 7th century BC the Greeks created the phalanx, a close-order formation to utilize thrusting spears up to nine feet long in dense ranks. The unwieldy Greek spear eventually gave way to various pole weapons, which combined the thrust of the spear with the cutting edge of the axe: the halberd, glaive, bill, and pike ... the latter the dominant weapon in the 1500s and 1600s.

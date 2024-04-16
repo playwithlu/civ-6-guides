@@ -1,0 +1,7 @@
+# Wind Farm (Civ6)
+
+The Wind Farm is a standard [Tile%20improvement%20%28Civ6%29](tile improvement) in "". It is used to supply  to its [City%20%28Civ6%29](city) from a renewable source: the wind. It can only be constructed on [Hills%20%28Civ6%29](Hills) [Tile%20%28Civ6%29](tiles).
+Strategy.
+The Wind Farm becomes available in the [Information%20Era%20%28Civ6%29](Information Era) and is one of the modern ways to supply to cities without burning fossil fuels and reducing your strategic supplies. Of course, it will have to compete for space on the [Map%20%28Civ6%29](map), usually with the [Mine%20%28Civ6%29](Mine). Compared to it, the Wind Farm will supply 2 less to the city, but it will offset it somewhat with an additional 2 ! At this point in the game your cities should be sufficiently developed (that is, have other sources of ) for that to be worth it, unless you have an abundant supply of fossil fuels and don't mind polluting the environment.
+[Governor%20%28Civ6%29](City Governor) [Reyna%20%28Financier%29%20%28Civ6%29](Reyna's) [Renewable%20Subsidizer%20%28Civ6%29](Renewable Subsidizer) title can boost the yield from this improvement by +2 and +2 .
+The [Biosph%C3%A8re%20%28Civ6%29](Biosphère) can boost the yield from this improvement by +4 and cause it to generate +6 .

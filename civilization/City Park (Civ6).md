@@ -1,0 +1,7 @@
+# City Park (Civ6)
+
+The City Park is a [Governor%20%28Civ6%29](Governor) [Tile%20improvement%20%28Civ6%29](tile improvement) in "". It can only be built in a [City%20%28Civ6%29](city) in which a [Liang%20%28Surveyor%29%20%28Civ6%29](Surveyor Governor) with [Parks%20and%20Recreation%20%28Civ6%29](Parks and Recreation) is established.
+Strategy.
+The City Park increases the Appeal of surrounding [Tile%20%28Civ6%29](tiles) and provides a small amount of , as well as an if adjacent to a [River%20%28Civ6%29](River), [Lake%20%28Civ6%29](Lake), or [Coast%20%28Civ6%29](Coast). It can create or improve placement sites for [Seaside%20Resort%20%28Civ6%29](Seaside Resorts), [National%20Park%20%28Civ6%29](National Parks), [Chemamull%20%28Civ6%29](Chemamull) (when playing as the [Mapuche%20%28Civ6%29](Mapuche)), and [Alc%C3%A1zar%20%28Civ6%29](Alcázars) (when [Suzerain%20%28Civ6%29](Suzerain) of [Granada%20%28Civ6%29](Granada)).
+In "", having Liang established in a city makes all City Parks yield 4 . This effectively turns them into [Ski%20Resort%20%28Civ6%29](Ski Resorts), with each giving +4 after researching [Flight%20%28Civ6%29](Flight). Moreover, their placement requirements aren't too stringent, allowing even a barren [Snow%20%28Civ6%29](Snow) city to be turned into a powerhouse.
+A City Park that provides a bonus does so even when built on a tile outside a city's workable area (i.e., 4 or 5 [hex](hex)es away from its [City%20Center%20%28Civ6%29](City Center)).

@@ -1,0 +1,5 @@
+# Military Tradition (Civ6)
+
+Military Tradition is an [Ancient%20Era%20%28Civ6%29](Ancient Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by clearing a [Barbarian%20%28Civ6%29](Barbarian) encampment.
+Strategy.
+In ancient times warfare was a communal affair - the same members of the society which did farming and crafts would in times of war pick up weapons and fight. However, handling weapons isn't a simple affair, especially when it comes to more sophisticated ones, like the bow. So, it became very useful to create social traditions which taught young men useful skills in battle. As a result, a [Civilizations%20%28Civ6%29](civilization) gains use of the two types of formation bonuses: [Flanking%20and%20Support%20%28Civ6%29](Support and Flanking). It also gains one of the most powerful early Military policies, and the first Wildcard Policy which helps attract [Great%20General%20%28Civ6%29](Great Generals). All this accelerates your early military capabilities nicely.

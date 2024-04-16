@@ -1,0 +1,8 @@
+# Viking (Civ3)
+
+The Vikings are a playable [List%20of%20civilizations%20in%20Civ3](civilization) in the "" expansion pack of "[Civilization%20III](Civilization III)". They are led by [Ragnar%20Lodbrok%20%28Civ3%29](Ragnar Lodbrok).
+Civilopedia entry.
+In "Civilization III: Play the World", the Vikings are considered a [Militaristic%20%28Civ3%29](Militaristic) and [Expansionist%20%28Civ3%29](Expansionist) civilization, therefore, they start with [Pottery%20%28Civ3%29](Pottery) and [Warrior%20Code%20%28Civ3%29](Warrior Code) and have significant bonuses to exploratory and military activities.
+Unique Unit: the Berserk.
+In the pagan era, before Scandinavia was converted to Christianity, the berserkir warriors were looked upon as possessing supernatural powers attributed to the Viking's chief god, Odin and a belief in lycanthropy. These warriors were known to rush into battle without armor, as mad as wolves, and as strong as wild boars. This infamous berserkir frenzy reportedly allowed them to kill men in single blows with great bearded axes and shrug off blows from fire and iron alike. Today it is believed that these frenzies were the result of epileptic attacks.
+The Berserk replaces Longbowmen for the Viking civilization. In addition to being formidable foot soldiers, berserkir are one of the first available amphibious units in the game, which allows them to attack enemy units or structures directly from within sea-based transport vessels.

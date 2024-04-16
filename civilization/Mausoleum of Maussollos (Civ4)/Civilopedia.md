@@ -1,0 +1,4 @@
+# Mausoleum of Maussollos (Civ4)/Civilopedia
+
+Maussollos died in 349 BC. King of Caria during his lifetime, Maussollos wished to leave a reminder of himself for future generations in the form of a great tomb. In addition to hiring hundreds of laborers, Maussollos commissioned five of the finest artisans in the Hellenic world to design the hundreds of statues that were to line the peripheries of his white marble resting place.
+Over 130 feet tall upon completion, the Mausoleum of Maussollos stood by the harbor of Halicarnassus until 1522, when the Knights Hospitaller tore it down in order to use the stones to build defenses against the approaching Turks.

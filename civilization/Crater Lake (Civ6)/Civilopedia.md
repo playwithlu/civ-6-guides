@@ -1,0 +1,3 @@
+# Crater Lake (Civ6)/Civilopedia
+
+Crater Lake, called at times “Deep Blue Lake”, and “Majesty Lake,” is a sacred site to local Klamath groups, who historically attributed the lake to a battle between the sky god Skell and the underworld god Llao. Formed some 7700 years ago when the stratovolcano Mazama in the North American Cascade Range collapsed, Crater Lake is a deep caldera lake. Since no rivers flow into or out of the lake, the fresh waters there are the result of rain and snow; scientists estimate that the water is completely replaced only every 250 years. Not the best spot to refill a canteen when hiking the glorious Cascade trails.

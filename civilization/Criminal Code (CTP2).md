@@ -1,0 +1,8 @@
+# Criminal Code (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The modern Criminal Code introduces the unit, who can rid of es, as well as to halt in foreign cities. The Correctional Facility is a high-tech way of managing on a large scale. The Wonder decriminalizes many petty crimes, reducing prison populations and crime empire-wide.
+Great Library entry.
+Crime is an arbitrary concept, in that it is entirely constructed based on the moral and ethical laws of a people. What is lawful in one country may be criminal in another, and trivial infractions in one cultural context may be capital crimes elsewhere. As times and social mores change, so do criminal codes. In addition, as technology grows, a code must expand to cover the new range of potential opportunities that each development makes available for abuse. The invention of the motor vehicle, for example, led to the development of an entire body of criminal laws designed to regulate its use.
+The development of a criminal code is essential for a just society to function. However, the malleability of law predicates the need for a class of full-time professionals whose avocation is the study, interpretation and enactment of law. Although professional lawyers had been around since ancient times, the early 20th century saw a dramatic rise in the ranks of lawyers and lawmakers around the world. As society, particularly the business and technological parts of it, became more complex, and the potential for abuse increased dramatically, the modern criminal code has evolved and expanded to meet the needs of due process. Moreover, as criminal populations increase, the need for prisons and correctional facilities rises.

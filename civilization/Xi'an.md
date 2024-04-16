@@ -1,0 +1,3 @@
+# Xi'an
+
+Xi'an, also known as Chang'an, is the [Chinese](Chinese) [capital](capital) in "[Civilization%20VI](Civilization VI)" (under [Qin%20Shi%20Huang%20%28Civ6%29](Qin Shi Huang)), the [Han](Han) capital in the [Apolyton%20Edition%20%28CTP2%29](Apolyton Edition) [Mods%20%28CTP2%29](mod) for "[Call%20to%20Power%20II](Call to Power II)", and a Chinese [city](city) in other "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. In real life, it is the capital of present-day China's Shaanxi Province.

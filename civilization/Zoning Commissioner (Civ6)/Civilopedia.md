@@ -1,0 +1,3 @@
+# Zoning Commissioner (Civ6)/Civilopedia
+
+Zoning is the process of determining how land is used to avoid undesirable situations like people living adjacent to dangerous or noxious industries or businesses. The commissioner is the person who adjudicates the zoning ordinances, and as such has considerable power in where specific activities can be done. The commissioner must evaluate all the possible uses of land, and think about the future needs of their community in balance with the needs of the present.

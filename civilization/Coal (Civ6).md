@@ -1,0 +1,8 @@
+# Coal (Civ6)
+
+ Coal is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [Resource%20%28Civ6%29%23Strategic](Strategic Resource) in "[Civilization%20VI](Civilization VI)". It is revealed with [Industrialization%20%28Civ6%29](Industrialization).
+ Coal is found on a variety of terrain, always on [Hills%20%28Civ6%29](Hills).
+Strategy.
+ Coal is a fairly common resource which provides a very nice boost when worked. This boost gets even better because of the [Mine%20%28Civ6%29](Mine) [Tile%20improvement%20%28Civ6%29](improvement), turning Coal into one of the most useful resources for any [City%20%28Civ6%29](city).
+Its strategic use lies in producing Industrial Era ships, which can really make the difference in battle when faced with their [Renaissance%20Era%20%28Civ6%29](Renaissance) predecessors. Far broader, however, is its use in fueling the [Coal%20Power%20Plant%20%28Civ6%29](Coal Power Plant), unlocked with the same [Technology%20%28Civ6%29](technology). It may be a fairly inefficient power source and adds CO2 to the atmosphere at a tremendous rate, but it's the best you'll get until you unlock [Electricity%20%28Civ6%29](Electricity) in the following [Era%20%28Civ6%29](era). [Railroad%20%28Civ6%29](Railroads) are another helpful application of Coal, unlocked just one technology later.
+In "", [English%20%28Civ6%29](England's) [Unique%20ability%20%28Civ6%29](civilization ability) grants them an increased Coal extraction rate from Mines, as well as an increased storage capacity for it (and other strategic resources) from [Harbor%20%28Civ6%29](Harbors). Keep an eye out for Coal when playing as the English; you'll more than likely find some, as your [Starting%20bias%20%28Civ6%29](starting bias) dictates.

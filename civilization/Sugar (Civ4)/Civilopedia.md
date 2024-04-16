@@ -1,0 +1,3 @@
+# Sugar (Civ4)/Civilopedia
+
+Sugarcane is a tropical grass, probably native to New Guinea. Sugar refining was developed in China, India, and the Middle East, where it became a staple of cooking and desserts. During the eighteenth century, Europeans developed a taste for jams, candy, tea, coffee, and other sweets in greater numbers. These demands made sugar enormously popular, and its production and marketing have gone through a series of booms.

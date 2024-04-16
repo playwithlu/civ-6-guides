@@ -1,0 +1,4 @@
+# Food Market (Civ6)/Civilopedia
+
+Far from the fluorescent-lit commercial food production hubs of today, early open air markets were a place for farmers to offload excess crops and livestock. Customers, in turn, would be able to inspect food for (relative) cleanliness.
+Food markets would become a necessary feature of cities which moved further from areas of food production—part commerce, part civic endeavor to keep the population fed. Some markets were constructed alongside the cities in which they were founded; for instance, merchants have been selling cheese and meat at the Suq Bab al-Lūq in Cairo since 969 CE.

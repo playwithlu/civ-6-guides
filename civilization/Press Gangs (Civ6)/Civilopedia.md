@@ -1,0 +1,3 @@
+# Press Gangs (Civ6)/Civilopedia
+
+Impressment was the practice of “recruiting” men into the navy by force (with or usually without notice). Navies of several civilizations used press gangs (armed groups who wandered about and did the “impressing”), but the most well-known was the Royal British Navy, who began using it during wartime in 1664 AD and continued until the Napoleonic Wars. Although the practice fell into disuse after 1814 (impressed sailors did not necessarily make good sailors), it wasn’t outlawed in Great Britain until 1835. Despite lurid tales, press gangs rarely operated outside ports and rarely took anyone but seafarers, longshoremen, and fishermen – anyone not accustomed to the sea tended to die too quickly.

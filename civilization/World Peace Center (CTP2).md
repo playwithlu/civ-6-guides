@@ -1,0 +1,7 @@
+# World Peace Center (CTP2)
+
+The World Peace Center is a [Wonder%20%28CTP2%29](Wonder) in "[Call%20to%20Power%20II](Call to Power II)". It costs 15,200 production points to build.
+Gameplay.
+The World Peace Center is an institution dedicated to the preservation of peace and harmony between all nations. Empathic Diplomats from around the world gather and, using special empathic translation headsets, communicate with each other outside the bounds of language and nationality. The empire that hosts this wonder gains a regard bonus with all other nations, as well as a permanent embassy that never closes, not even in the event of war.
+Great Library entry.
+On October 24, 2095, 150 years to the day after the establishment of the United Nations, an international organization of Empathic Diplomats created the World Peace Center, dedicated to the preservation of peace and the pursuit of global harmony. Representatives of every nation in the world convened regularly and, using specially designed headsets, could communicate without difficulty, regardless of native language. The event marked a turning point in foreign relations for many of the countries involved and several nations established permanent embassies with each other.

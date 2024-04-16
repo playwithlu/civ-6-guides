@@ -1,0 +1,5 @@
+# Spiral Minaret (Civ4)/Civilopedia
+
+The Spiral Minaret is a massive brick and clay structure adjacent to the Mosque of al-Mutawakkil in Samarra, Iraq. The mosque was constructed in 852 AD, and at the time was the largest mosque in the world.
+A remarkable triumph of ancient engineering, the minaret is a circular tower 170 feet in height. A spiral exterior staircase extends up the tower to the platform where the "muezzin" called the people to prayer. It is said that the caliph al-Mutawakkil once rode up the stairs on a white Egyptian donkey.
+An imposing yet magnificent building, the Spiral Minaret still stands today, calling the people of Samarra to prayer at the Mosque of al-Mutawakkil. The more courageous visitors can climb the staircase to the top of the minaret, which appears to lack an outside guardrail.

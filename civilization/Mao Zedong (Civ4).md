@@ -1,0 +1,9 @@
+# Mao Zedong (Civ4)
+
+Mao Zedong (26 December 1893 – 9 September 1976) was leader of the Chinese Revolution and founder of the People's Republic of China. He leads the [Chinese%20%28Civ4%29](Chinese) in "[Civilization%20IV](Civilization IV)".
+General Info.
+[Unique%20unit%20%28Civ4%29](Unique Unit): [Cho-Ko-Nu%20%28Civ4%29](Cho-Ko-Nu)
+[Unique%20building%20%28Civ4%29](Unique Building): [Pavilion%20%28Civ4%29](Pavilion)
+[Starting%20technologies%20%28Civ4%29](Starting Techs): [Agriculture%20%28Civ4%29](Agriculture), [Mining%20%28Civ4%29](Mining)
+AI Traits.
+Mao Zedong is one of the leaders who will plan wars when pleased.

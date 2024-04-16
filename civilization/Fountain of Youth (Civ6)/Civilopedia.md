@@ -1,0 +1,3 @@
+# Fountain of Youth (Civ6)/Civilopedia
+
+The Fountain of Youth of legend is less of a cement or stone fountain, and more of a spring said to restore the youth of anyone who drinks or swims in it. The trusty Herodotus wrote about the fountain in the 5th century BC, and Alexander the Great allegedly found a healing river a hundred years later. Unfortunately, neither of them bottled up any of the water to help them later on in life when old age and wounds respectively took them to Hades. Over countless centuries, the myth persisted, and explorers such as Juan Ponce de Leon spent countless years searching for the mystical spring. If anyone has found it, they haven’t shared the secret with the world.

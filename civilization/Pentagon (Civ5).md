@@ -1,0 +1,4 @@
+# Pentagon (Civ5)
+
+Strategy.
+The Pentagon appears to be a great wonder for militaristic empires, but it is not without drawbacks: it allows them to keep their armies updated in tech for a lower cost and also gives out two [Great%20Merchant%20%28Civ5%29](Great Merchant) points. Although it may at first seem helpful to get Great Merchants, whenever a Great Merchant is acquired, the GPP requirements for obtaining [Great%20Scientist%20%28Civ5%29](Great Scientists) and [Great%20Engineer%20%28Civ5%29](Great Engineers) increase significantly. Militaristic players should not rush to build the Pentagon unless they also need to strengthen their economies or maintain alliances with [City-state%20%28Civ5%29](city-states), because the slower acquisition of Great Scientists and Great Engineers will hamper their and potential.

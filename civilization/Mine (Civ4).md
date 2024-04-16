@@ -1,0 +1,4 @@
+# Mine (Civ4)
+
+A Mine is a [Tile%20improvement%20%28Civ4%29](tile improvement) that can be built by [Worker%20%28Civ4%29](Workers) immediately upon the discovery of [Mining%20%28Civ4%29](Mining). A Mine adds 2 Production to its tile. Mines may be created on all [Hill%20%28Civ4%29](hills), and on flatland tiles that have [Resource%20%28Civ4%29](resources) which are unlocked by Mines.
+When a Mine is [Work%20%28Civ4%29](worked), and it is not already on a resource tile, there is a small chance every turn that it will discover a new resource. A [List%20of%20civilizations%20in%20Civ4](civ) must have the tech unlocking a resource to gain it via a discovery.

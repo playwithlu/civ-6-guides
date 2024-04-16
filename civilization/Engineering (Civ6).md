@@ -1,0 +1,8 @@
+# Engineering (Civ6)
+
+Engineering is a [Classical%20Era%20%28Civ6%29](Classical Era) [Technology%20%28Civ6%29](technology) in "[Civilization%20VI](Civilization VI)". It can be hurried by building [Ancient%20Walls%20%28Civ6%29](Ancient Walls). 
+Strategy.
+Engineering is the further development of abstract technical thinking. which allows men to plan what they will (or what they can) build, without actually having to put all the effort of building it. Thanks to it, monumental structures like the [Aqueduct%20%28Civ6%29](Aqueduct) become possible - a system of arches spanning tens (sometimes hundreds) of kilometers, to connect a city to a source of water. And the first true engine of war - the [Catapult%20%28Civ6%29](Catapult), rolls onto the battlefield. 
+Of course, this is only the beginning - future generations will apply new meanings to the word, employing the same principle, and ushering in a whole new age of technical advancement. 
+Engineering unlocks the first dedicated siege unit in the game, which is necessary to breach well-defended cities in the early middle game (especially now that even Ancient Walls have 100 HP!). But non-militaristic civs could make great use of its other unlock - the [Aqueduct%20%28Civ6%29](Aqueduct), which can bring benefits in many gameplay situations (especially for civs which start in regions without much Fresh Water access). 
+Still, it is unlikely you'll need to beeline for this tech, although this is relatively easy (Mining -&gt;Wheel-&gt; Engineering). Well, unless you're a conqueror, that is, or unless you're in position to build the great wonder [Machu%20Picchu%20%28Civ6%29](Machu Picchu). Also, you'll need it for the even more important Machinery in the Medieval Era. 

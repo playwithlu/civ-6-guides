@@ -1,0 +1,6 @@
+# Terracotta Army (Civ6)
+
+The Terracotta Army is a in "[Civilization%20VI](Civilization VI)". It must be built on or adjacent to an with a or .
+Strategy.
+The Terracotta Army is initially great for militaristic players, providing them with points and s for [Unit%20%28Civ6%29](units) (including [Spies%20%28Civ6%29](Spies)) that allow them to launch an early offensive. Come the [Industrial%20Era%20%28Civ6%29](Industrial Era), it becomes more valuable to cultural players, whose [Archaeologist%20%28Civ6%29](Archaeologists) will be free to explore foreign lands and pilfer Artifacts from the s and s they find there.
+Prior to "", [Victoria%20%28Civ6%29](Victoria's) [English%20%28Civ6%29](England) can make especially good use of this wonder by conquering [City%20%28Civ6%29](cities) on other [Continent%20%28Civ6%29](continents) to enlarge both its [Territory%20%28Civ6%29](territory) and army early on, then building lots of [Archaeological%20Museum%20%28Civ6%29](Archaeological Museums) and sending Archaeologists all around the world to fill them with Artifacts.

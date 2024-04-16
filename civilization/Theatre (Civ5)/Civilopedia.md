@@ -1,0 +1,3 @@
+# Theatre (Civ5)/Civilopedia
+
+The Greeks invented theatre as is known in the West today. The original theatres were open-air amphitheatres often constructed on the side of a hill. The audience sat on benches cut into the hill, while the performers worked on an open stage at the foot of the hill. Over time the stages moved indoors (especially in locations with risks of lots of inclement weather). A modern theatre still has a stage and seats for the audience, but it also includes sophisticated sound and lighting equipment, an orchestra pit, and an extensive backstage area for props and scenery. Still, an ancient theatre-goer would not be totally surprised by anything found within a modern theatre (except possibly the cost of the food and drinks sold during intermission).

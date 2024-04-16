@@ -1,0 +1,8 @@
+# Fluid Breathing (CTP2)
+
+Fluid Breathing is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Fluid Breathing is an Advance that enables humans to explore the farthest depths of the ocean, unencumbered by the need for pressurized cabins in underwater craft. By filling the lungs with a special fluid, the human body is no longer limited by its ability to withstand the pressure of the deep.
+The takes advantage of this technology, making it a powerful, fast and deep-running underwater unit.
+Great Library entry.
+The extremely hostile environment of the deepest oceans had prevented manned exploration of the ocean floor for much of the 20th century. As fluid breathing systems became available, the worst problem, that of human reliance on properly pressurized oxygen to breathe, was finally dealt with. Research into the differences between human lungs and fish gills revealed structural, but not compositional, differences in the oxygen membrane of each. In other words, they were fundamentally the same material, although their uses differed slightly. Filling lungs with an oxygen-infused fluorocarbon emulsion was the answer, enabling the lungs to derive oxygen and sustain the function. Combined with a deep-water suit to protect the body against cold and pressure, the fluid breathing system opened up the world of submarine canyons, trenches and ocean floors to manned research craft. Military applications prevailed with the development of the scout submarine.

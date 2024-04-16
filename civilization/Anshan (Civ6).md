@@ -1,0 +1,7 @@
+# Anshan (Civ6)
+
+Anshan is a scientific [City-state%20%28Civ6%29](city-state) in "[Civilization%20VI](Civilization VI)". It replaced [Babylon%20%28Civ6%29](Babylon) in the [Babylon%20Pack%20%28Civ6%29](Babylon Pack) and replaces [Seoul%20%28Civ6%29](Seoul) under rulesets in which [Korean%20%28Civ6%29](Korea) is a playable [Civilizations%20%28Civ6%29](civilization).
+Strategy.
+Anshan's bonuses focus on advancement through the [List%20of%20technologies%20in%20Civ6](technology tree), and its [Suzerain%20%28Civ6%29](Suzerain) receives additional scientific benefits from [Great%20Work%20%28Civ6%29](Great Works). This city-state has perfect synergy with any cultural civilization that is likely to amass Great Works but lag behind in scientific research, such as [Russian%20%28Civ6%29](Russia). Conversely, Anshan is nearly useless for the [M%C4%81ori%20%28Civ6%29](Māori), who are unable to recruit [Great%20Writer%20%28Civ6%29](Great Writers).
+The [Theming%20bonus%20%28Civ6%29](theming bonus) also applies to Anshan's bonus, so that a themed [Archaeological%20Museum%20%28Civ6%29](Archaeological Museum) will produce +2 per Artifact.
+In the [Secret%20Societies%20%28Civ6%29](Secret Societies) [Game%20mode%20%28Civ6%29](game mode), members of the [Voidsingers%20%28Civ6%29](Voidsingers) have an easy way to get Relics via [Canticle%20%28Civ6%29](Canticle).

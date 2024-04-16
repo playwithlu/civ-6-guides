@@ -1,0 +1,5 @@
+# List of units in Civ5
+
+Here is the full list of units in Civ5, as of the "Brave New World" expansion.
+The "[Gods%20%26amp%3B%20Kings](Gods &amp; Kings)" expansion added 27 new units, including the Composite Bowman, Galleass, and Landship. The "[Brave%20New%20World](Brave New World)" expansion added 20 new units, including the new Barbarian unique unit Hand-Axe.
+Note that many units are unique to certain civilizations; that is, they replace a certain generic unit and will only be available when you play with a certain civilization. They are marked as such, and appear under the heading of the generic unit they replace. Their general armament and thus their technological requirements are the same as that unit, but their resource requirements may differ - that is, some unique units can be produced without access to the strategic resources that their generic counterparts require.

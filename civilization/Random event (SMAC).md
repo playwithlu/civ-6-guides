@@ -1,0 +1,7 @@
+# Random event (SMAC)
+
+[Planet%20%28SMAC%29](Planet) is a mysterious and complex system. It constantly produces new and unexpected means to discomfit and endanger humanity, but it can also capriciously produce surprising blessings. 
+The influence of Planet's suns and moons may provoke a burst of [Mind%20Worms%20%28SMAC%29](mind worm) activity, or solar flares may increase [Energy%20%28SMAC%29](energy) stores while disrupting [Diplomacy%20%28SMAC%29](diplomatic communications), or you may discover an unexpected store of extra [Resource%20%28SMAC%29](resources) near a [Base%20%28SMAC%29](base), or an alien plague may break out. The effects of random events range from windfalls to disasters. Some events directly affect your [Factions%20%28SMAC%29](faction), others affect other factions, and many affect all of Planet indiscriminately.
+Some events happen instantaneously; others last for several years. Negative random events can sometimes be avoided (for example, plagues are far less likely to break out in bases with [Biology%20Lab%20%28SMAC%29](Biology Lab) [Base%20facility%20%28SMAC%29](facilities)), but most just have to be ridden out, for better or worse.
+The only thing that can be reliably said about natural phenomenon on Planet is it's always safest to expect the unexpected.
+Random events can by turned off in the game configuration options.

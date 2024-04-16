@@ -1,0 +1,3 @@
+# Muwatallis (Civ5)/Civilopedia
+
+Although historical records of his rule are limited, Muwatallis served as king of the Hittites for some 20 odd years in the 14th century BC. Muwatallis is most famously known as the Hittite king who fought against the Egyptian Pharaoh Ramesses II for greater control of Syria at the epic Battle of Kadesh in 1274 BC. Fought near the site of the ancient city of Kadesh, the battle is notable for the sheer number of Chariots involved, said to have numbered in the thousands. Although the true outcome of the battle is unknown, with evidence leaning in favor of the Egyptians, it appears that both sides eventually retreated after suffering substantial losses.

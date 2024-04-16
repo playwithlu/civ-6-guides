@@ -1,0 +1,3 @@
+# Domestic Development (Civ4)/Final Frontier/Civilopedia
+
+Thanks in grand part to advances in Galactic Epistemology, a generation of learned and savvy young settlers sprang up throughout the myriad Star Systems now settled by man. Some of these young innovators found their way into business, and it is in this era that the MaKGarry Corp, a successful upstart industrial firm, began manufacturing its first product - the Universal Recycler. Other young innovators began to see the need for capital to fund universal infrastructure growth, leading to the creation of the first Banking Systems. The improvements incorporated into the class Planetary Defense Ship was similarly a creation of this new generation.

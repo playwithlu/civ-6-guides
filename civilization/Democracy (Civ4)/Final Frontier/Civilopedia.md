@@ -1,0 +1,3 @@
+# Democracy (Civ4)/Final Frontier/Civilopedia
+
+Taking a page from the book of populist rulers of the late twentieth-century, the Democracy Government Policy sets up a civic society in which all members of society - theoretically - have the opportunity to participate and contribute. Corruption often devalued the democratic traditions of the past, but with advances in intra-human networking and power projection, when the ruling body is dedicated to providing it, universal participation has become the rule rather than the exception. The resulting situation fosters an overwhelming sense of contentment throughout the populous.

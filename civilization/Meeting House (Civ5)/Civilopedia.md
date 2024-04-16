@@ -1,0 +1,3 @@
+# Meeting House (Civ5)/Civilopedia
+
+In the New World, the social and cultural center for most of the congregational Protestant colonies was the meeting house, which served as both a place of worship and of public discourse for the settlers. For many early Quaker, Mennonite, Unitarian, Puritan, Baptist and other settlements, the meeting house also served as the de facto town hall, where political debates, votes and decisions were conducted.

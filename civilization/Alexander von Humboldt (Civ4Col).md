@@ -1,0 +1,5 @@
+# Alexander von Humboldt (Civ4Col)
+
+Civilopedia.
+Lived: 1769-1859
+Alexander von Humboldt was a Prussian naturalist responsible for cataloguing many of the species in North America. A true universalist, Humboldt studied geography at the University of Gottingen, but complemented his studies with a number of disciplines - zoology, botany, art. In 1799, Humboldt secured the necessary permissions to begin a scientific journey to the Spanish colonies in order to catalogue the various species there. This novel concept, a journey with no economic or political motivation, led Humboldt up and down the Western Hemisphere, creating maps, exploring new regions, naming previously undiscovered wildlife. Almost 4000 new species were recorded by Humboldt on his journey, leading to a previously impossible European understanding of the New World.

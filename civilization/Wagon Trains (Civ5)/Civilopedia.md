@@ -1,0 +1,3 @@
+# Wagon Trains (Civ5)/Civilopedia
+
+In various ages, as roads became better and less prone to banditry, wagon trains replaced caravans in overland trading ventures. Able to carry more goods of more types, to provide shelter, and to travel further, wagon trains were used for commerce, war and migration. Used heavily throughout history, wagon train usage has largely faded with the arrival of the industrial age.

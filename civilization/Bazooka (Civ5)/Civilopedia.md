@@ -1,0 +1,3 @@
+# Bazooka (Civ5)/Civilopedia
+
+"Bazooka" is the generic name for a man-portable, recoilless weapon designed for use against enemy armored vehicles. Initially developed at the end of the First World War by the U.S. Army, the Bazooka uses a small rocket engine to fire a shaped-charge explosive shell. As with its British (PIAT) and German (Panzerschreck) counterparts, the bazooka came into widespread use during the Second World War. As the presence of tanks, halftracks and other armored vehicles became prevalent on the battlefield, soldiers needed to be able to respond quickly, without the necessity of waiting for heavy weapons. In the hands of a skilled team willing to get close to an enemy tank, the bazooka was a devastating weapon.

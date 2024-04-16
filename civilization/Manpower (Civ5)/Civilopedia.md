@@ -1,0 +1,3 @@
+# Manpower (Civ5)/Civilopedia
+
+The United States first used conscription to raise manpower for the military during the Civil War, passing an act authorizing the draft of citizens to supplement the volunteers. The Confederate States president Jefferson Davis proposed the first Southern conscription act in March 1862 as volunteer furloughs loomed; it was passed by the Confederate Congress the next month. The conscription laws of both nations sought to answer the manpower deficiencies brought about by the high casualty rates, but proved increasingly unpopular as the war progressed.

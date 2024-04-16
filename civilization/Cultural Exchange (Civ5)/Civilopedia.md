@@ -1,0 +1,3 @@
+# Cultural Exchange (Civ5)/Civilopedia
+
+Although there were unofficial cultural exchanges – the visiting of students, artists, athletes and others on a quid-pro-quo basis between nations – as early as the beginning of the Industrial Age, such programs became formalized by opposing governments during the Cold War, when the USA and USSR sought to simultaneously display the superiority of their respective cultures worldwide and enhance mutual understanding of their respective value systems. These formal programs eased the restrictions on travel and performance by select groups in "enemy territory," a process that several historians have declared to be a "cultural Trojan Horse" because such programs eventually "eroded" Soviet rule.

@@ -1,0 +1,3 @@
+# Renewable Subsidizer (Civ6)/Civilopedia
+
+Economists have pointed out that the energy extracted from carbon-rich fuels fails to account for the future ecological damage of climate change, and if it were to do so, it would rapidly be priced out of a market-based energy economy. Since nobody wants to pay more for gas, coal, and oil, a political impetus towards creating economic subsidies for renewable resources to encourage their spread has grown in recent years. An increasing (but still tiny) percentage of energy now comes from renewable resources in the early 21st Century, based in part on subsidies.

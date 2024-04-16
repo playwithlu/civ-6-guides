@@ -1,0 +1,4 @@
+# Mount Roraima (Civ6)/Civilopedia
+
+Mount Roraima juts 9000 ft. above the rainforests of South America. This sandstone tabletop mountain—called “the mother of all waters” by locals—inspired the setting for a number of stories and myths. Sir Arthur Conan Doyle’s The Lost World took inspiration from the landscape, as well as the account of Sir Everard im Thurn’s expedition. Thurn, an explorer and botanist, was the first to climb Roraima successfully.
+The mountain hosts a substantial amount of unique flora and fauna. Unlike Doyle’s novel, the real Mount Roraima has no dinosaurs. (If it does, they haven’t made their presence known.)

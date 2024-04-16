@@ -1,0 +1,10 @@
+# Space Flight (CTP2)
+
+ is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+The is a cargo transport that launches into space and can land in any city on the map.
+The gives scientists a facility to perform experiments outside of the limitations imposed by Earth's atmosphere, giving a boost to a host city's in the process.
+Great Library entry.
+On October 4, 1957, the Soviet Union launched the satellite Sputnik 1 into orbit. This action intensified an already heated rivalry between United States and Soviet space programs. The U.S. launched their first satellite, Explorer 1, on January 31, 1958, a little less than four months after Sputnik 1. Over the next decades, over 5,000 successful launches of satellites and space probes of various functions: scientific, communications, meteorological, reconnaissance and navigation satellites as well as manned and unmanned lunar and planetary probes. The Soviet Union launched the first man into Earth orbit on April 12, 1961. The United States landed two men on the surface of the Moon on July 20, 1969.
+On April 21, 1981, the 20th anniversary of manned space flight, the U.S. launched the Space Shuttle. This date represented a major milestone in the history of space flight, for the Space Shuttle was the first reusable manned space vehicle. It could be launched into space via rocket engines and could reenter the atmosphere and land in much the same way as an airplane. Many Space Shuttles were launched over the next two decades on scientific research missions.
+In 2047, scientists at the National Aeronautical and Space Administration launched the first orbital transport vehicle. Primarily envisioned as a commercial and industrial cargo and transport craft, it was designed to launch into orbit and touch down within a few days. Based on many of the design principles of the space shuttle, the Space Plane employed advanced composites to shield it against the friction and intense heat of atmospheric breach and fuel cell technology to propel its giant rocket engines.

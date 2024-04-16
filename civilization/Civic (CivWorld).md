@@ -1,0 +1,5 @@
+# Civic (CivWorld)
+
+A Civic is a policy adopted by a [Civilizations%20%28CivWorld%29](Civilization) that affects all its members. It is the rough equivalent of a [government](government) in other "[Civilization%20%28series%29](Civilization)" games. Most of the 20 Civics in "[CivWorld](CivWorld)" provide a balanced set of bonuses and penalties, allowing a Civilization to excel in one area at the expense of another.
+Civics are viewed, proposed, and voted on in the Civ screen. Only one Civic can be active at a time by whichever Civilization claims it first. The two exceptions are [Closed%20Borders%20%28CivWorld%29](Closed Borders) and [Meritocracy%20%28CivWorld%29](Meritocracy), which all Civilizations can have at the same time. Any member of a Civilization can propose a Civic. The failure or passage of a Civic is then determined by a Civilization-wide vote.
+Much of the information on this page comes from IGN's "CivWorld" Guide.

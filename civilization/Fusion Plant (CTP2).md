@@ -1,0 +1,8 @@
+# Fusion Plant (CTP2)
+
+ is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+Gameplay.
+Fusion plants replicate the nearly limitless energy capabilities of the Sun to power . Production is increased with this safer, more efficient power source.
+Great Library entry.
+In 1998, construction on the International Thermonuclear Experimental Reactor, or ITER, began. It was designed to generate 1.5 billion watts of fusion power continuously. The $10 billion experiment, a partnership between the European Union, Japan, Russia and the United States, was declared a success in 2009. Although it provided substantial insight into fusion technology, commercial fusion reactors did not become a reality until late in the 21st century. Advances in nano-assembly, chaos theory and high temperature superconductors made safe, effective fusion reactors possible.
+Fusion became the most environmentally clean power source the world had known. It generated no pollutants, greenhouse gases and a fraction of the radioactivity that fission-reaction nuclear power plants did. Fusion reactors were much safer, with no serious threat from control system failures. Unlike a fission reactor, which could catastrophically meltdown in the case of a systems failure, fusion reactors merely cooled off - the plasma cooled and reactions ceased. The abundance of deuterium in the world's oceans combined with the ability to breed tritium within the reactor itself meant that fusion reactors were a virtually inexhaustible supply of energy.

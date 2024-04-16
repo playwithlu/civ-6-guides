@@ -1,0 +1,4 @@
+# Lithuanian (Civ6)/Civilopedia
+
+The Lithuanian nobility has long been an integral to the Grand Duchy's fortunes. We can count upon these proud descendants to have Lithuanian concerns at heart—sometimes at the expense of their Polish allies.
+This is not to say Lithuanian nobility pays lip service to the defense of Polish-Lithuanian welfare—far from it. They field a substantial number of soldiers from the Grand Duchy, and are quick to make them available for the Polish Crown. However, family pride can mingle with ambition, leading them to believe that their own interests and Lithuanian interests are one and the same.

@@ -1,0 +1,3 @@
+# Vatican City
+
+Vatican City is a [city-state](city-state) in the "[Civilization%20%28series%29](Civilization)" games. In real life, it is a landlocked independent country, city-state, microstate, and enclave within [Rome%20%28city%29](Rome), [Italian](Italy), and home to the [Apostolic%20Palace](Apostolic Palace), the [Sistine%20Chapel](Sistine Chapel), and [St.%20Peter%27s%20Basilica](St. Peter's Basilica).

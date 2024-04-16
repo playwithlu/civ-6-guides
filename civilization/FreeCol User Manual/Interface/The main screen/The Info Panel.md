@@ -1,0 +1,7 @@
+# FreeCol user manual/Interface/The main screen/The Info Panel
+
+The Info Panel
+If you are in [unit%20view](unit view) mode (the default), the info panel in the lower right corner of the [screen](screen) either shows information about the currently selected [unit](unit), or contains a button to end the current turn if no unit is selected. If a unit is selected, then the info panel shows an image of the unit, as well as its name and the moves it has left. If the unit is a [carrier](carrier) unit, such as a [ship](ship) or [wagon%20train](wagon train), the info panel also shows the units or [goods](goods) on board of the carrier. If the unit is a [pioneer](pioneer), the info panel shows the number of [tool](tool)s the unit carries.
+If a unit is displayed, you can click on the info panel in order to centre the map on this unit.
+If you are in [terrain%20view](terrain view) mode, then the info panel displays the name, owner, [defense%20bonus](defense bonus), [movement%20cost](movement cost) and potential [production](production) of the selected [tile](tile). You can switch between view modes by pressing Shift-Ctrl-V, or by using the [view%20menu](view menu).
+"Stian Grenborgen 2009-01-14" 

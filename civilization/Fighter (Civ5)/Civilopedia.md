@@ -1,0 +1,4 @@
+# Fighter (Civ5)/Civilopedia
+
+Fighter aircraft were developed in World War I. The earliest "fighters" were little more than self-propelled kites with machine guns on them. By World War II both technology and doctrine had greatly improved, making the now single-winged and armored aircraft deadly killing platforms. The primary role of the fighter is to achieve air superiority over the battlefield, killing enemy aircraft or driving them away, allowing friendly bombers to rain destruction on enemy ground or naval forces unimpeded. Some fighter aircraft also carry bombs to be used against ground units, but even those without bombs can still strafe enemy ground or naval units with deadly effect.
+Modern jet fighters are faster, better-armed and armored than those from World War II, but the principles of air combat remain, and the force with air superiority has a tremendous advantage over its enemy.

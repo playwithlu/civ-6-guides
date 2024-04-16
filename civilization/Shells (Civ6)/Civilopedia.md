@@ -1,0 +1,3 @@
+# Shells (Civ6)/Civilopedia
+
+Mortars have been pounding defensive walls for centuries during sieges; the high, arcing trajectory of their bombs and shells are also handy for lobbing explosives over things, thus rendering walls, trenches, bastions, and the like somewhat useless. Most historians consider the Turks' siege of Constantinople the first use of mortars, which they used to even better effect in the siege of Belgrade in 1456 AD. European mortars were virtually too heavy to move, until Menno van Coehoorn devised lighter ones, using explosive shells to blast walls apart at the siege of Grave. Mortars fell out of favor during the wars of maneuver in the 1800s, but underwent a resurgence in popularity when World War I saw hundreds of miles of trenches dug.

@@ -1,0 +1,4 @@
+# Theater Square Performances (Civ6)
+
+Theater Square Performances is a [Project%20%28Civ6%29](project) in "[Civilization%20VI](Civilization VI)". It becomes available after building a [Theater%20Square%20%28Civ6%29](Theater Square) [District%20%28Civ6%29](district) (or one of its replacements).
+A city-wide art festival starts, centered on the local Theater Square. Artists, musicians, and writers from the entire nation arrive to perform, converting 15% of the city's output to . When completed, it yields , , and points each equal to approximately 11% of the invested in it (on Standard [Speed%20%28Civ6%29](speed)).

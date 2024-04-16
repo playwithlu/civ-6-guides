@@ -1,0 +1,4 @@
+# Histories
+
+Histories are statistical reports featuring in several "[Civilization%20%28series%29](Civilization)" titles. They are periodic in-game messages, presented as publications by historical figures, which provide comparative rankings of extant [civilizations](civilizations) in one of several categories, including [Gold%20%28currency%29](wealth), [Science](development), [culture](culture), [population](population), [happiness](happiness), and [Unit](military strength).
+Histories list the ranking of the player's civilization, and all active civs with which the player has established [Diplomacy](diplomatic contact). In earlier games, playing on [Difficulty%20level](Chieftain difficulty) lists all extant civs upfront.

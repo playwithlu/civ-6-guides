@@ -1,0 +1,3 @@
+# Marauding (Civ6)/Civilopedia
+
+Heavy cavalry wasn't much good in urban combat, and the mounted soldiers usually dismounted to join in the looting, despoiling, and such after a city had fallen. Breaching the walls and actually capturing the city was left to the poor infantry and artillery. However, cavalry was very good at terrorizing un-walled neighborhoods, marauding through the streets and riding down civilians and soldiers alike that didn't get out of their way. Things haven't changed much between antiquity and modern times; tanks still aren't very good in street fighting, but are superb at blitzing through the suburbs ... Stalingrad, Berlin, Manila, etc.

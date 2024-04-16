@@ -1,0 +1,3 @@
+# Monastery (Civ5)/Civilopedia
+
+A monastery is a building or complex of buildings housing monks or nuns - people who have renounced worldly things (wealth, possessions, sex) - and dedicated their lives to prayer and meditation. Generally monasteries are single-sex organizations, or if men and women are present, they're separated by imposing walls. Historically monasteries have been places of higher learning, especially during the Middle Ages where members of religious orders were often the only people outside of the ruling elite who knew how to read and write.

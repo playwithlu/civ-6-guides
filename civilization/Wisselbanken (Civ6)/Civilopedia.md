@@ -1,0 +1,3 @@
+# Wisselbanken (Civ6)/Civilopedia
+
+As Dutch cities became centers of banking during the early modern era, so too evolved the need to handle bills of exchange among merchants in a stable, trustworthy way. The Wisselbank acted as a sort of commercial lender and broker, offering its own bills to facilitate transactions between traders, with its own reserve of valuable metals. The bankgeld notes are some of the earliest examples of fiat currency in Europe.

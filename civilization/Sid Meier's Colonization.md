@@ -1,0 +1,46 @@
+# Sid Meier's Colonization
+
+Sid Meier's Colonization (abbreviated as "Col" on this wiki) is a computer game by [Brian%20Reynolds](Brian Reynolds) and [Sid%20Meier](Sid Meier) released by [MicroProse](MicroProse) in 1994. It is a [turn-based%20strategy](turn-based strategy) game themed on the early [Europe](Europe)an [colonization](colonization) of the New World, starting in 1492 and lasting until 1850. It was originally released for DOS, then in 1995 ported to Windows, the Amiga, and Macintosh.
+Play.
+"Colonization" has many similarities to Sid Meier's previous title, "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Both games pit the player as a godlike leader of an embattled civilization, the objective being to gain supremacy over rival civilizations, primarily through military means and discovery, transformation, and utilization of the land.
+The "Colonization" experience begins in 1492. The player is asked to select one of the four world powers ([English%20%28Col%29](England), [French%20%28Col%29](France), The [Dutch%20%28Col%29](Netherlands), or [Spanish%20%28Col%29](Spain)). The journey begins with two units traveling on a ; as the ship moves westward into the unknown, the [map](map) is revealed. Subsequently, the new world is discovered, land exploration may start, the [Indians%20%28Col%29](natives) are met, a coastal [Colony%20%28Col%29](colony) is built, colonists begin to change the land to be more productive, the ship is sent back to Europe to collect more colonists and maybe [Horses%20%28Col%29](horses), [Trade%20goods%20%28Col%29](Trade goods), and/or [Muskets%20%28Col%29](weapons), surplus items are sold (either in Europe or by haggling with the natives), and the exploration of the world begins in earnest.
+The game revolves around harvesting [Food%20%28Col%29](Food) and other [Goods](raw materials) and manufacturing and trading goods. Resources gleaned from the land may be sold or converted into other goods, which may be either used or sold. The European prices of goods fluctuate somewhat randomly but theoretically depending upon supply and demand. The more of a commodity you and the other three colonial powers sell, the less the markets will be willing to pay for them. With money, a player is able to buy goods, horses, ships, or artillery, speed up production, and recruit or train new colonists.
+While maintaining an income, the player is also required to protect his colonies from potential invasion through employing soldiers and/or artillery. Moreover, the player is required to manage his citizens effectively, educating the populace in various skills to increase their productivity in areas such as farming, gathering of resources, or manufacturing. There are three areas of employment in the "Colonization" world: primary resource gatherers, secondary resource manufacturers, and the more specialized units: soldiers, statesmen, pioneers, missionaries, teachers, and preachers. The geography of the land determines the productivity of a colony. For instance, some squares produce great amounts of food, while others may produce greater amounts of ore, cotton, or silver. Thus it becomes necessary to link various colonies together via roads (for the increased mobility of units) or sea trade routes, to transport goods from colonies where there is excess to those where there is demand.
+Specialist buildings and special squares, as in "Civilization", have greater output. Specialists, who produce more per turn, can be trained or recruited. Indentured servants and criminals are as good as ordinary colonists in primary production but not so good at manufacturing or statesmanship; but they can be transformed into improved unit types by education or by being sent on military expeditions and winning. Missions established in Indian villages eventually encourage converts to join a colony; they are better than ordinary colonists at most outdoor pursuits, but much less effective indoors.
+Horses can be bought and sold, but they also multiply in any colony that has two or more of them and a food surplus. They help any colonist move further in a turn, add to military strength, and allow Scouts (specialists or ordinary colonists) to meet with native settlements or foreign colonies.
+Ships of several types ([Caravel%20%28Col%29](Caravel), [Merchantman%20%28Col%29](Merchantman), [Galleon%20%28Col%29](Galleon), [Privateer%20%28Col%29](Privateer), [Frigate%20%28Col%29](Frigate) and [Man-O-War%20%28Col%29](Man-O-War)) can be purchased or built (though Man-O-War can be built only during the War of Independence). They move goods, horses, and colonists around, and some can attack. [Wagon%20Train%20%28Col%29](Wagon trains) (which are built in colonies) move goods and horses on land (travelling faster along roads and rivers).
+Relationships must be carefully maintained with [Indians%20%28Col%29](Indians) and other colonial powers. Waging war, maintaining defenses or recruiting peacemakers (Benjamin Franklin and Pocahontas). Destroying native settlements yields a quick profit and makes land available, but prevents the substantial long-term gains to be made by friendly bargaining and trading. Destruction of native settlements also counts against your final score.
+The king of your home country meddles in your affairs from time to time, mostly by raising the tax rate. Occasionally they might force you into wars with your rivals, giving you two or more free veteran soldiers whom you have to transport from Europe; you can try to make peace immediately if you don't want a war.
+The player must also pay attention to political developments and the recruitment of [Founding%20Fathers%20%28Col%29](Founding Fathers) (roughly corresponding to the Civilization Advances of "Civilization"), to ensure the best possible chance of success.
+On the easiest level, the action essentially takes place at the speed in which you want it to. You are left to your own devices, learning the mechanics of the game. With each increase in difficulty level, the restrictions that bound successful endeavors become more pronounced. The game is eventually won by seceding from the motherland, signing a declaration of [independence%20%28Col%29](independence), and defeating the armies which are sent to usurp your ‘unalienable rights’. Successful navigation through the game requires the player to strategize and to effectively make use of what resources are provided, to explore and cultivate the land, and to negotiate with rivals.
+While the military aspect of the game is important, it is less so than in the [Civilization%20%28series%29]("Civilization" series), focusing more heavily on aspects of trade and the inter-relationships between peoples and colonies, which make up the new-world community. In doing all these things the player is required to develop certain fundamental notions which influence both the game world and the real world, such as: infrastructure restrictions and requirements, methods for increasing productivity, the importance of economic and civic growth, the centrality of trade, that some resources are more useful and more valuable than others, the importance of education, that newspapers and diplomats influence public opinion, that religion can affect people's allegiances, even that it's sensible to use as soldiers those members of your population who aren't proficient in a trade or profession, the influence of historical figures on colonial New World societies, and so on.
+European powers.
+There are four European powers available. The player may pick to play as a colonial leader of any one of these powers, and the remaining three will be the computer-controlled competitors. Each power has certain bonuses.
+Criticism.
+While popular, the game received criticism for avoiding the issue of [slavery](slavery), a major component of the European colonization of the Americas. Players can bring in and even purchase indentured servants or petty criminals from their European ports; [Native%20American](Native American)s whose settlements have [Christianity](Christian) missions may join the players as converts either freely or out of fear of attack; but the [Africa](Africa)n slave trade and the Spanish hacienda system (involving forced labor by Native American tribes) are not directly represented. It has been speculated that this is the reason why "Colonization", unlike "Civilization", took so long (14 years) to be re-released.
+Other concerns include:
+Developer(s) Microprose
+Publisher(s) Microprose
+Designer(s) Brian Reynolds, Sid Meier
+Release date(s) 1994, 1995
+Genre(s) Turn-based strategy
+Mode(s) Single player
+Platform(s) Amiga, DOS, Windows, Macintosh
+Release date: May 31, 1995
+Media: 3.5" floppy disk
+System requirements: 1 MB RAM (also AGA)
+Input: Keyboard, mouse
+Release date: 1994
+Media: 3.5" Floppy (x2) and CD-ROM
+System requirements: 80286 CPU, DOS 4.0-7.0, 640KB RAM, major soundcard
+Input: Keyboard, mouse
+Release date: 1995
+Media: CD-ROM
+System requirements: Mac OS, 5MB free RAM
+Input: Keyboard, mouse
+Release date: May 24, 1995
+Media: CD-ROM
+System requirements: Windows 3.1 or higher
+Input: Keyboard, mouse
+Play online.
+[https%3A//bestdosgames.com/games/sid-meiers-colonization](Play Colonization online here)

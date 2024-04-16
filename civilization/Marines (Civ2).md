@@ -1,0 +1,5 @@
+# Marines (Civ2)
+
+The Marine is a ground unit in [Civilization%20II](Civilization II). Marine is the only unit that can attack a rival city from a ship.
+Civilopedia entry.
+The Marines are a branch of the military service that operates separately, but is under the ultimate control of the secretary of the navy. The Marine Corps is a combined branch of the military; their training prepares them to carry out integrated land, sea, and air operations. The first marines were commissioned during the American Revolution, only to be inactivated after the war. The Marine Corps was then permanently reestablished by Congress in July, 1798. Legendary for their toughness, rigid codes of behavior, and adaptability, they have played an important role in almost every major war and conflict of the 19th and 20th centuries.

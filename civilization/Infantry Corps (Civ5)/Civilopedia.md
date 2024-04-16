@@ -1,0 +1,3 @@
+# Infantry Corps (Civ5)/Civilopedia
+
+On both sides the infantry corps was the major organizational formation of the armies; in the Confederate Army these would comprise two to four divisions and be named for its commander (e.g. Longstreet's Corps), whereas Union Corps were standardized at three divisions and simply numbered. A corps would comprise between 10,000 and 25,000 men, commanded by a lieutenant general on the Southern side and a major general in the Northern armies.

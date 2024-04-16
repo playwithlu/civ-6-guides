@@ -1,0 +1,3 @@
+# Impact Zone (Civ6)
+
+Impact Zone is a special [Terrain%20%28Civ6%29](terrain feature) in "[Civilization%20VI](Civilization VI)", unique to the [Apocalypse%20%28Civ6%29](Apocalypse) [Game%20Mode%20%28Civ6%29](Game Mode). It can only be created after a [Comet%20Strike%20%28Civ6%29](Comet Strike) wipes out the original base terrain and terrain features. Impact Zone tiles are impassable, do not have any yields, and cannot be improved.

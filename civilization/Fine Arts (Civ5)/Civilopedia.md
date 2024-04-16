@@ -1,0 +1,3 @@
+# Fine Arts (Civ5)/Civilopedia
+
+The Fine Arts, as opposed to folk arts and applied arts, are those pursuits that create aesthetic objects or experiences that can be shared with others. The term "fine art" came into vogue in 17th century Europe; the five "greater fine arts" consisted of painting, sculpture, architecture, music and poetry, with the "minor" arts including drama and dance. Intense debates rage on whether film, photography, calligraphy, fashion, comics and even videogames are "art," whether fine or not.

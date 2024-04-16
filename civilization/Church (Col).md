@@ -1,0 +1,11 @@
+# Church (Col)
+
+A church is a large [Religion%20%28Col%29](religious) [List%20of%20buildings%20in%20Colonization%20%281994%29](facility) that can be constructed in your [Colony%20%28Col%29](colonies). They represent the large and specialized houses of worship that replaced the early shrines and meeting houses of the earliest settlements. 
+Benefits.
+Churches increase [Crosses%20%28Col%29](cross) production, speeding immigration from [Europe%20%28Col%29](Europe) prior to [Independence%20%28Col%29](independence). By itself, a church increases your colony's base production from 1 to 2 crosses. The church can accommodate up to 3 preachers. Each unskilled preacher adds 3 crosses. Each [Firebrand%20Preachers%20%28Col%29](firebrand preacher) adds 6. Thus the maximum cross production from a church is 39, requiring 3 firebrand preachers, [William%20Penn%20%28Col%29](William Penn), and [SoL%20percentage%20%28Col%29](100% membership) in the [Sons%20of%20Liberty](Sons of Liberty).
+A church also allows your colony to produce [Missionaries%20%28Col%29](missionaries). (Note that they do not produce expert missionaries. Those must be educated at a [University%20%28Col%29](university) or by [Father%20Jean%20de%20Brebeuf%20%28Col%29](Jean de Brebeuf) after he has joined your [Continental%20Congress%20%28Col%29](Continental Congress).)
+Churches can be upgraded to [Cathedral%20%28Col%29](cathedrals) once your settlement has reached size 8.
+Endgame.
+Once your revolution against your colonists' homeland begins, the clerics at the church no longer have a productive ingame function. One common strategy is to remove the education of any [Firebrand%20Preachers%20%28Col%29](firebrand preachers) and arm them with [muskets%20%28Col%29](muskets). Doing so just prior to declaring independence provides a greater chance of them [Continental%20Army%20%28Col%29](upgrading).
+Mistakes.
+The manual of the original "[Sid%20Meier%27s%20Colonization](Sid Meier's Colonization)" misstated the number of hammers required to construct a church as 52.

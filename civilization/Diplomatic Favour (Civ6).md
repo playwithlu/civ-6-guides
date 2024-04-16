@@ -1,0 +1,2 @@
+# Diplomatic Favour (Civ6)
+

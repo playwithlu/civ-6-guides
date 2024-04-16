@@ -1,0 +1,10 @@
+# SDI Defense (Civ2)
+
+The SDI Defense is a defensive [City%20improvement%20%28Civ2%29](city improvement) in "[Civilization%20II](Civilization II)", available with . It protects everything within a three- radius of its host [City%20%28Civ2%29](city) against , and doubles garrisoned s' defense against .
+Strategy.
+The SDI Defense is the only countermeasure against a nuclear attack. Foreign missiles that attempt to attack targets within the SDI's range are immediately intercepted and destroyed. SDI will not intercept a player's own missiles, nor does it prevent blast damage from attacks against the fourth tile outside its perimeter.
+SDI is a priority for the player's most populous and prosperous cities: each nuclear strike "halves" count, so built-up metropoli suffer greater devastation than small towns. Total destruction of the garrison also leaves a city vulnerable to capture by , a common tactic by . Due to SDI's high cost, it may be necessary to the improvement outright to protect newly-captured cities from retaliatory strikes: the AI does not discriminate between foreign cities and its former possessions.
+SDI doubles the city garrison's defense against . This bonus compounds with the : a city with both SAM and SDI gains a fourfold defense.
+SDI cannot be targeted for by . Cities with SDI remain vulnerable to "", however these pose the risk of triggering global condemnation even if the player is at war with the target.
+Civilopedia entry.
+Historically, research in the area of warfare has seen the development of powerful new weapons closely followed by the development of defenses to counteract the weapons' destructive power. The development of nuclear weapons seemed to be the exception to this rule: for the first time, mankind had created a weapon to which there was apparently no effective defense. SDI (Strategic Defense Initiative), however, could be the answer to this problem. Using laser-equipped orbital satellites or ground-launched ABMs (Anti-Ballistic Missiles) to intercept and destroy enemy nuclear missiles in mid-air, the SDI Defense offers the first hope of negating the threat posed by nuclear missiles.

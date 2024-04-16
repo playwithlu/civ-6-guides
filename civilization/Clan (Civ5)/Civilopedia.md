@@ -1,0 +1,3 @@
+# Clan (Civ5)/Civilopedia
+
+The tribal Jurchen clans, predecessors to the Manchu Dynasty and its people, inhabited the region known as Manchuria, now in present-day northern China. Before the rise of the Manchu Dynasty in the 17th century, the Jurchen briefly united under the banner of the Jin Dynasty in the 12th century. Throughout their history, the Jurchen were known as skilled hunters and equestrians alike, priding themselves on the talents of their cavalry.

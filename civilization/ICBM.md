@@ -1,0 +1,4 @@
+# ICBM
+
+The ICBM is an [air%20unit](air unit) in the "[Civilization%20%28series%29](Civilization)" games. Its name is an acronym for Intercontinental Ballistic Missile, and it is among the strongest and most devastating weapons in any "Civilization" game, rivaled only by the [Tactical%20Nuke](Tactical Nuke). Although it can't move, it doesn't need to as it can hit any visible [tile](tile) on the entire [map](map).
+[Nuclear%20weapons](Nuclear weapons) cause [global%20warming](global warming) in "[Civilization%20III](Civilization III)" and "[Civilization%20IV](Civilization IV)" and lower your relations with both your target and [AI](AI) [leaders](leaders) who are friendly to your target.

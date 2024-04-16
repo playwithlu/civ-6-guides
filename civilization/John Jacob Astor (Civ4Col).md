@@ -1,0 +1,5 @@
+# John Jacob Astor (Civ4Col)
+
+Civilopedia.
+Lived: 1763-1848
+John Jacob Astor was a young German immigrant who made the move to the New World shortly after the Revolutionary War and would become the richest man in the United States. Astor's first job was as a flute salesman in the employ of his elder brother in England. How Astor was inspired to enter the fur trade we do not know. What is known is that once in the fur trade, Astor thrived. A shrewd businessman, Astor created the largest fur trading company in the United States and became the country's first millionaire. But as the fur trade began to dwindle thanks to changing fashions, Astor began investing in real estate in one of the fastest growing cities in the world - New York. On his death bed, Astor was worth roughly 20 million dollars, an obscene amount of money at the time, roughly equivalent to several billion dollars today.

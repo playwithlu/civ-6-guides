@@ -1,0 +1,3 @@
+# Synthetic Fossil Fuels (SMAC)
+
+The extreme efficiency with which the neural net fungus managed Planet's vast ecosystem kept extensive deposits of organic material from forming over the epochs. Because of this lack, the fossil fuels known on Earth never developed, forcing early colonists to rely on less efficient alternative sources of energy. However, advances in [Advanced%20Subatomic%20Theory%20%28SMAC%29](Advanced Subatomic Theory) and [Gene%20Splicing%20%28SMAC%29](Gene Splicing) finally allow scientists to short-circuit the eons-long process, providing them with the Synthetic Fossil Fuels needed to build advanced vehicles and machinery.

@@ -1,0 +1,4 @@
+# Bojutsu (Civ3)/Civilopedia
+
+Bojutsu: Can be thought of broadly as deriving from either warrior long-arms combat, or from Edo-period police arresting methods. One theory towards battlefield origins of staff combat suggests warriors engaging with spear (yari), halberd (naginata) or similar long-arms (collectively referred to as nagamono) might have had the blade of the weapon cut off during combat against a sword-wielding opponent. 
+Japanese Bojutsu is one of the core elements of classical martial study. Remaining traditions are a valuable store of traditional culture, and are today undergoing a revival in interest.

@@ -1,0 +1,6 @@
+# Fishing Boats (Civ6)
+
+Fishing Boats are a standard in "[Civilization%20VI](Civilization VI)". They are used to improve water [Resource%20%28Civ6%29](resources).
+Strategy.
+As your main sea-based improvement, there's not much to say about the Fishing Boats. They are a very good source of , but unlike in "[Civilization%20V](Civilization V)", there's no way to gain any from them save the [God%20of%20the%20Sea%20%28Civ6%29](God of the Sea) [Pantheon%20%28Civ6%29](pantheon) (along with [Colonialism%20%28Civ6%29](Colonialism) and [Seastead%20%28Civ6%29](Seasteads) in "").
+Two [Civilizations%20%28Civ6%29](civilizations), [Norwegian%20%28Civ6%29](Norway) and the [M%C4%81ori%20%28Civ6%29](Māori), have direct bonuses towards Fishing Boats: the Māori gain +1 from them and trigger a [Culture%20Bomb%20%28Civ6%29](Culture Bomb) when building one, and Norway's [Stave%20Church%20%28Civ6%29](Stave Church) causes them to provide their home [City%20%28Civ6%29](city) with +1 . There isn't much strategy around the former, but the latter, with shrewd [Holy%20Site%20%28Civ6%29](Holy Site) placement in cities with high amounts of sea resources, can gain impressive amounts of . [Indonesian%20%28Civ6%29](Indonesia's) [Kampung%20%28Civ6%29](Kampungs) also gain +1 for each adjacent Fishing Boat.

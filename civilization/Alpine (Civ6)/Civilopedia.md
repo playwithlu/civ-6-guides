@@ -1,0 +1,3 @@
+# Alpine (Civ6)/Civilopedia
+
+While hunters and highlanders have always been adept at trudging across hills and mountains, in general it wasn’t until the Renaissance that formal military units were formed in Switzerland, Austria, Italy, Germany, and India with the skills to operate in hilly terrain. Since warfare began, holding the high ground has been important for victory; these alpine formations – usually small – not only scouted the lay of the land but looked to insure it was held by their side.

@@ -1,0 +1,3 @@
+# Recycling Center (Civ5)/Civilopedia
+
+A recycling center is a collection point for commonly found recyclable materials used in homes and businesses. In many communities, recyclables are collected alongside trash, and dropped off at the recycling center for sorting. In most cases, the materials are broken down or shredded, then baled and shipped to other sites for further processing into a variety of new products.

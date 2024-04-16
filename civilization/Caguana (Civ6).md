@@ -1,0 +1,5 @@
+# Caguana (Civ6)
+
+Caguana is a cultural [City-state%20%28Civ6%29](city-state) in "[Civilization%20VI](Civilization VI)". It was added in the [Maya%20%26amp%3B%20Gran%20Colombia%20Pack%20%28Civ6%29](Maya &amp; Gran Colombia Pack).
+Strategy.
+Caguana's [Suzerain%20%28Civ6%29](Suzerain) can use his or her [Builder%20%28Civ6%29](Builders) to build [Batey%20%28Civ6%29](Bateys), which provide bonus that gets augmented by adjacent [Entertainment%20Complex%20%28Civ6%29](Entertainment Complexes) and/or [Resource%20%28Civ6%29%23Bonus](bonus resources). They are useful for encircling resources such as , , and that often appear in clusters on flat [Terrain%20%28Civ6%29](terrain). When playing as the [Cree%20%28Civ6%29](Cree), be aware that the Batey's placement requirements are very similar to those of the [Mekewap%20%28Civ6%29](Mekewap) and it may be necessary to decide which one to build based on each [City%20%28Civ6%29](city's) needs and the [Victory%20%28Civ6%29](victory) you're seeking.

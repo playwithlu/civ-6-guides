@@ -1,0 +1,5 @@
+# Disinformation Campaign (Civ6)
+
+Disinformation Campaign is a [Dark%20Age%20%28Civ6%29](Dark Age) [Policy%20card%20%28Civ6%29](Policy Card) in "". It is available from the [Information%20Era%20%28Civ6%29](Information Era) to the [Future%20Era%20%28Civ6%29](Future Era) and uses a Wildcard slot.
+Strategy.
+Disinformation Campaign imposes some penalties to and generation, but makes it easier to earn the needed to vote for favorable resolutions and earn [Victory%20%28Civ6%29%23Diplomacy](Diplomatic Victory) points when the [World%20Congress%20%28Civ6%29](World Congress) convenes. It's particularly useful to [American%20%28Civ6%29](America), [Canadian%20%28Civ6%29](Canada), and [Swedish%20%28Civ6%29](Sweden), all of whose unique [Building%20%28Civ6%29](buildings) and/or [List%20of%20civilization%20abilities%20in%20Civ6](abilities) will help them maintain a lead in output.

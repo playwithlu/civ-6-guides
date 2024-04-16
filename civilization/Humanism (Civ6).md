@@ -1,0 +1,6 @@
+# Humanism (Civ6)
+
+Humanism is a [Renaissance%20Era%20%28Civ6%29](Renaissance Era) [Civic%20%28Civ6%29](civic) in "[Civilization%20VI](Civilization VI)". It can be hurried by earning a .
+Strategy.
+Humanism, the concept that the human being and life in general should be the center of our moral universe, instead of some nebulous entity, is one of the stepping stones to modern philosophy, and the modern society as a whole. It encourages people to work and learn for their own improvement, rather than for that of their masters, and as such prepares the ground for the Age of Enlightenment.
+Humanism enables two very important buildings - the [Art%20Museum%20%28Civ6%29](Art Museum) and the [Archaeological%20Museum%20%28Civ6%29](Archaeological Museum); which allow the continued cultural development of your nation. It also unlocks two very important Wildcard Policies for attracting s and s. In a mostly symbolic gesture (since all s have probably already been attracted at that point of the game), it also obsoletes the [Revelation%20%28Civ6%29](Revelation) Policy - when the human takes center stage, the Prophet tends to become useless.

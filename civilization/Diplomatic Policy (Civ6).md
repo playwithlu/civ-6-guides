@@ -1,0 +1,2 @@
+# Diplomatic Policy (Civ6)
+

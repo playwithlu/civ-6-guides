@@ -1,0 +1,3 @@
+# Slave State (Civ4)/Final Frontier/Civilopedia
+
+Slaves have had many names over the breadth of human history - indentured servant, plantation worker, fast-food employee - but the resulting system has remained essentially the same: when one portion of society works solely for the benefit of another, slavery is at hand. With a complete lack of human rights, Slave States are able to push their workers at a (literally) breakneck pace, resulting in the speedy completion of the project at the cost of human lives. The philosophy of the slave state dictates that some people are expendable for the greater good, and you might very well be one of those people.
