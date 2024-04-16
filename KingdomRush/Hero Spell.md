@@ -1,3 +1,0 @@
-# Hero Spell
-
-Hero Spells, or Ultimate Spells are the third major spell in and . The spell has different effects depending on the [hero](hero) that is currently in use by the player, resulting in varying cool-down times. Though the Hero Spell can be upgraded in the Hero Room just like any other skill, it can be used immediately in a level without any upgrades. This means each spell has four levels of strength; the initial base plus three additional upgrades.

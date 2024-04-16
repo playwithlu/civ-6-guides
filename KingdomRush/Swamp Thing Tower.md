@@ -1,2 +1,0 @@
-# Swamp Thing Tower
-

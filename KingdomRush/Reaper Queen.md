@@ -1,9 +1,0 @@
-# Reaper Queen
-
-The Reaper Queen is the queen of the [Reaper](Reaper) aliens and the new Dark God of the Ma'qwa cannibals. She commands the enemy forces in the [Temple%20of%20Ethereal%20Evil](Temple of Ethereal Evil).
-Description.
-The Reaper Queen is a hideous, bulbous creature, with four yellow eyes and thorns protruding from her body. She has a purple webbed crest, pink body and a purple backside. Green veins run through the entirety of her back.
-Unlike most "bosses" of Endless Challenges, the Reaper Queen is silent (possibly incapable of speech). However, she still has an arsenal of rather annoying abilities to hinder your defenses. 
-The Reaper Queen's most frequent attack is spewing a glob of poison at your soldiers, draining their health very quickly. Undead units are completely unaffected but can still be targeted. Though this damage is non-lethal (it will stop when your soldiers are at 1 HP), it will make your troops pulverized by the hordes of foes.
-In addition, the Reaper Queen sometimes releases a fully-grown [Reaper](Reaper) that crawls from the temple entrance to the middle exit. This is easily dealt with at first, but over time she will begin to do this more frequently, making it into a major nuisance. This Reaper doesn't give any [Gold](Gold) when killed.
-Finally, the Reaper Queen can let out a piercing cry that boosts the attack power any Parasytes or Reapers currently on the field to "6" times the normal amount, causing later waves of them to deal damage in the hundreds. They also gain small boost to movement speed and get a distinctive spiky red aura. Even the [Knights%20Templar](Knights Templar) can fall to them in mere seconds.

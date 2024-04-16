@@ -1,6 +1,0 @@
-# Arkuz, the King of the North
-
-Arkuz is a large bodied viking and chieftain of the Northern Tribe, first making an appearance in [Northerners%27%20Village](Northerners' Village). He stands overlooking the village, taunting the player on occasion.
-In Northerners' Village, if there are two or more troops near each other, he will take out his axe to signal to the Northerners to throw their weapons at an area. A shadow will appear around those troops before a number of weapons rain down on them for heavy damage.
-In the campaign [Jokull%27s%20Nest](Jokull's Nest), Arkuz rides a large blue dragon (See [https%3A//kingdomrushtd.fandom.com/wiki/Arkuz%2527s_Dragon](Arkuz's Dragon)). He will periodically take off into the air and use the Wyvern's frost breath to damage and freeze the player's troops or Hero. After wave 15 is cleared, he will get off the Wyvern, summon Jokull with a horn and commence the boss fight.
-The Heroic and Iron Challenges for Jokull's Nest reveal that he survived Jokull's defeat, but is frozen in an ice block from the neck down.

@@ -1,2 +1,0 @@
-# Sir. Gerald Lightseeker
-

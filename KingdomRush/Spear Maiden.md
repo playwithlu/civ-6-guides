@@ -1,2 +1,0 @@
-# Spear Maiden
-

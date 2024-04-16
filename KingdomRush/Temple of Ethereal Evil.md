@@ -1,2 +1,0 @@
-# Temple of Ethereal Evil
-

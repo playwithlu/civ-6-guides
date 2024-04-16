@@ -1,3 +1,0 @@
-# Lava Pit
-
-The Lava Pit is a piece of scenery in that appears only in the level [Tainted%20Pit](Tainted Pit). It is active in the Campaign and Iron challenges. It periodically shoots lava bombs at friendly ground units, dealing 200-250 physical area damage (damage area: 90). This can create dents in a player's defense, especially those consisting of [Defender%20Barracks](non-upgraded Barracks), allowing quick [Shadowspawn](Shadowspawn) and/or other enemies to sneak through.

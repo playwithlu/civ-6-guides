@@ -1,2 +1,0 @@
-# Tower Damage Per Second
-

@@ -1,4 +1,0 @@
-# Spider Goddess (expansion)
-
-"You came to the Kingdom's aid when it was under threat from the Time Mages, and when they saw your might they conjured ever larger portals bringing into our time our greatest foes from history. Scouts have reported hordes of spiders and dark elves roaming the countryside. This can only mean that the Spider Goddess ha returned. Though the very same portal two heroes have followed her and have enlisted themselves to defend the Kingdom. Together I know you will be able to stop this returning threat."
-Spider Goddess is the third and largest expansion pack for the board game . It adds [Grawl](Grawl) and [Lynn](Lynn) as useable heroes, and sees the return of [Greenmuck](Greenmuck) and the [Spider%20Goddess](Spider Goddess). The expansion also adds several new mechanics; Eight new level 4 Towers, Splash Damage, Four new Spells, additional Horde mechanics, and Teleportals.

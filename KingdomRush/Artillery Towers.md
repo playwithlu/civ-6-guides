@@ -1,2 +1,0 @@
-# Artillery Towers
-

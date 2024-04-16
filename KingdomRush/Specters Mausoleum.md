@@ -1,2 +1,0 @@
-# Specters Mausoleum
-
