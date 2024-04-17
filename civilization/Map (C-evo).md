@@ -1,6 +1,5 @@
 # Map (C-evo)
 
-When you are about to open a saved game of [C-evo](C-evo) or start a new game, the "Map" tab gives you a page showing map options.
 Options.
 It is possible to download and play [predesigned%20maps%20%28C-evo%29](predesigned maps), which could be in this menu, as well as making your own map. The C-evo website offers some that people have created.
 Random maps.

@@ -1,5 +1,5 @@
 # Electricity (Civ2)
 
- Electricity is an in "[Civilization%20II](Civilization II)".
+ Electricity is an {{Link2|Advance}} in "[Civilization%20II](Civilization II)".
 Civilopedia entry.
 The phenomenon of electricity in the forms of lightning, static electricity, and magnetism has been witnessed by humans since the dawn of time. Electricity was not seriously studied, however, until the 17th century. Early electrical pioneers studied various electrical phenomena, and built devices both to generate and to measure electrical charges. In 1892, the electron theory was advanced by Hendrik Antoon Lorentz, a Dutch physicist. This theory, which explains electricity as a reacton between positively and negatively charged electrons, formed the basis for modern electrical theory. Based on Lorentz's work, early engineers such as Thomas Edison pioneered methods allowing the widespread use of electricity as a power source.

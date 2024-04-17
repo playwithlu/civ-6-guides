@@ -1,4 +1,3 @@
 # New York
 
-New York, also known by its original Dutch name of New Amsterdam, is an [American](American) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and elsewhere, and a [New%20English](New English) and [New%20Netherlander](New Netherland) city in the "[Colonization%20%28game%29](Colonization)" games. In real life, it is a former U.S. [capital](capital) and the most populous city in the country, and home to [Broadway](Broadway), the [Empire%20State%20Building](Empire State Building), the [Statue%20of%20Liberty](Statue of Liberty), the [United%20Nations](United Nations), and [Wall%20Street](Wall Street).
 In [scenario](scenario)s, it may appear as a [Dutch](Dutch) city in [Age%20of%20Discovery](Age of Discovery) and [Conquest%20of%20the%20New%20World](Conquest of the New World).

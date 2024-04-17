@@ -1,2 +1,2 @@
-# Luxury Resource (Civ5)
+# Luxury resource (Civ5)
 

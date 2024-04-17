@@ -1,8 +1,12 @@
 # Industrial Revolution (CTP2)
 
- is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+ | age=Modern
+ | requires=Agricultural Revolution,Modern Metallurgy
+ | leadsto=Oil Refining,Explosives,Communism (advance),Electricity,Pharmaceuticals
+ | gives=Machine Gunner,Factory
+ | obsoletes=
 Gameplay.
-The Industrial Revolution ushers in the modern era of factory-driven . It gives , which improve at the expense of the environment. The uses the latest weapons technology to dominate the battlefield.
+The Industrial Revolution ushers in the modern era of factory-driven {{LinkCTP2|Production}}. It gives {{LinkCTP2|Cities}} {{LinkCTP2|Factories}}, which improve {{LinkCTP2|Production}} at the expense of the environment. The {{LinkCTP2|Machine Gunner}} uses the latest weapons technology to dominate the battlefield.
 Great Library entry.
 The English economic historian Arnold Toynbee (1852-83) was the first to popularize the term Industrial Revolution, using it to describe England's economic development from 1760 to 1840. Since his time, other historians have more broadly applied the term to any society that changed from an agrarian, artisan economy to one in which industry and machine manufacturing prevailed. The primary changes of the Industrial Revolution were technological, socioeconomic and cultural.
 Technological changes included use of new materials, such as iron and steel, and the use of new energy sources, including coal, the steam engine, electricity and the petroleum-based internal combustion engine. In addition, new machines, such as the spinning jenny and the power loom vastly increased the production of materials with a minimum of human energy. The factory system further divided labor and increased specialization of function. The application of science to industry also marked one major change, making possible a vastly increased use of natural resources and the mass production of manufactured goods. The technological advancements of the Industrial Revolution made important developments in transportation and communication, including steam-powered ships and locomotives, automobiles, airplanes, telegraphs and radio, possible.

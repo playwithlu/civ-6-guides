@@ -1,2 +1,2 @@
-# Undersea Mine (CTP1)
+# Undersea mine (CTP1)
 

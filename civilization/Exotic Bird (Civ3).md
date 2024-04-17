@@ -1,2 +1,2 @@
-# Exotic Bird (Civ3)
+# Exotic bird (Civ3)
 

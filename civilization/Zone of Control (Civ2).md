@@ -1,2 +1,8 @@
-# Zone of Control (Civ2)
+# Zone of control (Civ2)
 
+Zone of control (abbreviated ZoC/ZOC) is a game mechanic in "[Civilization%20II](Civilization II)" that restricts [Unit%20%28Civ2%29](unit) [Movement%20%28Civ2%29](movement). Units located on land {{Link|2|tile}}s exert a zone of control on adjacent tiles;{{refn|group=note|The [Civilization%20II%20Instruction%20Manual](game manual) erroneously states that cities exert zone of control;{{refn|[MicroProse](MicroProse Software, Inc.) (1996). "[Civilization%20II%20Instruction%20Manual](Civilization II Instruction Manual)". p.88. .}} however, this is an attribute of the garrison and not the city itself. An unoccupied city does not obstruct movement.}} foreign {{Link|2|pre=cat|ground units}} cannot move within or between rival ZoC, unless the {{Link|2|civilizations}} are members of an {{Link|2|Diplomacy|sec=Diplomatic relations|alliance}}. Zone of control acts to create and maintain a military , without requiring a "hard" wall of units occupying every traversible tile.
+ZoC has several general exceptions: units moving onto or out of a {{Link|2|pre=cat|Transport units|transport}}, into or out of a [City%20%28Civ2%29](city),{{refn|group=note|Including capturing an enemy city.}} or moving to [stack](stack) with a friendly unit are not obstructed. {{Link|2|pre=cat|Sea units|Sea}} and {{Link|2|pre=cat|air units}} are not subject to zone of control, though they will exert it.
+Unit exceptions.
+Certain ground units are not subject to zone of control (but still exert it themselves):
+Modding.
+ZoC immunity is a {{Link|2|Modding|sub=Units|sec=Flags|flag}} that can be assigned to any unit. The mechanic itself is hard-coded.

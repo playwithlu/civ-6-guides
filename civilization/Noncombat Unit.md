@@ -1,2 +1,2 @@
-# Noncombat Unit
+# Noncombat unit
 

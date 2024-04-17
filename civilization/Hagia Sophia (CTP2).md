@@ -1,5 +1,9 @@
 # Hagia Sophia (CTP2)
 
+ | reqtech=Theology
+ | cost=3240
+ | effect=One free {{LinkCTP2|Shrine}} in every city.
+ | obsolete=
 The Hagia Sophia is a [Wonder%20%28CTP2%29](Wonder) in "[Call%20to%20Power%20II](Call to Power II)". It is meant for the [Roman%20%28CTP2%29](Romans), [Byzantine%20%28CTP2%29](Byzantines), or [Turkish%20%28CTP2%29](Turks) and costs 3240 production points to build.
 Gameplay.
 The Hagia Sophia is a monument to all religious faiths, and has the effect of giving every city in the host empire a temple in which citizens may worship their deities.

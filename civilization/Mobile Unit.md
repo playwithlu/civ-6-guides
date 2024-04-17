@@ -1,2 +1,3 @@
-# Mobile Unit
+# Mobile unit
 
+Mobile units (sometimes called cavalry units) are a class of [unit](unit) in the "[Civilization%20%28series%29](Civilization)" games. They function similarly to [melee%20unit](melee unit)s, but are often able to ignore [zone%20of%20control](zone of control) or move after attacking. The term refers to both mounted units (i.e., units that ride [Horses](Horses) and other [animal](animal)s) and armored units (i.e., [Tank](Tank)s and other land-based vehicles).

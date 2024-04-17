@@ -1,2 +1,5 @@
-# Embryo Tank (CTP1)
+# Embryo tank (CTP1)
 
+Construction of the Embryo Tank is the second step of the {{LinkCTP1|Alien Life Project}}. The Tank can be built in any city and will be shipped automatically to the site of the {{LinkCTP1|X-Lab}}. It requires a completed {{LinkCTP1|Wormhole}}, {{LinkCTP1|Probe}} mission and {{LinkCTP1|X-lab}}.
+Great Library entry.
+Combining the latest advances in recombinant DNA engineering and enhanced incubation, prototype embryo tanks had been used to grow full human clones for hundreds of years. For the Alien Life Project, scientists created a new version of the standard tank suitable for the development of an alien being. Scientists who had studied the alien ruins on Mars warned against the extreme danger of bringing such a being to life on Earth, but all nations feared the consequences of losing this all-important race to their competitors. 

@@ -1,5 +1,10 @@
 # Jurisprudence (CTP1)
 
+ |age = Ancient
+ | requires=Writing
+ | leadsto=Philosophy,Banking
+ | gives=Samurai, Courthouse
+ | obsoletes=Chichen Itza, Confucius Academy, East India Company, Gutenberg's Bible, Hagia Sophia, Sphinx
 Jurisprudence is an advance in "".
 Summary.
 Jurisprudence protects against crime with the Courthouse and Chichen Itza. And bound by oaths to uphold the honor of their lords, the courageous Samurai provide a powerful force of justice.

@@ -18,6 +18,9 @@ def convert_to_markdown(json_input):
     markdown_output = f"# {title}\n\n"
     markdown_output += text.replace("\nOverview.\n", "\n## Overview\n\n")
 
+    if data["id"] == "75145":
+        print(text)
+
     return title, markdown_output
 
 
@@ -31,8 +34,8 @@ def format_file(file, output_directory):
             path = os.path.join(output_directory, f"{title}.md")
             if not os.path.exists(path):
                 os.makedirs(os.path.dirname(path), exist_ok=True)
-                with open(path, "w") as of:
-                    of.write(markdown)
+            with open(path, "w") as of:
+                of.write(markdown)
 
 
 if __name__ == "__main__":

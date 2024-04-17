@@ -1,2 +1,2 @@
-# Expert Silver Miners
+# Expert silver miners
 

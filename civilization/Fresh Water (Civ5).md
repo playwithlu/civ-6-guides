@@ -1,2 +1,2 @@
-# Fresh Water (Civ5)
+# Fresh water (Civ5)
 

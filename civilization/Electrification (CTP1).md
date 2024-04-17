@@ -1,5 +1,10 @@
 # Electrification (CTP1)
 
+ |age = Modern
+ | requires=Perspective, Electricity
+ | leadsto=Fascism (advance),Mass Media,Genetics,Fuel Cells
+ | gives=Movie Palace, Listening Post
+ | obsoletes=
 Electrification is an advance in "".
 Summary.
 The sixth Construction Advance, Electrification, allows even small towns to have Movie Palaces, making people happy and giving an entire nation a single unified culture. On a military level, Listening Post can be built and used to report the enemies' whereabouts from a distance.

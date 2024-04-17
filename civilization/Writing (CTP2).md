@@ -1,6 +1,10 @@
 # Writing (CTP2)
 
- is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+ | age=Ancient
+ | requires=
+ | leadsto=Jurisprudence,Drama
+ | gives=
+ | obsoletes=
 Gameplay.
 Before Writing, human beings had only to rely on speech and art to convey their ideas. Writing makes available the documentation of everything from the inventory of a shop to the history of a culture.
 The discovery of Writing gives birth to a new world of cultural advancement.

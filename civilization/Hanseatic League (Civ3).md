@@ -1,3 +1,2 @@
 # Hanseatic League (Civ3)
 
- is a [List%20of%20wonders%20in%20Civ3](wonder) in , a [List%20of%20scenarios%20in%20Civ3](scenario) in "". It requires [Mercantilism%20%28The%20Middle%20Ages%29%20%28Civ3%29](Mercantilism) and can only be built in a coastal city. It produces one extra Commerce in every square that already produces at least one and it pays maintenance costs for all trade-based buildings. This Great Wonder may trigger for and civilizations.

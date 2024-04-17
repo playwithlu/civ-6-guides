@@ -1,2 +1,5 @@
-# Monument Screen (CTP1)
+# Monument screen (CTP1)
 
+When the player achieves a sufficiently good score, he will be presented with the Monuments Screen. Here the citizens of your Civilization show their gratitude by presenting you with works of grandeur. These monuments have no effect on the gameplay. Click on one of the five regions to have your people erect a monument in your honor. Click on a region to get a closer view of it.
+Great Library entry.
+Civilizations have built grand monuments to pay homage to their heroes, whether political leaders or mythical gods. The Washington Monument, completed in 1884, stands more than 550 feet tall in the American capital as a tribute to the first American president, George Washington. Approximately 2,000 years earlier, the Greeks erected the Statue of Zeus to celebrate their god.

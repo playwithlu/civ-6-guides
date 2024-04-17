@@ -1,6 +1,5 @@
 # Élodie (CivBE)
 
-&lt;br&gt;
 Élodie leads [Franco-Iberia%20%28CivBE%29](Franco-Iberia).
 Starships.
 The leader Elodie (Charismatic) causes crew morale to increase by 10%

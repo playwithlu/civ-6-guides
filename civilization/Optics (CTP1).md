@@ -1,5 +1,10 @@
 # Optics (CTP1)
 
+ |age = Renaissance
+ | requires=Astronomy, Mechanical Clock
+ | leadsto=Medicine,Physics
+ | gives=Galileo's Telescope
+ | obsoletes=
 Optics is an advance in "".
 Summary.
 Optics, the third Physical Science Advance, reveals the true positions of the Earth and Sun, overturning centuries of geocentricism, that falsely placed man at the center of the universe. With Galileo's Telescope, a Civilization's knowledge increases as tangible evidence and verifiable calculations are gathered.

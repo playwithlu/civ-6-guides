@@ -1,2 +1,2 @@
-# Expedition Sites (CivBE)
+# Expedition sites (CivBE)
 

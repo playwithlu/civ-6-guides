@@ -1,3 +1,2 @@
 # Yerevan
 
-Yerevan is a [Persian](Persian) [city](city) in the "[Civilization%20%28series%29](Civilization)" games and the [Armenian](Armenian) [capital](capital) in the [Call%20to%20Power%20games]("Call to Power" games) and elsewhere, and also appears as a [city-state](city-state). In real life, it is the capital of and largest city in present-day Armenia, as well as one of the world's oldest continuously inhabited cities.

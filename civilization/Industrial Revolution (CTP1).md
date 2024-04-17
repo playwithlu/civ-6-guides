@@ -1,5 +1,10 @@
 # Industrial Revolution (CTP1)
 
+ |age = Renaissance
+ | requires=Machine Tools, Cannon-Making
+ | leadsto=Railroad,Communism (advance)
+ | gives=Factory
+ | obsoletes=
 Industrial Revolution is an advance in "".
 Summary.
 The Industrial Revolution, fourth Mechanical Advance, begins a process of urbanization and industrialization that lasts a thousand years. With the Factory, a city increases production.

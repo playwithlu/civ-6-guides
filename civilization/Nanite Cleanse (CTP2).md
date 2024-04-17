@@ -1,2 +1,2 @@
-# Nanite Cleanse (CTP2)
+# Nanite cleanse (CTP2)
 

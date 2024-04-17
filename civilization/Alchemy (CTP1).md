@@ -1,5 +1,10 @@
 # Alchemy (CTP1)
 
+ |age = Ancient
+ | requires=Ironworking
+ | leadsto=Gunpowder
+ | gives=Archer, Fire Trireme, Philosopher's Stone
+ | obsoletes=
 Alchemy is an advance in "".
 Summary.
 With Alchemy, the third Defensive War Advance, Civilizations add primitive chemical weapons to their arsenals. The Fire Trireme dominates the ancient inland seas while the Archer unleashes destruction on vulnerable enemy cities. Possession of the Wonder, Philosopher's Stone automatically opens embassies in all Civilizations as Diplomats from distant lands are drawn in by the Stone's allure.

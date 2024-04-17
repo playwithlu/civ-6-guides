@@ -1,2 +1,2 @@
-# Ethiopia (Civ5)
+# Ethiopia (civ5)
 

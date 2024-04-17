@@ -1,2 +1,2 @@
-# Siege Units (Civ6)
+# Siege units (Civ6)
 

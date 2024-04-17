@@ -1,5 +1,7 @@
 # Intelligence Agency (Civ6)
 
+All Spy Operations have a higher chance of success.
+Awards +1 {{GovernorIcon6}} Governor Title.
 The Intelligence Agency is a Tier 2 [Government%20%28Civ6%29](government) [Building%20%28Civ6%29](building) in "". It is built in the [Government%20Plaza%20%28Civ6%29](Government Plaza) [District%20%28Civ6%29](district) and requires a Tier 2 government ([Merchant%20Republic%20%28Civ6%29](Merchant Republic), [Monarchy%20%28Civ6%29](Monarchy), or [Theocracy%20%28Civ6%29](Theocracy)) and a Tier 1 government building ([Ancestral%20Hall%20%28Civ6%29](Ancestral Hall), [Audience%20Chamber%20%28Civ6%29](Audience Chamber), or [Warlord%27s%20Throne%20%28Civ6%29](Warlord's Throne)).
 Strategy.
 While the Foreign Ministry and Grand Master's Chapel are often considered to be "niche picks" (meaning they are only suitable for particular [Civilizations%20%28Civ6%29](civilizations)/[Leaders%20%28Civ6%29](leaders) or in specific situations), the Intelligence Agency has an impressive scope of usage. An extra [Spy%20%28Civ6%29](Spy) with increased Spy efficiency overall is nothing to scoff at, and these bonuses benefit any player seeking any [Victory%20%28Civ6%29](victory) condition (or trying to hobble an opponent's victory progress). This is pretty much the default Tier 2 government building and will prove useful in every situation, especially when playing as [Catherine%20de%20Medici%20%28Civ6%29](Black Queen Catherine) or [Wu%20Zetian%20%28Civ6%29](Wu Zetian).

@@ -1,3 +1,3 @@
 # Kairouan
 
-Kairouan, also known as Al-Qayrawan, is an [Arabian](Arabian) [city](city) in the "[Civilization%20%28series%29](Civilization)" games, and also appears as a [city-state](city-state). In real life, it is a city in present-day Tunisia.
+Al-Qayrawan appears as a [City-state%20%28Civ6%29](city-state) in the [Vikings%2C%20Traders%2C%20and%20Raiders%21%20%28Civ6%29](Vikings, Traders, and Raiders!) [List%20of%20scenarios%20in%20Civ6](scenario).

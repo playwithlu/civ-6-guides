@@ -1,10 +1,10 @@
 # World's Fair (Civ5)
 
 Introduction.
-The World's Fair is an [International%20Project%20%28Civ5%29](International Project) in "[Brave%20New%20World](Brave New World)". As such, it can only be initiated via the respective [Resolutions%20%28Civ5%29](Resolution) in the [World%20Congress%20%28Civ5%29](World Congress). It consists of organizing and conducting a world exhibition, where all nations showcase their cultural and scientific prowess. Once accepted, the international community starts organizing the Fair, which is done in practice by contributing towards it in cities around the world. When completed, the Fair is held and the contributors receive their respective rewards.
+The World's Fair is an [International%20Project%20%28Civ5%29](International Project) in "[Brave%20New%20World](Brave New World)". As such, it can only be initiated via the respective [Resolutions%20%28Civ5%29](Resolution) in the [World%20Congress%20%28Civ5%29](World Congress). It consists of organizing and conducting a world exhibition, where all nations showcase their cultural and scientific prowess. Once accepted, the international community starts organizing the Fair, which is done in practice by contributing {{Production5}} towards it in cities around the world. When completed, the Fair is held and the contributors receive their respective rewards.
 Game Info.
 International Project. Benefits nations which contribute to it as follows:
-The minimum requirement for each reward assumes the game is being played in standard settings (Standard map with 8 civilizations and Standard game speed).
+The minimum {{Production5}} requirement for each reward assumes the game is being played in standard settings (Standard map with 8 civilizations and Standard game speed).
 Strategy.
 The World's Fair [Resolutions%20%28Civ5%29](Resolution) is available immediately upon the founding of the World Congress. Its rewards will benefit any civilization. If you think you can win the race, it is well worth trying to enact this in the early stages of the World Congress, as it often comes around the time you are trying to get your first [Factory%20%28Civ5%29](Factories) and [Ideology%20%28Civ5%29](ideology). Winning the World's Fair can allow you grab those ideological tenets you really want.
 The current completion status for the World's Fair can be determined by mousing over a city's corresponding World's Fair production icon from the world map. It shows the total percentage of the project that has been completed, and the player's specific contribution to it.

@@ -1,5 +1,8 @@
 # University (CTP1)
 
+ | requires=[Classical%20Education%20%28CTP1%29](Classical Education)
+ | production_cost=1350
+ | effect=+50% Science
 University is a [List%20of%20buildings%20%28CTP1%29](city improvement) in "Civilization: Call to Power".
 Effect.
 The University allows a city to educate its people in liberal arts and professional studies, which increases a city's overall science by 50%. 

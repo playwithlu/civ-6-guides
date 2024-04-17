@@ -1,2 +1,2 @@
-# Natural Wonders
+# Natural wonders
 

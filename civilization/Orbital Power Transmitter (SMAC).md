@@ -1,6 +1,5 @@
 # Orbital Power Transmitter (SMAC)
 
- is a [base%20facility%20%28SMAC%29](base facility) in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)". 
 Strategy.
 Each of your bases produces +1 additional energy per turn for each satellite built. This bonus is halved for bases without Aerospace Complexes and cannot exceed the size of the base in any case. You can build any number of satellites, for a cumulative bonus at every base. This makes them much more useful for larger factions than for smaller ones, as the cost is the same no matter how many bases you have to benefit from them.
 These are the second of the satellite types to become available, in the middle phase of the game. If you want to use the satellite strategy, get the Cloudbase Academy if at all possible because it will almost double the effect of your entire satellite constellation. If you can't do this, then you will need to build aerospace complexes at as many bases as you reasonably can. O f course, the more satellites you have up, the bigger the payoff for each aerospace complex you build. Don't bother building one or two satellites and then stopping. Instead, if you're going to put up satellites at all then plan to keep going until you have 4-6 of each type. A large faction with a large constellation of satellites is well positioned for world dominance.

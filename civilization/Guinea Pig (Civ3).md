@@ -1,2 +1,2 @@
-# Guinea Pig (Civ3)
+# Guinea pig (Civ3)
 

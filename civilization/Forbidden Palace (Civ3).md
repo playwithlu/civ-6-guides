@@ -1,4 +1,3 @@
 # Forbidden Palace (Civ3)
 
- is a [Small%20Wonder%20%28Civ3%29](Small Wonder) in "[Civilization%20III](Civilization III)". It may be built once a certain number of [City%20%28Civ3%29](cities) are owned (10 cities on standard size map). Functioning somewhat similarly to the [Palace%20%28Civ3%29](Palace), it strongly reduces [Corruption%20%28Civ3%29](Corruption and Waste) in the city in which it is built, and imparts a similar but more limited benefit to other nearby cities.
 [Communism%20%28government%29%20%28Civ3%29](Communist) [Government%20%28Civ3%29](governments) can additionally build the [Secret%20Police%20HQ%20%28Civ3%29](Secret Police HQ), which performs in a similar manner.

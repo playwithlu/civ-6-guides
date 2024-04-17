@@ -1,7 +1,7 @@
 # Inquisitor (Civ5)
 
 Game Info.
-Religious unit. Can only be purchased with in any with a majority that has been Enhanced.
+Religious unit. Can only be purchased with {{Faith5}} in any {{Link5|city}} with a majority {{Link5|religion}} that has been Enhanced.
 Strategy.
 Inquisitors are your defense from other religions. They have two uses:
 Note that an Inquisitor doesn't stop normal religious pressure from cities and other sources from converting your citizens.

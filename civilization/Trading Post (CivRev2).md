@@ -1,3 +1,2 @@
-# Trading Post (CivRev2)
+# Trading post (CivRev2)
 
-The Trading Post is a building in "[Civilization%20Revolution%202](Civilization Revolution 2)".

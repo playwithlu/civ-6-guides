@@ -1,2 +1,2 @@
-# Wood Camp (Civ5)
+# Wood camp (Civ5)
 

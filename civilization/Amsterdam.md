@@ -1,3 +1,2 @@
 # Amsterdam
 
-Amsterdam is the [Dutch](Dutch) [capital](capital) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and elsewhere, and sometimes appears as a [city-state](city-state). In real life, it was not fully independent from [Spanish](Spanish) rule until 1648, when the led by [William%20of%20Orange](William of Orange) ended with the Dutch gaining their independence from Spain.

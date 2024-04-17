@@ -2,11 +2,9 @@
 
 Nzinga Mbande (c. 1583 – 1663), baptized Ana de Sousa, was of the kingdoms of and in northern from 1626 until her death. She is known for her decades-long resistance against the [Portuguese](Portuguese) to control the slave trade and secure independence for her kingdoms. She leads the [Kongolese%20%28Civ6%29](Kongolese) in "[Civilization%20VI](Civilization VI)".
 Staying on her home [Continent%20%28Civ6%29](continent) is the key to success with Nzinga Mbande.
-Intro.
- Nzinga Mbande, queen of Ndongo and Matamba, warlord of the Imbangala, you know too well that power is not granted, but must be made anew in each instant. Beware those who would seize your lands and your people for their own ends. Strike back against those who would conspire against you, and take what is yours, if not by right, then by grand vision.
 In-Game.
 Nzinga Mbande's unique [Agenda%20%28Civ6%29](agenda) is Decolonization. She likes [Civilizations%20%28Civ6%29](civilizations) on continents where she has no [City%20%28Civ6%29](cities) and dislikes those who have a city on her home continent.
-Her [Unique%20ability%20%28Civ6%29](leader ability) is Queen of Ndongo and Mtamba. All cities on her home continent (including her ) receive a 10% bonus to all yields, while cities on other continents receive a 15% penalty to all yields.
+Her [Unique%20ability%20%28Civ6%29](leader ability) is Queen of Ndongo and Mtamba. All cities on her home continent (including her {{Capital6}}) receive a 10% bonus to all yields, while cities on other continents receive a 15% penalty to all yields.
 Detailed Approach.
 Nzinga Mbande’s Kongo wants to be the preeminent power on her home continent. Her additional yields on her home combined with the Nkisi ability set her up well for a [Victory%20%28Civ6%29%23Culture](Culture Victory). The [Ngao%20Mbeba%20%28Civ6%29](Ngao Mbeba) helps her conquer any civilization that enters her home continent. The [Mbanza%20%28Civ6%29](Mbanza) will help her cities grow large and prosperous.
 Lines.

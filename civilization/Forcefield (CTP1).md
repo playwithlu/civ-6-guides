@@ -1,5 +1,8 @@
 # Forcefield (CTP1)
 
+ | requires=[Unified%20Physics%20%28CTP1%29](Unified Physics)
+ | production_cost=6000
+ | effect=+12 Defense
 Forcefield is a [List%20of%20buildings%20%28CTP1%29](city improvement) in "Civilization: Call to Power".
 Effect.
 The Forcefield protects cities from military attack with a shimmering field of nearly impenetrable strength. Defenders within the city are virtually infallible, as their defense is increased by 12.

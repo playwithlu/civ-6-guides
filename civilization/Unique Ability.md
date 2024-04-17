@@ -1,2 +1,4 @@
-# Unique Ability
+# Unique ability
 
+A unique ability (sometimes called a civilization ability, leader ability, or special ability) is an ability of a particular [Civilizations](civilization) or [Leaders](leader) in a "[Civilization%20%28series%29](Civilization)" game that provides unique [gameplay](gameplay) advantages and/or alters their playstyle. Unique abilities replace [List%20of%20strengths%20in%20Civ3](strengths) and [Leader%20trait%20%28Civ4%29](leader traits) from the earlier games.
+Every [Civilizations%20%28Civ6%29](civilization) and [Leaders%20%28Civ6%29](leader) has its own unique ability, both of which take effect at the beginning of the game and remain in effect until the end.

@@ -1,5 +1,10 @@
 # Zero-G Industry (CTP1)
 
+ |age = Diamond
+ | requires=Space Colonies
+ | leadsto=Asteroid Mining
+ | gives=Space Bomber
+ | obsoletes=
 Zero-G Industry is an advance in "".
 Summary.
 Zero-G Industry guides Civilizations to the ultimate weapon of fear – the Space Bomber. Capable of leveling cities from orbit, the Space Bomber ends forever the illusion of safety on the surface.

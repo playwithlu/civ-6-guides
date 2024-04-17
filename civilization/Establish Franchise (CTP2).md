@@ -1,2 +1,2 @@
-# Establish Franchise (CTP2)
+# Establish franchise (CTP2)
 

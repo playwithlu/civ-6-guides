@@ -2,7 +2,7 @@
 
 The Moray Striker is a [List%20of%20units%20in%20CTP2](unit) in "[Call%20to%20Power%20II](Call to Power II)".
 Summary.
-Anti-Naval .
+Anti-Naval {{LinkCTP2|Active Defense}}.
 Gameplay.
 The Moray Striker's three-pronged combination of speed, maneuverability and wide vision scope makes it ideally suited to underwater surveillance and reconnaissance operations. It is also a capable defender, with the ability to actively defend against naval units.
 Great Library entry.

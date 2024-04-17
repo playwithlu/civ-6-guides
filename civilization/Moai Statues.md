@@ -1,2 +1,2 @@
-# Moai Statues
+# Moai statues
 

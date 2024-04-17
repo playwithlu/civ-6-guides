@@ -1,2 +1,2 @@
-# Open Borders (Civ5)
+# Open borders (Civ5)
 

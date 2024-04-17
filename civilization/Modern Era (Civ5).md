@@ -1,9 +1,2 @@
-# Modern Era (Civ5)
+# Modern era (Civ5)
 
-The Modern Era in "[Civilization%20V](Civilization V)" appears to be based on the early 20th century, particularly the period between the 1910s and the 1940s. It is the sixth era of the game.
-Game Info.
-With the discovery of [Flight%20%28Civ5%29](Flight) and the introduction of [Air%20combat%20%28Civ5%29](air combat), warfare fundamentally changes in the Modern Era. Thanks to it, and new developments in transportation technology, war tactics and even strategy are forced to adapt to much more mobile forces on the battlefield. Actually, the whole world now becomes a battlefield, instead of just some regions of it.
-Further technical development modernizes sea vessels to their most modern versions, conferring them more speed, range, and firepower, and even introducing another game-changer: the [Submarine%20%28Civ5%29](Submarine). Sea battles now turn much more tactical than simple exchange of volleys.
-Finally, gains momentum with the invention of the first [Building%20%28Civ5%29](building) that boosts this stat: the [Hotel%20%28Civ5%29](Hotel). A cultural offense now becomes possible, and combines with newly minted Public Opinion to create a host of problems for some nations. How you deal with them will be interesting.
-Other Properties.
-When starting a game in the Modern Era, you receive three [Settler%20%28Civ5%29](Settlers), two [Worker%20%28Civ5%29](Workers), five , 500 , and 200 . [Venetian%20%28Civ5%29](Venice) gets two [Merchant%20of%20Venice%20%28Civ5%29](Merchants of Venice) instead of the two extra Settlers. When a city is founded it begins with 3 and contains a , , , , , , , , and (if on the coast) .

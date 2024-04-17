@@ -1,6 +1,5 @@
 # Maglevs (CTP1)
 
- is a [List%20of%20improvements%20%28CTP1%29](tile improvement) in "Civilization: Call to Power".
 Gameplay.
 Maglevs, or magnetic levitation trains, are hyper-fast trains which reduce movement costs for land units. Depending on the terrain, this improvement costs 240-1600 PW and takes four turns to create.
 Great Library entry.

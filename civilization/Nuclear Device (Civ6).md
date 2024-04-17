@@ -1,2 +1,2 @@
-# Nuclear Device (Civ6)
+# Nuclear device (Civ6)
 

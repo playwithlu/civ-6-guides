@@ -1,5 +1,10 @@
 # Neural Interface (CTP1)
 
+ |age = Genetic
+ | requires=Unified Physics
+ | leadsto=Technocracy (advance), Nano-Assembly,Life Extension
+ | gives=Bio Memory Chip, Cyber Ninja, Sensorium
+ | obsoletes=
 Neural Interface is an advance in "".
 Summary.
 The fifth Electrical Advance, the Neural Interface merges the worlds of digital data and human comprehension. With the Bio Memory Chip surgically implanted into the young, science increases by 50% overall. The Sensorium eradicates overcrowding and pollution-related unhappiness. Yet the Bio-chip holds a darker side, embodied in the lurking Cyber Ninja, an agent open to any price.

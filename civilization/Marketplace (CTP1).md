@@ -1,5 +1,8 @@
 # Marketplace (CTP1)
 
+ | requires=[Domestication%20%28CTP1%29](Domestication)
+ | production_cost=675
+ | effect=+50% GoldAllows Merchants
 Marketplace is a [List%20of%20buildings%20%28CTP1%29](city improvement) in "Civilization: Call to Power".
 Effect.
 The Marketplace encourages trade in a city and increases the city's gold income by 50%. It also allows Merchants, who increase gold in a city.

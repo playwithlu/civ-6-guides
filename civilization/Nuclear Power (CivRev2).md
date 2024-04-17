@@ -1,2 +1,2 @@
-# Nuclear Power (CivRev2)
+# Nuclear power (CivRev2)
 

@@ -1,2 +1,2 @@
-# Adam Smith's Trading Co.
+# Adam Smith's trading Co.
 

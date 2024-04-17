@@ -1,4 +1,3 @@
 # Naples
 
-Naples, also known as Napoli, Napule, or Neapolis, is an [Etruscan](Etruscan), [Italian](Italian), and [Roman](Roman) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games, and also appears as a [city-state](city-state). In real life, it is the regional capital of Campania and the third-largest city, after [Rome%20%28city%29](Rome) and [Milan](Milan), in present-day Italy.
 In [scenario](scenario)s, it may appear as a [Burgundian](Burgundian) city in [Middle%20Ages](Middle Ages), a [Byzantine](Byzantine) city in [Vikings%2C%20Traders%2C%20and%20Raiders%21](Vikings, Traders, and Raiders!), and a [Western%20Roman](Western Roman) city in [Fall%20of%20Rome](Fall of Rome).

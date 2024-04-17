@@ -1,2 +1,2 @@
-# One City Challenge
+# One city challenge
 

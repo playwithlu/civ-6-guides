@@ -1,2 +1,2 @@
-# Unknown Future (Civ3)
+# Unknown future (Civ3)
 

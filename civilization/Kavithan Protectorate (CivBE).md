@@ -1,7 +1,5 @@
 # Kavithan Protectorate (CivBE)
 
-&lt;onlyinclude&gt;&lt;includeonly&gt;
-&lt;/includeonly&gt;
 The Kavithan Protectorate is a civilization in the world of "".
 This faction is most probably comprised of India and Pakistan, as well as Bangladesh. They are led by the popular and charismatic [Kavitha%20Thakur%20%28CivBE%29](Kavitha Thakur).
 The opening video presents a young woman, who takes leave of a man, who is probably her father. This scene is obviously taking place in the fiefdom of the Kavithan Protectorate on Earth, since some of the soldiers and vehicles bear the symbol of this faction.

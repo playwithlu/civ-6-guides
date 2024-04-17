@@ -1,5 +1,10 @@
 # Agricultural Revolution (CTP1)
 
+ |age = Renaissance
+ | requires=Trade, Classical Education
+ | leadsto=Gunpowder, Printing Press, Mechanical Clock
+ | gives=Pikeman, Mill
+ | obsoletes=
 Agricultural Revolution is an advance in "".
 Summary.
 The Agricultural Revolution, the first step in the Mechanical Discoveries Advances, marks the impact of higher learning on agriculture and trade. These advantages are embodied in the Mill, which increases production, the advanced farm, which increases food, and in the Pikeman, who provides cheap defensive protection.

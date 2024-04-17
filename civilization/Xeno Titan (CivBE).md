@@ -1,7 +1,7 @@
 # Xeno Titan (CivBE)
 
 Game info.
-The Xeno Titan is a bioengineered, monstrous creature based on alien lifeforms. Enormous, very powerful siege melee unit. It has the highest in the game at Tier 2.
+The Xeno Titan is a bioengineered, monstrous creature based on alien lifeforms. Enormous, very powerful siege melee unit. It has the highest {{StrengthBE}} in the game at Tier 2.
 The Xeno Titan appears to charge up its pincers with a form of energy before attacking, possibly hardening its shell.
 Unit Upgrades.
 Tier 1.

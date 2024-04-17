@@ -1,2 +1,2 @@
-# Al-Farghani (Civ3)
+# AL-Farghani (Civ3)
 

@@ -1,2 +1,2 @@
-# Lumber Mill (Civ4)
+# Lumber mill (Civ4)
 

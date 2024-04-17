@@ -1,2 +1,2 @@
-# Influence Points (Civ5)
+# Influence points (Civ5)
 

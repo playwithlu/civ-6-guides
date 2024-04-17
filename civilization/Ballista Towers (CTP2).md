@@ -1,6 +1,9 @@
 # Ballista Towers (CTP2)
 
- is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+ | requires=Ballistics
+ | production_cost=525
+ | upkeep=2
+ | effect= +20 attack vs. land units
 Gameplay.
 Ballistae are massive projectile weapons, fashioned much like a giant crossbow. They are capable of firing huge bolts of wood, often as large as 5 feet in length, a considerable distance. Although primarily developed as a siege weapon, ballistae are effective defense weapons, delivering heavy damage to oncoming armies. Positioned high on the walls of a city, the ballista towers offer offensive bonuses against land-based attackers. 
 Great Library entry.

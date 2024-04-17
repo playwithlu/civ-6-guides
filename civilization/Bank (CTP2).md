@@ -1,8 +1,10 @@
 # Bank (CTP2)
 
- is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+ | requires=Banking
+ | production_cost=1225
+ | upkeep=4
 Gameplay.
-Banks facilitate in a city, making available loans to businesses and individuals, a place to safely save money, and the opportunity to invest.
+Banks facilitate {{LinkCTP2|Commerce}} in a city, making available loans to businesses and individuals, a place to safely save money, and the opportunity to invest.
 Great Library entry.
 Little was known about banking before the 13th century, but it was certainly of ancient origin. Since most of their business was the exchange of foreign and domestic coin of the correct weight and fineness, early banks dealt primarily in coin and bullion. Merchant bankers dealt in goods as well as bills of exchange, providing for the transfer of money and payment of accounts over great distances without the need for sending coin money. This was made possible by the fact that many merchants traded internationally and held assets at various points along trade routes.
 17th century bankers, particularly the English, began to develop a deposit banking business, and their techniques influenced other banking systems. London goldsmiths kept money and valuables safe for their customers and dealt in bullion and foreign exchange, making a profit off the acquisition, sorting and exchange of foreign coin. People began to deposit money with goldsmiths and "money scriveners" (notaries specializing in bringing together borrowers and lenders), and, over time, it was discovered that when a number of people did this, deposits and withdrawals tended to even out. Customers also began to prefer to leave their surplus money with goldsmiths, keeping only enough for everyday needs. The resultant fund of idle cash became available for loans, with interest, to other parties.

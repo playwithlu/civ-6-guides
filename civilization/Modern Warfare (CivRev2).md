@@ -1,2 +1,2 @@
-# Modern Warfare (CivRev2)
+# Modern warfare (CivRev2)
 

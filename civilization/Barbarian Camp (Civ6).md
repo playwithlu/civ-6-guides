@@ -1,2 +1,2 @@
-# Barbarian Camp (Civ6)
+# Barbarian camp (Civ6)
 

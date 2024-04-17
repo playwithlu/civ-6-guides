@@ -1,3 +1,2 @@
 # Guelma
 
-Guelma, also known by its historical names of Calama, Malaka, or Malaca, is a [Carthaginian](Carthaginian) and [Phoenician](Phoenician) [city](city) in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)". In real life, it is the capital of Guelma Province and Guelma District, located in north-eastern present-day Algeria.

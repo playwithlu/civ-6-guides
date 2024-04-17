@@ -1,5 +1,6 @@
 # Sid Meier's Colonization
 
+Ports
 Sid Meier's Colonization (abbreviated as "Col" on this wiki) is a computer game by [Brian%20Reynolds](Brian Reynolds) and [Sid%20Meier](Sid Meier) released by [MicroProse](MicroProse) in 1994. It is a [turn-based%20strategy](turn-based strategy) game themed on the early [Europe](Europe)an [colonization](colonization) of the New World, starting in 1492 and lasting until 1850. It was originally released for DOS, then in 1995 ported to Windows, the Amiga, and Macintosh.
 Play.
 "Colonization" has many similarities to Sid Meier's previous title, "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)". Both games pit the player as a godlike leader of an embattled civilization, the objective being to gain supremacy over rival civilizations, primarily through military means and discovery, transformation, and utilization of the land.

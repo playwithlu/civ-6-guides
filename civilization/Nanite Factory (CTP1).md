@@ -1,5 +1,8 @@
 # Nanite Factory (CTP1)
 
+ | requires=[Nano-Assembly%20%28CTP1%29](Nano-Assembly)
+ | production_cost=4000
+ | effect=Rush buy cost limited to 1 gold per Production
 Nanite Factory is a [List%20of%20buildings%20%28CTP1%29](city improvement) in "Civilization: Call to Power".
 Effect.
 The Nanite Factory reduces the cost and time needed to construct new materials, as well as the industrial waste generated. With the Nanite Factory, Rush Buy costs only 1 gold for 1 production. The Nanite Factory can only be built in space.

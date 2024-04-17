@@ -1,9 +1,2 @@
-# Information Era (Civ5)
+# Information era (Civ5)
 
-The Information Era is a new era introduced in "". It represents present days, with its computer-based society and high-tech machines. It is the final era in the game.
-Game Info.
-With the development of computers and computer networks the world enters an era of new possibilities and challenges. Lightning-fast technological development continues, inventing more high-tech (such as the [Giant%20Death%20Robot%20%28Civ5%29](Giant Death Robot)), punctual (such as the [Guided%20Missile%20%28Civ5%29](Guided Missile)) and increasingly mobile and deadly weapons, with which a player seeking a [Domination%20victory%20%28Civ5%29](domination victory) could gain the edge needed to complete his or her conquest and win the game.
-However, a connected world presents unique opportunities to non-violent players as well: their Diplomats may now enhance the influence of players in the [United%20Nations%20%28Civ5%29](United Nations), allowing them to win the World Leader vote and achieve [Diplomatic%20victory%20%28Civ5%29](diplomatic victory); while [The%20Internet%20%28Civ5%29](The Internet) allows an explosive spread of touristic influence for players pursuing [Cultural%20victory%20%28Civ5%29](cultural victory). 
-Finally, the space race begins for players pursuing a [Science%20victory%20%28Civ5%29](science victory). The ultimate struggle to conquer space offers the next frontier for competition. Mankind's future awaits in the stars...
-Other Properties.
-When starting a game in the Information Era, you receive three [Settler%20%28Civ5%29](Settlers), three [Worker%20%28Civ5%29](Workers), five [Marine%20%28Civ5%29](Marines), 600 , and 400 . [Venetian%20%28Civ5%29](Venice) gets three [Merchant%20of%20Venice%20%28Civ5%29](Merchants of Venice) instead of the Settlers. When a city is founded it begins with 5 and contains a , , , , , , , , , , and (if on the coast) .

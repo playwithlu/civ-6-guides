@@ -1,6 +1,5 @@
 # World (C-evo)
 
-"[World](World)" is one of the predesigned maps issued with the standard download of [C-evo](C-evo) version 1.2. At 406% size it has plenty of room for the standard number of nations (15).
 Extent.
 It is (apart from the north-south stretch which is commonly used by mapmakers so that the isometric main map looks the same as Earth) a good representation of about one-third of the Earth: the North Temperate Zone and some Arctic, including all of mainland Alaska and Canada but cutting off some of northern Russia, and extending south to show all of Florida and Southern California. There is a canal joining the Mediterranean Sea to a very small area of the Red Sea.
 Disadvantage.

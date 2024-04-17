@@ -1,3 +1,4 @@
 # Māori
 
-The Māori people represent a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games. Their [capital](capital) is [Te%20Hokianga-nui-a-kupe](Te Hokianga-nui-a-kupe), and their [Leaders](leader) is [Kupe](Kupe).
+The {{PAGENAME}} people represent a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games. Their [capital](capital) is [Te%20Hokianga-nui-a-kupe](Te Hokianga-nui-a-kupe), and their [Leaders](leader) is [Kupe](Kupe).
+The Māori appear in three [Modding%20%28Civ5%29](mods) for "Civilization V" (available [https%3A//civilization-v-customisation.fandom.com/wiki/The_M%25C4%2581ori_%28Potatau_Te_Wherowhero%29](here), [https%3A//civilization-v-customisation.fandom.com/wiki/The_M%25C4%2581ori_%28Te_Kooti%29](here), and [https%3A//civilization-v-customisation.fandom.com/wiki/The_Maori_%28Te_Rauparaha%29](here)).

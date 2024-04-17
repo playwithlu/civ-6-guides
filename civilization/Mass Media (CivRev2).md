@@ -1,2 +1,2 @@
-# Mass Media (CivRev2)
+# Mass media (CivRev2)
 

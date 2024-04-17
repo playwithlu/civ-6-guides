@@ -1,3 +1,3 @@
 # Hanging Gardens of Babylon (CivWorld)
 
-The are a [Wonder%20%28CivWorld%29%23List%20of%20Great%20Wonders](Great Wonder) in "[CivWorld](CivWorld)". They provide a +1 [Happiness%20%28CivWorld%29](Happiness) bonus for all [Citizen%20%28CivWorld%29](citizens). They are available after discovering [Pottery%20%28CivWorld%29](Pottery) and become [obsolete](obsolete) after discovering [Democracy%20%28CivWorld%29](Democracy).
+The {{CleanPageName}} are a [Wonder%20%28CivWorld%29%23List%20of%20Great%20Wonders](Great Wonder) in "[CivWorld](CivWorld)". They provide a +1 [Happiness%20%28CivWorld%29](Happiness) bonus for all [Citizen%20%28CivWorld%29](citizens). They are available after discovering [Pottery%20%28CivWorld%29](Pottery) and become [obsolete](obsolete) after discovering [Democracy%20%28CivWorld%29](Democracy).

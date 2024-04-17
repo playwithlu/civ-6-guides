@@ -1,2 +1,2 @@
-# Map Search (Civ6)
+# Map search (Civ6)
 

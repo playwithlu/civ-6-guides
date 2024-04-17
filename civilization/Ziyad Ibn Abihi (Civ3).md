@@ -1,2 +1,2 @@
-# Ziyad Ibn Abihi (Civ3)
+# Ziyad ibn Abihi (Civ3)
 

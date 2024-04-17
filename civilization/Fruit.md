@@ -1,3 +1,3 @@
 # Fruit
 
-Fruit is a [resource](resource) in the "[Civilization%20%28series%29](Civilization)" games.
+Fruit appears in the [Mesoamerica%20%28Civ3%29](Mesoamerica) [List%20of%20scenarios%20in%20Civ3](scenario).

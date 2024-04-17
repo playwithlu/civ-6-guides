@@ -1,2 +1,2 @@
-# Small Wonder
+# Small wonder
 

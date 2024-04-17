@@ -1,5 +1,5 @@
 # Labor Union (Civ2)
 
- Labor Union is an in "[Civilization%20II](Civilization II)".
+ Labor Union is an {{Link2|Advance}} in "[Civilization%20II](Civilization II)".
 Civilopedia entry.
 Labor unions arose in the 18th and 19th century in response to the poor working conditions brought on by an intense competition for jobs, and the increasing dependence of the working class on their employers created by the move toward industrialization. Early labor unions, formed by skilled laborers in specific fields, met with opposition from both employers and the government. In the 19th century, laws were passed legalizing trade unions, and by the 20th century unions were formed in semi- or unskilled fields such as mining, transportation, and dock working. Binding their interests together and bargaining collectively, trade unions forced factory and business owners to provide better working conditions and economic status for their workers.

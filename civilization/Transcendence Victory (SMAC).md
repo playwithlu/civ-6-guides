@@ -1,2 +1,2 @@
-# Transcendence Victory (SMAC)
+# Transcendence victory (SMAC)
 

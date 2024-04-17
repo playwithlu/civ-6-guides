@@ -1,2 +1,2 @@
-# Missile Units (Civ2)
+# Missile units (Civ2)
 

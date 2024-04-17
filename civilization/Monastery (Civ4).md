@@ -1,7 +1,7 @@
 # Monastery (Civ4)
 
 Strategy.
-The Monastery is a [Religion%20%28Civ4%29](religious) [List%20of%20buildings%20in%20Civ4](building) that allows its city to build [Missionary%20%28Civ4%29](Missionaries). A Monastery also gives bonus of +10% Science, and 2 Culture per turn to its city.
+The Monastery is a [Religion%20%28Civ4%29](religious) [List%20of%20buildings%20in%20Civ4](building) that allows its city to build [Missionary%20%28Civ4%29](Missionaries). A Monastery also gives bonus of +10% {{Science}} Science, and 2 {{Culture4}} Culture per turn to its city.
 Each religion has its own type of Monastery (dubbed Buddhist Monastery, Christian Monastery, and so on). A Monastery of a given religion can be built in a city only when the city has that religion. Other than the type of Missionary they allow, all seven types of Monasteries have the same properties. It is possible to build up to seven different Monasteries in a city if all the religions are present there.
 Monasteries become [obsolete](obsolete) when the civilization that owns their city has discovered [Scientific%20Method%20%28Civ4%29](Scientific Method). Obsolescence removes all benefits from a Monastery other than its culture production, and its function of allowing the city to build Missionaries.
 Civilopedia entry.

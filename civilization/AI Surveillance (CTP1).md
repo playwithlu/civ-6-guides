@@ -1,5 +1,10 @@
 # AI Surveillance (CTP1)
 
+ |age = Genetic
+ | requires=Robotics
+ | leadsto=Technocracy (advance), Nano-Assembly
+ | gives=Security Monitor
+ | obsoletes=
 AI Surveillance is an advance in "".
 Summary.
 The ninth Mechanical Advance, Al Surveillance, denotes a painful turn in the fate of Civilization. Grasping the tools of electronic surveillance and computerized data processing, governments can turn to the Security Monitor and Spy Plane.

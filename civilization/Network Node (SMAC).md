@@ -1,6 +1,5 @@
 # Network Node (SMAC)
 
- is a [base%20facility%20%28SMAC%29](base facility) in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)".
 Network Nodes are a base facility made available by the [Information%20Networks%20%28SMAC%29](Information Networks) technology. The [University%20of%20Planet%20%28SMAC%29](University) starts off with a free Network Node in each base.
 A Network Node increases LABS output by 50% at its base. Possession of the [The%20Virtual%20World%20%28SMAC%29](Virtual World) causes each Network Node in each of the faction's base to double as a [Hologram%20Theatre%20%28SMAC%29](Hologram Theatre) with no maintenance cost.
 Strategy.

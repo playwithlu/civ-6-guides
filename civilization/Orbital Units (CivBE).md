@@ -1,2 +1,2 @@
-# Orbital Units (CivBE)
+# Orbital units (CivBE)
 

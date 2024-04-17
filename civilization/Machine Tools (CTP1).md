@@ -1,5 +1,10 @@
 # Machine Tools (CTP1)
 
+ |age = Renaissance
+ | requires=Mechanical Clock
+ | leadsto=Industrial Revolution
+ | gives=Ship of the Line
+ | obsoletes=
 Machine Tools is an advance in "".
 Summary.
 Third in the Mechanical Discoveries Advances, Machine Tools allows for the creation of the Ship of the Line, a powerful warship.

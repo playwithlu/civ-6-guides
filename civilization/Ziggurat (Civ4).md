@@ -1,6 +1,6 @@
 # Ziggurat (Civ4)
 
-The Ziggurat is the [Sumerian%20%28Civ4%29](Sumerian) version of the [Courthouse%20%28Civ4%29](Courthouse). It costs 30 less on normal speed games and is also available earlier than the standard Courthouse.
+The Ziggurat is the [Sumerian%20%28Civ4%29](Sumerian) version of the [Courthouse%20%28Civ4%29](Courthouse). It costs 30 less {{Hammer4}} on normal speed games and is also available earlier than the standard Courthouse.
 Strategy.
 Early, cheap Courthouses support the [Vulture%20%28Civ4%29](Vulture's) conquests nicely. Researching [Bronze%20Working%20%28Civ4%29](Bronze Working) early to ensure you can find a supply of [Copper%20%28Civ4%29](Copper), followed by heading to [Priesthood%20%28Civ4%29](Priesthood) while building Vultures means you can get straight to building Ziggurats to lower the burden of these new cities. As [Gilgamesh%20%28Civ4%29](Gilgamesh) is a Creative leader, you could start building them as soon as you take a city.
 Alternatively, if you're using Unrestricted Leaders, an Organised leader can get this building up for a mere 45 hammers - only 5 more than a [Swordsman%20%28Civ4%29](Swordsman). This is particularly effective in low-production areas that may have a hard time getting up a [Courthouse%20%28Civ4%29](Courthouse).

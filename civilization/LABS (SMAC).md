@@ -1,2 +1,2 @@
-# LABS (SMAC)
+# Labs (SMAC)
 

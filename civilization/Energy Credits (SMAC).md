@@ -1,2 +1,2 @@
-# Energy Credits (SMAC)
+# Energy credits (SMAC)
 

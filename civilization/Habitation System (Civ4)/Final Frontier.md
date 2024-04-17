@@ -1,6 +1,5 @@
 # Habitation System (Civ4)/Final Frontier
 
- is a building in "[Final%20Frontier](Final Frontier)", a mod in "".
 Strategy.
 The Habitation System increases the Population limit of the planet it's built on, which is vital for long-term growth.
 Civilopedia entry.

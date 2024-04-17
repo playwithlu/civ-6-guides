@@ -1,2 +1,2 @@
-# Founding Father
+# Founding father
 

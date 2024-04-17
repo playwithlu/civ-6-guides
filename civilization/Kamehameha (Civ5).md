@@ -11,7 +11,7 @@ Voice Actor: Uncredited (known to be [David%20Siers](David Siers), a University 
 Personality and Behavior.
 Kamehameha will usually focus on winning a [Cultural%20victory%20%28Civ5%29](cultural victory). He may occasionally try for a [Diplomatic%20victory%20%28Civ5%29](diplomatic victory), but will almost never attempt a [Domination%20victory%20%28Civ5%29](domination victory).
 Kamehameha tends to have a small offensive army but a substantial defensive army. He also likes to raise a strong and dominant naval force.
-Kamehameha puts a high priority on developing and keeping his people happy.
+Kamehameha puts a high priority on developing {{Culture5}} and keeping his people happy.
 Kamehameha is very easy to make friends with, as he will often declare friendship and is particularly loyal. Conversely, if Kamehameha sees the player as a warmonger, he will turn hostile, and this can often lead to an outright denunciation from him.
 Kamehameha will usually try to befriend [City-state%20%28Civ5%29](city-states). He may sometimes bully them, but he is very unlikely to attack them.
 Intro.

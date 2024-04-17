@@ -1,9 +1,13 @@
 # Ocean Faring (CTP2)
 
- is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+ | age=Renaissance
+ | requires=Hull Making,Bureaucracy
+ | leadsto=Optics
+ | gives=Carrack,East India Company,Fishery
+ | obsoletes=
 Gameplay.
-Ocean Faring represents advancements in shipbuilding that made large- scale, open-ocean transport and trade possible. The is a ship ideally suited to cargo transport, exploration and combat. The represents a shipping cartel of tremendous commercial power.
-Ocean Faring also gives the , which increase the yield from fishing tiles.
+Ocean Faring represents advancements in shipbuilding that made large- scale, open-ocean transport and trade possible. The {{LinkCTP2|Carrack}} is a ship ideally suited to cargo transport, exploration and combat. The {{LinkCTP2|East India Company}} represents a shipping cartel of tremendous commercial power.
+Ocean Faring also gives the {{LinkCTP2|Tile Improvement}} {{LinkCTP2|Fisheries}}, which increase the {{LinkCTP2|Food}} yield from fishing tiles.
 Great Library entry.
 For centuries after the introduction of clinker-built, single-mast, square-rigged longship, European shipbuilding deviated little from this solid, seaworthy design. Ship design underwent a major change in about 1200 AD with the introduction of the stern rudder. Along with the deep-draft hull, the bowsprit and, eventually, additional masts, this change transformed longships into true sailing vessels, capable of beating into the wind as well as sailing with it.
 Until the 15th century, European ships most likely remained single-mast, although a two-mast ship carrying lateen sails could be found in the Mediterranean. Later clinker-built ships, most notable Henry V of England's Grâce Dieu, reflected the longship construction, but had a keel to beam ration of 2.5:1 and a second mast. The rest of the 15th century saw a dramatic increase in the size, length and weight of ships. The carrack was the culmination of these changes: they weighed from 700 to 1000 tons, carried three masts and an abundance of sails, employed a carvel-built hull and carried cannon and guns below decks. The carrack was also an ideal transport and cargo vessel. Its high sides made it easily defensible, it had considerable larger cargo holds than previous ships, and its three masts of sails gave it the force it needed to carry heavy loads on intercontinental voyages. The expansion of cargo capacity in the late 15th and early 16th centuries was a direct response to the explosion of trade within Europe and across the world. International trading conglomerates could now rely on larger, more sea-worthy ships to withstand the treacherous high seas and deliver their cargo.

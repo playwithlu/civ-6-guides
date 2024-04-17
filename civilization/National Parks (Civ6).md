@@ -1,2 +1,2 @@
-# National Parks (Civ6)
+# National parks (Civ6)
 

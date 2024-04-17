@@ -1,2 +1,5 @@
-# Zone of Control (Civ5)
+# Zone of control (Civ5)
 
+Zone of control (abbreviated ZOC or ZoC) is a game mechanic in "[Civilization%20V](Civilization V)" and its expansions that affects [Unit%20%28Civ5%29](unit) [Movement%20%28Civ5%29](movement). It restricts the movement (but not attacks) of any unit that is in a tile adjacent to an enemy unit.
+A unit can move directly from one enemy-adjacent tile to another enemy-adjacent tile, but it will lose all movement points, with some exceptions. This applies even if one of that [Civilizations%20%28Civ5%29](civilization's) units is on the tile being moved to. An exception to this is when a melee unit is attacking an enemy in that tile and has the "Can Move After Attacking" ability (most likely a mounted or armored unit). If such a unit attacks and kills the enemy unit, it will lose only the normal amount of movement points, ignoring ZOC. An exception to this exception is if the unit being attacked uses a "Withdraw Before Melee" ability, and there is no civilian unit in the attacked tile, which causes the attack to instead be treated as a movement into the tile.
+Movement into or out of one of your [City%20%28Civ5%29](cities) is another exception to ZOC rules.

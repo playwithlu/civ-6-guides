@@ -1,2 +1,2 @@
-# Noncombat Unit (CivRev)
+# Noncombat unit (CivRev)
 

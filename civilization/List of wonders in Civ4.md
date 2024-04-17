@@ -10,8 +10,8 @@ In addition to these, the [Religious%20Shrine%20%28Civ4%29](Religious Shrine)s c
 National Wonders.
 National Wonders can be built one per civilization.
 Shrines.
-All shrines require a plus their respective religion and have the following effects:
-Shrines are the ultimate building of their religion. They can be built alongside s, [Monastery](Monasteries) and s.
+All shrines require a {{Link4|Great Prophet}} plus their respective religion and have the following effects:
+Shrines are the ultimate building of their religion. They can be built alongside {{Link4|Cathedral}}s, [Monastery](Monasteries) and {{Link4|Temple}}s.
 Projects.
 Projects adhere to the same construction rules as Wonders except that they cannot be hurried. 
 All Projects are unlocked by modern-era technologies, with the exception of The Manhattan Project, which is unlocked by Fission, an industrial-era technology.

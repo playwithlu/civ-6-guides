@@ -5,12 +5,12 @@ In the absence of external bonuses or penalties to movement, a unit can move a n
 How terrain affects movement.
 A unit's current movement points are displayed in the status view. As the unit moves, this number decreases as movement points are used up.
 Certain terrain types impede normal movement (these penalties have no effect if moving across the square on a road or mag tube).
-Rocky and squares each cost two movement points to cross, while sea fungus squares drain three movement points (however, these squares can always be entered by any unit having at least one full movement point remaining).
-Trying to enter a land square (successfully or not) always ends your unit's movement, unless the unit is a mind worm boil, or your faction possesses Secret Project.
+Rocky and {{LinkSMAC|forest}} squares each cost two movement points to cross, while sea fungus squares drain three movement points (however, these squares can always be entered by any unit having at least one full movement point remaining).
+Trying to enter a land {{LinkSMAC|fungus}} square (successfully or not) always ends your unit's movement, unless the unit is a mind worm boil, or your faction possesses {{LinkSMAC|The Xenoempathy Dome}} Secret Project.
 Rivers are important in planning movement over undeveloped terrain, because of their ability to triple a unit's normal move.
 Terrain has no effect on the movement of air units.
 Drop pods.
-Drop Pods are a special ability component that allows units to make airdrops or orbital insertions. Discovery of allows construction of Drop Pods. Any unit with Drop Pods may make airdrops. Once you discover or build Secret Project, any unit with Drop Pods may make an orbital insertion.
+Drop Pods are a special ability component that allows units to make airdrops or orbital insertions. Discovery of {{LinkSMAC|Mind/Machine Interface}} allows construction of Drop Pods. Any unit with Drop Pods may make airdrops. Once you discover {{LinkSMAC|Graviton Theory}} or build {{LinkSMAC|The Space Elevator}} Secret Project, any unit with Drop Pods may make an orbital insertion.
 To perform an airdrop or orbital insertion, the Drop Pod unit must begin in a friendly base or airbase, and may not have moved already this turn. At the drop command, I, a parachute icon appears and you can L the destination square. The destination square may be up to 8 squares away and can not contain enemy units or bases. The Drop Pod unit moves instantly from the start square to the destination square. Units take damage from airdrops—20% damage, or 26% if the unit has a singularity reactor.
 If a unit tries to drop and then attack on the same turn, it receives a 50% penalty to attack strength.
 Orbital insertions are executed identically, but the drop can be made anywhere on Planet.

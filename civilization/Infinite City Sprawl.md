@@ -1,2 +1,2 @@
-# Infinite City Sprawl
+# Infinite city sprawl
 

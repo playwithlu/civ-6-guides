@@ -1,7 +1,5 @@
 # American Reclamation Corporation (CivBE)
 
-&lt;onlyinclude&gt;&lt;includeonly&gt;
-&lt;/includeonly&gt;
 The American Reclamation Corporation (or ARC) is a civilization in the world of . It is a megacorporation that assists the governments of the United States, Mexico, Canada, and Singapore in governing their national, environmental, and commercial interests.
 The ARC is the corporate/espionage faction. Espionage is a more integral system in "Civilization: Beyond Earth" than in past games, and no one is more adept at cloak and dagger than the ARC and [Suzanne%20Fielding%20%28CivBE%29](Suzanne Fielding).
 ARC Strategies.

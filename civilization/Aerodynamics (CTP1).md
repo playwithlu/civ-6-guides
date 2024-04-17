@@ -1,5 +1,10 @@
 # Aerodynamics (CTP1)
 
+ |age = Modern
+ | requires=Physics, Mass Production
+ | leadsto=Rocketry
+ | gives=Aircraft Carrier, Fighter, Airport, Air Base
+ | obsoletes=
 Aerodynamics is an advance in "".
 Summary.
 Aerodynamics marks a new branch in knowledge: the beginning of Flight. Besides offering the Air Base, Aerodynamics gives Civilizations the Fighter and the Aircraft Carrier, opening the air and sea as battlegrounds. Aerodynamics also gives the Airport - convenient for transporting soldiers and a source of steady revenue.

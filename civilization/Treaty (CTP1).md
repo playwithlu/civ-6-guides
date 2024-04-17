@@ -1,5 +1,5 @@
 # Treaty (CTP1)
 
-Treaties allow two Civilizations to agree to form an , , create a , or make an . The following acts of war breaks all treaties and s, which in turn breaks all diplomatic agreements: ing, [Pillage%20%28CTP1%29](Pillaging), ing, using a or against another Civilization. 
+Treaties allow two Civilizations to agree to form an {{LinkCTP1|alliance}}, {{LinkCTP1|attack enemy}}, create a {{LinkCTP1|peace treaty}}, or make an {{LinkCTP1|eco pact}}. The following acts of war breaks all treaties and {{LinkCTP1|alliance}}s, which in turn breaks all diplomatic agreements: {{LinkCTP1|Assault}}ing, [Pillage%20%28CTP1%29](Pillaging), {{LinkCTP1|Bombard}}ing, using a {{LinkCTP1|Nuke}} or {{LinkCTP1|Eco Ranger}} against another Civilization. 
 Great Library entry.
 Historically, treaties have served as contracts between nations regarding such matters as trade, immigration, the environment, or war. Although some of these treaties have been relatively simplistic documents, others have been extraordinarily detailed and far-reaching in their impact. The Treaty of Versailles, signed in June of 1919 ending World War I, specified more than just the end of the war, but also ordered Germany to surrender some of its lands, pay reparations, prohibited German air and naval forces, as well as limited Germany's army to 100,000 men.

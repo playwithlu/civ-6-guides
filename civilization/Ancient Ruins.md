@@ -1,2 +1,2 @@
-# Ancient Ruins
+# Ancient ruins
 

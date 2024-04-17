@@ -1,2 +1,2 @@
-# Trading Posts (Civ6)
+# Trading posts (Civ6)
 

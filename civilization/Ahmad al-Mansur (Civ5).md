@@ -11,7 +11,7 @@ Voice Actor: [Badher%20Belhachemi](Badher Belhachemi)
 Personality and Behavior.
 Ahmad al-Mansur tends to aim for a [Cultural%20victory%20%28Civ5%29](cultural victory).
 Ahmad is not very bold, but can often declare friendship with others. He is quite easy to befriend and is a trustworthy ally, given that he is also quite loyal.
-Ahmad focuses on developing and improving tiles in his [Territory%20%28Civ5%29](territory), as well as building a defensive militia consisting primarily of fast-moving mounted or armored [Unit%20%28Civ5%29](units).
+Ahmad focuses on developing {{Culture5}} and improving tiles in his [Territory%20%28Civ5%29](territory), as well as building a defensive militia consisting primarily of fast-moving mounted or armored [Unit%20%28Civ5%29](units).
 Ahmad is one of the leaders most likely to use [Espionage%20%28Civ5%29](espionage), and will often make use of air units in the later [Era%20%28Civ5%29](eras).
 Ahmad will frequently try to befriend and protect [City-state%20%28Civ5%29](city-states).
 Trivia.

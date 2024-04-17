@@ -1,2 +1,2 @@
-# Wonders of the World
+# Wonders of the world
 

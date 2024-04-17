@@ -1,2 +1,2 @@
-# Nano Attack (CTP1)
+# Nano attack (CTP1)
 

@@ -1,2 +1,2 @@
-# Naval Unit (Civ4)
+# Naval unit (Civ4)
 

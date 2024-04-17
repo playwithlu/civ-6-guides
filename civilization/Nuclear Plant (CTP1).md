@@ -1,5 +1,8 @@
 # Nuclear Plant (CTP1)
 
+ | requires=[Quantum%20Physics%20%28CTP1%29](Quantum Physics)
+ | production_cost=5500
+ | effect=+50% Production-50% Pollution
 Nuclear Plant is a [List%20of%20buildings%20%28CTP1%29](city improvement) in "Civilization: Call to Power".
 Effect.
 The Nuclear Plant provides a cheap boost of 50% in the city's production, but with some risk. The Nuclear Plant creates minimal amounts of radioactive waste, which require disposal and storage for up to thousands of years before the radioactivity dissipates. Also, three-eyed fish and phocomelia are not unknown to the citizens who live nearby. No correlation has been conclusively drawn between proximity to the plant and the defects, however, and overall pollution is greatly reduced.

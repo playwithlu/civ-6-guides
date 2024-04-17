@@ -1,2 +1,2 @@
-# Master Fur Traders
+# Master fur traders
 

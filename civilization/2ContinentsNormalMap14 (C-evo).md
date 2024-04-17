@@ -1,5 +1,4 @@
 # 2ContinentsNormalMap14 (C-evo)
 
-MIFUDD_2ContinentsNormalMap14 is one of the well designed [Map%20%28C-evo%29](maps) for the free game [C-evo](C-evo) by "mifudd". Smallish, at 56% size, it provides for 15 nation. The file name is a little misleading: all land is part of one continuous area, though there are some narrow necks joining substantial wide regions.
 As with other maps by that designer, the human start position has a few advantages, including irregular extra bonus tiles (mostly fish, iron, and diamonds) and a considerable area for expansion with minimal chance of early invasion. Roads indicate good sites for new cities but may not suit every player's style. An experienced player should have no trouble at "Hard" level.
 Make friends with everyone if possible, and try to expand westward so as to restrict those friends' expansion!

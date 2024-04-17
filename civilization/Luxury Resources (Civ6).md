@@ -1,2 +1,2 @@
-# Luxury Resources (Civ6)
+# Luxury resources (Civ6)
 

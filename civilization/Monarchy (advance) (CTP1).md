@@ -1,5 +1,10 @@
 # Monarchy (advance) (CTP1)
 
+ |age = Ancient
+ | requires=Religion
+ | leadsto=
+ | gives=Chichen Itza
+ | obsoletes=
 Monarchy is an advance in "".
 Summary.
 The Monarchy relies on its might and religion to band the people in a tight, hierarchical union. With this union, the Monarchy provides the greatest strength for a small empire at war. Under all other conditions, however, other governments surpass the Monarchy.

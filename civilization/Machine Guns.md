@@ -1,2 +1,2 @@
-# Machine Guns
+# Machine guns
 

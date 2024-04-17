@@ -1,3 +1,2 @@
 # Fruit (CivBE)
 
-Improved by: 

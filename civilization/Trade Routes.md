@@ -1,2 +1,2 @@
-# Trade Routes
+# Trade routes
 

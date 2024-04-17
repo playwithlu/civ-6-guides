@@ -1,3 +1,3 @@
 # Andrew Carnegie
 
-Andrew Carnegie is a [Great%20People](Great Person) in the "[Civilization%20%28series%29](Civilization)" games.
+Andrew Carnegie appears as a [Great%20Merchant%20%28Civ5%29](Great Merchant).

@@ -1,3 +1,4 @@
 # Frankish
 
-The Frankish people, also known as the Franks, represent Francia, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games. Their [capital](capital) might be [Aix-la-Chapelle](Aix-la-Chapelle), [Dispargum](Dispargum), or [Paris](Paris), and they can be led by [Charlemagne](Charlemagne), [Chlodio](Chlodio), [Clovis%20I](Clovis I), or [Joan%20of%20Arc](Joan of Arc). To date, they have appeared only in [scenario](scenario)s.
+The {{PAGENAME}} people, also known as the Franks, represent Francia, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games. Their [capital](capital) might be [Aix-la-Chapelle](Aix-la-Chapelle), [Dispargum](Dispargum), or [Paris](Paris), and they can be led by [Charlemagne](Charlemagne), [Chlodio](Chlodio), [Clovis%20I](Clovis I), or [Joan%20of%20Arc](Joan of Arc). To date, they have appeared only in [scenario](scenario)s.
+The Franks appear in the [Fall%20of%20Rome%20%28Civ3%29](Fall of Rome) and [The%20Middle%20Ages%20%28Civ3%29](The Middle Ages) [List%20of%20scenarios%20in%20Civ3](scenarios).

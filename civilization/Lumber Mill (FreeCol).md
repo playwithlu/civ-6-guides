@@ -1,2 +1,2 @@
-# Lumber Mill (FreeCol)
+# Lumber mill (Freecol)
 

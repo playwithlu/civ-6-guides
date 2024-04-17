@@ -1,2 +1,2 @@
-# Information Technology (CivRev2)
+# Information technology (CivRev2)
 

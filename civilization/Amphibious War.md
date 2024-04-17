@@ -1,2 +1,2 @@
-# Amphibious War
+# Amphibious war
 

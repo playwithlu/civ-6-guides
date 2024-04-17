@@ -1,5 +1,8 @@
 # Bank (CTP1)
 
+ | requires=[Banking%20%28CTP1%29](Banking)
+ | production_cost=1125
+ | effect=+50% GoldAllows Merchants
 Bank is a [List%20of%20buildings%20%28CTP1%29](city improvement) in "Civilization: Call to Power".
 Effect.
 The Bank increases a city's gold by 50%, providing a money-changing house as well as a vault for valuables.

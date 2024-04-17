@@ -1,2 +1,2 @@
-# Barbarian Camp (Civ5)
+# Barbarian camp (Civ5)
 

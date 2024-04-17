@@ -1,3 +1,2 @@
-# National Wonder
+# National wonder
 
-A National Wonder (sometimes called a Small Wonder or State Improvement) is a type of [List%20of%20wonders](wonder) in the "[Civilization%20%28series%29](Civilization)" games. It differs from a [Great%20Wonder](Great Wonder) in that it is unique to each [Civilizations](civilization), not to the game world (i.e., no civilization may own more than one of any particular National Wonder).

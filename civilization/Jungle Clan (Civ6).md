@@ -1,7 +1,2 @@
-# Jungle Clan (Civ6)
+# Jungle clan (Civ6)
 
-The Jungle Clan is a type of [Barbarian%20%28Civ6%29](Barbarian) Clan in "[Civilization%20VI](Civilization VI)". It appears only in the [Barbarian%20Clans%20%28Civ6%29](Barbarian Clans) [Game%20mode%20%28Civ6%29](game mode).
-Profile.
-Jungle clans require a nearby [Resource%20%28Civ6%29](resource) and prefer to place their [Barbarian%20%28Civ6%29%23Outposts](Outposts) inside [Rainforest%20%28Civ6%29](jungles). They prefer a mixture of [List%20of%20units%20in%20Civ6/By%20class%23Light%20cavalry](light) and [List%20of%20units%20in%20Civ6/By%20class%23Heavy%20cavalry](heavy cavalry units) supported by foot and [List%20of%20units%20in%20Civ6/By%20class%23Ranged](ranged units).
-Clan names.
-There are 6 possible clan names for this barbarian clan type:

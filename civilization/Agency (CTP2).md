@@ -1,8 +1,12 @@
 # Agency (CTP2)
 
+ | reqtech=Global Defense
+ | cost=8600
+ | effect=Gives every city in the host empire the protection of a {{LinkCTP2|Spy}}.
+ | obsolete=
 The Agency (referred to in-game as "The Agency") is a [Wonder%20%28CTP2%29](Wonder) in "[Call%20to%20Power%20II](Call to Power II)". This wonder is a building that gives protection from [Spy%20%28CTP2%29](spies) and also makes building spies for the host nation cheaper. This wonder is not specific to any civilization and thus any civilization can build it. It can represent CIA or Scotland Yard in London or it can represent the KGB in Moscow or any other agency that deals in spying.
 Gameplay.
-The Agency is a highly secretive intelligence operation that gives each city in the host empire the protection of a . Each of the host empire's cities has a 50% chance of catching foreign [Spy%20%28CTP2%29](Spies) and s in the act of espionage.
+The Agency is a highly secretive intelligence operation that gives each city in the host empire the protection of a {{LinkCTP2|Spy}}. Each of the host empire's cities has a 50% chance of catching foreign [Spy%20%28CTP2%29](Spies) and {{LinkCTP2|Cyber Ninja}}s in the act of espionage.
 Great Library entry.
 Formally created in 1947, the Central Intelligence Agency grew out of the World War II Office of Strategic Services (OSS). In the U.S., the army, navy and Federal Bureau of Investigation previous handled intelligence and counterintelligence efforts. Competition, lack of coordination and a duplication of efforts complicated matters and garnered the U.S. criticism from its allies for not having a central intelligence organization. In June 1942, President Franklin D. Roosevelt created the OSS to rein in the disparate strands of intelligence gathering under a single aegis. 
 During the Second World War, the OSS collected and analyzed any foreign intelligence related to areas where U.S. military forces operated. At its height, the OSS numbered nearly 12,000 members. It gathered evidence from secret agents, it carried out disinformation and counterpropaganda actions and it coordinated special operations behind enemy lines supplying and directing resistance fighters, perpetrating sabotage and demolition. It was dismantled in October 1945, and, in its place, President Harry S. Truman established, by executive order, the Central Intelligence Group and a National Intelligence Authority in 1946. These groups gathered key players from the hastily convened OSS and attempted to direct postwar intelligence operations with some semblance of central control.

@@ -1,2 +1,2 @@
-# Heal Instantly (Civ5)
+# Heal instantly (Civ5)
 

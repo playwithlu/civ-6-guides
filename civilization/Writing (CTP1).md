@@ -1,5 +1,10 @@
 # Writing (CTP1)
 
+ |age = Ancient
+ | requires=Agriculture
+ | leadsto=Jurisprudence,Geometry,Trade
+ | gives=
+ | obsoletes=
 Writing is an advance in "".
 Summary.
 Writing truly begins the journey of the Cultural Advances. With Writing, man records his actions for the first time, opening a window to the past and to posterity.

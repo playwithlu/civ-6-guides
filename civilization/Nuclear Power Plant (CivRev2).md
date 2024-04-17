@@ -1,2 +1,2 @@
-# Nuclear Power Plant (CivRev2)
+# Nuclear power plant (CivRev2)
 

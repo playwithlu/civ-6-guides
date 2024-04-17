@@ -9,7 +9,7 @@ Gustavus Adolphus speaks with a slight Gothenburgian dialect. On his diplomacy s
 Voice Actor: [Emil%20Winkler](Emil Winkler)
 Personality and Behavior.
 Gustavus Adolphus tends to try for a [Diplomatic%20victory%20%28Civ5%29](diplomatic victory).
-Gustavus will try to produce as many [Great%20People%20%28Civ5%29](Great People) as possible, and also focuses on developing .
+Gustavus will try to produce as many [Great%20People%20%28Civ5%29](Great People) as possible, and also focuses on developing {{Science5}}.
 Gustavus is not especially bold and not at all likely to backstab, but he can often initiate wars against other [Civilizations%20%28Civ5%29](civilizations).
 Gustavus tends to develop a rather large army consisting primarily of mounted [Unit%20%28Civ5%29](units), which he will later replace with armored units. Additionally, his heavy emphasis on military training means the Swedish military units will be among the best trained.
 Gustavus will try to befriend and protect [City-state%20%28Civ5%29](city-states). Trying to demand tribute from or make friends with his city-state allies will easily provoke him, so consider carefully before doing so.

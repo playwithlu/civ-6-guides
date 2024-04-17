@@ -1,3 +1,2 @@
-# Fur Trader
+# Fur trader
 
-Fur Trader may refer to:

@@ -1,2 +1,2 @@
-# Naval Units
+# Naval units
 

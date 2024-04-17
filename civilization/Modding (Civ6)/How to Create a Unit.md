@@ -18,5 +18,5 @@ But since the "Peon" unit has no requirements, it can be built right away as wel
 Making Changes.
 The stats for the unit are defined in the My_First_Mod_Gameplay.xml file. The most basic stats are as follows.
 As stated in a comment in the file, more advanced stats can be found by looking at the existing units in steamapps\common\Sid Meier's Civilization VI\Base\Assets\Gameplay\Data\Units.xml.
-For example, the Combat Strength stat is Combat. Please note that the Peon is currently a [Civilian_unit](Civilian Unit) so change the FormationClass to FORMATION_CLASS_LAND_COMBAT before adding a combat stat.
+For example, the {{Strength6}} Combat Strength stat is Combat. Please note that the Peon is currently a [Civilian_unit](Civilian Unit) so change the FormationClass to FORMATION_CLASS_LAND_COMBAT before adding a combat stat.
 To add a prerequisite [Technology_%28Civ6%29](Technology) to the unit, use PrereqTech with a value such as TECH_BRONZE_WORKING.

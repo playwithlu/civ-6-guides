@@ -1,4 +1,3 @@
 # Tripoli
 
-Tripoli, also known by its historical names of Trablusgarp or Oea, is the [Arabian](Arabian) [capital](capital) in the [Civilization%20Revolution%20games]("Civilization Revolution" games) and an Arabian, [Carthaginian](Carthaginian), [Ottoman](Ottoman), [Persian](Persian), and [Phoenician](Phoenician) [city](city) in other "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and "[C-evo](C-evo)". In real life, it is the capital of and largest city in present-day [Libyan](Libya).
 In [scenario](scenario)s, it may appear as the [Fatimid](Fatimid) capital in [Middle%20Ages](Middle Ages).

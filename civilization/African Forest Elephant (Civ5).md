@@ -1,7 +1,2 @@
-# African Forest Elephant (Civ5)
+# African forest elephant (Civ5)
 
-Game Info.
-[Unique%20unit%20%28Civ5%29](Unique) mounted unit of the [Carthaginian%20%28Civ5%29](Carthaginian) [Civilizations%20%28Civ5%29](civilization). Replaces the [Horseman%20%28Civ5%29](Horseman).
-Strategy.
-The African Forest Elephant is the Carthaginians' unique cavalry. It is a little slower than standard mounted units (having 3 MP instead of 4), but its Feared Elephant ability - which diminishes the combat strength of all enemy units around the elephant - makes it much more powerful. This means that unlike other cavalry, which tend to hang back from the main battle line, African Forest Elephants are most effective right in the middle of a melee, where their special ability can affect the most enemy units. Besides, their diminished mobility makes them less effective at the typical hit-and-run attacks of standard cavalry. Of course, it is important to keep the elephants away from [Spearman%20%28Civ5%29](Spearmen), and remember that they are more costly to produce than the unit they replace.
-It's also worth noting that African Forest Elephants help produce [Great%20General%20%28Civ5%29](Great Generals) faster. Unlike the Feared Elephant ability, which is lost at upgrade, the Great Generals ability is transferred, meaning that the cavalry produced from the very beginning will boost Great Generals generation for the rest of the game!

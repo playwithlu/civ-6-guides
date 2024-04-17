@@ -1,2 +1,2 @@
-# Luxury Resource
+# Luxury resource
 

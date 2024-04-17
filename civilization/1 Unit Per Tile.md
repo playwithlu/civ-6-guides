@@ -1,2 +1,2 @@
-# 1 Unit Per Tile
+# 1 unit per tile
 

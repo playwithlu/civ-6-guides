@@ -1,2 +1,2 @@
-# Tribal Village
+# Tribal village
 

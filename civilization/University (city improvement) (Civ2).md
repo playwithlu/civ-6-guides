@@ -1,6 +1,6 @@
 # University (city improvement) (Civ2)
 
-The University is a scientific in "[Civilization%20II](Civilization II)", available with the . It increases base output by 50%, cumulative with other scientific improvements.
-The University requires the to build, and enables construction of the .
+The {{Icon2|University (city improvement)}} University is a scientific {{Link|2|city}} {{Link|2|City improvement|improvement}} in "[Civilization%20II](Civilization II)", available with the {{Link|2|University (advance)|University}} {{Link|2|advance}}. It increases base {{nowrap|{{science2}} {{Link|2|Science}}}} output by 50%, cumulative with other scientific improvements.
+The University requires the {{Link|2|Library}} to build, and enables construction of the {{Link|2|Research Lab}}.
 Civilopedia entry.
 Universities are institutions of higher learning. Early universities, established in the Middle Ages, were usually built in cities that had a large or important cathedral. Studies at these institutions focused on matters concerning the church. The curricula quickly expanded to include classical art, literature, and languages. Modern universities provide the opportunity to study a wide array of subjects. They have also become centers for research into many fields, serving as the source of major advances in computers, medicine, physics, and a variety of other subjects.

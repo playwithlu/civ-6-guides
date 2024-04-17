@@ -1,6 +1,5 @@
 # Listening Post (CTP1)
 
- is a [List%20of%20improvements%20%28CTP1%29](tile improvement) in "Civilization: Call to Power".
 Gameplay.
 Listening posts are structures which one can build outside a city to increase the Civilization's range of vision and protect its borders. They use technology and reconnaissance to detect units over great distances. Each listening post has a vision range of eight. This installation costs 1,000 PW with a four turn build time.
 Great Library entry.

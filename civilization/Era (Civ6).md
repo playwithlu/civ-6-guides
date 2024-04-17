@@ -11,7 +11,7 @@ There are several important gameplay effects related to eras.
 List of eras.
 There are eight eras in "Civilization VI", similar to ', with a ninth added in '. Also listed are their approximate starting time periods at each respective era. (Variations are dependent on player progress in each era.)
 Starting units and statistics.
-When [Starting%20a%20new%20game%20%28Civ6%29](starting a game) in the Ancient Era, you begin with a [Settler%20%28Civ6%29](Settler) and a [Warrior%20%28Civ6%29](Warrior) (or its replacement), and no technologies or civics discovered. Your (the first [City%20%28Civ6%29](city) you settle) has a Population of 1.
+When [Starting%20a%20new%20game%20%28Civ6%29](starting a game) in the Ancient Era, you begin with a [Settler%20%28Civ6%29](Settler) and a [Warrior%20%28Civ6%29](Warrior) (or its replacement), and no technologies or civics discovered. Your {{Capital6}} (the first [City%20%28Civ6%29](city) you settle) has a {{Citizen6}} Population of 1.
 When starting a game in the [Classical%20Era%20%28Civ6%29](Classical Era) or later, you will have:
 List of starting units and statistics by era.
 [AI](AI) players receive additional bonuses on higher [Difficulty%20level%20%28Civ6%29](difficulty levels). See the page to learn more.

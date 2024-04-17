@@ -1,3 +1,2 @@
 # Moscow
 
-Moscow, also known as Moskva, is the [Russian](Russian) [capital](capital) in most of the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games and elsewhere and a Russian [city](city) in others. In real life, it is the capital of and largest city in present-day Russia and home to the [Bolshoi%20Theatre](Bolshoi Theatre), the [Kremlin](Kremlin), and [St.%20Basil%27s%20Cathedral](St. Basil's Cathedral).

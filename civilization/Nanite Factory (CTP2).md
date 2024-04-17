@@ -1,6 +1,8 @@
 # Nanite Factory (CTP2)
 
- is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+ | requires=Nano-Assembly
+ | production_cost=8000
+ | upkeep=18
 Gameplay.
 Nanite Factories drastically speed up the manufacturing process. By employing the latest breakthroughs in nano-assembly, the Nanite Factory can construct almost anything, from anything.
 Great Library entry.

@@ -1,5 +1,5 @@
 # Machine Tools (Civ2)
 
- Machine Tools is an in "[Civilization%20II](Civilization II)".
+ Machine Tools is an {{Link2|Advance}} in "[Civilization%20II](Civilization II)".
 Civilopedia entry.
 One of the most important steps in the move toward industrialization was the ability to precisely shape or "machine" solid metal into a desired form. Through mechanical, chemical, and other means, machine tools mold and shape raw materials into precision parts for complex machinery. The first machine tool, a horizontal boring device, was produced in the late 1700's. The development of measuring devices accurate within a millionth of an inch allowed for the mass production of items with interchangeable parts. The technology of the 20th century has produced computer-controlled machine tolls that can be adapted to a wide variety of applications. The speed and accuracy of these machines allowes for the economical mass production of extremely complex products.

@@ -1,4 +1,3 @@
 # Mountain
 
-Mountains (or peaks) are a type of [terrain](terrain) in the "[Civilization%20%28series%29](Civilization)", "[Call%20to%20Power%20games](Call to Power)", and "[Colonization%20%28game%29](Colonization)" games. They are the highest terrain in the world and very distinctive.
 In most "Civilization" games, building a [city](city) on a mountain would be foolish because it would seldom have enough [food](food) to grow, though its defensive strength would be good. In "Colonization" games, a [colony](colony) cannot be built on a mountain. However, many mountain [tile](tile)s contain valuable [resource](resource)s exploitable by miners.

@@ -1,6 +1,6 @@
 # Bank (Civ1)
 
-A Bank is one of the few buildings that has a prerequisite building requirement: a Marketplace.
+}}A Bank is one of the few buildings that has a prerequisite building requirement: a Marketplace.
 Civilopedia entry.
 A highly developed banking system is one of the hallmarks of an advanced
 civilization. BANKS lend money to individuals or groups of individuals,

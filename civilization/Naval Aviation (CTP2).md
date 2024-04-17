@@ -1,8 +1,13 @@
 # Naval Aviation (CTP2)
 
+ | age=Modern
+ | requires=Naval Tactics,Aerodynamics
+ | leadsto=Advanced Infantry Tactics,Radar
+ | gives=Aircraft Carrier
+ | obsoletes=
 Naval Aviation is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
 Gameplay.
-Air support has long been both a blessing and a curse to naval sorties. Though ships that are accompanied by aircraft often have a strategic advantage over less equipped flotillas, the aircraft's limited range hinders their ability to support ships on deep-sea missions. The enables aircraft to keep close to ships, providing immediate air support from planes that are not chained to the coastline by refueling needs.
+Air support has long been both a blessing and a curse to naval sorties. Though ships that are accompanied by aircraft often have a strategic advantage over less equipped flotillas, the aircraft's limited range hinders their ability to support ships on deep-sea missions. The {{LinkCTP2|Aircraft Carrier}} enables aircraft to keep close to ships, providing immediate air support from planes that are not chained to the coastline by refueling needs.
 Great Library entry.
 In the first decades of the 20th century, naval combat was overwhelming dominated by the battleship and battle cruiser. All-metal ships of devastating power and range, battleships could bombard land targets from miles away. During and after World War I, British, U.S. and Japanese navies experimented with attaching flat platforms to existing ships to provide a mobile takeoff and landing strip for planes. By the late 1920's, the first aircraft carriers entered naval service and, in World War II, they swiftly and dramatically usurped the battleship's throne and revolutionized naval warfare for decades.
 Carrier-based aircraft continued to evolve and see conflict throughout the latter half of the 20th century. Eventually, many of the world powers decommissioned and retired their battleships from service while augmenting their navies with aircraft carriers. The U.S. fleet of Nimitz-class carriers became the ironfisted enforcer of American foreign policy well into the 21st century.

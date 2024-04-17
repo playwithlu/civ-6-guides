@@ -1,5 +1,10 @@
 # Nano-Assembly (CTP1)
 
+ |age = Genetic
+ | requires=AI Surveillance, Neural Interface
+ | leadsto=Eden Project (advance),Gaia Theory
+ | gives=Nanite Factory, The Primer, Nanite Defuser
+ | obsoletes=
 Nano-Assembly is an advance in "".
 Summary.
 The final of the Mechanical Advances, Nano-Assembly exceeds old limitations, synthesizing new materials atom by atom. In special Nanite Factories built only in space, assembly costs plummet: Rush Buy costs equal costs of production. With the Nanopedia, which doubles the effects of all specialists and the Nanite Defuser, which ends the threat of nuclear war by eliminating Nukes, Nano-Assembly offers a new hope for the future.

@@ -1,2 +1,2 @@
-# Natural Wonders (Civ5)
+# Natural wonders (Civ5)
 

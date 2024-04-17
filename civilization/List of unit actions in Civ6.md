@@ -24,5 +24,3 @@ Hidden actions.
 These actions are not visible in the UI, but they are being used by the game engine.
 Unused actions.
 These actions are unused in the current game version, but they exist in the game data files.
-Easter-egg actions.
- introduced one easter-egg action:

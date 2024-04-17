@@ -1,7 +1,7 @@
 # Lysefjord (Civ6)
 
-Lysefjord is a three-tile impassable available in "[Civilization%20VI](Civilization VI)" with the . Lysefjord may be found on and tiles. Each Wonder tile provides +1 and 2 to adjacent tiles.
-Whenever a naval combat [Unit%20%28Civ6%29](unit) moves adjacent to Lysefjord for the first time, it is granted a free level.
+Lysefjord is a three-tile impassable {{Link6|Natural Wonder}} available in "[Civilization%20VI](Civilization VI)" with the {{Link6|Vikings Scenario Pack}}. Lysefjord may be found on {{Link6|Plains}} and {{Link6|Tundra}} tiles. Each Wonder tile provides +1 {{Production6}} and 2 {{Link6|Appeal}} to adjacent tiles.
+Whenever a naval combat [Unit%20%28Civ6%29](unit) moves adjacent to Lysefjord for the first time, it is granted a free {{Promotion6}} level.
 In "", discovering Lysefjord grants +1 [Historic%20Moment%20%28Civ6%29](Era Score), or +3 Score if the player is the first to do so.
 Strategy.
 Lysefjord can be really helpful (if not crucial) for militaristic maritime [Civilizations%20%28Civ6%29](civilizations). If you manage to build a [Harbor%20%28Civ6%29](Harbor) next to Lysefjord, any of your naval units trained or purchased in the city will come with a free promotion!

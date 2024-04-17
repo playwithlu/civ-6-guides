@@ -1,5 +1,5 @@
 # Mass Production (Civ2)
 
- Mass Production is an in "[Civilization%20II](Civilization II)".
+ Mass Production is an {{Link2|Advance}} in "[Civilization%20II](Civilization II)".
 Civilopedia entry.
 The idea of mass production began to take shape along with the factory system. The automation of production greatly increased productivity with a corresponding decrease in price for manufactured goods. In 1913, automobile manufacturer Henry Ford introduced the idea of assembly lines in his automobile plants. Products being built were conveyed from one work station to another along the line. At each station, a worker expertly repeated a discreet segment of the assembly process. The product then moved to the next station, and so on until the finished product rolled off the end of the line. This innovative combination of specialization of labor and the use of automation revolutionized production of complex goods. Word of Ford's assembly line technique spread quickly, and this production method soon came to be used in most of the industrialized nations of the world.

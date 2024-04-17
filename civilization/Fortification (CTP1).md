@@ -1,6 +1,5 @@
 # Fortification (CTP1)
 
- is a [List%20of%20improvements%20%28CTP1%29](tile improvement) in "".
 Gameplay.
 Fortifications provide a defense bonus of 150% to units defending that tile. Fortifications cost 1000 PW and take four turns to build.
 Great Library entry.

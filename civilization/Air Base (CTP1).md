@@ -1,7 +1,2 @@
-# Air Base (CTP1)
+# Air base (CTP1)
 
- is a [List%20of%20improvements%20%28CTP1%29](tile improvement) in "Civilization: Call to Power".
-Gameplay.
-Air bases are s that can be built outside cities. They are indispensable structures necessary for those who have planes. All planes can only move a limited number of tiles before running out of fuel. When they run out of fuel, if they do not come to rest in an air base or a city, the plane will be destroyed. s can from air bases. Air bases have a vision range of two and a radar range of 3. The air base costs 1000 PW and takes four turns to build. Fortifications provide a defense bonus of 150% to units defending that tile. Fortifications cost 1000 PW and take four turns to build.
-Great Library entry.
-Air bases refueled, rearmed, and repaired military air units. The first combat planes had limited striking range, thus their effectiveness relied on air bases near the front lines. In WWI, military engineers continually constructed air bases as the front moved further from previous air bases. Air bases again played a crucial role in WWII as the Americans advanced toward Japan. Aircraft carriers could not transport large bombers, so Americans constructed crude air bases on captured islands in order to increase the effectiveness of its bombing campaign. After WWII, mid-air refueling stretched the striking distance of bombers, though they still relied on air bases to rearm and repair between sorties.

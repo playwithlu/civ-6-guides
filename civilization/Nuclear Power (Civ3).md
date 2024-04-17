@@ -1,2 +1,2 @@
-# Nuclear Power (Civ3)
+# Nuclear power (Civ3)
 

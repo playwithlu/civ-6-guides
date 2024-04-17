@@ -1,3 +1,3 @@
 # Hall of Fame
 
-The Hall of Fame is a listing of the best games since you last retired or completed a game. It is a separate file, which can be copied to a separate folder with the saves for any particular game, so that you can start a new Hall or at least continue modifying one while preserving an earlier listing. You can fill a whole Hall during one game by retiring (which chalks up a result if it qualifies) then resuming from your last save.
+The {{PAGENAME}} is a listing of the best games since you last retired or completed a game. It is a separate file, which can be copied to a separate folder with the saves for any particular game, so that you can start a new Hall or at least continue modifying one while preserving an earlier listing. You can fill a whole Hall during one game by retiring (which chalks up a result if it qualifies) then resuming from your last save.

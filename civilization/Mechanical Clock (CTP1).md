@@ -1,5 +1,10 @@
 # Mechanical Clock (CTP1)
 
+ |age = Renaissance
+ | requires=Agricultural Revolution, Ocean-Faring
+ | leadsto=Machine Tools,Optics,Age of Reason
+ | gives=City Clock
+ | obsoletes=
 Mechanical Clock is an advance in "".
 Summary.
 Second in the Mechanical Discoveries Advances, the Mechanical Clock illustrates the fusion of imagination and technology required to break through into the Industrial Revolution. Besides inspiring the Scientific Revolution, on a more mundane level, the Mechanical Clock also brings the hour and minute into everyday life with the City Clock. City Clocks allow employers to measure the productivity of their workers, increasing gold in the city.

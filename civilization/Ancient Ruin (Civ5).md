@@ -1,2 +1,2 @@
-# Ancient Ruin (Civ5)
+# Ancient ruin (Civ5)
 

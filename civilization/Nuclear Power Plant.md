@@ -1,2 +1,2 @@
-# Nuclear Power Plant
+# Nuclear power plant
 

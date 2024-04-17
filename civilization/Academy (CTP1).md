@@ -1,5 +1,8 @@
 # Academy (CTP1)
 
+ | requires=[Philosophy%20%28CTP1%29](Philosophy)
+ | production_cost=540
+ | effect=+50% Science+1/2 Science per citizen
 Academy is a [List%20of%20buildings%20%28CTP1%29](city improvement) in "Civilization: Call to Power".
 Effect.
 The Academy offers finer education, which increases science by 50% in the city. Also, +1/2 science per citizen in the city.

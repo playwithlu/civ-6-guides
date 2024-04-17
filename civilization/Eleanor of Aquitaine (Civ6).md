@@ -2,10 +2,8 @@
 
 Eleanor of Aquitaine (c. 1122 – 1 April 1204) was , of both France and England, and of the latter twice, and is widely considered to have been one of the wealthiest and most powerful women in . She leads both the [English%20%28Civ6%29](English) and the [French%20%28Civ6%29](French) in "".
 Eleanor earns the loyalty of the world through her patronage of the arts.
-Intro.
- Duchess of Aquitaine, regent of two lands, patron of troubadours and judge of the court of love, ascend your throne again. Inspire the hearts of your subjects, that they will cheer you and flock to your banners, for all who know your reign know your compassion.
 In-Game.
-Eleanor of Aquitaine's unique [Agenda%20%28Civ6%29](agenda) is Angevin Empire. She focuses on building up the Population of her [City%20%28Civ6%29](cities) and dislikes leaders whose nearby cities have a low Population.
+Eleanor of Aquitaine's unique [Agenda%20%28Civ6%29](agenda) is Angevin Empire. She focuses on building up the {{Citizen6}} Population of her [City%20%28Civ6%29](cities) and dislikes leaders whose nearby cities have a low {{Citizen6}} Population.
 Her [Unique%20ability%20%28Civ6%29](leader ability) is Court of Love. [Great%20Work%20%28Civ6%29](Great Works) in her cities impose a cumulative penalty of -1 [Loyalty%20%28Civ6%29](Loyalty) per turn on foreign cities within 9 [Tile%20%28Civ6%29](tiles), and a foreign city whose Loyalty falls to 0 immediately joins Eleanor's civilization if she is exerting the most Loyalty pressure on it.
 Detailed Approach.
 Eleanor of Aquitaine is unique in that she can rule either the French or English [Civilizations%20%28Civ6%29](civilization). Great Works in her cities reduce Loyalty for other cities outside her civilization. If a city leaves another civilization due to a lack of Loyalty, and Eleanor's civilization is generating the most loyalty there, the city automatically joins her without becoming a Free City first. She expands her influence at the cost of nearby civilizations, regardless of whether playing as France or England, through the power of the arts.

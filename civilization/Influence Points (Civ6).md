@@ -1,2 +1,2 @@
-# Influence Points (Civ6)
+# Influence points (Civ6)
 

@@ -1,7 +1,7 @@
 # Naval Tradition (Civ5)
 
-Naval Tradition is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the tree. In "[Brave%20New%20World](Brave New World)" it got moved to the [Exploration%20%28Civ5%29](Exploration) tree.
+Naval Tradition is a [Social%20policies%20%28Civ5%29](social policy) in "[Civilization%20V](Civilization V)". It is part of the {{Link5|Commerce}} tree. In "[Brave%20New%20World](Brave New World)" it got moved to the [Exploration%20%28Civ5%29](Exploration) tree.
 A society can develop different kinds of traditions, including a tradition related to seafaring. Thus the figure of the old sailor, with pipe in mouth, long white beard and tally cap, telling stories in the corner of the local pub, becomes a mythical figure which agitates the fantasy of young people, making them see adventures in far-off lands, contacts with exotic people and cultures...and, of course, riches to be earned. Thus, each maritime building in a city evokes these naval traditions and increases happiness in the city. 
 Strategy.
-This Policy is particularly useful if you have problems. It potentially adds +3 per [Coastal%20%28Civ5%29](coastal) [City%20%28Civ5%29](city) (after you build all three maritime buildings) - not a small benefit. Of course, the more coastal cities you have, the greater the benefit of this Policy.
+This Policy is particularly useful if you have {{Happiness5}} problems. It potentially adds +3 {{Happiness5}} per [Coastal%20%28Civ5%29](coastal) [City%20%28Civ5%29](city) (after you build all three maritime buildings) - not a small benefit. Of course, the more coastal cities you have, the greater the benefit of this Policy.
 You should consider which of the two level 1 Policies in the tree to adopt first: this one or [Maritime%20Infrastructure%20%28Civ5%29](Maritime Infrastructure). They both have great bonuses, but the other one's bonus is maybe a bit more practical.

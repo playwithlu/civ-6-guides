@@ -1,6 +1,5 @@
 # Training Compound (Civ4)/Final Frontier
 
- is a building in "[Final%20Frontier](Final Frontier)", a mod in "".
 Strategy.
 Training Compounds provide all military units constructed in this Star System with additional Prestige.
 Civilopedia entry.

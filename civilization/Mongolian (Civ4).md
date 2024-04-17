@@ -1,6 +1,6 @@
 # Mongolian (Civ4)
 
-The Mongolian people (or Mongols) represent a [Civilizations%20%28Civ4%29](civilization) in "[Civilization%20IV](Civilization IV)". They are led by and .
+The Mongolian people (or Mongols) represent a [Civilizations%20%28Civ4%29](civilization) in "[Civilization%20IV](Civilization IV)". They are led by {{Link4|Genghis Khan}} and {{Link4|Kublai Khan}}.
 Strategy.
 The Mongolians are well known for their [Keshik%20%28Civ4%29](Keshiks), a replacement for the [Horse%20Archer%20%28Civ4%29](Horse Archer) which has high mobility and damage when stacked and used to attack [City%20%28Civ4%29](cities) in the early game once you get [Horseback%20Riding%20%28Civ4%29](Horseback Riding). The [Ger%20%28Civ4%29](Ger), the Mongolian [List%20of%20buildings%20in%20Civ4%23Unique%20buildings](unique building), gives even more power to the Keshik. An [Aggressive%20%28Civ4%29](Aggressive) [Leaders%20%28Civ4%29](leader) personality (such as that of [Genghis%20Khan%20%28Civ4%29](Genghis Khan)) provides potential for a [Victory%20%28Civ4%29%23Domination](domination victory).
 Unit Dialogue.

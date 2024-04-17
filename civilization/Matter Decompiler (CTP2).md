@@ -1,6 +1,9 @@
 # Matter Decompiler (CTP2)
 
- is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+ | requires=Ecotopia (advance)
+ | production_cost=4500
+ | upkeep=15
+ | effect= -50% {{LinkCTP2|Pollution}} (from production)
 Gameplay.
 A Matter Decompiler breaks down waste into molecular building blocks. Instead of throwing away unwanted items as trash, citizens may process them with a Matter Decompiler and create other things. The ability to completely recycle virtually any waste product into something useful dramatically reduces pollution from production.
 Great Library entry.

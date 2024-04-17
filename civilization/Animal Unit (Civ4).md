@@ -1,2 +1,2 @@
-# Animal Unit (Civ4)
+# Animal unit (Civ4)
 

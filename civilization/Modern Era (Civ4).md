@@ -1,3 +1,2 @@
-# Modern Era (Civ4)
+# Modern era (Civ4)
 
-The Modern Era is the sixth era in "[Civilization%20IV](Civilization IV)" and its expansions. It is preceded by the [Industrial%20Era%20%28Civ4%29](Industrial Era) and succeeded by the [Future%20Era%20%28Civ4%29](Future Era). It starts at 1905 AD (Turn 325) in Standard [Speed%20%28Civ4%29](speed). This era is based on the 20th century, especially after [World%20War%20I](World War I).

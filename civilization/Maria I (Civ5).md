@@ -10,7 +10,7 @@ Maria I speaks . On her diplomacy screen, she is in her palace, standing in the 
 Voice Actress: [Luis%20Calado](Luis Calado)
 Personality and Behavior.
 Maria may attempt any kind of [Victory%20%28Civ5%29](victory), but she will most frequently aim for a [Diplomatic%20victory%20%28Civ5%29](diplomatic one).
-Maria focuses primarily on expanding her empire, gathering , and forging alliances with [City-state%20%28Civ5%29](city-states). She likes to build a huge navy, with a strong emphasis on reconnaissance [Unit%20%28Civ5%29](units). Her army, however, will be only average in size.
+Maria focuses primarily on expanding her empire, gathering {{Gold5}}, and forging alliances with [City-state%20%28Civ5%29](city-states). She likes to build a huge navy, with a strong emphasis on reconnaissance [Unit%20%28Civ5%29](units). Her army, however, will be only average in size.
 Maria is neither bold nor hostile, and is one of the [Leaders%20%28Civ5%29](leaders) most likely to be afraid. She can be quite friendly, but in keeping with her real-life mental instability, she has a deceptive streak. She is also quick to denounce transgressions, especially when competing for the favor of city-states.
 Lines.
 All except one of Maria's lines use the formal "you" ("vós") when referring to the player.

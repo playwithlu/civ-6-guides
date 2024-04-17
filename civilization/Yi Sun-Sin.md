@@ -1,2 +1,2 @@
-# Yi Sun-Sin
+# Yi Sun-sin
 

@@ -1,2 +1,2 @@
-# Fur Traders
+# Fur traders
 

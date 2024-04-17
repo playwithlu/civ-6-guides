@@ -20,4 +20,4 @@ Fixed in 1.0.0.62! There is now an option to stop focus stealing in the options 
 Saving/Loading.
 "Civilization V"'s multiplayer saving and loading for multiplayer games is currently a bit unpolished and inconsistent at present. Here are the current observations:
 Converting Multiplayer Save to Moddable Single-Player Save.
-To play a multiplayer game with mods in single player mode, open the save file with a hex editor of your choice. At the offset , you should find the value for a multiplayer save game. Change that value to , save, and exit. After this you can load the new save game as a single-player game and mod away.
+To play a multiplayer game with mods in single player mode, open the save file with a hex editor of your choice. At the offset {{code|2C}}, you should find the value {{code|01}} for a multiplayer save game. Change that value to {{code|00}}, save, and exit. After this you can load the new save game as a single-player game and mod away.

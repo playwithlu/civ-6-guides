@@ -1,5 +1,10 @@
 # Mass Production (CTP1)
 
+ |age = Modern
+ | requires=Oil Refining
+ | leadsto=Aerodynamics,Tank Warfare,Conservation,Robotics
+ | gives=Troop Ship, Destroyer, Marine, Sonar Buoy
+ | obsoletes=
 Mass Production is an advance in "".
 Summary.
 A turning point in Civilization, Mass Production ushers in an era of explosive production. Mass Production allows for the rapid manufacture of the Troop Ship, the Destroyer, and also Sonar Buoys. In addition, this Advance leads to the Marine, a powerful fighter.

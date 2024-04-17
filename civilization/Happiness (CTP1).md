@@ -1,5 +1,5 @@
 # Happiness (CTP1)
 
-Happiness reflects the mental condition of a city's citizens. Nearly everything affects this condition, but , , and have the greatest effects. When a is unhappy, it bears the threat of or . When a city is very happy, it will celebrate, growing twice as quickly.
+Happiness reflects the mental condition of a city's citizens. Nearly everything affects this condition, but {{LinkCTP1|wages}}, {{LinkCTP1|rations}}, and {{LinkCTP1|workday}} have the greatest effects. When a {{LinkCTP1|city}} is unhappy, it bears the threat of {{LinkCTP1|rioting}} or {{LinkCTP1|revolting}}. When a city is very happy, it will celebrate, growing twice as quickly.
 Great Library entry.
 In establishing a stable government, maintaining the people's happiness has always been a foremost issue. Although many governments relied on force to maintain control over their people, lasting governments have always provided peace and prosperity in return. Governments that have failed in this pact have seen their reigns end in an explosion of popular anger. Such discontent fueled the fall of the Athenian despots in the ninth century BC and led to the rise of the Athenian Republic. Nearly two millennium later, Tzar Nicholas II abdicated the Russian throne after popular riots in Moscow. Soon after, the Red Army swept the world's first communist government into power.

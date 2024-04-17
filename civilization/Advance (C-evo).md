@@ -1,6 +1,5 @@
 # Advance (C-evo)
 
-[Advance](Advance)s in the free game [C-evo](C-evo) are similar to the advances in [Civ1](Civ1) and [Civ2](Civ2) (in later games called "techs"), but with significant differences. The on-screen [Manual%20%28C-evo%29](Manual) divides advances into four groups, based roughly on chronology, i.e. related to the key stages in which they become available. 
 Prerequisites.
 With a few exceptions, each advance can be researched only after you have researched the two others specified for it, unless you get a start from another nation (by negotiation - or if you have the [Temple%20of%20Zeus%20%28C-evo%29](Temple of Zeus) active then by conquest) or the [Great%20Library%20%28C-evo%29](Great Library).
 Costs.

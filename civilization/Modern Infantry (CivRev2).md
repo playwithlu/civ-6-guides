@@ -1,2 +1,2 @@
-# Modern Infantry (CivRev2)
+# Modern infantry (CivRev2)
 

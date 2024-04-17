@@ -1,6 +1,6 @@
 # Food (Civ3)
 
-Every [City%20%28Civ3%29](city) must produce two food per turn per citizen* or that city will experience starvation (where one citizen dies). Luckily, most citizens labor in the areas around their city, yielding some combination of food, [Production%20%28Civ3%29](shields), and [Commerce%20%28Civ3%29](commerce), and feeding themselves in the process.
+Every [City%20%28Civ3%29](city) must produce two {{FoodIcon3}} food per turn per citizen* or that city will experience starvation (where one citizen dies). Luckily, most citizens labor in the areas around their city, yielding some combination of food, [Production%20%28Civ3%29](shields), and [Commerce%20%28Civ3%29](commerce), and feeding themselves in the process.
 In some cases, a citizen produces more food than he needs and the excess is put into his city's food storage box each turn. When it is full, the storage is emptied and the city grows, adding one citizen to its population.
 Food production fundamentally depends upon the terrain within the city radius, because citizens laboring there produce food. When the City Display is open, you can see what the citizens are producing.
 There are exceptions where citizens do not consume food. Resisting citizens do not consume food and citizens in a town experiencing [Civil%20disorder%20%28Civ3%29](civil disorder) do not consume food until the civil disorder ends.

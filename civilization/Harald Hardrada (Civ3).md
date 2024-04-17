@@ -1,3 +1,3 @@
 # Harald Hardrada (Civ3)
 
-Harald III (c. 1015 – 25 September 1066), also known as Harald Sigurdsson or by his epithet Hardrada (meaning "hard ruler"), was from 1046 until his death, also known for leading the [Byzantine](Byzantine) , and for his invasion and attempted takeovers of [Danish](Denmark) and [English](England). A reused , he leads the s in [List%20of%20scenarios%20in%20Civ3](scenario) in "".
+Harald III (c. 1015 – 25 September 1066), also known as Harald Sigurdsson or by his epithet Hardrada (meaning "hard ruler"), was from 1046 until his death, also known for leading the [Byzantine](Byzantine) , and for his invasion and attempted takeovers of [Danish](Denmark) and [English](England). A reused {{Link3|Hannibal}}, he leads the {{Link3|Norwegian}}s in {{Link3|The Middle Ages}} [List%20of%20scenarios%20in%20Civ3](scenario) in "".

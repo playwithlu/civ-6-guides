@@ -1,2 +1,2 @@
-# National College
+# National college
 

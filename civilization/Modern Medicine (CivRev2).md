@@ -1,2 +1,2 @@
-# Modern Medicine (CivRev2)
+# Modern medicine (CivRev2)
 

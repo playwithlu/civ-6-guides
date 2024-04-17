@@ -1,2 +1,3 @@
-# Land Unit
+# Land unit
 
+Land units (sometimes called ground units) are a class of [unit](unit) that can travel only on land unless transported by [air%20unit](air unit)s or [naval%20unit](naval unit)s. Normally they can step from any land [tile](tile) to any of the eight (or, for games that use [hex](hex)agonal tiles, six) adjacent land tiles, and naval units can cross that point the other way between [water](water) tiles.

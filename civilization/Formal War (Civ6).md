@@ -1,2 +1,2 @@
-# Formal War (Civ6)
+# Formal war (Civ6)
 

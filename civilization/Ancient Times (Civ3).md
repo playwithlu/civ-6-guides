@@ -1,6 +1,5 @@
 # Ancient Times (Civ3)
 
- is the first [Era%20%28Civ3%29](era) in "[Civilization%20III](Civilization III)" and are followed by the [Middle%20Ages%20%28Civ3%29](Middle Ages).
 In order to advance to the next era, all technologies must be discovered, except for those marked with the "No" symbol, specifically [Literature%20%28Civ3%29](Literature), [Monarchy%20%28advance%29%20%28Civ3%29](Monarchy) and [The%20Republic%20%28Civ3%29](The Republic). Out of 21 technologies in the Ancient Era, only 18 technologies need to be discovered to advance into the next era.
 All civilizations in "Civilization III" start in Ancient Times if not customized.
 Further reading.

@@ -1,2 +1,2 @@
-# ZOC (SMAC)
+# ZoC (SMAC)
 

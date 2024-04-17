@@ -1,3 +1,2 @@
-# Ancient Era
+# Ancient era
 
-The Ancient Era (or Ancient Age) is one of the [era](era)s in the "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. It is the first era of the games in which it appears.

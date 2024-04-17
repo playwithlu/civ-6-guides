@@ -1,2 +1,2 @@
-# Expert Ore Miners
+# Expert ore miners
 

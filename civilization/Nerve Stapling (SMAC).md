@@ -1,2 +1,2 @@
-# Nerve Stapling (SMAC)
+# Nerve stapling (SMAC)
 

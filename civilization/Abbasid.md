@@ -1,3 +1,4 @@
 # Abbasid
 
-The Abbasid people represent the Abbasid Caliphate, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games. Their [capital](capital) is [Jerusalem](Jerusalem), and they are led by [Abu%20Ja%27far%20al-Mansur](Abu Ja'far al-Mansur).
+The {{PAGENAME}} people represent the Abbasid Caliphate, a [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games. Their [capital](capital) is [Jerusalem](Jerusalem), and they are led by [Abu%20Ja%27far%20al-Mansur](Abu Ja'far al-Mansur).
+The Abbasids appear as a {{City-State5}} in the [Rise%20of%20the%20Mongols%20%28Civ5%29](Rise of the Mongols) [List%20of%20scenarios%20in%20Civ5](scenario), and in a [Modding%20%28Civ5%29](mod) for "Civilization V" (available [https%3A//civilization-v-customisation.fandom.com/wiki/Abbasids_%28Harun_al-Rashid%29](here)).

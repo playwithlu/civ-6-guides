@@ -4,5 +4,5 @@ Natural History is an [Industrial%20Era%20%28Civ6%29](Industrial Era) [Civic%20%
 Strategy.
 The development of Natural History, the science about wildlife and nature outside of civilization, is a landmark in contemporary culture. When men finally stop just using nature, and focus on studying it, they are able to uncover a whole new field of activities, which end up boosting tourism and entertainment. A new [Building%20%28Civ6%29](building) of the [Entertainment%20Complex%20%28Civ6%29](Entertainment Complex), the [Zoo%20%28Civ6%29](Zoo), is developed to exhibit rare animals and plants so that busy citizens that never go out in nature can actually see them.
 In "" wildlife study is extended to nearby coasts, and a new way of entertainment is developed: the [Water%20Park%20%28Civ6%29](Water Park), along with its first two buildings, the [Ferris%20Wheel%20%28Civ6%29](Ferris Wheel) and the [Aquarium%20%28Civ6%29](Aquarium).
-But more importantly, parallel to the interest in nature, the interest in the remains of past human activities also develops. s are now revealed, and a new [Unit%20%28Civ6%29](unit), the [Archaeologist%20%28Civ6%29](Archaeologist), can be sent to them for exploration.
-Finally, you gain 2 s.
+But more importantly, parallel to the interest in nature, the interest in the remains of past human activities also develops. {{AntiquitySite6}}s are now revealed, and a new [Unit%20%28Civ6%29](unit), the [Archaeologist%20%28Civ6%29](Archaeologist), can be sent to them for exploration.
+Finally, you gain 2 {{Envoy6}}s.

@@ -1,2 +1,2 @@
-# Advanced Flight (CivRev2)
+# Advanced flight (CivRev2)
 

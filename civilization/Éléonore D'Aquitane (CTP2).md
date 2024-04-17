@@ -1,2 +1,2 @@
-# Éléonore D'Aquitane (CTP2)
+# Éléonore d'Aquitane (CTP2)
 

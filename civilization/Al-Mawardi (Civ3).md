@@ -1,2 +1,2 @@
-# Al-Mawardi (Civ3)
+# AL-Mawardi (Civ3)
 

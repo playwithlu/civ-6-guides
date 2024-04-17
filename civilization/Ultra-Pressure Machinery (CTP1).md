@@ -1,5 +1,10 @@
 # Ultra-Pressure Machinery (CTP1)
 
+ |age = Diamond
+ | requires=Sea Colonies
+ | leadsto=Future Sea
+ | gives=Crawler, Plasma Destroyer, Advanced Undersea Mines
+ | obsoletes=
 Ultra-Pressure Machinery is an advance in "".
 Summary.
 Last of the Sea Advances, Ultra-pressure Machinery provides for added production through advanced undersea mines and improves military might with the powerful Plasma Destroyer and the stealthy, troop-carrying Crawler.

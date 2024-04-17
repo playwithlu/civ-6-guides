@@ -1,2 +1,2 @@
-# Mounted Warriors
+# Mounted warriors
 

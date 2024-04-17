@@ -1,5 +1,10 @@
 # Alien Archaeology (CTP1)
 
+ |age = Diamond
+ | requires=Fusion, Space Colonies
+ | leadsto=Future Physics
+ | gives=
+ | obsoletes=Contraception
 Alien Archaeology is an advance in "".
 Summary.
 Discovery of Alien Archaeology is the final advance in the Physical Science branch before Future Physics

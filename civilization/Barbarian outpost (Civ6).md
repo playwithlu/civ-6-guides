@@ -1,2 +1,2 @@
-# Barbarian outpost (Civ6)
+# Barbarian Outpost (Civ6)
 

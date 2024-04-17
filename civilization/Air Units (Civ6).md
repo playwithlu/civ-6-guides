@@ -1,2 +1,2 @@
-# Air Units (Civ6)
+# Air units (Civ6)
 

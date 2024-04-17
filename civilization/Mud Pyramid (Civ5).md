@@ -1,2 +1,2 @@
-# Mud Pyramid (Civ5)
+# Mud pyramid (Civ5)
 

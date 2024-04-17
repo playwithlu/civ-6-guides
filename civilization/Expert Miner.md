@@ -1,3 +1,2 @@
-# Expert Miner
+# Expert miner
 
-Expert Miner may refer to:

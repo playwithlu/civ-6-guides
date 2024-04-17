@@ -1,2 +1,2 @@
-# Kelp Farm (SMAC)
+# Kelp farm (SMAC)
 

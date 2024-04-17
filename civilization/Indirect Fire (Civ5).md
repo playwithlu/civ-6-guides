@@ -1,2 +1,2 @@
-# Indirect Fire (Civ5)
+# Indirect fire (Civ5)
 

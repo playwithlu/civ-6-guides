@@ -1,6 +1,8 @@
 # Sid Meier's Alpha Centauri
 
 ""Alpha Centauri" redirects here. For the star system, see [Alpha%20Centauri%20%28star%20system%29](Alpha Centauri (star system))."
+Mac OS
+Linux
 Sid Meier's Alpha Centauri (called Alpha Centauri or SMAC for short) is a [turn-based%20strategy](turn-based strategy) computer game created by [Brian%20Reynolds](Brian Reynolds) and [Sid%20Meier](Sid Meier) in 1999 for the company they created along with [Jeff%20Briggs](Jeff Briggs), [Firaxis%20Games](Firaxis Games). The story entails the colonization of a planet in the [Alpha%20Centauri%20%28star%20system%29](Alpha Centauri) star system. It picks up where Meier and Reynolds' earlier titles, "[Sid%20Meier%27s%20Civilization](Civilization)" and "[Civilization%20II](Civilization II)", left off. An [expansion%20pack](expansion pack) called "[Sid%20Meier%27s%20Alien%20Crossfire](Sid Meier's Alien Crossfire)" was also released. Although being popular with gamers and critically acclaimed, the game never reached the heights of success of the "[Civilization%20%28series%29](Civilization)" games. Pre-patched versions of "Alpha Centauri" and "Alien Crossfire" were later bundled together in the "[Sid%20Meier%27s%20Alpha%20Centauri%20Planetary%20Pack](Alpha Centauri Planetary Pack)". The game has also been released under the Sold-Out Software label.
 Brendan Casey (scient) released Version 1.0 of the Unofficial SMAC/X Patch, which fixes some bugs in "Alpha Centauri" on May 7, 2010. His project began in February 2009 at [Apolyton](Apolyton)'s Alpha Centauri site and moved in June 2009 to the Civilization Gaming Network, where he will continue developing further versions of the patch.
 Storyline.

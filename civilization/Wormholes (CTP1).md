@@ -1,5 +1,10 @@
 # Wormholes (CTP1)
 
+ |age = Diamond
+ | requires=Alien Archaeology
+ | leadsto=Alien Archeology,Cloaking
+ | gives=Wormhole Probe, Wormhole Sensor
+ | obsoletes=
 Wormholes is an advance in "".
 Summary.
 The discovery of Wormholes is the first step toward achieving victory via completion of the Alien Life Project. Wormholes allow the construction of the Wormhole Sensor Wonder and, by extension, the Wormhole Probe—a robotic spacecraft designed to pass through the wormhole and return with a sample of alien DNA.

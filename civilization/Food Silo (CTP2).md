@@ -1,7 +1,10 @@
 # Food Silo (CTP2)
 
- is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+ | requires=Railroad (advance)
+ | production_cost=1200
+ | upkeep=4
+ | effect=
 Gameplay.
-Food Silos are advanced that enable more efficient, more plentiful storage of Food. Usually placed near railways and major roads, they act as temporary storage facilities, minimizing spoilage and contributing to a more efficient food distribution system.
+Food Silos are advanced {{LinkCTP2|Granaries}} that enable more efficient, more plentiful storage of Food. Usually placed near railways and major roads, they act as temporary storage facilities, minimizing spoilage and contributing to a more efficient food distribution system.
 Great Library entry.
 In ancient times the granary provided cities with a means by which they could store their surplus food for shortages. The protection from the elements that granaries provided helped minimize spoilage and waste. The Food Silo became the modern equivalent of the granary, updated to reflect the advanced technology of the times. Food silos took many forms, from towering grain silos to insulated warehouses that housed perishable items such as cheese or fruit. Some food silos controlled the atmospheric gases contained within, in an attempt to extend the storage life of foods. Others employed refrigeration and freezing to preserve the freshness, consistency and texture of highly perishable items. All of these methods helped to minimize waste, prevent food-borne diseases and better equip cities and communities to survive occasional food shortages.

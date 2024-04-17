@@ -1,8 +1,2 @@
-# Kris Swordsman (Civ5)
+# Kris swordsman (Civ5)
 
-Game Info.
-[Unique%20unit%20%28Civ5%29](Unique) melee unit of the [Indonesian%20%28Civ5%29](Indonesian) [Civilizations%20%28Civ5%29](civilization). Replaces the [Swordsman%20%28Civ5%29](Swordsman). Requires .
-Strategy.
-The Kris Swordsman is unique in its special abilities - it receives a [Promotions%20%28Civ5%29](promotion) which is randomly chosen from a whole range of possibilities, some of which can even turn out to be detrimental. When you build the unit, or upgrade it from a [Warrior%20%28Civ5%29](Warrior), the Mystic Blade promotion appears on the unit as a question mark. Then, immediately after the Kris Swordsman's first [Combat%20%28Civ5%29](combat) engagement, a bonus or penalty is chosen randomly from the list above. This means that you never know how each of those warriors will turn out at the end, which makes for quite a bit of excitement. Still, most of the possible promotions are quite powerful, offsetting the cost of one or two units turning out badly. Note that the promotion takes effect immediately, so in the case of Restlessness, you immediately gain an extra attack and , which you may use in this very turn!
-In a [Multiplayer%20%28Civ5%29](multiplayer) game, if you offer a Kris Swordsman with a unique promotion to another player, it will keep its promotion "and" get the Mystic Blade again, allowing its new owner to get a second unique promotion after a fight. The process is repeatable, so technically you can get all 8 promotions on one Kris Swordsman.
-The Mystic Blade promotion is carried over on upgrade, allowing the unit to benefit from its special abilities until the end of the game, so guard it well and use it wisely!

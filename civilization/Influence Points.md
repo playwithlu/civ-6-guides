@@ -1,2 +1,2 @@
-# Influence Points
+# Influence points
 

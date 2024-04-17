@@ -1,2 +1,2 @@
-# National Wonder (Civ5)
+# National wonder (Civ5)
 

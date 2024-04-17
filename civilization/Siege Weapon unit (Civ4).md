@@ -1,2 +1,2 @@
-# Siege Weapon unit (Civ4)
+# Siege weapon unit (Civ4)
 

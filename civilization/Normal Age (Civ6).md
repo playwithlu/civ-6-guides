@@ -1,2 +1,2 @@
-# Normal Age (Civ6)
+# Normal age (Civ6)
 

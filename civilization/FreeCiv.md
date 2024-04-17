@@ -1,2 +1,11 @@
-# FreeCiv
+# Freeciv
 
+Freeciv (also known as "The Freeciv Project") is a [4X](4X) strategy game with [single%20player](single player) and [multiplayer](multiplayer) game modes. The project has evolved into a [game%20engine](game engine) playable on the PC , , and platforms, or on the web. The engine enables [community](community)-created [DLC](DLC) for making games with customized rules and content. "Default" rules resemble "[Civilization%20II](Civilization II)", but expanded and more modern evolutions are quite popular.
+The game is available in over 30 languages, free to download and play, and can also be played online from any device with a web browser.
+Versions.
+The project originally started as an emulation of "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)" for UNIX-based platforms, but has since evolved into one of the longest running open-source game communities in history. It was originally released in January [1996](1996), prior to "Civilization II". A modernized version 2.6 was released in July 2018. A public beta of the greatly expanded 3.0 has since been released, and is the version currently running on the web.
+Modes/Rules.
+The user community has created historic "Civ1" and "Civ2" compatibility modes which closely emulate [Sid%20Meier](Sid Meier)'s commercial games. However, the "default" ruleset has evolved past the older rules. It implements new concepts and improvements from later ""[Civilization%20%28series%29](Civ)"-like" strategy games. This includes "Civ2Civ3" hybrid rules and the newest "Multiplayer II Evolution" released in .
+Beginners can select the "Start Scenario Game" option, which includes a tutorial scenario - an ordinary game but with lots of on-screen advice.
+Links from this wiki.
+"For convenience of comparison, especially from the lists on [overview%20page](overview page)s, any page on the "Freeciv" website can be linked from an individual page of this website. Use the same name with " (Freeciv)" added. Where the "Freeciv" page name is the same/similar to the overview page, create a page here, using the overview page form (so that templates will link to it), linking to the "Freeciv" site's equivalent."

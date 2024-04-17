@@ -1,5 +1,9 @@
 # World Peace Center (CTP2)
 
+ | reqtech=Eugenics
+ | cost=15200
+ | effect=
+ | obsolete=
 The World Peace Center is a [Wonder%20%28CTP2%29](Wonder) in "[Call%20to%20Power%20II](Call to Power II)". It costs 15,200 production points to build.
 Gameplay.
 The World Peace Center is an institution dedicated to the preservation of peace and harmony between all nations. Empathic Diplomats from around the world gather and, using special empathic translation headsets, communicate with each other outside the bounds of language and nationality. The empire that hosts this wonder gains a regard bonus with all other nations, as well as a permanent embassy that never closes, not even in the event of war.

@@ -10,7 +10,7 @@ List of beliefs.
 Follower.
 These benefit any city that follows the religion, regardless of who its Founder was. Players who have not Founded a Religion will mainly benefit from this type of Beliefs.
 Worship.
-These allow any city that follows the religion to build (or use to purchase) Tier 3 worship buildings in its [Holy%20Site%20%28Civ6%29](Holy Site) districts. Note that each Holy Site may contain only one worship building, which stays there permanently. If the dominant religion in the city changes later, and the new one has a different Worship Belief, you will not be able to replace the worship building that already exists there.
+These allow any city that follows the religion to build (or use {{Faith6}} to purchase) Tier 3 worship buildings in its [Holy%20Site%20%28Civ6%29](Holy Site) districts. Note that each Holy Site may contain only one worship building, which stays there permanently. If the dominant religion in the city changes later, and the new one has a different Worship Belief, you will not be able to replace the worship building that already exists there.
 Founder.
 These benefit only the civilization that founded the religion (or the [Kongolese%20%28Civ6%29](Kongolese) when led by [Mvemba%20a%20Nzinga%20%28Civ6%29](Mvemba a Nzinga)). Their starting benefits may be slightly weaker than other belief types, but they will work for each converted city or for each follower, potentially increasing the benefits far beyond other belief types.
 Enhancer.

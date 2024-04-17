@@ -1,6 +1,5 @@
 # Tree Farm (SMAC)
 
- is a [base%20facility%20%28SMAC%29](base facility) in "[Sid%20Meier%27s%20Alpha%20Centauri](Sid Meier's Alpha Centauri)".
 Strategy.
 Coming two techs after Gene Splicing and the Research Hospital comes the Tree Farm, and the lifting of the energy restrictions. Just one tech before, your mineral restriction was removed, and all your 2-mineral crawlers moved off the forests and onto the mine/road/rocky tiles you cunningly had just prepared with this tech in mind, and doubled their production to 4 minerals/turn. As a result, you suddenly hear *pop* and you know its time to start with the Tree Farms.
 The main reason to build these facilities is not for the extra Econ or Psych. What we are after is the extra nutrient from our forests, (they should be everywhere by now) which will give us the +2 nutrients/turn we need for a popboom. If we're playing a faction that needs a Golden Age to popboom, then view the +50% Psych as the game telling you to get into the Social Engineering screen and push that central slider to the right.

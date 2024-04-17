@@ -1,2 +1,2 @@
-# Apollo Program (CivRev2)
+# Apollo program (CivRev2)
 

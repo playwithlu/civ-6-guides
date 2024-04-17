@@ -1,6 +1,5 @@
 # Academy of Knowledge (Civ4)/Final Frontier
 
- is a building in "[Final%20Frontier](Final Frontier)", a mod in "".
 Strategy.
 The Academy of Knowledge provides a bonus in your system to both science output and culture. You must have the Knowledge value in your system to construct one.
 Civilopedia entry.

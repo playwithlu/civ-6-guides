@@ -1,2 +1,2 @@
-# Nuclear Missiles (Civ5)
+# Nuclear missiles (Civ5)
 

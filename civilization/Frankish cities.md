@@ -1,3 +1,3 @@
 # Frankish cities
 
-Frankish cities are [City](cities) that can be founded by the [Frankish](Frankish) [Civilizations](civilization) in the "[Civilization%20%28series%29](Civilization)" games.
+Frankish cities appear in the [Fall%20of%20Rome%20%28Civ3%29](Fall of Rome) and [The%20Middle%20Ages%20%28Civ3%29](The Middle Ages) [List%20of%20scenarios%20in%20Civ3](scenarios).

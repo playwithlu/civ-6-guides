@@ -1,5 +1,9 @@
 # Forbidden City (CTP1)
 
+ | reqtech=Engineering
+ | cost=2160
+ | effect=
+ | obsolete=
 The Forbidden City is a wonder in "". It closes all of the host civilization's embassies and prevents foreign powers from establishing embassies.
 Gameplay.
 The Forbidden City ends all wars with the host and prevents other Civilizations from starting a war with the host. In addition, this Wonder closes foreign [embassy%20%28CTP1%29](embassies) in the host Civilization. If the host engages in an act of war, the wonder's effects are nullified.

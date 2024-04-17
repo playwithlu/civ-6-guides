@@ -1,4 +1,5 @@
 # Native American
 
-The Native American people represent a variety of [civilizations](civilizations) in the "[Civilization%20%28series%29](Civilization)", "[Call%20to%20Power%20games](Call to Power)", and "[Colonization%20%28game%29](Colonization)" games. Their [capital](capital) might be [Cahokia](Cahokia) or [Sioux%20%28city%29](Sioux), and they can be led by [Pocahontas](Pocahontas), [Sacajawea](Sacajawea), or [Sitting%20Bull](Sitting Bull).
+The {{PAGENAME}} people represent a variety of [civilizations](civilizations) in the "[Civilization%20%28series%29](Civilization)", "[Call%20to%20Power%20games](Call to Power)", and "[Colonization%20%28game%29](Colonization)" games. Their [capital](capital) might be [Cahokia](Cahokia) or [Sioux%20%28city%29](Sioux), and they can be led by [Pocahontas](Pocahontas), [Sacajawea](Sacajawea), or [Sitting%20Bull](Sitting Bull).
 The [Apache](Apache), [Arawak](Arawak), [Aztec](Aztec), [Cherokee](Cherokee), [Cree](Cree), [Incan](Incan), [Iroquois](Iroquois), [Mapuche](Mapuche), [Mayan](Mayan), [Pueblo](Pueblo), [Shoshone](Shoshone), [Sioux](Sioux), and [Tupi](Tupi) people may also be represented by the Native Americans.
+The Aztec [Civilizations%20%28Civ1%29](civilization) represents the Native Americans in "[Sid%20Meier%27s%20Civilization](Sid Meier's Civilization)".

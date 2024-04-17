@@ -1,2 +1,2 @@
-# Freedom of Speech
+# Freedom of speech
 

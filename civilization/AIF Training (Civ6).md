@@ -1,4 +1,4 @@
 # AIF Training (Civ6)
 
 AIF Training is a [Project%20%28Civ6%29](project) from the [Outback%20Tycoon%20%28Civ6%29](Outback Tycoon) [List%20of%20scenarios%20in%20Civ6](scenario) in "[Civilization%20VI](Civilization VI)". It becomes available after researching [The%20Great%20War%20%28Civ6%29](The Great War).
-Once completed in a [City%20%28Civ6%29](city), AIF Training provides a +10 bonus to that city's per turn (GPT). [Gallipolli%20%28Civ6%29](Gallipolli) and [Invasion%20Threat%20%28Civ6%29](Invasion Threat) increase the output for AIF Training, and [World%20War%20II%20%28Civ6%29](World War II) increases the bonus for completing the project to +20 per turn.
+Once completed in a [City%20%28Civ6%29](city), AIF Training provides a +10 bonus to that city's {{Gold6}} per turn (GPT). [Gallipolli%20%28Civ6%29](Gallipolli) and [Invasion%20Threat%20%28Civ6%29](Invasion Threat) increase the {{Production6}} output for AIF Training, and [World%20War%20II%20%28Civ6%29](World War II) increases the {{Gold6}} bonus for completing the project to +20 per turn.

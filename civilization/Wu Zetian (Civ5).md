@@ -10,7 +10,7 @@ Wu Zetian speaks (Modern Chinese), although the language she would have probably
 Voice Actress: [Rachel%20Lei%20Xie](Rachel Lei Xie)
 Personality and Behavior.
 Wu Zetian will go for a [Science%20victory%20%28Civ5%29](scientific victory) most of the time, although on some occasions she may attempt a [Domination%20victory%20%28Civ5%29](domination one) instead.
-Wu puts a priority on increasing her empire's over expanding her empire. Sometimes, she may possess only one [City%20%28Civ5%29](city) and not found a new one until later. Because of this, Wu usually focuses mostly on .
+Wu puts a priority on increasing her empire's {{Population5}} over expanding her empire. Sometimes, she may possess only one [City%20%28Civ5%29](city) and not found a new one until later. Because of this, Wu usually focuses mostly on {{Science5}}.
 Wu tends to have a somewhat large army consisting primarily of ranged [Unit%20%28Civ5%29](units), with a stronger emphasis on defensive militia. She is also one of the few [Leaders%20%28Civ5%29](leaders) likely to make use of [Espionage%20%28Civ5%29](espionage).
 Wu is rather difficult to befriend. While she can be very friendly, she is often disloyal and is likely to be guarded. Watch out for her deceptiveness, especially when you are friends with Wu, because she may end up declaring war on you. She is not too keen on waging wars, though.
 Wu will often try to protect [City-state%20%28Civ5%29](city-states), and likes to befriend them as well.

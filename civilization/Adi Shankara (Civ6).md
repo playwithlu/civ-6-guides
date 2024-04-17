@@ -1,3 +1,3 @@
 # Adi Shankara (Civ6)
 
-Adi Shankara is a [Great%20Prophet%20%28Civ6%29](Great Prophet) in "[Civilization%20VI](Civilization VI)". He may be activated at any or on the wonder to found a .
+Adi Shankara is a {{Link6|Medieval Era}} [Great%20Prophet%20%28Civ6%29](Great Prophet) in "[Civilization%20VI](Civilization VI)". He may be activated at any {{Link6|Holy Site}} or on the {{Link6|Stonehenge}} wonder to found a {{Link6|Religion}}.

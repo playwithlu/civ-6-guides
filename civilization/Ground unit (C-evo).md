@@ -1,6 +1,5 @@
 # Ground unit (C-evo)
 
-When you start on the free-to-play game "[C-evo](C-evo)", all of the available [unit%20%28C-evo%29](unit)s are "ground units", units that can travel only on land unless transported by [Air%20unit%20%28C-evo%29](air units) or [Naval%20unit%20%28C-evo%29](naval units).
 Some ground units are "[civil%20unit%20%28C-evo%29](civil unit)s", having no attack strength and therefore unable to enter unguarded foreign cities. Those that have attack strength ("weapons"), for which the minimum is 4, are "military units". All must have at least some defensive strength ("[armor%20%28C-evo%29](armor)"). 
 Each unit has a maximum "[speed%20%28C-evo%29](speed)", the distance it can normally travel in one turn. The minimum is 1.5 (i.e., one diagonal step - N, S, E, or W on an isometric map - that's not using a road or river). 
 A unit's "vital statistics" are attack strength, defensive strength, and movement, with the three normally shown together with slashes, e.g. the "A/D/M" of a [Militia%20%28C-evo%29](Militia) is 6/6/1.5. Actual strengths in [combat%20%28C-evo%29](combat) can differ from the basic strengths, depending on various factors such as [experience%20%28C-evo%29](experience), buildings, and [health%20%28C-evo%29](health).

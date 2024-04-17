@@ -1,5 +1,8 @@
 # Airport (CTP1)
 
+ | requires=[Aerodynamics%20%28CTP1%29](Aerodynamics)
+ | production_cost=2500
+ | effect=+50% Gold+100% Pollution
 Airport is a [List%20of%20buildings%20%28CTP1%29](city improvement) in "Civilization: Call to Power".
 Effect.
 The Airport allows the business traveller to quickly cover great distances and creates a business center of its own. These features increase the economy of a city, giving +50% gold, but at a cost of doubled pollution.

@@ -1,8 +1,12 @@
 # Internal Combustion (CTP2)
 
- is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+ | age=Modern
+ | requires=Oil Refining,Electricity
+ | leadsto=Aerodynamics,Tank Warfare,Mass Transit
+ | gives=Troop Ship
+ | obsoletes=
 Gameplay.
-The Internal Combustion engine is one of the most versatile machines of the . It is the most prevalent source of power for commercial and industrial vehicles. Capable of carting a small army across the world, the unit enables ocean-based transport on a large scale.
+The Internal Combustion engine is one of the most versatile machines of the {{LinkCTP2|Modern Age}}. It is the most prevalent source of power for commercial and industrial vehicles. Capable of carting a small army across the world, the {{LinkCTP2|Troop Ship}} unit enables ocean-based transport on a large scale.
 Great Library entry.
 The internal combustion engine emerged in the 19th century as a substitute for steam power. Cannon provided inspiration, and early efforts involved igniting gunpowder in a cylinder to power a piston. Finding a suitable fuel was the greatest problem, as was finding a way to ignite it in a closed space to produce an action that could be easily and quickly repeated. The addition of gas solved only the first problem, until Étienne Lenoir built the first successful gas engine in Paris in 1859. It used gas and air ignited by electric sparks to power a single piston. In 1878, German Inventor Nikolaus Otto refined the internal combustion engine by introducing the four-stroke cycle of induction-compression-ignition-exhaust that has been known by his name ever since. Small industrial operations opted for the gas engine as a source of power, as it was a cheaper and less maintenance-intensive than boiler rooms.
 The internal combustion engine was an ideal power source for vehicles as well. Small ships, like the troop ship, no longer had to rely on steam power, and used gas engines quite frequently.

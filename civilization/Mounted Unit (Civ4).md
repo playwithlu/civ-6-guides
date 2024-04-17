@@ -1,2 +1,2 @@
-# Mounted Unit (Civ4)
+# Mounted unit (Civ4)
 

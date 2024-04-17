@@ -1,6 +1,5 @@
 # Elephant (CTP1)
 
- is one of the [Goods%20%28CTP1%29](goods) in "". It can appear on . It gives 10 .
 Summary.
 Elephants live in the plains. People primarily hunt elephants for their ivory tusks.
 Great Library entry.

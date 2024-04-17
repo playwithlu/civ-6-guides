@@ -1,8 +1,8 @@
 # Women's Suffrage (Civ2)
 
- Women's Suffrage is an -era happiness in "[Civilization%20II](Civilization II)", available with the . It provides its controller with a in every city.
+ Women's Suffrage is an {{Link|2|Industrial Revolution|Industrial}}-era happiness {{Link|2|Wonder}} in "[Civilization%20II](Civilization II)", available with the {{Link|2|Industrialization}} {{Link|2|advance}}. It provides its controller with a {{Link|2|Police Station}} in every city.
 Strategy.
-Women's Suffrage is only practically relevant to and s. The controller's cities incur one less per ed in the field: under Democracy, unhappiness is halved, while under Republic, it is eliminated entirely.
-While Women's Suffrage does not provide bonuses to other governments beyond , it may be strategic to acquire simply to deny rival its benefit: will opt to adopt Democracy in the late game.
+Women's Suffrage is only practically relevant to {{Civ2 government|Republic|text=adj|link=y}} and {{Civ2 government|Democracy|text=adj|link=y}} {{Link|2|government}}s. The controller's cities incur one less {{nowrap|{{Civ2 citizen|Unhappy}} {{Link|2|Happiness|sec=Democracy and Republic|war-weary}}}} {{Link|2|citizen}} per {{Link|2|support}}ed {{Link|2|pre=cat|Military units|military}} {{Link|2|unit}} in the field: under Democracy, unhappiness is halved, while under Republic, it is eliminated entirely.
+While Women's Suffrage does not provide bonuses to other governments beyond {{Link|2|Victory|sec=Scoring|game score}}, it may be strategic to acquire simply to deny rival {{Link|2|civilizations}} its benefit: {{Link|2|AI|computer players}} will opt to adopt Democracy in the late game.
 Civilopedia entry.
 After decades of struggle, women in the United States won the right to vote in 1920 with the passage of the 19th Amendment to the U.S. Constitution. The achievement of women's suffrage was accelerated by the excellent record of women working in jobs traditionally held by men during World War I. Full voting rights were granted to women in Great Britain in 1928. Since that time, women have gained the right to vote in most countries in the developed world.

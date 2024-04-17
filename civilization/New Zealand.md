@@ -2,3 +2,4 @@
 
 The New Zealand people, also known as the New Zealanders and colloquially as the Kiwis, represent New Zealand, a country in [Oceania](Oceania) and the southernmost country in the Pacific Ocean. Their [capital](capital) is [Wellington](Wellington).
 New Zealand has one of the world's highest rates of [Internet](Internet) access, and features as a couple of squares on the [map](map) in some [scenario](scenario)s of "[Civilization%20II](Civilization II)". It is also the home of the [M%C4%81ori](Māori).
+New Zealand appears in three [Modding%20%28Civ5%29](mods) for "Civilization V" (available [https%3A//civilization-v-customisation.fandom.com/wiki/New_Zealand_%28Keith_Holyoake%29](here), [https%3A//civilization-v-customisation.fandom.com/wiki/New_Zealand_%28Michael_Joseph_Savage%29](here), and [https%3A//civilization-v-customisation.fandom.com/wiki/New_Zealand_%28Seddon%29](here)).

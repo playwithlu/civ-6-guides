@@ -1,2 +1,2 @@
-# Empire Size
+# Empire size
 

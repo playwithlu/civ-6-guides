@@ -2,13 +2,11 @@
 
 Elizabeth I (7 September 1533 – 24 March 1603), also known as the Virgin Queen, Gloriana and coloquially as Good Queen Bess, was and from 1558 until her death. During her reign, she the foundations of , successfully defended England against the , and sponsored a renaissance of through figures such as [William%20Shakespeare](William Shakespeare). She leads the [English%20%28Civ6%29](English) in "[Civilization%20VI](Civilization VI)".
 Would you be interested in a trade agreement with England? Controlling trade is the way to set England up for a new Elizabethan age.
-Intro.
- Elizabeth Regina, Virgin queen of England and monarch of the seas, you command the wooden wall that defends England from those who would seize it. Guard yourself against intrigues at home and abroad, and let your captains set sail at your command. Bow your head to no one, and Britannia shall rule the waves!
 In-Game.
-Elizabeth I's unique [Agenda%20%28Civ6%29](agenda) is Trade Agreement. She tries to have as many s as possible, likes [Civilizations%20%28Civ6%29](civilizations) that send s to her [City%20%28Civ6%29](cities) and dislikes civilizations that do not send s to her cities.
-Her [Unique%20ability%20%28Civ6%29](leader ability) is Drake's Legacy. She receives +2 capacity upon recruiting her first . She also earns +3 for each specialty in the origin city when sending s to [City-state%20%28Civ6%29](city-states) and twice the normal yields for plundering s.
+Elizabeth I's unique [Agenda%20%28Civ6%29](agenda) is Trade Agreement. She tries to have as many {{TradeRoute6}}s as possible, likes [Civilizations%20%28Civ6%29](civilizations) that send {{TradeRoute6}}s to her [City%20%28Civ6%29](cities) and dislikes civilizations that do not send {{TradeRoute6}}s to her cities.
+Her [Unique%20ability%20%28Civ6%29](leader ability) is Drake's Legacy. She receives +2 {{TradeRoute6}} capacity upon recruiting her first {{Admiral6}}. She also earns +3 {{Gold6}} for each specialty {{District6}} in the origin city when sending {{TradeRoute6}}s to [City-state%20%28Civ6%29](city-states) and twice the normal yields for plundering {{TradeRoute6}}s.
 Detailed Approach.
-Trade and s are the central focus with England under Elizabeth’s rule. The [Royal%20Navy%20Dockyard%20%28Civ6%29](Royal Naval Dockyard) gives you additional naval [Movement%20%28Civ6%29](movement) and points. Use the additional naval movement with the [Sea%20Dog%20%28Civ6%29](Sea Dog) [Unit%20%28Civ6%29](unit) to plunder enemy s and receive increased booty with Drake’s Legacy. Once you receive your first you receive 2 extra s; send them to City-States to quickly fill your treasury.
+Trade and {{Admiral6}}s are the central focus with England under Elizabeth’s rule. The [Royal%20Navy%20Dockyard%20%28Civ6%29](Royal Naval Dockyard) gives you additional naval [Movement%20%28Civ6%29](movement) and {{Admiral6}} points. Use the additional naval movement with the [Sea%20Dog%20%28Civ6%29](Sea Dog) [Unit%20%28Civ6%29](unit) to plunder enemy {{TradeRoute6}}s and receive increased booty with Drake’s Legacy. Once you receive your first {{Admiral6}} you receive 2 extra {{TradeRoute6}}s; send them to City-States to quickly fill your treasury.
 Lines.
 Elizabeth I is voiced by [Beth%20Goddard](Beth Goddard). She speaks .
 Unvoiced.

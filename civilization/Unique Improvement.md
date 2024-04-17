@@ -1,2 +1,3 @@
-# Unique Improvement
+# Unique improvement
 
+A unique improvement is a type of [tile%20improvement](tile improvement) that is only available to a specific [Civilizations](civilization) or [Leaders](leader), or from a specific [city-state](city-state). Unlike other types of unique components, they do not replace standard tile improvements and often provide special bonuses when built on certain types of [terrain](terrain).

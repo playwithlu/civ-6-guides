@@ -1,2 +1,2 @@
-# Unique Units (Civ6)
+# Unique units (Civ6)
 

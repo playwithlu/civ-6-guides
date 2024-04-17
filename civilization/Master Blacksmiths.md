@@ -1,2 +1,2 @@
-# Master Blacksmiths
+# Master blacksmiths
 

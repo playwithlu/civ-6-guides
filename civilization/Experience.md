@@ -1,3 +1,2 @@
 # Experience
 
-Experience, also known by the abbreviations "XP" or "EXP", is a game concept introduced in "[Civilization%20III](Civilization III)". [Military%20unit](Military unit)s gain experience by surviving [combat](combat) and defeating enemy [unit](unit)s, and when they earn enough experience, they can receive [promotion](promotion)s. Some of the [building](building)s that can be built in [City](cities) give bonus experience (either a flat sum or a percentage bonus) to the units produced there.

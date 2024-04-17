@@ -1,5 +1,9 @@
 # Nanite Defuser (CTP2)
 
+ | reqtech=Nano-Machines
+ | cost=15200
+ | effect=Eliminates {{LinkCTP2|Nuke}}s worldwide.
+ | obsolete=
 The Nanite Defuser is a [Wonder%20%28CTP2%29](Wonder) in "[Call%20to%20Power%20II](Call to Power II)". It costs 15,200 production points to build.
 Gameplay.
 Using nanotechnological means, the nanite defuser eliminates the threat of nuclear war by defusing every nuclear weapon in the world.

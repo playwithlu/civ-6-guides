@@ -1,5 +1,10 @@
 # Mass Media (CTP1)
 
+ |age = Modern
+ | requires=Electrification, Corporation
+ | leadsto=Computer,GlobeNet
+ | gives=Televangelist, Television, Hollywood
+ | obsoletes=
 Mass Media is an advance in "".
 Summary.
 The seventh Economic Advance, Mass Media heralds the entry of transistors and silicon chips into consumer life. This revolutionary technology allows for Television and Hollywood, both of which increase gold. The airwaves also open the door to the Televangelist, who asks for gold in exchange for eternal salvation and soothsay.

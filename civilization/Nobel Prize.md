@@ -1,3 +1,3 @@
 # Nobel Prize
 
-Nobel Prize is a [Swedish](Swedish) [unique%20ability](unique ability) and [policy](policy) in the "[Civilization%20%28series%29](Civilization)" games.
+In "", Nobel Prize is the name of the [Swedish%20%28Civ6%29](Swedish) [Unique%20ability%20%28Civ6%29](civilization ability). It provides them with bonuses to {{Scientist6}} points from [University%20%28Civ6%29](Universities), {{Engineer6}} points from [Factory%20%28Civ6%29](Factories), and {{DiplomaticFavor6}} from {{GreatPeople6}} they attract, and also adds three unique [World%20Congress%20%28Civ6%29](World Congress) [Nobel%20Prize%20Competitions%20%28Civ6%29](competitions) in the [Industrial%20Era%20%28Civ6%29](Industrial Era).

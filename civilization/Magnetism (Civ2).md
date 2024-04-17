@@ -1,5 +1,5 @@
 # Magnetism (Civ2)
 
- Magnetism is an in "[Civilization%20II](Civilization II)".
+ Magnetism is an {{Link2|Advance}} in "[Civilization%20II](Civilization II)".
 Civilopedia entry.
 The phenomenon of magnetism was known to the ancient Greeks, Romans, and Chinese. They observed that lodestone, an iron-bearing ore, attracted other iron. They also noted that pieces of iron that came into contact with lodestone gained magnetic properties as well. The electromagnetic force of attraction and repulsion between various substances is due to the motion of positively and negatively charged electrons. Every magnet has a positive and negative side, called poles. Poles with a like charge repel one another, and poles with opposite charges attract one another. The study of magnetic phenomena soon showed that a free-floating magnet aligns itself with the Earth's magnetic field, one pole of the magnet pointing north, the other south. This was an important discovery, and led to the invention of the compass in the early 13th century. The use of the compass revolutionized sea travel by reducing the reliance on landmarks and stars for navigation.

@@ -1,5 +1,10 @@
 # Electricity (CTP1)
 
+ |age = Modern
+ | requires=Railroad
+ | leadsto=Electrification,Computer
+ | gives=Edison's Lab
+ | obsoletes=
 Electricity is an advance in "".
 Summary.
 The discovery of Electricity opens the door to the modern era. With Electricity, Edison's Lab becomes a powerful force driving new technologies and pooling scientific talent to give the Civilization an average of 10 free Advances per Age. In addition, Electricity allows for improvements in mining leading to the development of Advanced Mines.

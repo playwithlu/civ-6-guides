@@ -11,7 +11,7 @@ Personality and Behavior.
 Enrico Dandolo will most likely attempt a [Diplomatic%20victory%20%28Civ5%29](diplomatic victory).
 Dandolo is not very bold. He is very willing to declare friendship, but he is often disloyal.
 Because of his unique ability, Dandolo will almost never expand his empire. He tends to acquire the geographically closest [City-state%20%28Civ5%29](city-states) that will form a contiguous landmass, and ignore the rest. He will not build an army to attack with, but he will have a large navy and well-defended [City%20%28Civ5%29](cities).
-Dandolo puts a heavy emphasis on generating through trade and economic development. He is also very keen on [Great%20People%20%28Civ5%29](Great People), [Religion%20%28Civ5%29](religion), and [Espionage%20%28Civ5%29](espionage).
+Dandolo puts a heavy emphasis on generating {{Gold5}} through trade and economic development. He is also very keen on [Great%20People%20%28Civ5%29](Great People), [Religion%20%28Civ5%29](religion), and [Espionage%20%28Civ5%29](espionage).
 Dandolo will hardly ever declare war. He is very friendly to other [Civilizations%20%28Civ5%29](civilizations) and city-states alike. On the other hand, he is very likely to backstab.
 Trivia.
 After the fall of Constantinople in 1204, the barons offered Enrico Dandolo the , but he refused so as not to violate the constitution of Venice.

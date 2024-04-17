@@ -1,5 +1,5 @@
 # University (advance) (Civ2)
 
- The University is an in "[Civilization%20II](Civilization II)".
+ The University is an {{Link2|Advance}} in "[Civilization%20II](Civilization II)".
 Civilopedia entry.
 Institutes of higher learning, such as the Academy of Plato in Athens which taught advanced philosophical principles, existed in the ancient world. It was not until the 12th century, however, that the model for the modern university system was born. In the Middle Ages, some royal governments and ecclesiastical organizations founded exclusive schools dedicated to training young men in specific professions. At that time, each university specialized in a single topic like law, theology, music, or medicine. Through the centuries, universities diversified to include a number of different fields of study. Modern universities consists of several faculties, or colleges, each of which has a specific curriculum. In addition to their roles as learning institutions, universities have, since their inception, acted as centers for scientific research and advancement.

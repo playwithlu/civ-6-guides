@@ -1,5 +1,10 @@
 # Oil Refining (CTP1)
 
+ |age = Modern
+ | requires=Railroad, Chemistry
+ | leadsto=Explosives,Mass Production
+ | gives=Submarine, Oil Refinery, Advanced Farms
+ | obsoletes=
 Oil Refining is an advance in "".
 Summary.
 Oil Refining, the sixth Mechanical Advance, opens the door to the power of oil and gas. Besides gaining the Oil Refinery, which increases production, Civilizations also gain the Submarine, a critical weapon of sea warfare.

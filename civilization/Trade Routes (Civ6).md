@@ -1,2 +1,2 @@
-# Trade Routes (Civ6)
+# Trade routes (Civ6)
 

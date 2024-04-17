@@ -1,5 +1,10 @@
 # Nationalism (CTP1)
 
+ |age = Renaissance
+ | requires=Banking, Printing Press
+ | leadsto=Economics,Fascism (advance)
+ | gives=Spy
+ | obsoletes=
 Nationalism is an advance in "".
 Summary.
 Nationalism marks a necessary rung in the ladder of the Economics Advances. The rise of the nation-state heightens the competition between Civilizations. In response, the player gains the Spy.

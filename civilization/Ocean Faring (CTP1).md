@@ -1,5 +1,10 @@
 # Ocean Faring (CTP1)
 
+ |age = Renaissance
+ | requires=Hullmaking, Astronomy
+ | leadsto=Mechanical Clock,Steel
+ | gives=Big Nets, East India Company
+ | obsoletes=
 Ocean-Faring is an advance in "".
 Summary.
 Ocean Faring, the fourth Sea Advance, begins the age of oceanic commerce and warfare on a global scale. Civilizations gain the possibility of the East India Company—the most powerful economic force until the Modern Age. Improved vessels also increase the food provided by the Fisheries.

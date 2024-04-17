@@ -1,2 +1,2 @@
-# Noncombat Unit (Civ2)
+# Noncombat unit (Civ2)
 

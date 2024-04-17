@@ -1,5 +1,6 @@
 # Harald Bluetooth (Civ5)
 
+King of Norway
 Harald "Bluetooth" Gormsson (c. 920 AD – c. 986 AD) was the King of Denmark from around 958 and King of Norway for a few years around 970. He was the father of his successor [Sweyn%20Forkbeard](Sweyn Forkbeard) (c. 960 – 1014) and is noted as the first Scandinavian monarch to officially accept [Christianity](Christianity). He leads the [Danish%20%28Civ5%29](Danes) in "[Civilization%20V](Civilization V)".
 In-Game.
 Harald Bluetooth speaks modern (with a Zealandian accent) instead of the spoken in his time. On his diplomacy screen, he is standing on a Viking [longship](longship) in the ocean. Instead of having the historically inaccurate horned helmet, Harald possesses a winged helmet that he wears during wartime and throws into the ocean when defeated.

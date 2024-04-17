@@ -1,2 +1,2 @@
-# Musket Man (Civ6)
+# Musket man (Civ6)
 

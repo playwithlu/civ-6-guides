@@ -1,2 +1,2 @@
-# Aluminum Co.
+# Aluminum co.
 

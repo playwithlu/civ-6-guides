@@ -1,9 +1,9 @@
 # Machu Picchu (Civ5)
 
-Machu Picchu is a  [List%20of%20wonders%20in%20Civ5](Wonder) in "[Civilization%20V](Civilization V)".
+Machu Picchu is a {{Link5|Medieval Era}} [List%20of%20wonders%20in%20Civ5](Wonder) in "[Civilization%20V](Civilization V)".
 Game Info.
 [City%20%28Civ5%29](City) must be built within 2 tiles of a [Mountain%20%28Civ5%29](Mountain) that is inside your [Territory%20%28Civ5%29](territory).
 Strategy.
-Machu Picchu is the first "mountain" wonder - that is, one that may be built only in a city very close to a Mountain tile. This makes it somewhat difficult to build, since such cities are relatively rare. Still, if you do have such a city in the early/early middle game, try to build Machu Picchu, as it will considerably boost your output. The more cities you have, the more it will benefit you.
+Machu Picchu is the first "mountain" wonder - that is, one that may be built only in a city very close to a Mountain tile. This makes it somewhat difficult to build, since such cities are relatively rare. Still, if you do have such a city in the early/early middle game, try to build Machu Picchu, as it will considerably boost your {{Gold5}} output. The more cities you have, the more it will benefit you.
 Note that mountainous [Natural%20wonder%20%28Civ5%29](natural wonders) within 2 tiles of a city ([The%20Grand%20Mesa%20%28Civ5%29](The Grand Mesa), [Mt.%20Fuji%20%28Civ5%29](Mt. Fuji), [Old%20Faithful%20%28Civ5%29](Old Faithful), [Cerro%20de%20Potosi%20%28Civ5%29](Cerro de Potosi), [Sri%20Pada%20%28Civ5%29](Sri Pada), [Uluru%20%28Civ5%29](Uluru), [King%20Solomon%27s%20Mines%20%28Civ5%29](King Solomon's Mines), [Mt.%20Kilimanjaro%20%28Civ5%29](Mt. Kilimanjaro), [Mt.%20Sinai%20%28Civ5%29](Mt. Sinai), and [Mt.%20Kailash%20%28Civ5%29](Mt. Kailash)) do not count as Mountains for the purpose of building Machu Picchu.
 During construction and after completion, a model will be displayed on a nearby Mountain tile. A Mountain two tiles away from the city is preferred, even if that Mountain tile is not within your territory. Constructing [Neuschwanstein%20%28Civ5%29](Neuschwanstein) will not replace the model if there is only one available Mountain tile.

@@ -1,2 +1,2 @@
-# Free Colonists
+# Free colonists
 

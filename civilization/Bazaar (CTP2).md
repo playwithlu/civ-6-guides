@@ -1,6 +1,8 @@
 # Bazaar (CTP2)
 
- is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+ | requires=Trade
+ | production_cost=525
+ | upkeep=1
 Gameplay.
 A bustling market where merchants and consumers converge to transact business, the Bazaar is the center of commercial activity of the city.
 Great Library entry.

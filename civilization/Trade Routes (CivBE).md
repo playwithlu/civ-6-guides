@@ -1,2 +1,16 @@
-# Trade Routes (CivBE)
+# Trade routes (CivBE)
 
+Trade routes can be established between [City%20%28CivBE%29](cities), [Outpost%20%28CivBE%29](outposts), and [Station%20%28CivBE%29](stations). They allow those on both end of the trading to receive a bonus of {{FoodBE}}, {{EnergyBE}}, {{ProductionBE}}, {{CultureBE}}, {{ScienceBE}}, or [Resources%20%28CivBE%29%23Strategic%20Resources](strategic resources). The trade route generates its own bonuses, meaning that the resources are not taken from anywhere. In other words, both parties benefit.
+When establishing a trade route, the user interface lists destinations that are reachable from the current origin city. A trade route must be completely explored (i.e., have no [fog%20of%20war](fog of war) to cover it) and must not have any [Miasma%20%28CivBE%29](Miasma) on it (unless you have 2 {{HarmonyBE}} points). Aside from those restrictions, there are no limitations on the length of a trade route. In the trade route screen you will see that all potential destinations have little arrows below them listing the resources that the route would generate. The left arrow means imports and the right arrow means exports. In other words, left is what the origin city will receive, while right is what the destination city will receive.
+Trade routes are vulnerable to attack. If you are at war with someone who might attack them or have hostile [Aliens%20%28CivBE%29](aliens) appearing along the trade route, you may need to have military [Units%20%28CivBE%29](units) to deal with any problems. The [Ultrasonic%20Fence%20%28CivBE%29](Ultrasonic Fence) can protect trade routes from all alien attacks when upgraded through a [Quests%20%28CivBE%29](quest).
+Stations are like [city-state](city-state)s in other "[Civilization%20%28series%29](Civilization)" games. There are different materials and bonuses they can provide.
+In [vanilla](vanilla) ', trade routes are established by [Trade%20Convoy%20%28CivBE%29](Trade Convoys) for land routes and by [Trade%20Vessel%20%28CivBE%29](Trade Vessels) for sea routes. In ', these units are consolidated into a single hover trade unit after researching the proper [Tech%20Web%20%28CivBE%29](technology).
+Improving trade routes.
+Trade routes can be improved by constructing the following [Building%20%28CivBE%29](buildings):
+The [Station%20Sentinel%20%28CivBE%29](Station Sentinel) [Orbitals%20%28CivBE%29](orbital unit) doubles route yields and Defense from Stations and prevents abandonment.
+The [Alternative%20Markets%20%28CivBE%29](Alternative Markets) [Virtues%20%28CivBE%29](Virtue) with Stations grant +5 {{EnergyBE}} per Station tier.
+If you opt in for the Profiteering military trait in "Rising Tide", you get yields to Station Trade Routes increased by +30%/40%/60%.
+Increasing routes number.
+[Polystralia%20%28CivBE%29](Polystralia) grants two extra trade routes to the {{CapitalBE}}.
+The number of trade routes available increases with the city's {{PopulationBE}}: 10, 22, 34, 48, 62, 78, 94, 112, etc. (every other additional route adds another 2 {{PopulationBE}} to the increase).
+In "Rising Tide", there are two [Trade%20Agreements%20%28CivBE%29](Trade Agreements) that can increase your number of trade routes:

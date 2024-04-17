@@ -1,2 +1,2 @@
-# Machu Pichu (Civ5)
+# Machu pichu (Civ5)
 

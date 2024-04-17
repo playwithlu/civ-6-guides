@@ -1,2 +1,2 @@
-# Guerrilla Warfare
+# Guerrilla warfare
 

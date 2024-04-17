@@ -1,2 +1,5 @@
-# Fog of War
+# Fog of war
 
+Fog of war (sometimes called fog or FOW for short) is a common element in "[Civilization%20%28series%29](Civilization)" and related games. It refers to an opaque shroud that hides all unexplored areas of the [map](map) from view.
+Fog of war can be cleared by sending a [unit](unit) into an area, which will reveal everything in the unit's [sight](sight) radius (provided it has an unobstructed line of sight to those [tile](tile)s). Without a unit around to maintain visibility over the area, however, fog of war will be replaced by a shroud that leaves [terrain](terrain) visible, but hides the movement of other [civilizations](civilizations)' units and [barbarian](barbarian)s from view.
+In "[Civilization%20IV](Civilization IV)" and "[Civilization%20V](Civilization V)", researching [Satellites](Satellites) will clear the entire map of fog of war. In "[Civilization%20VI](Civilization VI)", completing the [Launch%20Earth%20Satellite%20%28Civ6%29](Launch Earth Satellite) [Project%20%28Civ6%29](project) will achieve a similar result. In the [Civilization%20Revolution%20games]("Civilization Revolution" games), the first civilization to research [Space%20Flight](Space Flight) will have their map cleared of fog of war.

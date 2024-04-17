@@ -1,3 +1,2 @@
 # Nineveh
 
-Nineveh (or Ninevah) is an [Assyrian](Assyrian) and [Babylonian](Babylonian) [city](city) in the "[Civilization%20%28series%29](Civilization)" games and the Assyrian [capital](capital) and a Babylonian and [Persian](Persian) city in the [Call%20to%20Power%20games]("Call to Power" games). In real life, it is a ruined city on the outskirts of Mosul in present-day Iraq that served as the capital of the Neo-Assyrian Empire.

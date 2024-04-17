@@ -2,11 +2,9 @@
 
 Musa I (c. 1280 – 1337), better known as Mansa Musa, was the ninth ' of the . Widely considered to have been in history (some sources measuring his wealth at around $400 billion when adjusted for inflation), his vast wealth was used to attract scholars, merchants and architects to Mali, establishing it as a beacon of Islamic trade, culture and learning. He leads the [Malian%20%28Civ6%29](Malians) in '.
 The wealth of Mansa Musa will flow through his [City%20%28Civ6%29](cities) creating a mighty [Desert%20%28Civ6%29](desert) empire.
-Intro.
- Mansa Musa, great king of Mali, you are blessed with wealth beyond comprehension, yet you remain uncorrupted. Raise your eyes from the marketplace to the heavens and satisfy your heart's great yearning for peace. Protect the prosperity of your people, and history will write your name in golden letters.
 In-Game.
-Mansa Musa's unique [Agenda%20%28Civ6%29](agenda) is Lord of the Mines. He tries to collect as much as possible and dislikes leaders whose output is low.
-His [Unique%20ability%20%28Civ6%29](leader ability) is Sahel Merchants. His international s receive 1 extra for every flat Desert tile in the origin city, and his capacity permanently increases by 1 each time he enters a [Golden%20Age%20%28Civ6%29](Golden Age).
+Mansa Musa's unique [Agenda%20%28Civ6%29](agenda) is Lord of the Mines. He tries to collect as much {{Gold6}} as possible and dislikes leaders whose {{Gold6}} output is low.
+His [Unique%20ability%20%28Civ6%29](leader ability) is Sahel Merchants. His international {{TradeRoute6}}s receive 1 extra {{Gold6}} for every flat Desert tile in the origin city, and his {{TradeRoute6}} capacity permanently increases by 1 each time he enters a [Golden%20Age%20%28Civ6%29](Golden Age).
 Detailed Approach.
 Mali has a large gold focus. This combined with their ability to make purchases easier will allow them to quickly develop their cities. They also have large bonuses for being in the desert, allowing them to prosper in land that is usually left undeveloped.
 Lines.

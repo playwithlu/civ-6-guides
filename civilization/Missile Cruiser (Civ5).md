@@ -1,7 +1,2 @@
-# Missile Cruiser (Civ5)
+# Missile cruiser (Civ5)
 
-Game Info.
-Advanced naval ranged unit of the [Information%20Era%20%28Civ5%29](Information Era).
-Strategy.
-The Missile Cruiser is a modern warship and the last word in naval combat technology, combining the ranged lethality of a [Battleship%20%28Civ5%29](Battleship) with the submarine detection and anti-aircraft abilities of the [Destroyer%20%28Civ5%29](Destroyer). It's also fast and tough, packing a punch in ranged combat, and is pretty good at intercepting enemy aircraft, making it an all-in-one naval unit. Most importantly, the Missile Cruiser can carry [Guided%20Missile%20%28Civ5%29](Guided Missiles) and [Nuclear%20Missile%20%28Civ5%29](Nuclear Missiles), allowing you to transport these deadly weapons right up to the enemy's shore. In short, Missile Cruisers have practically no weak point. They lack only the indirect fire ability of the Battleship, which is rarely a problem when fighting ships or bombing [Coastal%20%28Civ5%29](coastal) [City%20%28Civ5%29](cities) but limits their usefulness against targets that are far inland.
-For best results, combine Missile Cruisers with other late-game naval units, and keep them close to your [Carrier%20%28Civ5%29](Carriers) to defend against incoming air attacks.

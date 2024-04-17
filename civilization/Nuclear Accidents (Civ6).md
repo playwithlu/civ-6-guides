@@ -1,2 +1,2 @@
-# Nuclear Accidents (Civ6)
+# Nuclear accidents (Civ6)
 

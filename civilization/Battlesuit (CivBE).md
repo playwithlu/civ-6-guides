@@ -1,11 +1,11 @@
 # Battlesuit (CivBE)
 
 Game info.
-The Battlesuit is an exoskeleton armor which greatly enhances the capabilities of the soldier inside. Tier 2 Battlesuits have a force field which activates automatically when the soldier doesn't move a lot, thus greatly enhancing its when defending. They are often a durable but slightly more expensive alternative to Soldiers.
+The Battlesuit is an exoskeleton armor which greatly enhances the capabilities of the soldier inside. Tier 2 Battlesuits have a force field which activates automatically when the soldier doesn't move a lot, thus greatly enhancing its {{StrengthBE}} when defending. They are often a durable but slightly more expensive alternative to Soldiers.
 Unit Upgrades.
-In comparison to the basic units, a Tier 1 Battlesuit has roughty the same functionality and as a Tier 3 Soldier.
+In comparison to the basic units, a Tier 1 Battlesuit has roughty the same functionality and {{StrengthBE}} as a Tier 3 Soldier.
 Tier 1.
-Tier 1 Battlesuits come a bit earlier than Tier 3 Soldiers yet have the same . They can excel in the early-to-mid game as Tier 1 due to their definitive raw Strength. Their armor is reminiscent of Space Marines from numerous video games, with large, clad plates, an excessive bayonet and red flags signalling their patriotism to Old Earth.
+Tier 1 Battlesuits come a bit earlier than Tier 3 Soldiers yet have the same {{StrengthBE}}. They can excel in the early-to-mid game as Tier 1 due to their definitive raw Strength. Their armor is reminiscent of Space Marines from numerous video games, with large, clad plates, an excessive bayonet and red flags signalling their patriotism to Old Earth.
 Tier 2.
 At Tier 2, Battlesuits may continue on the path of Purity or incorporate some other Affinity features, depending on the sponsor. They also receive a defensive force field which increases their ranged deflection.
 In Universe information.

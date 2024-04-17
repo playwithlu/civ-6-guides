@@ -1,6 +1,9 @@
 # Movie Palace (CTP2)
 
- is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+ | requires=Electricity
+ | production_cost=1500
+ | upkeep=5
+ | effect= -20% war discontent
 Gameplay.
 Entertainment provides much needed distraction from the grind of daily life. The Movie Palace is an enormously effective attraction, giving citizens a realistic fantasy world in which they can forget their troubles, specifically, the discontent associated with a nation at war.
 Great Library entry.

@@ -1,2 +1,2 @@
-# Health Point
+# Health point
 

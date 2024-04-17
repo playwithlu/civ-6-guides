@@ -1,2 +1,2 @@
-# Silver (Resource) (Civ4Col)
+# Silver (resource) (Civ4Col)
 

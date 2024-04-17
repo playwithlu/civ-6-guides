@@ -1,2 +1,2 @@
-# Intercontinental Ballistic Missiles
+# Intercontinental ballistic missiles
 

@@ -1,7 +1,6 @@
 # Trade Vessel (CivBE)
 
 Trade Vessel. Removed in "Rising Tide".
-Technology: 
 Game Info.
 Naval Trade Unit. Used to establish Trade Routes by sea between your cities and other cities, outposts, or stations. Trade Routes generate yields or increase growth rate for the trading partners, but trade units are vulnerable to attack and their routes must be protected by military units.
 History.

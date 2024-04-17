@@ -1,5 +1,10 @@
 # Engineering (CTP1)
 
+ |age = Ancient
+ | requires=Geometry
+ | leadsto=Perspective
+ | gives=Coliseum, Aqueduct, Infrastructure, Forbidden City
+ | obsoletes=
 Engineering is an advance in "".
 Summary.
 Engineering, the fourth Construction Advance, introduces the arch and cement to building, resulting in such splendors as the Aqueduct, and the Coliseum. In addition, it allows for the knowledge necessary to construct the Forbidden City, Engineering allows a city to construct Infrastructure by devoting its resources to creating public works.

@@ -1,2 +1,2 @@
-# Trade Route (CivBE)
+# Trade route (CivBE)
 

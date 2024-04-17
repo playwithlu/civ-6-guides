@@ -1,2 +1,2 @@
-# Flood Plains (Civ6)
+# Flood plains (Civ6)
 

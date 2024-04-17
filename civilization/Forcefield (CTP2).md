@@ -1,6 +1,8 @@
 # Forcefield (CTP2)
 
- is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+ | requires=Unified Physics
+ | production_cost=10000
+ | upkeep=20
 Gameplay.
 The Forcefield introduces a level of city defense that is nearly impenetrable. It is the most effective form of city defense in the game.
 Great Library entry.

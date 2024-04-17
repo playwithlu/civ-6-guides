@@ -1,5 +1,8 @@
 # Beef Vat (CTP1)
 
+ | requires=[Genetic%20Tailoring%20%28CTP1%29](Genetic Tailoring)
+ | production_cost=3000
+ | effect=Each city gets guaranteed minimum +5 Food surplusIncreases Pollution
 Beef Vat is a [List%20of%20buildings%20%28CTP1%29](city improvement) in "Civilization: Call to Power".
 Effect.
 Unmatched in food production, the Beef Vat simmers away night and day at synth-beef creation. The convenience of unlimited food comes at a price; pollution increases for each food unit created. Though the people's carnivorous impulses are temporarily appeased, the Earth pays the price for their rapacity.

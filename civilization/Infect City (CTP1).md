@@ -1,2 +1,4 @@
-# Infect City (CTP1)
+# Infect city (CTP1)
 
+Great Library entry.
+Research in the early 20th century included experimenting on prisoners by infecting them with agents such as the plague, beriberi, pellagra, and malaria. Research continued to discover more contagious and deadly agents such as anthrax, dioxin, ebola, and varying strands of e-coli. Starting in 2002, terrorists gained control of biological weapons and effectively used them against populated targets. A faction of Red Army Revolutionaries killed 13 thousand people when it unleashed anthrax in Munich. Hundreds of thousands of people might have died if Germany's counter-terrorist unit had not detained some of the terrorists before their releasing more of the biological weapon. A new age of biological warfare had begun.

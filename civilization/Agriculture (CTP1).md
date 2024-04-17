@@ -1,5 +1,10 @@
 # Agriculture (CTP1)
 
+ |age = Ancient
+ | requires=
+ | leadsto=Domestication, Writing
+ | gives=Granary, Farms
+ | obsoletes=
 Agriculture is an advance in "".
 Summary.
 Agriculture, the first step on the Cultural Advances branch, opens the earth for regular harvest. With Agriculture comes the farm, a boon for food, and the Granary, which allows for rapid city growth.

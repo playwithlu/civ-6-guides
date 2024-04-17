@@ -1,5 +1,10 @@
 # Gunpowder (CTP1)
 
+ |age = Renaissance
+ | requires=Agricultural Revolution, Alchemy
+ | leadsto=Cannon Making, Cavalry Tactics
+ | gives=Musketeer, Advanced Mines
+ | obsoletes=
 Gunpowder is an advance in "".
 Summary.
 Gunpowder, the fourth Defensive War Advance, unleashes thunder and destruction upon the world. With the Musketeer, Civilizations receive a powerful fighter, the core of the Renaissance army.

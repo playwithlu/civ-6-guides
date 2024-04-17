@@ -1,2 +1,2 @@
-# Anti-Air Strength (Civ6)
+# Anti-air strength (Civ6)
 

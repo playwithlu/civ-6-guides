@@ -1,2 +1,2 @@
-# Expert Miners
+# Expert miners
 

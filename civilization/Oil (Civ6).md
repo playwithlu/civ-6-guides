@@ -1,7 +1,4 @@
 # Oil (Civ6)
 
- Oil is a [Modern%20Era%20%28Civ6%29](Modern Era) [Resource%20%28Civ6%29%23Strategic](Strategic Resource) in "[Civilization%20VI](Civilization VI)". It is revealed with [Steel%20%28Civ6%29](Steel) ([Refining%20%28Civ6%29](Refining) in "").
- Oil is found mostly on the [Coast%20%28Civ6%29](Coast), and more rarely on a variety of remote flat [Terrain%20%28Civ6%29](terrain). [John%20Rockefeller%20%28Civ6%29](John Rockefeller's) activated ability also provides Oil: 1 in [vanilla](vanilla) "Civilization VI" and "", or 3 per turn in "Gathering Storm".
 Strategy.
- Oil is the only Strategic Resource found both on land and in the sea. (In fact, it may be found more often in the sea than on land!) The two different sources require different [Tile%20improvement%20%28Civ6%29](improvements): an [Oil%20Well%20%28Civ6%29](Oil Well) for land-based sources, and an [Offshore%20Oil%20Rig%20%28Civ6%29](Offshore Oil Rig) for water-based sources.
-Given its large bonus, increased even more when improved, Oil is a major boon for your [City%20%28Civ6%29](cities') , especially for cities on the coast. Unfortunately, Oil is also quite rare (more so on land than at sea), and often on terrain normally not suitable for settlement (such as [Desert%20%28Civ6%29](Desert) or [Snow%20%28Civ6%29](Snow)).
+Given its large {{Production6}} bonus, increased even more when improved, {{OilIcon6}} Oil is a major boon for your [City%20%28Civ6%29](cities') {{Production6}}, especially for cities on the coast. Unfortunately, {{OilIcon6}} Oil is also quite rare (more so on land than at sea), and often on terrain normally not suitable for settlement (such as [Desert%20%28Civ6%29](Desert) or [Snow%20%28Civ6%29](Snow)).

@@ -1,2 +1,2 @@
-# Naval Units (Civ6)
+# Naval units (Civ6)
 

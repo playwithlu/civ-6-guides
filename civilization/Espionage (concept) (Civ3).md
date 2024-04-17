@@ -1,8 +1,8 @@
 # Espionage (concept) (Civ3)
 
-Once a [List%20of%20civilizations%20in%20Civ3](civilization) learns and builds an , it can conduct espionage missions to find out classified information about other civilizations, friend and foe. Espionage can also be used to harm a rival or sabotage his [Production%20%28Civ3%29](Shields). Remember though, failed missions can seriously damage your reputation.
+Once a [List%20of%20civilizations%20in%20Civ3](civilization) learns {{Link3|Espionage}} and builds an {{Link3|Intelligence Agency}}, it can conduct espionage missions to find out classified information about other civilizations, friend and foe. Espionage can also be used to harm a rival or sabotage his [Production%20%28Civ3%29](Shields). Remember though, failed missions can seriously damage your reputation.
 Espionage Screen.
-The Espionage screen is comprised of: current opponents, available missions, your current asset information, city selection, and operational cost options. This screen is available for use once a player has discovered .
+The Espionage screen is comprised of: current opponents, available missions, your current asset information, city selection, and operational cost options. This screen is available for use once a player has discovered {{Link3|Writing}}.
 Your opponents are displayed followed by icons that indicate your Espionage status within that civilization. If the Embassy Icon is displayed, you currently have an embassy within that civilization's capitol city. If the Spy icon is present, you have a spy planted within that civilization.
 The mission area displays the various diplomatic and clandestine espionage options which you may currently engage in. 
 When an espionage mission button has been selected. The following is a list of espionage and diplomatic missions that may be performed:

@@ -1,2 +1,8 @@
-# Missile Unit (Civ2)
+# Missile unit (Civ2)
 
+Missile units are a special type of {{Link|2|pre=cat|Offensive units|offensive}} {{Link|2|unit}} that is removed from play after completing its attack. Missile attacks use an abbreviated {{Link|2|combat}} animation that resolves within two hits, and only log as {{Link|2|Defense Minister|sec=Casualties|casualties}} if they fail to destroy their target. Enemy missile strikes notify the player with a popup message denoting the {{Link|2|city}} nearest the attack.
+In standard game rules, missiles are {{Link|2|pre=cat|air units}} with high attack and/or firepower but no durability. In addition to normal basing locations (cities, {{Link|2|airbase}}s and {{Link|2|carrier}}s), up to 20 can be transported by units {{Link|2|Modding|sub=Units|sec=Flags|flagged}} as {{Link|2|submarine}}s.
+The {{Link|2|SAM Missile Battery}} and {{Link|2|SDI Defense}} each double the defense strength of units in their host city against missile strikes. Units flagged as {{Link|2|AEGIS Cruiser}}s provide a fivefold defense.
+Modding.
+Missile units are designated by the 13th {{Link|2|Modding|sub=Units|sec=Flags|flag}} in {{Link|2|Modding|sub=Rules|sec=Units|Rules.txt}}. Units of any domain can be missiles, but anti-missile defenses and submarines' unique transport ability only apply to {{Link|2|pre=cat|air units}}. {{Link|2|Nuclear Msl.|Nuclear weapons}} do not technically need the missile flag as nuclear combat supersedes the mechanic, but this provides the "destroyed after attacking" description in the [Civilopedia](Civilopedia).
+The missile attack popup is defined at {{mono|@MISSILEATTACK}} in {{Link|2|Modding|sub=Popups|sec=MISSILEATTACK|Game.txt}}. In the original "[Civilization%20II](Civilization II)", the text identifies the specific unit type; in "", this is changed to a generic description, although the unit-type variable can still be used.

@@ -1,3 +1,2 @@
-# Nuclear Power (CivRev)
+# Nuclear power (CivRev)
 
-Nuclear Power is a [List%20of%20technologies%20in%20CivRev](technology) in "[Civilization%20Revolution](Civilization Revolution)". It is unlocked through [Atomic%20Theory%20%28CivRev%29](Atomic Theory) and [Electricity%20%28CivRev%29](Electricity). It unlocks the [Resources](resource) Uranium (+4 [Production%20%28CivRev%29](production)) and Nuclear Power plus [Electronics%20%28CivRev%29](Electronics) and [Advanced%20Flight%20%28CivRev%29](Advanced Flight) unlocks [Space%20Flight%20%28CivRev%29](Space Flight).

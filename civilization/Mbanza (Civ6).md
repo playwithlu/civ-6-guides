@@ -1,6 +1,6 @@
 # Mbanza (Civ6)
 
-The Mbanza is a unique of the [Kongolese%20%28Civ6%29](Kongolese) [Civilizations%20%28Civ6%29](civilization) in "[Civilization%20VI](Civilization VI)". It replaces the [Neighborhood%20%28Civ6%29](Neighborhood), must be built on or s and is unlocked with [Guilds%20%28Civ6%29](Guilds).
+The Mbanza is a unique {{District6}} of the [Kongolese%20%28Civ6%29](Kongolese) [Civilizations%20%28Civ6%29](civilization) in "[Civilization%20VI](Civilization VI)". It replaces the [Neighborhood%20%28Civ6%29](Neighborhood), must be built on {{Link6|Woods}} or {{Link6|Rainforest}} {{Link6|tile}}s and is unlocked with [Guilds%20%28Civ6%29](Guilds).
 Buildings.
 The following buildings can be constructed in a Mbanza:
 Strategy.

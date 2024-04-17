@@ -1,5 +1,6 @@
 # Maria Theresa (Civ5)
 
+Queen of the Habsburg Empire
 Maria Theresa (13 May 1717 – 29 November 1780) was the female ruler of the Habsburg Monarchy. She leads the [Austrian%20%28Civ5%29](Austrians) in "".
 In-Game.
 Maria Theresa speaks . On her diplomacy screen, she is in her palace.
@@ -11,7 +12,7 @@ Voice Actress: [Sabina%20Chalupa](Sabina Chalupa)
 Personality and Behavior.
 Maria Theresa will usually focus on a [Diplomatic%20victory%20%28Civ5%29](diplomatic victory), but will occasionally attempt a [Cultural%20victory%20%28Civ5%29](cultural one).
 Maria Theresa will not have a large army, but likes to raise a solid defensive militia consisting primarily of fast-moving mounted or armored [Unit%20%28Civ5%29](units).
-To complement her emphasis on [Diplomacy%20%28Civ5%29](diplomacy), Maria Theresa puts a high priority on gathering as much as she can to spend on . She will also focus on developing her empire's and generating [Great%20People%20%28Civ5%29](Great People).
+To complement her emphasis on [Diplomacy%20%28Civ5%29](diplomacy), Maria Theresa puts a high priority on gathering as much {{Gold5}} as she can to spend on {{Influence5}}. She will also focus on developing her empire's {{Culture5}} and generating [Great%20People%20%28Civ5%29](Great People).
 Maria Theresa is very friendly to [City-state%20%28Civ5%29](city-states) and will try to protect them. Her unique ability allows her to gain control of allied city-states without the need for military conquest, so pay careful attention if she becomes allies with a city-state near your empire's [Borders%20%28Civ5%29](borders).
 Maria Theresa is a friendly [Leaders%20%28Civ5%29](leader) who is very unlikely to backstab. However, she is not very tolerant of [Warmongering%20%28Civ5%29](warmongers) and very willing to denounce.
 Intro.

@@ -1,2 +1,2 @@
-# World Wonder
+# World wonder
 

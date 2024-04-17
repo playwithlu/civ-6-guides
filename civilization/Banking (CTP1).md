@@ -1,5 +1,10 @@
 # Banking (CTP1)
 
+ |age = Renaissance
+ | requires=Bureaucracy, Jurisprudence
+ | leadsto=Perspective,Nationalism
+ | gives=Bank
+ | obsoletes=
 Banking is an advance in "".
 Summary.
 Banking, the third Economic Advance, makes lending and borrowing possible and so provides capital for new ventures. To collect the capital for these loans, Civilizations create the Bank, a hallowed financial institution aimed at increasing a city's gold by 50%.

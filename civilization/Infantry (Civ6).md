@@ -1,7 +1,7 @@
 # Infantry (Civ6)
 
 The Infantry is a [Modern%20Era%20%28Civ6%29](Modern Era) [List%20of%20units%20in%20Civ6/By%20class%23Melee](melee unit) in "[Civilization%20VI](Civilization VI)". It upgrades from the [Line%20Infantry%20%28Civ6%29](Line Infantry) (or its replacements).
-In the "" expansion, the Infantry requires 1 to train and 1 per turn to maintain.
+In the "" expansion, the Infantry requires 1 {{Oil6}} to train and 1 {{Oil6}} per turn to maintain.
 Strategy.
 In [vanilla](vanilla) "Civilization VI" and "", the Infantry is the first melee unit since the [Warrior%20%28Civ6%29](Warrior) that doesn't require [Resource%20%28Civ6%29](resources) to train. That may not seem like much, but when you have trouble securing a certain resource, you're forced procure it through deals (often at your disadvantage), and are constantly under the threat of your units suddenly becoming weaker and being unable to heal when their resource runs out.
 But besides this, the Infantry is a very powerful unit on its own. Armed with modern rifles, and trained to take cover and use loose formations (which minimizes damage taken from explosions), it is finally able to stand its ground against the terrifying [Cavalry%20%28Civ6%29](Cavalry), and against most modern horrors technology spews. It is a must-have for every military-oriented [Civilizations%20%28Civ6%29](civilization), and also for those that are under threat of invasion in modern times.

@@ -1,2 +1,2 @@
-# Air Targeting (Civ5)
+# Air targeting (Civ5)
 

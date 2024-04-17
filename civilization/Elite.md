@@ -1,3 +1,2 @@
 # Elite
 
-Elite is a status that can be attained by [military%20unit](military unit)s in "[C-evo](C-evo)" and the "[Civilization%20%28series%29](Civilization)" games. It is awarded for winning battles after attaining [Veteran](Veteran) status (or being trained in a [city](city) with the proper [building](building)s and [Great%20People](Great People)) and grants additional bonuses in [combat](combat).

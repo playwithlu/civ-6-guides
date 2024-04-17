@@ -1,3 +1,2 @@
 # Xanadu
 
-Xanadu, also known as Shangdu or Shangtu, is the [Mongol](Mongol)ian [capital](capital) (under [Kublai%20Khan%20%28Civ6%29](Kublai Khan)) in "" and a Mongolian [city](city) in other "[Civilization%20%28series%29](Civilization)" and "[Call%20to%20Power%20games](Call to Power)" games. In real life, it is the name of [Kublai%20Khan](Kublai Khan)'s summer capital, made famous by the account of the [Venetian](Venetian) explorer [Marco%20Polo](Marco Polo).

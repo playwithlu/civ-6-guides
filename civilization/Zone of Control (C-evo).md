@@ -1,2 +1,4 @@
-# Zone of Control (C-evo)
+# Zone of control (C-evo)
 
+Zone of control (abbreviated ZOC or ZoC) is a game mechanic in "[C-evo](C-evo)" that affects [Unit%20%28C-evo%29](unit) [Movement%20%28C-evo%29](movement). It prevents a unit that is adjacent to an enemy unit from moving directly into any [Tile%20%28C-evo%29](tile) that is also adjacent to an enemy unit, unless a friendly military unit is in the destination tile. (Attacks against units in said tiles can be made normally, however.)
+Movement into or out of one of your [City%20%28C-evo%29](cities) is an exception to ZOC rules. Your units do not, however, ignore ZOC when entering an unoccupied rival city.

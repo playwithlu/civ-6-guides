@@ -1,6 +1,6 @@
 # Siege Tower (Civ6)
 
-The Siege Tower is a [List%20of%20units%20in%20Civ6/By%20class%23Support](support unit) in "[Civilization%20VI](Civilization VI)". Its purpose is to breach [City%20%28Civ6%29](city) [Walls%20%28Civ6%29](defenses).
+The Siege Tower is a {{Link6|Classical Era}} [List%20of%20units%20in%20Civ6/By%20class%23Support](support unit) in "[Civilization%20VI](Civilization VI)". Its purpose is to breach [City%20%28Civ6%29](city) [Walls%20%28Civ6%29](defenses).
 Strategy.
 The Siege Tower is the second ancient siege-support unit, along with the [Battering%20Ram%20%28Civ6%29](Battering Ram). It affects [List%20of%20units%20in%20Civ6/By%20class%23Melee](melee units) (and also [List%20of%20units%20in%20Civ6/By%20class%23Anti-cavalry](anti-cavalry units) in "").
 The Siege Tower is the opposite of the Battering Ram in the sense that units will do major damage to the city and minor damage to the wall, whereas the ram allows major damage to the wall. In the first case, melee units are able to climb over the wall, ignoring it completely, while in the second case they use the ram to ignore the wall's natural strength which protects it from conventional weapons.

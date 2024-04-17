@@ -10,8 +10,8 @@ Nebuchadnezzar II speaks . On his diplomacy screen, he is sitting on his throne 
 Voice Actor: Uncredited
 Personality and Behavior.
 Nebuchadnezzar tends to try any [Victory%20%28Civ5%29](victory) condition, but he will most likely attempt a [Science%20victory%20%28Civ5%29](scientific) or [Diplomatic%20victory%20%28Civ5%29](diplomatic one).
-Nebuchadnezzar likes to have fewer [City%20%28Civ5%29](cities) with higher . He will also try to keep his cities well defended.
-Given his unique ability, Nebuchadnezzar places a high emphasis on and [Great%20People%20%28Civ5%29](Great People). He also tends to try to build many [List%20of%20wonders%20in%20Civ5](wonders).
+Nebuchadnezzar likes to have fewer [City%20%28Civ5%29](cities) with higher {{Population5}}. He will also try to keep his cities well defended.
+Given his unique ability, Nebuchadnezzar places a high emphasis on {{Science5}} and [Great%20People%20%28Civ5%29](Great People). He also tends to try to build many [List%20of%20wonders%20in%20Civ5](wonders).
 Nebuchadnezzar strongly favors ranged [Unit%20%28Civ5%29](units) when building his army, and will use it for defense more often than offense. In the later [Era%20%28Civ5%29](eras), expect him to have powerful anti-air defenses and make heavy use of [Espionage%20%28Civ5%29](spies) and [Nuclear%20weapons%20%28Civ5%29](nuclear weapons).
 Nebuchadnezzar is rather difficult to befriend, as he is disloyal and very unlikely to forgive a transgression. However, he is not likely to become angry at [Warmongering%20%28Civ5%29](warmongers).
 Nebuchadnezzar is very keen on making friends with [City-state%20%28Civ5%29](city-states). On the other hand, he may try to attack or bully them instead.

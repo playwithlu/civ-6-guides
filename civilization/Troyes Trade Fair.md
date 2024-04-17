@@ -1,2 +1,2 @@
-# Troyes Trade Fair
+# Troyes trade fair
 

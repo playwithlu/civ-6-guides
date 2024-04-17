@@ -1,5 +1,5 @@
 # Mountains (Civ2)
 
-Mountains are a type in "[Civilization%20II](Civilization II)".
+Mountains are a {{Link2|Terrain}} type in "[Civilization%20II](Civilization II)".
 Civilopedia entry.
 Mountains are areas of high elevation, usually consisting of a chain of rugged peaks and valleys. Most mountains are formed when the plates making up the Earth's crust impact or slide against one another, raising layers of rock above the surrounding land. Mountains can also be formed by volcanic action, or through the effects of erosion. Although generally poor agricultural regions, mountains are often a source of great mineral wealth, with large deposits of gold and other valuable ores. Aside from their economic value, mountains provide a natural defensive barrier, shielding human settlements from invaders. Extensive mountain ranges can also greatly affect the weather patterns of a region by blocking and diverting wind and storms.

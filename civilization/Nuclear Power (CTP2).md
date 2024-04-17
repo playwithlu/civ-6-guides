@@ -1,9 +1,13 @@
 # Nuclear Power (CTP2)
 
- is an [List%20of%20advances%20in%20CTP2](advance) in "[Call%20to%20Power%20II](Call to Power II)".
+ | age=Genetic
+ | requires=Quantum Physics,Guided Weapon Systems
+ | leadsto=Robotics
+ | gives=Nuclear Submarine,Nuke,Nuclear Plant
+ | obsoletes=
 Gameplay.
-Nuclear Power is an Advance both promising and ominous. s offer a relatively safe power source that reduces pollution. s replace the old diesel with greater range, capacity and firepower.
-The , however, is a fearsome development in the arena of combat, with its threat of long-term devastation and radioactive pollution should they ever be used in a conflict.
+Nuclear Power is an Advance both promising and ominous. {{LinkCTP2|Nuclear Plant}}s offer {{LinkCTP2|Cities}} a relatively safe power source that reduces pollution. {{LinkCTP2|Nuclear Submarine}}s replace the old diesel {{LinkCTP2|Submarine}} with greater range, capacity and firepower.
+The {{LinkCTP2|Nuclear Missile}}, however, is a fearsome development in the arena of combat, with its threat of long-term devastation and radioactive pollution should they ever be used in a conflict.
 Great Library entry.
 In 1938, the German chemists Otto Hahn and Fritz Strassmann discovered nuclear fission. By bombarding uranium with neutrons in an attempt to create elements heavier than uranium, they unwittingly induced a fission reaction. When a particle such as a neuron hits the nucleus of a uranium atom, it causes it to split into two fission fragments of roughly the same atomic composition. This process releases a large amount of thermal energy, as well as gamma rays and a few free neutrons, which in turn fission other uranium nuclei. This series of fissions constitutes a chain reaction, which yields a constant supply of nuclear energy. If these reactions could be controlled, scientists theorized, then one would have a supply of energy much cleaner than conventional oil, gas and coal-burning power plants. In the late 1950s an early '60s, a few commercial nuclear power plants were built. The most successful of these used water as a cooling system for reactors. The demand for nuclear plants skyrocketed in the mid-1960s and early '70s but dropped off in the later part of the decade, due to a decline in need, coupled with public fears about the danger of nuclear meltdown.
 In 1954, the first nuclear submarine, the USS Nautilus, was commissioned. Powered by a small amount of enriched uranium, the small reactor needed no oxygen at all, allowing the Nautilus to travel submerged for extended periods with no need to surface. Nuclear power made larger, more powerful and more effective submarines available, forever changing the nature of naval combat in the second half of the 20th century.

@@ -1,6 +1,5 @@
 # Kavitha Thakur (CivBE)
 
-&lt;br&gt;
 Kavitha Thakur leads the [Kavithan%20Protectorate%20%28CivBE%29](Kavithan Protectorate).
 Starships.
 The leader Kavitha (Humanitarian) starts with one extra city.

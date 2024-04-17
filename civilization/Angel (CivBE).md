@@ -1,2 +1,9 @@
-# Angel (CivBE)
+# ANGEL (CivBE)
 
+Game info.
+The ANGEL is a ranged combat walker filled with uploaded human personalities that is surprisingly durable. Cheaper than the other primary affinity ultimate units, it can be made more frequently and more abundantly than the other units. It is a ranged unit, but only has 1 range, so it functions like a melee unit except it can not capture cities. This is in some ways an advantage as when it attacks it receives no retaliation damage and can still defend itself with a strong melee defensive attack. While not the strongest affinity unit, it works in coordination with its army, which is what the ANGEL is designed to do, making it far stronger than it seems.
+Unit Upgrades.
+Tier 1.
+Tier 1 ANGELs are unlocked at the beginning of the late game. Their {{StrengthBE}} is unparalleled at this stage - only the Xeno Titan has slightly more {{StrengthBE}}, and it is much less durable at this stage. ANGELs are one of the main units that end the dominance of Ranged units in the mid game, as it is so durable that it requires multiple Rangers or Artillery to take it down. It is best to use ANGELs in conjunction with Tier 4 Soldiers and Artillery to ensure it keeps its health up. Aesthetically, the best thing about the ANGEL is the incredible lightshow that happens whenever it attacks.
+Tier 2.
+Tier 2 ANGELs appear deep into the late game however they are still incredibly effective. ANGELs are able to deal higher damage than LEV Destroyers with perks, albeit at less range. Their {{StrengthBE}} is also very respectable and they still are a driving force in terms of durability, only being outmatched by the Xeno Titan and Golem. Their high mobility allows them to control the battlefield during war - it is best to escort ANGELs with hovering Combat Rovers so it receives a flanking bonus, making it deal insane damage with no retaliation, though exchanging the Combat Rovers for Tier 2 CARVRs with formation boosting upgrades allows for devastating line breaker tactics and covers for one of the ANGEL's biggest weaknesses; the inability to capture cities.

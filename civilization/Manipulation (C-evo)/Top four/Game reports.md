@@ -14,7 +14,7 @@ Rerun of that map in August 2017 with more emphasis on having a few marines but 
 Same specifications as above but very different map. Start away up north, but Uranium was close on my island, the nearer Mercury was only about 26 steps southwest, on an island with four nations, and the nearer Cobalt was south-east of that, another 30 steps, on an island with two nations. 
 Marines were enough to gain a foothold on the big island, and its eastern capital was within easy plane ride (2 turns) of one on the small island. A single staging post south-west of my capital therefore let my bombers (1210B) reach both islands. So it was a simple case of "bombers disarm and paratroop drops in" after that. Additional cities on food-rich sites helped produce units along the way. 
 Screenshot shows most of the important features:
-Near the end, having reached "25 AI", I created the strongest possible : 2712B
+Near the end, having reached "25 AI", I created the strongest possible {{LinkC-evo|bomber}}: 2712B
 Victory 2350 BC.
 70%, 50%.
 My book 57. Starting point was almost as far south as it could be, and all rare minerals were a long way off. Two capitals on a smallish southern continent west of us. We were at the southernmost point of the main continent, which snaked around the globe as often happens.

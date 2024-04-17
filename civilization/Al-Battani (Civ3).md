@@ -1,2 +1,2 @@
-# Al-Battani (Civ3)
+# AL-Battani (Civ3)
 

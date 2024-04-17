@@ -1,2 +1,2 @@
-# Lumber Mill (Civ4Col)
+# Lumber mill (Civ4Col)
 

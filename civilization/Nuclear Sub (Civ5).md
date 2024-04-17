@@ -1,2 +1,2 @@
-# Nuclear Sub (Civ5)
+# Nuclear sub (Civ5)
 

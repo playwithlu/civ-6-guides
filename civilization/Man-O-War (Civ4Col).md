@@ -1,2 +1,2 @@
-# Man-O-War (Civ4Col)
+# Man-o-War (Civ4Col)
 

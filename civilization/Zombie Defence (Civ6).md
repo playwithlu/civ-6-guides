@@ -1,2 +1,2 @@
-# Zombie Defence (Civ6)
+# Zombie defence (Civ6)
 

@@ -2,13 +2,11 @@
 
 Kristina (18 December 1626 – 19 April 1689) was from 1632 until her abdication in 1654. One of the most learned women of her time, her interest in philosophy, science and art led her to correspond with notable scientists and scholars such as , , [Ren%C3%A9%20Descartes](Descartes) and [Blaise%20Pascal](Pascal), seeking to attract them to [Stockholm](Stockholm) in order to transform the city into the "[Athens](Athens) of the North". She leads the [Swedish%20%28Civ6%29](Swedes) in "".
 Kristina uses the politics of the [World%20Congress%20%28Civ6%29](World Congress) and culture to win [Victory%20%28Civ6%29%23Diplomacy](diplomatic victories).
-Intro.
- Minerva of the North, unmatched in learning and wisdom, you chose a life of culture over that of power. Light up your kingdom with art and music. Let Sweden be the guiding star for other civilizations to follow. Once more the world has a need for great patrons of the arts and culture—and it looks to you.
 In-Game.
 Kristina's unique [Agenda%20%28Civ6%29](agenda) is Bibliophile. She tries to collect as many [Great%20Work%20%28Civ6%29](Great Works) as possible and dislikes [Civilizations%20%28Civ6%29](civilizations) with a large number of Great Works.
 Her [Unique%20ability%20%28Civ6%29](leader ability) is Minerva of the North. All her [Building%20%28Civ6%29](buildings) with three or more Great Work slots and all her [Wonder%20%28Civ6%29](wonders) with two or more Great Work slots are automatically [Theming%20bonus%20%28Civ6%29](themed) once their slots are filled, and she is able to build the [Queen%27s%20Bibliotheque%20%28Civ6%29](Queen's Bibliotheque) in her [Government%20Plaza%20%28Civ6%29](Government Plaza).
 Detailed Approach.
-Sweden is particularly effective at the World Congress and can exercise additional influence beyond what any other civilization can do. Kristina gives theming bonuses to buildings that fill all their Great Work slots (provided they have at least two slots). With the [Open-Air%20Museum%20%28Civ6%29](Open-Air Museum) and the Queen's Bibliotheque, Sweden has excellent and capabilities. This is a civilization that can conquer the world through soft power.
+Sweden is particularly effective at the World Congress and can exercise additional influence beyond what any other civilization can do. Kristina gives theming bonuses to buildings that fill all their Great Work slots (provided they have at least two slots). With the [Open-Air%20Museum%20%28Civ6%29](Open-Air Museum) and the Queen's Bibliotheque, Sweden has excellent {{Culture6}} and {{Tourism6}} capabilities. This is a civilization that can conquer the world through soft power.
 Lines.
 Kristina is voiced by [MTAG](MTAG). She speaks with occasional archaic phrasing/vocabulary. She uses formal pronouns ("ni", "era") to address the player, except in her Disapproval line.
 Unvoiced.

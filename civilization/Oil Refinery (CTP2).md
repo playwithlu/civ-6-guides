@@ -1,6 +1,8 @@
 # Oil Refinery (CTP2)
 
- is a [List%20of%20buildings%20in%20CTP2](building) in "[Call%20to%20Power%20II](Call to Power II)".
+ | requires=Oil Refining
+ | production_cost=3500
+ | upkeep=8
 Gameplay.
 Oil Refineries make available refined fossil fuels for consumption by machines. Their by-products include large amounts of waste, as well as long-term damage from the effects of a climate in which emissions from fossil fuel burning effect air quality, water quality and global climate patterns.
 Great Library entry.

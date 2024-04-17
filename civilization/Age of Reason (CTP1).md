@@ -1,5 +1,10 @@
 # Age of Reason (CTP1)
 
+ |age = Renaissance
+ | requires=Printing Press, Mechanical Clock
+ | leadsto=Physics, Democracy (advance), Economics, Conservation
+ | gives=Abolitionist, Emancipation Act
+ | obsoletes=Labyrinth, Philosopher's Stone, Ramayana, Stonehenge
 Age of Reason is an advance in "".
 Summary.
 With the Age of Reason, the sixth Cultural Advance, man breaks free of superstition and attacks the world with deductive reasoning and a skeptical scientific mind. These inquiries begin with the natural world, but soon cross into human culture, questioning assumptions about equality and rights. The Emancipation Act offer an end to slavery, while Democracy beckons in the near future. The world will never be the same.
